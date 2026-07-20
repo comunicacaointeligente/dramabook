@@ -7,6 +7,21 @@
       por id permanente — nunca são tocados por uma importação.)
    Uso: node import-lote.mjs <nome-do-lote>   (ex.: node import-lote.mjs lote01a)  */
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
+import { execSync } from "node:child_process";
+
+/* Trailer só entra VERIFICADO: YouTube oEmbed 200 = embutível; senão vira
+   busca no YouTube; vazio fica vazio (a ficha simplesmente não mostra a seção). */
+function validarTrailer(url, titulo) {
+  if (!url || !/youtu/.test(url)) return url || "";
+  try {
+    const code = execSync(
+      `curl -s -m 12 -o /dev/null -w "%{http_code}" "https://www.youtube.com/oembed?url=${encodeURIComponent(url)}&format=json"`
+    ).toString().trim();
+    if (code === "200") return url;
+  } catch { /* rede indisponível → cai no fallback */ }
+  console.log(`  ⚠ trailer inválido em "${titulo}" → substituído por busca no YouTube`);
+  return "https://www.youtube.com/results?search_query=" + encodeURIComponent(`${titulo} official trailer`);
+}
 
 const ROOT = new URL(".", import.meta.url).pathname;
 const name = process.argv[2];
@@ -43,7 +58,7 @@ for (const c of curation) {
     avaliacao: c.avaliacao ?? {}, sensacoes: c.sensacoes ?? {}, flags: c.flags ?? {},
     triangulo_amoroso: c.triangulo_amoroso ?? false, perfil: c.perfil ?? {},
     ost: c.ost ?? [], premios: c.premios ?? [],
-    banner: m.banner ?? "", poster: m.poster ?? "", trailer: m.trailer ?? "",
+    banner: m.banner ?? "", poster: m.poster ?? "", trailer: validarTrailer(m.trailer ?? "", c.titulo),
     sinopse: c.sinopse ?? "", porque_assistir: c.porque_assistir ?? "",
     curiosidades: c.curiosidades ?? [],
     recomendacoes: (c.recomendacoes ?? []).map(slugify), // títulos → ids permanentes

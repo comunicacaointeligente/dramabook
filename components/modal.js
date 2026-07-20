@@ -127,9 +127,11 @@ export function openModal(id) {
   ].join("");
 
   const yt = ytEmbed(d.trailer);
+  /* Trailer: embed verificado → player + link; URL de busca → só botão; vazio → seção some. */
   const trailer = has(d.trailer)
-    ? (yt ? `<div class="trailer-embed"><iframe src="${yt}" title="Trailer" loading="lazy" allowfullscreen></iframe></div>`
-          : `<a class="mbtn" href="${d.trailer}" target="_blank" rel="noopener">▶ Assistir trailer</a>`)
+    ? (yt ? `<div class="trailer-embed"><iframe src="${yt}" title="Trailer" loading="lazy" allowfullscreen></iframe></div>
+             <a class="trailer-yt" href="${d.trailer}" target="_blank" rel="noopener">Se o vídeo não carregar, assista no YouTube ↗</a>`
+          : `<a class="mbtn" href="${d.trailer}" target="_blank" rel="noopener">▶ Assistir trailer no YouTube</a>`)
     : "";
 
   const elenco = has(d.elenco) ? `<div class="elenco-list">${d.elenco.map((n) => `<span>${n}</span>`).join("")}</div>` : "";
