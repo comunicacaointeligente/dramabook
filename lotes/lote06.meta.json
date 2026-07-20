@@ -1,0 +1,425 @@
+{
+  "the-glory": {
+    "titulo_original": "더 글로리",
+    "titulo_br": "A Lição",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Song Hye-kyo",
+      "Lee Do-hyun",
+      "Lim Ji-yeon",
+      "Yeom Hye-ran",
+      "Park Sung-hoon"
+    ],
+    "diretor": "An Gil-ho",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "banner": "/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7w59DitixVY"
+  },
+  "taxi-driver": {
+    "titulo_original": "모범택시",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 3,
+    "duracao": "65 min",
+    "elenco": [
+      "Lee Je-hoon",
+      "Kim Eui-sung",
+      "Pyo Ye-jin",
+      "Jang Hyuk-jin"
+    ],
+    "diretor": "Park Joon-woo",
+    "roteirista": "Oh Sang-ho",
+    "plataformas": [
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "banner": "/hwsU65QW7A4dbMEWkDpgHyCNcfS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Hnnhq_fTV5c"
+  },
+  "the-devil-judge": {
+    "titulo_original": "악마판사",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Ji Sung",
+      "Kim Min-jung",
+      "Jinyoung",
+      "Park Gyu-young"
+    ],
+    "diretor": "Choi Jung-kyu",
+    "roteirista": "Moon Yoo-seok",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/41wc4n7juC0A4XNROYTDvlndi0E.jpg",
+    "banner": "/pYzgsW2hVGml2vSguJshVBd5WE9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=drLkFfWmpBE"
+  },
+  "again-my-life": {
+    "titulo_original": "어게인 마이 라이프",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Lee Joon-gi",
+      "Kim Ji-eun",
+      "Lee Kyung-young",
+      "Jung Sang-hoon"
+    ],
+    "diretor": "Han Cheol-soo",
+    "roteirista": "",
+    "plataformas": [
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/6QDWvFl9eScywwF8eUvhVZBleb1.jpg",
+    "banner": "/kuXlHSpBJlqFJsLunYe5rjf2K4F.jpg",
+    "trailer": null
+  },
+  "reborn-rich": {
+    "titulo_original": "재벌집 막내아들",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Song Joong-ki",
+      "Lee Sung-min",
+      "Shin Hyun-been",
+      "Yoon Je-moon"
+    ],
+    "diretor": "Jung Dae-yoon",
+    "roteirista": "Kim Tae-hee, Jang Eun-jae",
+    "plataformas": [
+      "JTBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "banner": "/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pFyXoaUl8v4"
+  },
+  "vagabond": {
+    "titulo_original": "배가본드",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Lee Seung-gi",
+      "Bae Suzy",
+      "Shin Sung-rok",
+      "Moon Jeong-hee"
+    ],
+    "diretor": "Yoo In-sik",
+    "roteirista": "Jang Young-cheol, Jung Gyeong-sun",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "banner": "/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tyhnEHCUtv4"
+  },
+  "moving": {
+    "titulo_original": "무빙",
+    "titulo_br": "Em Movimento",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "elenco": [
+      "Ryu Seung-ryong",
+      "Han Hyo-joo",
+      "Zo In-sung",
+      "Cha Tae-hyun",
+      "Ryoo Seung-bum"
+    ],
+    "diretor": "Park In-je",
+    "roteirista": "Kang Full",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "banner": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Wh-tLQbZIrA"
+  },
+  "flower-of-evil": {
+    "titulo_original": "악의 꽃",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Joon-gi",
+      "Moon Chae-won",
+      "Jang Hee-jin",
+      "Seo Hyun-woo"
+    ],
+    "diretor": "Kim Cheol-kyu",
+    "roteirista": "Yoo Jung-hee",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "banner": "/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xvRHbEO3qFw"
+  },
+  "big-mouth": {
+    "titulo_original": "빅마우스",
+    "titulo_br": "Big Mouth: De Vigarista a Vingador",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Jong-suk",
+      "Im Yoon-ah",
+      "Kim Ju-hun",
+      "Kwak Dong-yeon"
+    ],
+    "diretor": "Oh Choong-hwan",
+    "roteirista": "Kim Ha-ram",
+    "plataformas": [
+      "MBC",
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "banner": "/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=q2bDXqjyxSk"
+  },
+  "bloodhounds": {
+    "titulo_original": "사냥개들",
+    "titulo_br": "Cães de Caça",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "elenco": [
+      "Woo Do-hwan",
+      "Lee Sang-yi",
+      "Huh Joon-ho",
+      "Park Sung-woong"
+    ],
+    "diretor": "Jason Kim",
+    "roteirista": "Jason Kim",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "banner": "/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eyiR8pO50JE"
+  },
+  "weak-hero-class-1": {
+    "titulo_original": "약한영웅",
+    "titulo_br": "Classe dos Heróis Fracos",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "40 min",
+    "elenco": [
+      "Park Ji-hoon",
+      "Choi Hyun-wook",
+      "Hong Kyung",
+      "Cha Woo-min"
+    ],
+    "diretor": "You Su-min",
+    "roteirista": "You Su-min",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg",
+    "banner": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "trailer": "https://www.youtube.com/watch?v=GDTz8sLK3_Q"
+  },
+  "weak-hero-class-2": {
+    "titulo_original": "약한영웅",
+    "titulo_br": "Classe dos Heróis Fracos",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "45 min",
+    "elenco": [
+      "Park Ji-hoon",
+      "Ryeoun",
+      "Choi Min-yeong",
+      "Bae Na-ra"
+    ],
+    "diretor": "You Su-min",
+    "roteirista": "You Su-min",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/aW7mGixv2dZdQtbve4deYyfewHH.jpg",
+    "banner": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "trailer": null
+  },
+  "bad-and-crazy": {
+    "titulo_original": "배드 앤 크레이지",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Dong-wook",
+      "Wi Ha-jun",
+      "Han Ji-eun",
+      "Cha Hak-yeon"
+    ],
+    "diretor": "Yoo Sun-dong",
+    "roteirista": "Kim Sae-bom",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/t9CRsIT1sGZY3bEpkWPZjMb4EWy.jpg",
+    "banner": "/6MQaS4mMnM2WPvsAdQvZDOTxRK9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oYiogG_6I08"
+  },
+  "flex-x-cop": {
+    "titulo_original": "재벌X형사",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "65 min",
+    "elenco": [
+      "Ahn Bo-hyun",
+      "Park Ji-hyun",
+      "Kang Sang-jun",
+      "Kwak Si-yang"
+    ],
+    "diretor": "Kim Jae-hong",
+    "roteirista": "Kim Ba-da",
+    "plataformas": [
+      "SBS",
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/wuqKpbKx37T4II93NiQWHnbCu3L.jpg",
+    "banner": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "trailer": null
+  },
+  "signal": {
+    "titulo_original": "시그널",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Lee Je-hoon",
+      "Kim Hye-soo",
+      "Cho Jin-woong",
+      "Jang Hyun-sung"
+    ],
+    "diretor": "Kim Won-suk",
+    "roteirista": "Kim Eun-hee",
+    "plataformas": [
+      "tvN",
+      "Netflix",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+    "banner": "/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JnX9ctyNrAI"
+  },
+  "stranger": {
+    "titulo_original": "비밀의 숲",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "70 min",
+    "elenco": [
+      "Cho Seung-woo",
+      "Bae Doona",
+      "Lee Jun-hyuk",
+      "Yoon Se-a"
+    ],
+    "diretor": "An Gil-ho",
+    "roteirista": "Lee Su-yeon",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "banner": "/xuf7G4srLSFcC7Q8YbX7HHEmXG2.jpg",
+    "trailer": null
+  },
+  "tunnel": {
+    "titulo_original": "터널",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Choi Jin-hyuk",
+      "Yoon Hyun-min",
+      "Lee You-young",
+      "Jo Hee-bong"
+    ],
+    "diretor": "Shin Yong-hwi",
+    "roteirista": "Lee Eun-mi",
+    "plataformas": [
+      "OCN"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/bYZfHVisUjdKd4oTYrwNKlU8sm5.jpg",
+    "banner": "/A9uo2KDyG0SJAZBV2WcSsOEaVOD.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6Y3t39kpxfg"
+  }
+}

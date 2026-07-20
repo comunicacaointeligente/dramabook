@@ -7056,5 +7056,1478 @@
       "coffee-prince",
       "marriage-contract"
     ]
+  },
+  {
+    "id": "signal",
+    "titulo": "Signal",
+    "titulo_original": "시그널",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "tvN",
+      "Netflix",
+      "Prime Video"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Fantasia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Justiça",
+      "Crime",
+      "Memória",
+      "Tempo"
+    ],
+    "profissoes": [
+      "Perfilador",
+      "Detetive"
+    ],
+    "elenco": [
+      "Lee Je-hoon",
+      "Kim Hye-soo",
+      "Cho Jin-woong",
+      "Jang Hyun-sung"
+    ],
+    "diretor": "Kim Won-suk",
+    "roteirista": "Kim Eun-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.7,
+      "mdl": 9.2,
+      "imdb": 8.5
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/i8DVzXlPYZnJANEoLja1ysXtJ3K.jpg",
+    "poster": "/uIskxIo84jexPhnrzm1TpsUCI9w.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JnX9ctyNrAI",
+    "sinopse": "Um walkie-talkie velho, encontrado por acaso, começa a chiar numa noite qualquer — e do outro lado responde um detetive que trabalhava trinta anos atrás. Park Hae-young, perfilador do presente, e Lee Jae-han, investigador do passado, descobrem que podem falar através do tempo. Juntos, passam a reabrir casos arquivados que ninguém conseguiu resolver. Só que mexer no passado muda o presente — e nem sempre para melhor.",
+    "porque_assistir": "O thriller policial mais reverenciado da Coreia: Melhor Drama, Melhor Roteiro e Melhor Atriz no Baeksang 2016, e nota 9.2 no MyDramaList. A escrita de Kim Eun-hee (a mesma de Kingdom) é cirúrgica, e a relação entre os dois detetives separados por décadas parte o coração. Casos inspirados em crimes reais não resolvidos. Obra-prima absoluta do gênero.",
+    "curiosidades": [
+      "Venceu Melhor Drama, Melhor Roteiro (Kim Eun-hee) e Melhor Atriz (Kim Hye-soo) no 52º Baeksang.",
+      "Vários casos se inspiram em crimes reais não resolvidos, incluindo os assassinatos em série de Hwaseong.",
+      "Da mesma roteirista de Kingdom.",
+      "Ganhou remake japonês na Fuji TV em 2018."
+    ],
+    "recomendacoes": [
+      "stranger",
+      "tunnel",
+      "move-to-heaven"
+    ]
+  },
+  {
+    "id": "weak-hero-class-1",
+    "titulo": "Weak Hero Class 1",
+    "titulo_original": "약한영웅",
+    "titulo_br": "Classe dos Heróis Fracos",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "40 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Triste",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Underdog",
+      "Amizade",
+      "Colegial"
+    ],
+    "temas": [
+      "Bullying",
+      "Amizade",
+      "Violência Escolar",
+      "Lealdade"
+    ],
+    "profissoes": [
+      "Estudante"
+    ],
+    "elenco": [
+      "Park Ji-hoon",
+      "Choi Hyun-wook",
+      "Hong Kyung",
+      "Cha Woo-min"
+    ],
+    "diretor": "You Su-min",
+    "roteirista": "You Su-min",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 9.1,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 10,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "poster": "/xRw3akJQdfgqx0x4fiHW7nIkEUJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=GDTz8sLK3_Q",
+    "sinopse": "Yeon Si-eun é o primeiro colocado da escola: franzino, calado, metódico. Enquanto os outros resolvem tudo no soco, ele calcula ângulos, pesos e objetos ao alcance da mão — e ganha brigas que não deveria ganhar. Mas a violência do colégio não é um problema de matemática, e a inteligência sozinha não protege ninguém. Cercado por uma hierarquia brutal, Si-eun descobre a coisa mais perigosa e mais valiosa que existe naquele lugar: amigos.",
+    "porque_assistir": "Nota 9.1 no MyDramaList — a série sobre violência escolar mais respeitada já feita na Coreia. Park Ji-hoon (ex-Wanna One) entrega uma atuação de virar carreira, e a amizade no centro da história é de partir o peito. Chegou à Netflix e foi top 10 em 70 países. Curta, seca e devastadora.",
+    "curiosidades": [
+      "Adaptação do webtoon 'Weak Hero' (Naver).",
+      "Virou a carreira de Park Ji-hoon, ex-integrante do Wanna One, como ator dramático.",
+      "O protagonista vence brigas com cálculo e objetos do ambiente, não com força — virou marca da série.",
+      "Chegou à Netflix em 2025 e entrou no top 10 de cerca de 70 países."
+    ],
+    "recomendacoes": [
+      "weak-hero-class-2",
+      "the-glory",
+      "twenty-five-twenty-one"
+    ]
+  },
+  {
+    "id": "weak-hero-class-2",
+    "titulo": "Weak Hero Class 2",
+    "titulo_original": "약한영웅",
+    "titulo_br": "Classe dos Heróis Fracos",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "45 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Underdog",
+      "Amizade",
+      "Colegial"
+    ],
+    "temas": [
+      "Bullying",
+      "Amizade",
+      "Violência Escolar",
+      "Culpa",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Estudante"
+    ],
+    "elenco": [
+      "Park Ji-hoon",
+      "Ryeoun",
+      "Choi Min-yeong",
+      "Bae Na-ra"
+    ],
+    "diretor": "You Su-min",
+    "roteirista": "You Su-min",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.2,
+      "mdl": 8.8,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "poster": "/aW7mGixv2dZdQtbve4deYyfewHH.jpg",
+    "trailer": "",
+    "sinopse": "Depois do que aconteceu na escola anterior, Yeon Si-eun se transfere querendo apenas silêncio. Mas todo colégio tem sua própria hierarquia de violência, e o novo tem uma disputa entre grupos rivais que não pede licença para engolir quem chega. Carregando culpa e cicatrizes, Si-eun precisa decidir se aprendeu a se afastar — ou se aprendeu, finalmente, a lutar pelas pessoas certas.",
+    "porque_assistir": "Liderou o ranking global da Netflix em três dias, com 6,1 milhões de views na estreia e 91% de aprovação do público. Mais brutal e mais adulta que a primeira, com Park Ji-hoon carregando um Si-eun marcado pelo passado. Continuação que honra o original.",
+    "curiosidades": [
+      "Liderou o ranking global de séries não inglesas da Netflix em apenas três dias.",
+      "Primeira temporada produzida diretamente pela Netflix (a anterior nasceu na wavve).",
+      "Entrou no ranking de 91 dos 93 países onde a Netflix opera.",
+      "O lançamento disparou a leitura do webtoon original na Naver."
+    ],
+    "recomendacoes": [
+      "weak-hero-class-1",
+      "the-glory",
+      "bloodhounds"
+    ]
+  },
+  {
+    "id": "moving",
+    "titulo": "Moving",
+    "titulo_original": "무빙",
+    "titulo_br": "Em Movimento",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Fantasia",
+      "Investigação"
+    ],
+    "tropos": [
+      "Super-Poderes",
+      "Família Encontrada"
+    ],
+    "temas": [
+      "Família",
+      "Sacrifício",
+      "Poder",
+      "Luto",
+      "Paternidade"
+    ],
+    "profissoes": [
+      "Agente",
+      "Estudante"
+    ],
+    "elenco": [
+      "Ryu Seung-ryong",
+      "Han Hyo-joo",
+      "Zo In-sung",
+      "Cha Tae-hyun",
+      "Ryoo Seung-bum"
+    ],
+    "diretor": "Park In-je",
+    "roteirista": "Kang Full",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.6,
+      "mdl": 9,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+    "poster": "/vf9SNXNAFqzKBGksFwrXhkg9cb7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Wh-tLQbZIrA",
+    "sinopse": "Três adolescentes de um colégio comum escondem a mesma coisa: habilidades sobre-humanas herdadas dos pais. Os pais, por sua vez, esconderam a vida inteira o que foram — agentes usados como armas por um sistema que agora quer os filhos. A série começa com os jovens e depois volta no tempo para contar tudo: quem eram aqueles pais, o que fizeram, o que perderam e por que passaram décadas fingindo ser gente comum para proteger crianças que nem sabiam do perigo.",
+    "porque_assistir": "Daesang (Grande Prêmio) do Baeksang 2024 e a série coreana mais assistida da história do Disney+. Kang Full adaptou o próprio webtoon e levou o prêmio de Melhor Roteiro. É ação de super-poderes com um coração enorme: no fundo, é sobre pais protegendo filhos. Uma das produções mais caras já feitas na Coreia — e dá pra ver.",
+    "curiosidades": [
+      "Venceu o Daesang (Grande Prêmio) de televisão no 60º Baeksang Arts Awards em 2024.",
+      "Kang Full adaptou o próprio webtoon e levou o Baeksang de Melhor Roteiro.",
+      "Uma das produções coreanas mais caras já feitas (entre 50 e 65 bilhões de wons).",
+      "A narrativa inverte a ordem esperada: começa com os filhos e recua para contar a história dos pais."
+    ],
+    "recomendacoes": [
+      "signal",
+      "alchemy-of-souls",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "flower-of-evil",
+    "titulo": "Flower of Evil",
+    "titulo_original": "악의 꽃",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Identidade Secreta",
+      "Casamento em Crise"
+    ],
+    "temas": [
+      "Segredos",
+      "Confiança",
+      "Crime",
+      "Trauma",
+      "Casamento"
+    ],
+    "profissoes": [
+      "Detetive",
+      "Artesão"
+    ],
+    "elenco": [
+      "Lee Joon-gi",
+      "Moon Chae-won",
+      "Jang Hee-jin",
+      "Seo Hyun-woo"
+    ],
+    "diretor": "Kim Cheol-kyu",
+    "roteirista": "Yoo Jung-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 9,
+      "imdb": 8.5
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/3rP5OCR8nCUlC960GGkYxV0RPp5.jpg",
+    "poster": "/ozPDfBmsrJDFF9ZhwQNxcGLXvzm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xvRHbEO3qFw",
+    "sinopse": "Baek Hee-sung é o marido perfeito: carinhoso, presente, dono de um ateliê e pai dedicado. Nada nele é verdade — nem o nome. Do outro lado da cama dorme Cha Ji-won, detetive de homicídios, que começa a investigar um caso antigo cujos fios levam, um a um, ao homem com quem ela divide a vida. O casamento vira campo de batalha entre o que ele escondeu por quinze anos e o que ela precisa descobrir para continuar sendo quem é.",
+    "porque_assistir": "Nota 9.0 no MyDramaList e considerado o melhor thriller psicológico coreano da década: roteiro apertadíssimo, zero episódio de enchimento e um casal que é o coração real da história — não acessório. Lee Joon-gi na atuação mais premiada da carreira, ao lado de Moon Chae-won. Angustiante e romântico ao mesmo tempo.",
+    "curiosidades": [
+      "Reuniu Lee Joon-gi e Moon Chae-won, que já haviam contracenado em Criminal Minds (2017).",
+      "Inverte o gênero: em vez de esconder a verdade até o fim, coloca o segredo do casal em jogo desde cedo.",
+      "Lee Joon-gi recebeu vários prêmios de Melhor Ator pelo papel.",
+      "Citado como referência de thriller psicológico sem triângulo amoroso."
+    ],
+    "recomendacoes": [
+      "stranger",
+      "signal",
+      "big-mouth"
+    ]
+  },
+  {
+    "id": "the-glory",
+    "titulo": "The Glory",
+    "titulo_original": "더 글로리",
+    "titulo_br": "A Lição",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Vingança",
+      "Underdog"
+    ],
+    "temas": [
+      "Bullying",
+      "Vingança",
+      "Justiça",
+      "Trauma",
+      "Classe"
+    ],
+    "profissoes": [
+      "Professora"
+    ],
+    "elenco": [
+      "Song Hye-kyo",
+      "Lee Do-hyun",
+      "Lim Ji-yeon",
+      "Yeom Hye-ran",
+      "Park Sung-hoon"
+    ],
+    "diretor": "An Gil-ho",
+    "roteirista": "Kim Eun-sook",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.9,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg",
+    "poster": "/uUM4LVlPgIrww07OoEKrGWlS1Ej.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7w59DitixVY",
+    "sinopse": "Moon Dong-eun foi torturada por cinco colegas durante o ensino médio, com uma crueldade que a escola inteira escolheu não ver. Ela sobreviveu — e dedicou cada ano seguinte a uma única coisa: aprender tudo sobre a vida adulta de cada um deles. Anos depois, reaparece como professora da filha da principal agressora. Nada nela é acidental. Cada movimento foi calculado por duas décadas, e o plano não tem pressa nenhuma.",
+    "porque_assistir": "O fenômeno global que reacendeu o debate nacional sobre violência escolar na Coreia — e o primeiro roteiro de suspense de Kim Eun-sook (a autora de Goblin!). Song Hye-kyo numa atuação gélida e irreconhecível. Vingança servida absolutamente gelada. Impossível parar, impossível esquecer.",
+    "curiosidades": [
+      "Primeiro roteiro de suspense de Kim Eun-sook, autora de Goblin e Descendentes do Sol.",
+      "Lançada em duas partes: 8 episódios em dez/2022 e mais 8 em mar/2023.",
+      "A trama do ferro de passar remete a um caso real de violência escolar em Cheongju.",
+      "Lim Ji-yeon e Lee Do-hyun, que contracenam na série, assumiram um relacionamento real em 2023."
+    ],
+    "recomendacoes": [
+      "weak-hero-class-1",
+      "flower-of-evil",
+      "marry-my-husband"
+    ]
+  },
+  {
+    "id": "stranger",
+    "titulo": "Stranger",
+    "titulo_original": "비밀의 숲",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Advogados",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Dupla Improvável",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Corrupção",
+      "Justiça",
+      "Poder",
+      "Ética"
+    ],
+    "profissoes": [
+      "Promotor",
+      "Policial"
+    ],
+    "elenco": [
+      "Cho Seung-woo",
+      "Bae Doona",
+      "Lee Jun-hyuk",
+      "Yoon Se-a"
+    ],
+    "diretor": "An Gil-ho",
+    "roteirista": "Lee Su-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.9,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 9,
+      "emocao": 6,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/xuf7G4srLSFcC7Q8YbX7HHEmXG2.jpg",
+    "poster": "/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "trailer": "",
+    "sinopse": "Hwang Si-mok perdeu a capacidade de sentir emoções depois de uma cirurgia cerebral na infância. Virou o promotor mais frio e mais eficiente do país — imune a pressão, a chantagem e a lealdade. Quando um assassinato aparentemente banal cai na sua mesa, o fio o leva ao centro de uma teia entre promotoria, polícia e grande empresariado. Do outro lado está a policial Han Yeo-jin, a única pessoa disposta a ir até o fim junto com ele.",
+    "porque_assistir": "Daesang do Baeksang 2018 e a ÚNICA série de língua não inglesa na lista dos 10 melhores programas de TV de 2017 do New York Times. Cerebral, sóbrio e impecavelmente construído. A parceria Cho Seung-woo + Bae Doona é celebrada justamente por ser totalmente platônica — pura competência mútua. Para quem quer inteligência, não emoção fácil.",
+    "curiosidades": [
+      "Venceu o Daesang (Grande Prêmio) no 54º Baeksang, além de Melhor Ator e Melhor Roteiro.",
+      "Única série de língua não inglesa na lista dos 10 melhores programas de TV de 2017 do The New York Times.",
+      "O protagonista não sente emoções — condição que define toda a construção da personagem.",
+      "Foi o primeiro roteiro de televisão de Lee Su-yeon, que venceu o Baeksang na estreia."
+    ],
+    "recomendacoes": [
+      "signal",
+      "flower-of-evil",
+      "extraordinary-attorney-woo"
+    ]
+  },
+  {
+    "id": "bloodhounds",
+    "titulo": "Bloodhounds",
+    "titulo_original": "사냥개들",
+    "titulo_br": "Cães de Caça",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Amizade",
+      "Underdog",
+      "Máfia"
+    ],
+    "temas": [
+      "Lealdade",
+      "Dívida",
+      "Família",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Boxeador",
+      "Empresário"
+    ],
+    "elenco": [
+      "Woo Do-hwan",
+      "Lee Sang-yi",
+      "Huh Joon-ho",
+      "Park Sung-woong"
+    ],
+    "diretor": "Jason Kim",
+    "roteirista": "Jason Kim",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.7,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 9,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "poster": "/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eyiR8pO50JE",
+    "sinopse": "Kim Gun-woo e Hong Woo-jin são jovens boxeadores amadores unidos por um código simples: não se abandona quem é seu. A vida vira do avesso quando a família de Gun-woo cai nas garras de uma organização de agiotas que transforma dívidas em correntes. Recrutados por um velho empresário que sofreu do mesmo veneno, os dois passam a enfrentar de frente um império criminoso — com os punhos, porque é o que eles têm.",
+    "porque_assistir": "A ação coreana mais viciante dos últimos anos: coreografias de boxe realistas (nada de fio de nylon) e a lealdade entre Woo Do-hwan e Lee Sang-yi como motor emocional. Só 8 episódios, top global da Netflix e 2ª temporada confirmada. Adrenalina pura com coração.",
+    "curiosidades": [
+      "Adaptação do webtoon homônimo da Naver, cujo autor Jeong Chan também assinou o roteiro.",
+      "Primeiro papel principal de Woo Do-hwan após o serviço militar.",
+      "A Netflix confirmou oficialmente a segunda temporada depois do desempenho global.",
+      "As coreografias de boxe foram elogiadas pelo realismo, sem recursos de fantasia."
+    ],
+    "recomendacoes": [
+      "weak-hero-class-1",
+      "vincenzo",
+      "big-mouth"
+    ]
+  },
+  {
+    "id": "big-mouth",
+    "titulo": "Big Mouth",
+    "titulo_original": "빅마우스",
+    "titulo_br": "Big Mouth: De Vigarista a Vingador",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "MBC",
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Advogados",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Identidade Trocada",
+      "Vingança"
+    ],
+    "temas": [
+      "Corrupção",
+      "Sobrevivência",
+      "Casamento",
+      "Poder"
+    ],
+    "profissoes": [
+      "Advogado",
+      "Enfermeira"
+    ],
+    "elenco": [
+      "Lee Jong-suk",
+      "Im Yoon-ah",
+      "Kim Ju-hun",
+      "Kwak Dong-yeon"
+    ],
+    "diretor": "Oh Choong-hwan",
+    "roteirista": "Kim Ha-ram",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.6,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 4,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/ztLZyHlC892o7lp5jIf4Y1hRnRO.jpg",
+    "poster": "/gJDvYUJcPEDJzB3SnQokifPUtRF.jpg",
+    "trailer": "https://www.youtube.com/watch?v=q2bDXqjyxSk",
+    "sinopse": "Park Chang-ho é o advogado mais medíocre da cidade: 90% de derrotas, apelido de 'Boca Grande' por falar mais do que entrega. Um dia, é preso e confundido com um lendário chefe do crime que ninguém nunca viu de perto. Dentro da penitenciária, a mentira é a única coisa que o mantém vivo — então ele decide vestir a identidade que lhe deram. Do lado de fora, sua esposa enfermeira luta para provar a verdade e derrubar quem armou tudo.",
+    "porque_assistir": "O maior sucesso da MBC em 2022 e o retorno de Lee Jong-suk à TV depois do serviço militar. Tensão claustrofóbica de prisão, viradas constantes e um casal que age como time de verdade — Yoona surpreendeu todo mundo aqui. Para quem gosta de suspense onde ninguém é totalmente confiável.",
+    "curiosidades": [
+      "Marcou o retorno de Lee Jong-suk à televisão após o serviço militar.",
+      "Primeiro papel de protagonista em ação e suspense de Yoona (Girls' Generation).",
+      "Grande parte da história se passa numa penitenciária construída como cenário fechado.",
+      "Foi o drama de maior audiência da MBC em 2022."
+    ],
+    "recomendacoes": [
+      "vincenzo",
+      "flower-of-evil",
+      "the-glory"
+    ]
+  },
+  {
+    "id": "vagabond",
+    "titulo": "Vagabond",
+    "titulo_original": "배가본드",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Aberto",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Conspiração",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Corrupção",
+      "Luto",
+      "Verdade",
+      "Governo"
+    ],
+    "profissoes": [
+      "Dublê",
+      "Agente Secreta"
+    ],
+    "elenco": [
+      "Lee Seung-gi",
+      "Bae Suzy",
+      "Shin Sung-rok",
+      "Moon Jeong-hee"
+    ],
+    "diretor": "Yoo In-sik",
+    "roteirista": "Jang Young-cheol, Jung Gyeong-sun",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.5,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 4,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/6BdGjKqud1rFcEa7p2zGfc29z5H.jpg",
+    "poster": "/8Sud9wqG7WZMXesZhPZ4lergRvp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tyhnEHCUtv4",
+    "sinopse": "Cha Dal-geon é dublê de ação: vive de cair, apanhar e levantar em frente à câmera. Quando o sobrinho morre na queda de um avião comercial e o mundo aceita a versão de acidente, ele é o único que não engole. Investigando por conta própria, esbarra em Go Hae-ri, agente disfarçada do serviço de inteligência que puxa o mesmo fio. Juntos, descobrem uma teia que envolve indústria bélica, governo e dinheiro grande demais para caber num acidente.",
+    "porque_assistir": "Uma das produções mais caras da TV coreana, filmada no Marrocos e em Portugal, com cenas de ação de padrão cinematográfico. Lee Seung-gi e Suzy reunidos seis anos depois de Gu Family Book. Aviso honesto de curadora: termina em cliffhanger e a 2ª temporada nunca foi feita — vá sabendo. Ainda assim, a jornada vale.",
+    "curiosidades": [
+      "Filmada no Marrocos e em Portugal, com um dos maiores orçamentos da TV coreana até então.",
+      "Reuniu Lee Seung-gi e Bae Suzy quase seis anos depois de Gu Family Book.",
+      "Termina em cliffhanger explícito preparando uma 2ª temporada que nunca foi produzida.",
+      "A distribuição internacional pela Netflix ampliou muito o alcance fora da Ásia."
+    ],
+    "recomendacoes": [
+      "big-mouth",
+      "healer",
+      "bloodhounds"
+    ]
+  },
+  {
+    "id": "flex-x-cop",
+    "titulo": "Flex X Cop",
+    "titulo_original": "재벌X형사",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "SBS",
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Comédia",
+      "Romance"
+    ],
+    "tropos": [
+      "Dupla Improvável",
+      "Herdeiro",
+      "Workplace"
+    ],
+    "temas": [
+      "Justiça",
+      "Classe",
+      "Trabalho"
+    ],
+    "profissoes": [
+      "Herdeiro",
+      "Detetive"
+    ],
+    "elenco": [
+      "Ahn Bo-hyun",
+      "Park Ji-hyun",
+      "Kang Sang-jun",
+      "Kwak Si-yang"
+    ],
+    "diretor": "Kim Jae-hong",
+    "roteirista": "Kim Ba-da",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.6,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 5,
+      "humor": 9,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "poster": "/wuqKpbKx37T4II93NiQWHnbCu3L.jpg",
+    "trailer": "",
+    "sinopse": "Jin I-soo é o filho caçula de um conglomerado bilionário: mimado, extravagante e convicto de que dinheiro resolve absolutamente tudo. Depois de um incidente que a família prefere não comentar, ele é despachado para uma equipe de investigação criminal, onde seu estilo colide de frente com o método policial tradicional. A filosofia dele é simples e curiosamente eficaz: enfrentar dinheiro com dinheiro, poder com poder.",
+    "porque_assistir": "A comédia policial mais divertida dos últimos anos: Ahn Bo-hyun levou o prêmio de Melhor Ator da SBS e o pico de 11% de audiência garantiu 2ª temporada. Casos que prendem, humor que funciona e um herdeiro insuportável que a gente acaba amando. Leve pra quem quer ação sem peso no coração.",
+    "curiosidades": [
+      "O título coreano significa literalmente 'Herdeiro X Detetive'.",
+      "Ahn Bo-hyun venceu o Prêmio de Excelência Máxima no SBS Drama Awards 2024.",
+      "Pico de 11% de audiência na TV aberta — resultado forte para o horário.",
+      "O sucesso garantiu segunda temporada, prevista para agosto de 2026."
+    ],
+    "recomendacoes": [
+      "bad-and-crazy",
+      "vincenzo",
+      "undercover-miss-hong"
+    ]
+  },
+  {
+    "id": "taxi-driver",
+    "titulo": "Taxi Driver",
+    "titulo_original": "모범택시",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 3,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Feliz",
+    "plataformas": [
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Vingança",
+      "Justiceiro"
+    ],
+    "temas": [
+      "Justiça",
+      "Crime",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Ex-Militar",
+      "Taxista"
+    ],
+    "elenco": [
+      "Lee Je-hoon",
+      "Kim Eui-sung",
+      "Pyo Ye-jin",
+      "Jang Hyuk-jin"
+    ],
+    "diretor": "Park Joon-woo",
+    "roteirista": "Oh Sang-ho",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.8,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/hwsU65QW7A4dbMEWkDpgHyCNcfS.jpg",
+    "poster": "/lghfb8beej1aH9ML8QyeSixniom.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Hnnhq_fTV5c",
+    "sinopse": "A Rainbow Taxi parece uma empresa comum de táxi. Nos bastidores, opera um serviço secreto para quem o sistema judicial abandonou: vítimas de crimes que nunca tiveram resposta. No volante está Kim Do-gi, ex-militar de elite que executa cada missão disfarçado do que for preciso. Cada corrida é um caso, cada caso é uma catarse — e cada uma cobra um pedaço do motorista.",
+    "porque_assistir": "Vingança episódica que dá aquela satisfação imediata: você entra pelo caso e fica pela equipe. Fechou a 1ª temporada acima de 16% de audiência e já tem três temporadas. Baseado em crimes reais que chocaram a Coreia.",
+    "curiosidades": [
+      "Adaptação do webtoon 'Deluxe Taxi'.",
+      "Vários arcos se inspiram em crimes reais noticiados na Coreia.",
+      "Rendeu 2ª temporada em 2023 e 3ª em 2025 — raro para dramas de emissora aberta."
+    ],
+    "recomendacoes": [
+      "the-glory",
+      "vincenzo",
+      "big-mouth"
+    ]
+  },
+  {
+    "id": "the-devil-judge",
+    "titulo": "The Devil Judge",
+    "titulo_original": "악마판사",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Advogados",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Vingança"
+    ],
+    "temas": [
+      "Justiça",
+      "Poder",
+      "Mídia",
+      "Distopia"
+    ],
+    "profissoes": [
+      "Juiz"
+    ],
+    "elenco": [
+      "Ji Sung",
+      "Kim Min-jung",
+      "Jinyoung",
+      "Park Gyu-young"
+    ],
+    "diretor": "Choi Jung-kyu",
+    "roteirista": "Moon Yoo-seok",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.7,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/pYzgsW2hVGml2vSguJshVBd5WE9.jpg",
+    "poster": "/41wc4n7juC0A4XNROYTDvlndi0E.jpg",
+    "trailer": "https://www.youtube.com/watch?v=drLkFfWmpBE",
+    "sinopse": "Numa Coreia distópica de futuro próximo, arrasada por colapso social, os julgamentos viraram espetáculo: transmitidos ao vivo, com o país inteiro votando nas sentenças. No comando está Kang Yo-han, juiz carismático e implacável que o povo adora. Quando o jovem juiz idealista Kim Ga-on entra na bancada, começa a suspeitar de que a justiça popular ali é fachada para algo bem mais calculado.",
+    "porque_assistir": "Um dos doramas visualmente mais ambiciosos já feitos — o tribunal em formato de catedral é inesquecível. Ji Sung entrega um dos vilões-heróis mais magnéticos do gênero. Distopia elegante para quem gosta de pensar enquanto assiste.",
+    "curiosidades": [
+      "Passa-se numa Coreia distópica onde julgamentos viram reality show ao vivo.",
+      "O tribunal em formato de catedral foi construído como cenário monumental.",
+      "Ji Sung já havia protagonizado outro drama jurídico de peso, Innocent Defendant (2017)."
+    ],
+    "recomendacoes": [
+      "stranger",
+      "vincenzo",
+      "the-glory"
+    ]
+  },
+  {
+    "id": "again-my-life",
+    "titulo": "Again My Life",
+    "titulo_original": "어게인 마이 라이프",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Feliz",
+    "plataformas": [
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Advogados",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Vingança",
+      "Viagem no Tempo",
+      "Second Chance"
+    ],
+    "temas": [
+      "Justiça",
+      "Corrupção",
+      "Poder"
+    ],
+    "profissoes": [
+      "Promotor"
+    ],
+    "elenco": [
+      "Lee Joon-gi",
+      "Kim Ji-eun",
+      "Lee Kyung-young",
+      "Jung Sang-hoon"
+    ],
+    "diretor": "Han Cheol-soo",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 8.3,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 4,
+      "emocao": 6,
+      "humor": 5,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/kuXlHSpBJlqFJsLunYe5rjf2K4F.jpg",
+    "poster": "/6QDWvFl9eScywwF8eUvhVZBleb1.jpg",
+    "trailer": "",
+    "sinopse": "Kim Hee-woo é um promotor jovem e teimoso, determinado a derrubar um político que se acha intocável. Ele chega perto demais — e é assassinado no auge da investigação. Então acorda no próprio corpo de estudante, anos antes, com a memória inteira do que aconteceu e do que ainda vai acontecer. Desta vez, ele não vai improvisar: vai montar a estratégia desde o primeiro dia.",
+    "porque_assistir": "Vingança direta, sem enrolação e praticamente sem subtrama romântica — o que é raro e refrescante. Lee Joon-gi, com formação em artes marciais, faz ele mesmo boa parte das lutas. Foi o maior sucesso da SBS no ano. Satisfação garantida a cada vilão que cai.",
+    "curiosidades": [
+      "Adaptação da web novel homônima de Lee Hae-nal, que também virou webtoon.",
+      "Lee Joon-gi, com formação em artes marciais para tela, executou pessoalmente grande parte das lutas.",
+      "Exemplo raro de dorama de vingança praticamente sem linha romântica."
+    ],
+    "recomendacoes": [
+      "reborn-rich",
+      "taxi-driver",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "reborn-rich",
+    "titulo": "Reborn Rich",
+    "titulo_original": "재벌집 막내아들",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Vingança",
+      "Second Chance",
+      "Chaebol"
+    ],
+    "temas": [
+      "Poder",
+      "Família",
+      "Dinheiro",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Herdeiro",
+      "Secretário"
+    ],
+    "elenco": [
+      "Song Joong-ki",
+      "Lee Sung-min",
+      "Shin Hyun-been",
+      "Yoon Je-moon"
+    ],
+    "diretor": "Jung Dae-yoon",
+    "roteirista": "Kim Tae-hee, Jang Eun-jae",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.5,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 4,
+      "emocao": 6,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg",
+    "poster": "/ksXvHQEzcOy8wyxZUivhfHakiXg.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pFyXoaUl8v4",
+    "sinopse": "Yoon Hyun-woo passou a vida sendo o secretário fiel de uma poderosa família empresarial — fazendo o trabalho sujo, apagando incêndios, engolindo humilhações. É assassinado exatamente por saber demais. E renasce como Jin Do-jun, o neto mais novo da mesma família, com toda a memória do futuro intacta. Sabendo cada crise econômica que virá, ele começa a construir poder pela única razão que importa: descobrir quem mandou matá-lo.",
+    "porque_assistir": "Fenômeno absoluto de audiência: 26,9% no episódio final, segundo maior da história da JTBC. Song Joong-ki jogando xadrez corporativo com a história econômica coreana como tabuleiro, e Lee Sung-min como um patriarca inesquecível. Aviso: o desfecho dividiu o país inteiro — venha preparada pra ter opinião.",
+    "curiosidades": [
+      "O episódio final bateu 26,9% — segunda maior audiência da história da JTBC.",
+      "O conglomerado fictício Soonyang se inspira em chaebols reais, com marcos econômicos do país virando enredo.",
+      "O desfecho gerou insatisfação noticiada em veículos como Korea Herald e JoongAng Daily."
+    ],
+    "recomendacoes": [
+      "again-my-life",
+      "itaewon-class",
+      "queen-of-tears"
+    ]
+  },
+  {
+    "id": "bad-and-crazy",
+    "titulo": "Bad and Crazy",
+    "titulo_original": "배드 앤 크레이지",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Comédia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Dupla Improvável",
+      "Justiceiro",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Justiça",
+      "Corrupção",
+      "Trauma",
+      "Redenção"
+    ],
+    "profissoes": [
+      "Detetive"
+    ],
+    "elenco": [
+      "Lee Dong-wook",
+      "Wi Ha-jun",
+      "Han Ji-eun",
+      "Cha Hak-yeon"
+    ],
+    "diretor": "Yoo Sun-dong",
+    "roteirista": "Kim Sae-bom",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.5,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 10,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/6MQaS4mMnM2WPvsAdQvZDOTxRK9.jpg",
+    "poster": "/t9CRsIT1sGZY3bEpkWPZjMb4EWy.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oYiogG_6I08",
+    "sinopse": "Ryu Soo-yeol é um detetive competente e absolutamente corrupto: obcecado por promoção, disposto a fechar os olhos para o que for preciso. Sua vida desmorona quando aparece K — um justiceiro de capacete, moral inflexível e zero paciência — que passa a persegui-lo e arrastá-lo para os casos que ele preferia ignorar. O problema é que ninguém mais parece enxergar o K.",
+    "porque_assistir": "Química de outro planeta entre Lee Dong-wook e Wi Ha-joon (recém-saído de Round 6), numa mistura caótica e deliciosa de ação, comédia e algo mais profundo escondido no meio. Wi Ha-joon passa quase dois episódios de capacete — e ainda assim rouba a cena.",
+    "curiosidades": [
+      "Wi Ha-joon passa cerca de 90% dos dois primeiros episódios de capacete, escondendo o rosto do personagem K.",
+      "Foi um dos primeiros trabalhos dele lançados após a explosão global de Round 6.",
+      "Cha Hak-yeon, do VIXX, integra o elenco principal."
+    ],
+    "recomendacoes": [
+      "flex-x-cop",
+      "vincenzo",
+      "bloodhounds"
+    ]
+  },
+  {
+    "id": "tunnel",
+    "titulo": "Tunnel",
+    "titulo_original": "터널",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Agridoce",
+    "plataformas": [
+      "OCN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Fantasia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Crime",
+      "Tempo",
+      "Luto",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Detetive"
+    ],
+    "elenco": [
+      "Choi Jin-hyuk",
+      "Yoon Hyun-min",
+      "Lee You-young",
+      "Jo Hee-bong"
+    ],
+    "diretor": "Shin Yong-hwi",
+    "roteirista": "Lee Eun-mi",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/A9uo2KDyG0SJAZBV2WcSsOEaVOD.jpg",
+    "poster": "/bYZfHVisUjdKd4oTYrwNKlU8sm5.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6Y3t39kpxfg",
+    "sinopse": "Em 1986, o detetive Park Gwang-ho persegue um assassino em série por um túnel escuro — e sai do outro lado trinta anos no futuro. Preso em 2016, sem documentos e sem ninguém que acredite nele, forma dupla com um jovem detetive de métodos opostos. O caso que ele não conseguiu encerrar continua aberto. E o assassino, provavelmente, também continua por aí.",
+    "porque_assistir": "Cresceu no boca a boca até bater o recorde histórico de audiência da OCN. Mistura viagem no tempo com procedimento policial sólido, e o choque cultural do detetive oitentista em 2016 rende um humor gostoso no meio da tensão. Emocionante mais do que assustador.",
+    "curiosidades": [
+      "Inspirado nos assassinatos em série de Hwaseong, um dos casos mais notórios da Coreia.",
+      "Bateu o recorde de audiência da OCN no primeiro episódio e voltou a batê-lo no final.",
+      "Superou o recorde anterior da emissora, que pertencia a Voice."
+    ],
+    "recomendacoes": [
+      "signal",
+      "stranger",
+      "move-to-heaven"
+    ]
   }
 ]
