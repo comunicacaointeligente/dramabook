@@ -1213,5 +1213,992 @@
       "run-on",
       "love-to-hate-you"
     ]
+  },
+  {
+    "id": "a-piece-of-your-mind",
+    "titulo": "A Piece of Your Mind",
+    "titulo_original": "반의 반",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Healing",
+      "Second Chance"
+    ],
+    "temas": [
+      "Luto",
+      "Cura Emocional",
+      "Recomeço",
+      "Autoconhecimento",
+      "Tecnologia",
+      "Música"
+    ],
+    "profissoes": [
+      "Pesquisador em Inteligência Artificial",
+      "Engenheira de Gravação"
+    ],
+    "elenco": [
+      "Jung Hae-in",
+      "Chae Soo-bin",
+      "Lee Ha-na",
+      "Kim Sung-kyu",
+      "Woo Ji-hyun",
+      "Lee Sang-hee"
+    ],
+    "diretor": "Lee Sang-yeob",
+    "roteirista": "Lee Suk-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.7,
+      "mdl": 8.4,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 10,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/pcyVB92oAuA2PQR8aoDurLETNda.jpg",
+    "poster": "/u25Bd08J1kdsLXdHymXkFJsseV7.jpg",
+    "trailer": "https://www.youtube.com/watch?v=MpwOGxOFLi0",
+    "sinopse": "Moon Ha-won é um brilhante pesquisador de inteligência artificial que construiu uma carreira de sucesso, mas nunca conseguiu superar um amor que marcou profundamente sua vida. Han Seo-woo, engenheira de gravação apaixonada por música clássica, leva uma vida simples e encontra beleza nas pequenas coisas do cotidiano. Quando seus caminhos se cruzam, ambos descobrem que algumas feridas só começam a cicatrizar quando alguém é capaz de acolher o silêncio do outro. Em meio a lembranças, reencontros e novos começos, nasce uma relação delicada que transforma a maneira como enxergam o amor e a própria vida.",
+    "porque_assistir": "Poucos doramas retratam o amor com tanta sensibilidade quanto A Piece of Your Mind. Em vez de apostar em grandes reviravoltas, a série encontra beleza nos pequenos gestos, nos silêncios e nas emoções contidas. A fotografia elegante, a trilha sonora refinada e o ritmo contemplativo criam uma experiência intimista, ideal para quem aprecia romances maduros, histórias de cura emocional e personagens profundamente humanos.",
+    "curiosidades": [
+      "Original da tvN, tornou-se um dorama cult entre os fãs de romances contemplativos.",
+      "A direção utiliza enquadramentos minimalistas e longos momentos de silêncio para transmitir emoções.",
+      "O tema da inteligência artificial funciona como metáfora para memória, saudade e permanência dos sentimentos.",
+      "Apesar da audiência modesta na TV, tornou-se muito recomendado por quem prefere histórias maduras e introspectivas."
+    ],
+    "recomendacoes": [
+      "call-it-love",
+      "my-liberation-notes",
+      "our-blues",
+      "one-spring-night",
+      "when-the-camellia-blooms"
+    ]
+  },
+  {
+    "id": "you-are-my-spring",
+    "titulo": "You Are My Spring",
+    "titulo_original": "너는 나의 봄",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Healing",
+      "Slow Burn",
+      "Vizinhos"
+    ],
+    "temas": [
+      "Saúde Mental",
+      "Trauma",
+      "Cura Emocional",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Psiquiatra",
+      "Gerente de Hotel"
+    ],
+    "elenco": [
+      "Seo Hyun-jin",
+      "Kim Dong-wook",
+      "Yoon Park",
+      "Nam Gyu-ri",
+      "Kim Ye-won"
+    ],
+    "diretor": "Jung Jee-hyun",
+    "roteirista": "Lee Mi-na",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.2,
+      "mdl": 8,
+      "imdb": 7.3
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/37grkDpzkHpGvzj1QRnHhqdpXfA.jpg",
+    "poster": "/tWYjugKwHy6aTiKDdDxtsHKltEj.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gwW7QbTA8ao",
+    "sinopse": "Kang Da-jeong é uma gerente de hotel que sempre escolheu os namorados errados e aprendeu a esconder as próprias feridas atrás de um sorriso profissional. Ao se mudar para um prédio antigo de Seul, ela cruza com Ju Yeong-do, um psiquiatra querido pelos pacientes que carrega, ele mesmo, um passado que nunca terminou de cicatrizar. Quando um caso misterioso atinge a vizinhança e obriga os dois a conviver, nasce entre eles uma relação feita de escuta, paciência e pequenos gestos de cuidado. Um romance sobre gente adulta aprendendo que ninguém precisa se curar sozinho.",
+    "porque_assistir": "Poucos doramas tratam terapia, trauma e saúde mental com o cuidado que You Are My Spring dedica a cada personagem. Seo Hyun-jin e Kim Dong-wook constroem um casal que se escolhe com maturidade, em uma história que abraça o espectador mesmo quando mergulha em memórias dolorosas. É o dorama certo para quem quer romance com profundidade emocional de verdade.",
+    "curiosidades": [
+      "O roteiro foi elogiado por retratar terapia e trauma com um cuidado incomum nos dramas coreanos — o protagonista é psiquiatra e as sessões são levadas a sério.",
+      "Mistura inusitada de gêneros: romance de cura com um fio de mistério, incluindo Yoon Bak em papel duplo.",
+      "Seo Hyun-jin, chamada de 'rainha do romance' na Coreia, escolheu o projeto depois de sucessos como Another Miss Oh e Dr. Romantic."
+    ],
+    "recomendacoes": [
+      "it-s-okay-that-s-love",
+      "hospital-playlist",
+      "call-it-love"
+    ]
+  },
+  {
+    "id": "encounter",
+    "titulo": "Encounter",
+    "titulo_original": "남자친구",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Noona Romance",
+      "Diferença de Classe"
+    ],
+    "temas": [
+      "Liberdade",
+      "Recomeço",
+      "Escolhas",
+      "Pressão Social"
+    ],
+    "profissoes": [
+      "CEO",
+      "Funcionário de Hotel"
+    ],
+    "elenco": [
+      "Song Hye-kyo",
+      "Park Bo-gum",
+      "Jang Seung-jo",
+      "Ko Chang-seok",
+      "Shin Jung-keun",
+      "Nam Kee-ae"
+    ],
+    "diretor": "Park Shin-woo",
+    "roteirista": "Yu Young-ah",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.1,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/zumJNuQP60nMgfZyyJbRuGlIFXI.jpg",
+    "poster": "/rqnH60vjaqa0NiXlh41jjt1NWwE.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xSJKYmxZpyA",
+    "sinopse": "Cha Soo-hyun aprendeu cedo que a vida dela pertencia aos outros: filha de político, casou-se por conveniência, divorciou-se em silêncio e hoje administra um hotel como quem cumpre sentença. Em uma viagem a Cuba, um encontro casual com Kim Jin-hyuk — um jovem comum que acha felicidade nas coisas simples — abre uma fresta de luz nessa rotina. De volta à Coreia, o destino os coloca no mesmo hotel, e ela precisa decidir, pela primeira vez, o que quer para si. Um romance sereno sobre liberdade, coragem e recomeços.",
+    "porque_assistir": "Encounter é um dos doramas mais bonitos de se ver: cada quadro parece pintura, de Havana aos cerejeiras de Sokcho. Song Hye-kyo e Park Bo-gum conduzem um romance delicado entre uma mulher que nunca pôde escolher e um homem que a ensina a viver devagar. Para quem ama histórias elegantes, contemplativas e emocionalmente maduras.",
+    "curiosidades": [
+      "As primeiras cenas foram filmadas em Havana, Cuba — locação inédita para um dorama de grande orçamento.",
+      "Reuniu Song Hye-kyo (após Descendants of the Sun) e Park Bo-gum, o par mais comentado da TV coreana na época, em um romance noona.",
+      "A estreia registrou uma das maiores audiências de primeiro episódio da história da tvN até então.",
+      "Cada episódio abre e fecha com ilustrações de contos de fadas, reforçando o clima de fábula da história."
+    ],
+    "recomendacoes": [
+      "something-in-the-rain",
+      "one-spring-night",
+      "um-amor-que-ilumina"
+    ]
+  },
+  {
+    "id": "the-interest-of-love",
+    "titulo": "The Interest of Love",
+    "titulo_original": "사랑의 이해",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Workplace",
+      "Diferença de Classe"
+    ],
+    "temas": [
+      "Classe Social",
+      "Trabalho",
+      "Escolhas",
+      "Solidão"
+    ],
+    "profissoes": [
+      "Bancário",
+      "Vigilante"
+    ],
+    "elenco": [
+      "Yoo Yeon-seok",
+      "Mun Ka-young",
+      "Keum Sae-rok",
+      "Jung Ga-ram",
+      "Moon Tae-yu"
+    ],
+    "diretor": "Cho Young-min",
+    "roteirista": "Lee Seo-hyun, Lee Hyeon-jung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 6.8,
+      "imdb": 6.5
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 4,
+      "red": 6
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/5EKK2wAyNwv4yc84QprzahVr2pR.jpg",
+    "poster": "/l3YaNQAdllzbonbyjf0DB1eNfMW.jpg",
+    "trailer": "https://www.youtube.com/watch?v=WVnDuEx-Je0",
+    "sinopse": "Na agência Yeongpo do Banco Nara, quatro vidas se entrelaçam em silêncios e hesitações: Ha Sang-su, o funcionário exemplar; Ahn Su-yeong, a caixa talentosa que esbarra todos os dias nas barreiras invisíveis de classe; Park Mi-gyeong, a herdeira que sabe o que quer; e Jung Jong-hyeon, o vigilante que estuda de madrugada para mudar de vida. Entre um café não tomado e uma mensagem não enviada, cada escolha adiada cobra seu preço. Um retrato cru e adulto de como o amor, no mundo real, também é atravessado por dinheiro, orgulho e medo.",
+    "porque_assistir": "Este não é um romance de conto de fadas — é o mais honesto retrato recente de como a hesitação e a diferença social sabotam o amor. The Interest of Love divide opiniões justamente porque incomoda: seus personagens erram como gente de verdade. Para quem aprecia dramas maduros, realistas e emocionalmente complexos, é uma experiência que fica na cabeça por semanas.",
+    "curiosidades": [
+      "Adaptado do romance 'Sarangui Ihae' (A Compreensão do Amor), de Lee Hyuk-jin.",
+      "O enredo forma um 'quadrado amoroso' entre quatro funcionários do mesmo banco.",
+      "Apesar da audiência modesta na JTBC, ficou semanas no Top 10 global da Netflix e gerou debates acalorados sobre as escolhas dos protagonistas.",
+      "É carinhosamente (e raivosamente) chamado pelos fãs de 'o dorama da frustração' — se ama ou se odeia."
+    ],
+    "recomendacoes": [
+      "one-spring-night",
+      "something-in-the-rain",
+      "my-liberation-notes"
+    ]
+  },
+  {
+    "id": "chocolate",
+    "titulo": "Chocolate",
+    "titulo_original": "초콜릿",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Médicos",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Healing",
+      "Conexão de Infância"
+    ],
+    "temas": [
+      "Luto",
+      "Comida",
+      "Cuidados Paliativos",
+      "Cura Emocional",
+      "Memória"
+    ],
+    "profissoes": [
+      "Neurocirurgião",
+      "Chef"
+    ],
+    "elenco": [
+      "Ha Ji-won",
+      "Yoon Kye-sang",
+      "Jang Seung-jo",
+      "Min Jin-woong",
+      "Teo Yoo",
+      "Kim Won-hae"
+    ],
+    "diretor": "Lee Hyung-min",
+    "roteirista": "Lee Kyoung-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.1,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 8,
+      "red": 2
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/3kzPeAT0XuTkoJn77WWlbpOtOGs.jpg",
+    "poster": "/ugLwOOv9k6NG0XL2IX06RiqW9yt.jpg",
+    "trailer": "",
+    "sinopse": "Quando eram crianças, um prato de comida feito por Lee Kang marcou para sempre a vida de Moon Cha-young. Anos depois, ele — que sonhava em ser chef — tornou-se neurocirurgião; ela — inspirada por aquele encontro — virou chef. O reencontro acontece no lugar mais improvável: uma ala de cuidados paliativos, onde os dois passam a preparar as últimas refeições dos pacientes. Entre panelas, memórias e despedidas, descobrem que cozinhar para alguém pode ser a mais profunda forma de amor.",
+    "porque_assistir": "Chocolate é um melodrama clássico no melhor sentido: lento, profundo e devastadoramente bonito. Cada episódio traz a história de um paciente e uma refeição que carrega uma vida inteira — prepare os lenços e, de preferência, não assista com fome. Para quem sente falta dos doramas que tratam a morte, a comida e o afeto com a mesma reverência.",
+    "curiosidades": [
+      "Roteiro de Lee Kyung-hee, veterana dos melodramas coreanos (I'm Sorry, I Love You; The Innocent Man).",
+      "Ambientação raríssima: grande parte da história se passa em uma ala de cuidados paliativos, com histórias de pacientes em cada episódio.",
+      "Yoon Kye-sang é um idol de primeira geração (ex-g.o.d) consolidado como ator.",
+      "A comida é o fio condutor: os protagonistas se curam cozinhando refeições de despedida para os pacientes."
+    ],
+    "recomendacoes": [
+      "it-s-okay-that-s-love",
+      "our-blues",
+      "one-spring-night"
+    ]
+  },
+  {
+    "id": "our-blues",
+    "titulo": "Our Blues",
+    "titulo_original": "우리들의 블루스",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Healing",
+      "Small Town",
+      "Second Chance"
+    ],
+    "temas": [
+      "Amizade",
+      "Família",
+      "Luto",
+      "Comunidade",
+      "Superação"
+    ],
+    "profissoes": [
+      "Haenyeo (mergulhadora)",
+      "Capitão de Barco",
+      "Comerciante"
+    ],
+    "elenco": [
+      "Lee Byung-hun",
+      "Shin Min-a",
+      "Cha Seung-won",
+      "Lee Jung-eun",
+      "Han Ji-min",
+      "Kim Woo-bin"
+    ],
+    "diretor": "Kim Kyu-tae",
+    "roteirista": "Noh Hee-kyung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.6,
+      "mdl": 8.6,
+      "imdb": 8.6
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 6,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 8,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/v7tP30lhgEs3QwJhkrTRW6eHwXV.jpg",
+    "poster": "/qIrXC2RvCXBiXKjeSE5yQ0QTYZC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vSBIJQOLKoY",
+    "sinopse": "Na ilha de Jeju, o mercado, o porto e o mar costuram as vidas de uma vila inteira: um caminhoneiro reencontra a mulher que nunca esqueceu, um capitão durão se apaixona por uma mergulhadora recém-chegada, velhos amigos acertam contas com mágoas antigas e mães e filhos tentam se perdoar. Contada como um mosaico, cada fase da história ilumina um par de personagens — e, quando o quadro se completa, o que fica é um retrato inteiro da vida como ela é: dura, engraçada e cheia de amor nos lugares mais simples.",
+    "porque_assistir": "Our Blues reúne um elenco dos sonhos — Lee Byung-hun, Shin Min-a, Kim Woo-bin, Han Ji-min — a serviço da roteirista mais humana da Coreia, Noh Hee-kyung. É um dorama para rir e chorar no mesmo episódio, com as haenyeo de Jeju, brigas de feira e reconciliações que desarmam. Televisão feita de gente.",
+    "curiosidades": [
+      "Formato antológico raro em doramas: 14 personagens com arcos interligados, cada bloco de episódios focado em um par.",
+      "Marcou história na representatividade ao escalar a artista Jung Eun-hye, que tem síndrome de Down, em papel relevante.",
+      "Escrito por Noh Hee-kyung, a mesma de It's Okay, That's Love e Dear My Friends.",
+      "As haenyeo — mergulhadoras tradicionais de Jeju — têm papel central na trama."
+    ],
+    "recomendacoes": [
+      "hometown-cha-cha-cha",
+      "when-the-camellia-blooms",
+      "my-liberation-notes"
+    ]
+  },
+  {
+    "id": "when-the-camellia-blooms",
+    "titulo": "When the Camellia Blooms",
+    "titulo_original": "동백꽃 필 무렵",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 40,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Comédia",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Small Town",
+      "Mãe Solo",
+      "Healing"
+    ],
+    "temas": [
+      "Maternidade",
+      "Preconceito",
+      "Comunidade",
+      "Superação"
+    ],
+    "profissoes": [
+      "Policial",
+      "Dona de Bar"
+    ],
+    "elenco": [
+      "Gong Hyo-jin",
+      "Kang Ha-neul",
+      "Kim Ji-seok",
+      "Oh Jung-se",
+      "Son Dam-bi",
+      "Jung Ga-ram"
+    ],
+    "diretor": "Cha Yeong-hun",
+    "roteirista": "Lim Sang-choon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.8,
+      "mdl": 8.3,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 7,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/7OCAlRz13R9HZIbXTNUfyEAYyvf.jpg",
+    "poster": "/xPxkIZEQTUG3keSC2mEuzoLJLlt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=VO_TQgPPrIY",
+    "sinopse": "Dongbaek chegou à cidadezinha de Ongsan com um bebê no colo e abriu o bar Camellia debaixo do olhar atravessado das vizinhas. Seis anos depois, ela segue criando o filho sozinha e aguentando julgamentos com uma dignidade silenciosa — até que Yong-sik, um policial atrapalhado e absurdamente sincero, resolve amá-la em voz alta, sem medo do que pensem. Enquanto isso, um serial killer conhecido como 'Coringa' volta a agir, e o passado de Dongbaek insiste em bater à porta. Uma história sobre coragem, maternidade e o amor que chega quando ninguém mais acreditava.",
+    "porque_assistir": "O fenômeno que varreu a Coreia em 2019 e levou o Grande Prêmio do Baeksang: comédia, romance, suspense e um dos interesses românticos mais adoráveis da história dos doramas. Yong-sik virou sinônimo de 'green flag', e Dongbaek, símbolo de força serena. Impossível não sair apaixonada.",
+    "curiosidades": [
+      "Venceu o Daesang (Grande Prêmio) de televisão no Baeksang Arts Awards 2020 — na mesma edição em que Parasita levou o de cinema.",
+      "Kang Ha-neul venceu Melhor Ator no Baeksang superando favoritos como Hyun Bin (Crash Landing on You).",
+      "Foi a minissérie mais assistida de 2019 na Coreia, com pico de 23,8% de audiência no episódio final.",
+      "O menino Kim Kang-hoon (Pil-gu) virou queridinho nacional, e o mistério do 'Coringa' manteve o país em teorias conspiratórias semanais."
+    ],
+    "recomendacoes": [
+      "hometown-cha-cha-cha",
+      "our-blues",
+      "when-the-weather-is-fine"
+    ]
+  },
+  {
+    "id": "my-liberation-notes",
+    "titulo": "My Liberation Notes",
+    "titulo_original": "나의 해방일지",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Healing"
+    ],
+    "temas": [
+      "Solidão",
+      "Libertação",
+      "Família",
+      "Vida Adulta",
+      "Autoconhecimento"
+    ],
+    "profissoes": [
+      "Trabalhadora de Escritório"
+    ],
+    "elenco": [
+      "Lee Min-ki",
+      "Kim Ji-won",
+      "Son Suk-ku",
+      "Lee El",
+      "Cheon Ho-jin",
+      "Lee Ki-woo"
+    ],
+    "diretor": "Kim Sok-yun",
+    "roteirista": "Park Hae-young",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.8,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/2gXm6JK2r0KYEaInX3sWr5WwD6H.jpg",
+    "poster": "/4uwWzrkkMOzx1KEc6jgGiManXkP.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FQEm4dPZsNo",
+    "sinopse": "Os três irmãos Yeom moram no vilarejo de Sanpo e gastam horas de trem para trabalhar em empregos que não amam em Seul. Gi-jeong quer ser amada, Chang-hee quer ser alguém, e a caçula Mi-jeong só quer, um dia, se sentir livre da vida pequena que parece tê-la escolhido. Quando um forasteiro calado — conhecido apenas como Sr. Gu — se instala na vizinhança, Mi-jeong lhe faz a proposta mais estranha e mais bonita já dita em um dorama: 'Me venere'. E os dois, devagar, começam a se libertar.",
+    "porque_assistir": "A crítica chamou de melhor drama da TV no ano, e o Baeksang deu o prêmio de Melhor Roteiro. My Liberation Notes é para assistir devagar, como quem lê um livro que entende exatamente como você se sente numa quarta-feira à noite. A química contida entre Kim Ji-won e Son Suk-ku é das mais elétricas já filmadas sem quase nenhum toque. Um dorama que muda o humor da semana.",
+    "curiosidades": [
+      "A fala 'Me venere' (날 추앙해요) virou bordão nacional em 2022 e transformou Son Suk-ku em estrela da noite para o dia.",
+      "Escrito por Park Hae-young, de My Mister — ela venceu o Baeksang de Melhor Roteiro pelas duas obras.",
+      "O 'Clube da Libertação' criado pelos personagens inspirou clubes de escrita reais entre fãs coreanos.",
+      "O protagonista masculino é creditado apenas como 'Sr. Gu' — seu nome completo é mantido em mistério por quase toda a série."
+    ],
+    "recomendacoes": [
+      "summer-strike",
+      "one-spring-night",
+      "the-interest-of-love"
+    ]
+  },
+  {
+    "id": "summer-strike",
+    "titulo": "Summer Strike",
+    "titulo_original": "아무것도 하고 싶지 않아",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "ENA"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Healing",
+      "Small Town",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Burnout",
+      "Luto",
+      "Recomeço",
+      "Vida Simples"
+    ],
+    "profissoes": [
+      "Bibliotecário"
+    ],
+    "elenco": [
+      "Kim Seol-hyun",
+      "Yim Si-wan",
+      "Shin Eun-soo",
+      "Bang Jae-min",
+      "Park Ye-yeong",
+      "Kwak Min-kyu"
+    ],
+    "diretor": "Lee Yoon-jung",
+    "roteirista": "Lee Yoon-jung, Hong Moon-pyo",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.4,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 9,
+      "red": 1
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/bFIXVd8oxOsFg4GkkTYTvMe7uF6.jpg",
+    "poster": "/meR4LKeniFSOgvY7su2XvEpavjd.jpg",
+    "trailer": "",
+    "sinopse": "Depois de perder a mãe e o emprego quase ao mesmo tempo, Lee Yeo-reum toma a decisão mais radical de sua vida: parar. Ela deixa Seul, aluga um quartinho na cidadezinha litorânea de Angok e declara greve de tudo — ambição, pressa, expectativas. Lá, cruza com An Dae-beom, um ex-prodígio da matemática que abandonou tudo para ser bibliotecário e vive em silêncio confortável. Entre livros emprestados, caminhadas e conversas curtas, os dois descobrem que não fazer nada, às vezes, é o primeiro passo para recomeçar.",
+    "porque_assistir": "A joia escondida dos healing dramas: minimalista, silenciosa e profundamente reconfortante. Dirigida pela criadora de Coffee Prince, com Im Si-wan e Seolhyun em atuações delicadas, Summer Strike é o dorama pra assistir embaixo da coberta quando o mundo pesa. Burnout nunca foi retratado com tanta ternura.",
+    "curiosidades": [
+      "Adaptado do webtoon 'I Don't Feel Like Doing Anything', de Joo Young-hyun.",
+      "Escrito e dirigido por Lee Yoon-jung, diretora do clássico Coffee Prince (2007).",
+      "Os dois protagonistas vêm do k-pop: Im Si-wan (ZE:A) e Kim Seol-hyun (AOA).",
+      "Foi exibido pela ENA, o mesmo canal revelação que lançou Extraordinary Attorney Woo meses antes."
+    ],
+    "recomendacoes": [
+      "my-liberation-notes",
+      "when-the-weather-is-fine",
+      "hometown-cha-cha-cha"
+    ]
+  },
+  {
+    "id": "melo-is-my-nature",
+    "titulo": "Melo Is My Nature",
+    "titulo_original": "멜로가 체질",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Comédia"
+    ],
+    "tropos": [
+      "Workplace",
+      "Amizade Feminina"
+    ],
+    "temas": [
+      "Amizade",
+      "Carreira",
+      "Luto",
+      "Vida Adulta"
+    ],
+    "profissoes": [
+      "Roteirista",
+      "Documentarista",
+      "Marketing"
+    ],
+    "elenco": [
+      "Chun Woo-hee",
+      "Jeon Yeo-been",
+      "Han Ji-eun",
+      "Ahn Jae-hong",
+      "Gong Myung",
+      "Yoon Ji-on"
+    ],
+    "diretor": "Lee Byeong-heon, Kim Hye-young",
+    "roteirista": "Lee Byeong-heon, Kim Yeong-young",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.3,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 9,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/wUDUibcYuox8Xf0QDiK46YzZM1N.jpg",
+    "poster": "/2NjO3b6sJBUWteRtdebEHhETsA9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=5B-O7spfw0s",
+    "sinopse": "Três melhores amigas, trinta anos, uma casa dividida e nenhuma vida resolvida: Jin-joo, roteirista de dramas tentando emplacar sua primeira obra; Han-joo, mãe solo e executiva de marketing que apaga incêndios diários; e Eun-jung, documentarista talentosa atravessando um luto que ninguém vê. Entre reuniões absurdas da indústria do entretenimento, romances que começam tortos e conversas de cozinha que varam a madrugada, elas seguram a vida adulta na base da amizade e do humor afiado.",
+    "porque_assistir": "O dorama mais espirituoso que você ainda não viu: diálogos em metralhadora dignos de Gilmore Girls, sátira afiada da própria indústria dos k-dramas e uma das amizades femininas mais verdadeiras já filmadas. Audiência baixa na TV, status de cult eterno — quem assiste, evangeliza.",
+    "curiosidades": [
+      "Codirigido e coescrito por Lee Byung-heon, diretor do filme Extreme Job, uma das maiores bilheterias da história da Coreia.",
+      "Sátira metalinguística: os personagens trabalham na própria indústria de doramas e desmontam os clichês do gênero em tempo real.",
+      "Chun Woo-hee, premiada atriz de cinema, fez aqui um raro papel principal na TV.",
+      "O ritmo de diálogos rendeu comparações constantes com Gilmore Girls entre fãs internacionais."
+    ],
+    "recomendacoes": [
+      "because-this-is-my-first-life",
+      "run-on",
+      "love-to-hate-you"
+    ]
+  },
+  {
+    "id": "um-amor-que-ilumina",
+    "titulo": "Um Amor que Ilumina",
+    "titulo_original": "샤이닝",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Aberto",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Second Chance",
+      "Slow Burn",
+      "Primeiro Amor"
+    ],
+    "temas": [
+      "Nostalgia",
+      "Reencontro",
+      "Escolhas",
+      "Tempo"
+    ],
+    "profissoes": [
+      "Condutor de Metrô",
+      "Gerente de Guesthouse"
+    ],
+    "elenco": [
+      "Park Jin-young",
+      "Kim Min-ju",
+      "Shin Jae-ha",
+      "Park Se-hyun",
+      "Kim Tae-hun",
+      "Kim Ji-hyun"
+    ],
+    "diretor": "Kim Yoon-jin",
+    "roteirista": "Lee Suk-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 6.8,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 6,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/gtxt1avGOgu3nhYGqWQWFPHSpKc.jpg",
+    "poster": "/6ayQpRaaJdGimfyWzspmzbCXbC9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=A9PqGqv3FBw",
+    "sinopse": "No verão antes do último ano do colégio, Yeon Tae-seo e Mo Eun-a se apaixonaram daquele jeito que só o primeiro amor permite — e a vida, como costuma fazer, os separou sem cerimônia. Dez anos depois, ele conduz trens no metrô de Seul; ela administra uma guesthouse à beira-mar. Um reencontro inesperado reacende tudo o que ficou suspenso, mas amar de novo, agora adultos, exige coragem para encarar as escolhas que os afastaram. Uma história contada ao ritmo das estações, sobre o amor que sobrevive ao tempo.",
+    "porque_assistir": "O melodrama de reencontro da temporada, dirigido pela mesma diretora de Our Beloved Summer — e se nota em cada enquadramento banhado de luz. Park Jin-young (GOT7) e Kim Min-ju têm uma química nostálgica que conquistou o público do streaming, com trilha sonora de Nam Hye-seung. Para quem ama primeiras paixões, segundas chances e finais que deixam pensando.",
+    "curiosidades": [
+      "Par de idols-atores: Park Jin-young é do GOT7 e Kim Min-ju é ex-IZ*ONE, em seu primeiro protagonismo romântico.",
+      "Direção de Kim Yoon-jin, a mesma de Our Beloved Summer, com trilha sonora de Nam Hye-seung.",
+      "Na TV coreana teve audiência baixíssima, mas ganhou vida nova (e nota alta no IMDb) com o público global da Netflix.",
+      "Chegou à Netflix brasileira em março de 2026 com o título 'Um Amor que Ilumina' (internacional: Still Shining)."
+    ],
+    "recomendacoes": [
+      "our-beloved-summer",
+      "encounter",
+      "call-it-love"
+    ]
   }
 ]
