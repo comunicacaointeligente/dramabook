@@ -33,6 +33,16 @@ export const slugify = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "")
 
 const tipoDe = (p) => /coreia/i.test(p) ? "K-Drama" : /jap/i.test(p) ? "J-Drama" : /china/i.test(p) ? "C-Drama" : "";
 
+/* LINHA EDITORIAL (Clau, 20/07/2026): o catálogo não inclui títulos focados
+   em romance BL/GL nem com conteúdo sexual explícito. Ficha com essas tags
+   é BARRADA na importação (aviso no console; nada é gravado). */
+const FORA_DA_LINHA = ["bl", "gl", "boys love", "girls love", "yaoi", "yuri", "erótico", "erotico", "sexo explícito", "sexo explicito", "conteúdo adulto", "19+"];
+function foraDaLinha(rec) {
+  const tags = [...(rec.categorias || []), ...(rec.tropos || []), ...(rec.temas || []), ...(rec.generos || [])]
+    .map((t) => String(t).toLowerCase().trim());
+  return FORA_DA_LINHA.filter((a) => tags.some((t) => t === a || (a.includes(" ") && t.includes(a))));
+}
+
 const read = (p) => JSON.parse(readFileSync(p, "utf8"));
 const curation = read(`${ROOT}lotes/${name}.json`);
 const meta = existsSync(`${ROOT}lotes/${name}.meta.json`) ? read(`${ROOT}lotes/${name}.meta.json`) : {};
@@ -63,6 +73,11 @@ for (const c of curation) {
     curiosidades: c.curiosidades ?? [],
     recomendacoes: (c.recomendacoes ?? []).map(slugify), // títulos → ids permanentes
   };
+  const alerta = foraDaLinha(rec);
+  if (alerta.length) {
+    console.log(`  🚫 "${rec.titulo}" BARRADO pela linha editorial (${alerta.join(", ")}) — não importado.`);
+    continue;
+  }
   byId.has(id) ? updated++ : added++;
   byId.set(id, rec);
 }
