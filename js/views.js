@@ -2,10 +2,10 @@
    views.js — telas e renderização (home, resultados, menu)
    ========================================================= */
 import { $, $$, STATE, itemsInList, itemsDaLista, toast, resolvePoster, flag } from "./store.js";
-import { LIST_MENU, CATEGORY_MENU, QUICK_FILTERS, MOODS, PAGE_SIZE } from "./config.js";
+import { LIST_MENU, CATEGORY_MENU, QUICK_FILTERS, MOODS, PAGE_SIZE, EXPERIENCIAS } from "./config.js";
 import { inList, listaIds, listasPersonalizadas, getLista } from "./user.js";
 import { renderBiblioteca } from "../components/biblioteca.js";
-import { byFacet, search, topRated, latest, masterpieces, pickRandom } from "./filters.js";
+import { byFacet, search, topRated, latest, masterpieces, pickRandom, byExperiencia } from "./filters.js";
 import { renderCards, hydrateImages, statusHTML } from "../components/card.js";
 import { renderRail } from "../components/rail.js";
 import { renderHero } from "../components/hero.js";
@@ -22,11 +22,20 @@ export function renderSidebar() {
     ? `<p class="menu-label">Listas personalizadas</p>` + minhas.map(l =>
         `<button class="menu-item" data-verlista="${l.id}">${l.emoji} ${l.nome} <span class="badge">${l.itens.length}</span></button>`).join("")
     : "";
+  const expHtml = EXPERIENCIAS.map(e =>
+    `<button class="menu-item" data-exp="${e.key}">${e.icon} ${e.label}</button>`).join("");
   $("#menu").innerHTML = `
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
+    <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
     <p class="menu-label">Categorias</p>${catHtml}`;
+}
+
+export function showExperiencia(key) {
+  const e = EXPERIENCIAS.find(x => x.key === key);
+  if (!e) return;
+  showResults(`${e.icon} ${e.label}`, byExperiencia(key));
 }
 
 /* ---------- chips + humor ---------- */

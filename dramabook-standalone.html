@@ -752,6 +752,22 @@ const CATEGORY_MENU = [
   { facet: "obra_prima", icon: "⭐", label: "Obras-primas" },
 ];
 
+/* ✨ Descubra por experiência — prateleiras emocionais DERIVADAS dos dados
+   das fichas (sensações, flags, episódios, perfil, tags). Nada novo no schema. */
+const EXPERIENCIAS = [
+  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana" },
+  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos" },
+  { key: "comfort",    icon: "☕", label: "Doramas confortáveis" },
+  { key: "quimica",    icon: "🔥", label: "Química de milhões" },
+  { key: "beijos",     icon: "💋", label: "Beijos memoráveis" },
+  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis" },
+  { key: "leves",      icon: "🎉", label: "Leves e divertidos" },
+  { key: "segunda",    icon: "🥹", label: "Segunda chance" },
+  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama" },
+  { key: "imperdiveis",icon: "🏆", label: "Imperdíveis" },
+  { key: "lancamentos",icon: "🆕", label: "Lançamentos" },
+];
+
 /* Chips de filtro rápido no topo da home. */
 const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 
@@ -1188,6 +1204,26 @@ function topRated(limit = Infinity) {
 }
 function latest(limit = Infinity) { return [...STATE.all].reverse().slice(0, limit); }
 function masterpieces() { return STATE.all.filter(d => matchFacet(d, "obra_prima")); }
+
+/* ✨ Experiências: prateleiras emocionais derivadas dos dados das fichas. */
+function byExperiencia(key) {
+  const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
+  const regras = {
+    maratona:    d => d.episodios > 0 && d.episodios <= 12,
+    lencinhos:   d => (sensacao(d, "emocao") ?? 0) >= 9,
+    comfort:     d => tem(d, "Healing") || tem(d, "Comfort"),
+    quimica:     d => (sensacao(d, "quimica") ?? 0) >= 9,
+    beijos:      d => (sensacao(d, "beijos") ?? 0) >= 8,
+    saudaveis:   d => (getFlag(d, "green") ?? 0) >= 9,
+    leves:       d => (sensacao(d, "humor") ?? 0) >= 8,
+    segunda:     d => tem(d, "Second Chance"),
+    primeiro:    d => d.perfil?.iniciante === true,
+    imperdiveis: d => (getNota(d) ?? 0) >= 9.5,
+    lancamentos: d => (d.ano ?? 0) >= 2025,
+  };
+  const r = regras[key];
+  return r ? STATE.all.filter(r).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0)) : [];
+}
 
 /* Sorteio (dorama aleatório / recomendação por humor). */
 function pickRandom(pool = STATE.all) {
@@ -1728,11 +1764,20 @@ function renderSidebar() {
     ? `<p class="menu-label">Listas personalizadas</p>` + minhas.map(l =>
         `<button class="menu-item" data-verlista="${l.id}">${l.emoji} ${l.nome} <span class="badge">${l.itens.length}</span></button>`).join("")
     : "";
+  const expHtml = EXPERIENCIAS.map(e =>
+    `<button class="menu-item" data-exp="${e.key}">${e.icon} ${e.label}</button>`).join("");
   $("#menu").innerHTML = `
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
+    <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
     <p class="menu-label">Categorias</p>${catHtml}`;
+}
+
+function showExperiencia(key) {
+  const e = EXPERIENCIAS.find(x => x.key === key);
+  if (!e) return;
+  showResults(`${e.icon} ${e.label}`, byExperiencia(key));
 }
 
 /* ---------- chips + humor ---------- */
@@ -2028,6 +2073,14 @@ function onClick(e) {
   /* --- filtro por status nos resultados --- */
   const st = e.target.closest("[data-status]");
   if (st) { filtrarPorStatus(st.dataset.status); return; }
+
+  /* --- ✨ descubra por experiência --- */
+  const exp = e.target.closest("[data-exp]");
+  if (exp) {
+    closeModal(); showExperiencia(exp.dataset.exp);
+    setActiveMenu(exp.classList.contains("menu-item") ? exp : null);
+    closeSidebar(); return;
+  }
 
   /* --- navegação padrão --- */
   const open = e.target.closest("[data-open]");

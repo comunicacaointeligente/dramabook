@@ -12,7 +12,7 @@ import {
   renderSidebar, renderQuickfilters, renderMood, renderHome, showHome,
   showSearch, showFacet, showList, updateBadges, refreshListUI, setActiveMenu,
   bindLoadMore, toggleMood, indicarPorHumor, showBiblioteca, showListaPersonalizada,
-  showResults, renderSugestoes, fecharSugestoes, filtrarPorStatus,
+  showResults, renderSugestoes, fecharSugestoes, filtrarPorStatus, showExperiencia,
 } from "./js/views.js";
 import { openModal, closeModal } from "./components/modal.js";
 import { compartilharDorama, compartilharLista, fecharFolha, copiarLink, lerListaDoLink } from "./js/share.js";
@@ -107,6 +107,14 @@ function onClick(e) {
   /* --- filtro por status nos resultados --- */
   const st = e.target.closest("[data-status]");
   if (st) { filtrarPorStatus(st.dataset.status); return; }
+
+  /* --- ✨ descubra por experiência --- */
+  const exp = e.target.closest("[data-exp]");
+  if (exp) {
+    closeModal(); showExperiencia(exp.dataset.exp);
+    setActiveMenu(exp.classList.contains("menu-item") ? exp : null);
+    closeSidebar(); return;
+  }
 
   /* --- navegação padrão --- */
   const open = e.target.closest("[data-open]");

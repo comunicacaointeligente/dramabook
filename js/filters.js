@@ -74,6 +74,26 @@ export function topRated(limit = Infinity) {
 export function latest(limit = Infinity) { return [...STATE.all].reverse().slice(0, limit); }
 export function masterpieces() { return STATE.all.filter(d => matchFacet(d, "obra_prima")); }
 
+/* ✨ Experiências: prateleiras emocionais derivadas dos dados das fichas. */
+export function byExperiencia(key) {
+  const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
+  const regras = {
+    maratona:    d => d.episodios > 0 && d.episodios <= 12,
+    lencinhos:   d => (sensacao(d, "emocao") ?? 0) >= 9,
+    comfort:     d => tem(d, "Healing") || tem(d, "Comfort"),
+    quimica:     d => (sensacao(d, "quimica") ?? 0) >= 9,
+    beijos:      d => (sensacao(d, "beijos") ?? 0) >= 8,
+    saudaveis:   d => (getFlag(d, "green") ?? 0) >= 9,
+    leves:       d => (sensacao(d, "humor") ?? 0) >= 8,
+    segunda:     d => tem(d, "Second Chance"),
+    primeiro:    d => d.perfil?.iniciante === true,
+    imperdiveis: d => (getNota(d) ?? 0) >= 9.5,
+    lancamentos: d => (d.ano ?? 0) >= 2025,
+  };
+  const r = regras[key];
+  return r ? STATE.all.filter(r).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0)) : [];
+}
+
 /* Sorteio (dorama aleatório / recomendação por humor). */
 export function pickRandom(pool = STATE.all) {
   if (!pool.length) return null;

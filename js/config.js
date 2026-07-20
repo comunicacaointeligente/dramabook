@@ -57,6 +57,22 @@ export const CATEGORY_MENU = [
   { facet: "obra_prima", icon: "⭐", label: "Obras-primas" },
 ];
 
+/* ✨ Descubra por experiência — prateleiras emocionais DERIVADAS dos dados
+   das fichas (sensações, flags, episódios, perfil, tags). Nada novo no schema. */
+export const EXPERIENCIAS = [
+  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana" },
+  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos" },
+  { key: "comfort",    icon: "☕", label: "Doramas confortáveis" },
+  { key: "quimica",    icon: "🔥", label: "Química de milhões" },
+  { key: "beijos",     icon: "💋", label: "Beijos memoráveis" },
+  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis" },
+  { key: "leves",      icon: "🎉", label: "Leves e divertidos" },
+  { key: "segunda",    icon: "🥹", label: "Segunda chance" },
+  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama" },
+  { key: "imperdiveis",icon: "🏆", label: "Imperdíveis" },
+  { key: "lancamentos",icon: "🆕", label: "Lançamentos" },
+];
+
 /* Chips de filtro rápido no topo da home. */
 export const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 
