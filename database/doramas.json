@@ -256,7 +256,8 @@
       "run-on",
       "love-to-hate-you",
       "romance-is-a-bonus-book"
-    ]
+    ],
+    "titulo_br": "Porque Esta É a Minha Primeira Vida"
   },
   {
     "id": "one-spring-night",
@@ -733,7 +734,8 @@
     "recomendacoes": [
       "hometown-cha-cha-cha",
       "summer-strike"
-    ]
+    ],
+    "titulo_br": "Irei Quando o Tempo Estiver Bom"
   },
   {
     "id": "run-on",
@@ -810,7 +812,8 @@
     "recomendacoes": [
       "because-this-is-my-first-life",
       "our-beloved-summer"
-    ]
+    ],
+    "titulo_br": "Na Direção do Amor"
   },
   {
     "id": "hospital-playlist",
@@ -976,7 +979,8 @@
       "you-are-my-spring",
       "chocolate",
       "call-it-love"
-    ]
+    ],
+    "titulo_br": "Tudo Bem, Isso é Amor"
   },
   {
     "id": "tell-me-that-you-love-me",
@@ -1136,7 +1140,8 @@
     "recomendacoes": [
       "run-on",
       "our-beloved-summer"
-    ]
+    ],
+    "titulo_br": "Você Gosta de Brahms?"
   },
   {
     "id": "romance-is-a-bonus-book",
@@ -1308,7 +1313,8 @@
       "our-blues",
       "one-spring-night",
       "when-the-camellia-blooms"
-    ]
+    ],
+    "titulo_br": "Um Pedaço da Sua Mente"
   },
   {
     "id": "you-are-my-spring",
@@ -1394,7 +1400,8 @@
       "it-s-okay-that-s-love",
       "hospital-playlist",
       "call-it-love"
-    ]
+    ],
+    "titulo_br": "Você é Minha Primavera"
   },
   {
     "id": "encounter",
@@ -1483,7 +1490,8 @@
       "something-in-the-rain",
       "one-spring-night",
       "um-amor-que-ilumina"
-    ]
+    ],
+    "titulo_br": "Encontro"
   },
   {
     "id": "the-interest-of-love",
@@ -1572,7 +1580,8 @@
       "one-spring-night",
       "something-in-the-rain",
       "my-liberation-notes"
-    ]
+    ],
+    "titulo_br": "Investimento de Risco"
   },
   {
     "id": "chocolate",
@@ -1757,7 +1766,8 @@
       "hometown-cha-cha-cha",
       "when-the-camellia-blooms",
       "my-liberation-notes"
-    ]
+    ],
+    "titulo_br": "Amor e Outros Dramas"
   },
   {
     "id": "when-the-camellia-blooms",
@@ -1939,7 +1949,8 @@
       "summer-strike",
       "one-spring-night",
       "the-interest-of-love"
-    ]
+    ],
+    "titulo_br": "Meu Diário para a Liberdade"
   },
   {
     "id": "summer-strike",
@@ -2026,7 +2037,8 @@
       "my-liberation-notes",
       "when-the-weather-is-fine",
       "hometown-cha-cha-cha"
-    ]
+    ],
+    "titulo_br": "Não Quero Fazer Nada"
   },
   {
     "id": "melo-is-my-nature",
@@ -2827,7 +2839,7 @@
     "id": "twenty-five-twenty-one",
     "titulo": "Twenty-Five Twenty-One",
     "titulo_original": "스물다섯 스물하나",
-    "titulo_br": "",
+    "titulo_br": "Vinte e Cinco, Vinte e Um",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2022,
@@ -3092,7 +3104,7 @@
     "id": "strong-woman-do-bong-soon",
     "titulo": "Strong Woman Do Bong-soon",
     "titulo_original": "힘쎈여자 도봉순",
-    "titulo_br": "",
+    "titulo_br": "Strong Girl Bong-soon",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2017,
