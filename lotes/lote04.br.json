@@ -1,0 +1,14 @@
+{
+  "healer": {"plataformas_br": ["Netflix", "Viki", "Kocowa"], "titulo_br": null},
+  "suspicious-partner": {"plataformas_br": ["Netflix"], "titulo_br": "Parceira Suspeita"},
+  "welcome-to-samdalri": {"plataformas_br": ["Netflix"], "titulo_br": "Bem-Vindos a Samdal-ri"},
+  "lovestruck-in-the-city": {"plataformas_br": ["Netflix"], "titulo_br": "Apaixonados na Cidade"},
+  "kill-me-heal-me": {"plataformas_br": ["Viki", "Kocowa"], "titulo_br": null},
+  "familiar-wife": {"plataformas_br": [], "titulo_br": null},
+  "fight-for-my-way": {"plataformas_br": ["Netflix"], "titulo_br": null},
+  "she-was-pretty": {"plataformas_br": ["Netflix"], "titulo_br": "Ela Era Linda"},
+  "itaewon-class": {"plataformas_br": ["Netflix"], "titulo_br": null},
+  "marry-my-husband": {"plataformas_br": ["Prime Video"], "titulo_br": "A Esposa do Meu Marido"},
+  "forecasting-love-and-weather": {"plataformas_br": ["Netflix"], "titulo_br": "Previsão do Tempo e do Amor"},
+  "coffee-prince": {"plataformas_br": ["Netflix", "Kocowa"], "titulo_br": null}
+}

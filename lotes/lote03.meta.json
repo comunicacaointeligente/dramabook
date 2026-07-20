@@ -1,0 +1,424 @@
+{
+  "doctor-john": {
+    "titulo_original": "의사요한",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ji Sung",
+      "Lee Se-young",
+      "Lee Kyoo-hyung",
+      "Oh Hyun-joong",
+      "Kim Hye-eun"
+    ],
+    "diretor": "Jo Soo-won",
+    "roteirista": "Kim Ji-woon",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
+    "banner": "/s0ZXX7Zr2oX4VDUMHRHXjkXeDeN.jpg",
+    "trailer": "https://www.youtube.com/watch?v=BAx5W5vMTzM"
+  },
+  "my-mister": {
+    "titulo_original": "나의 아저씨",
+    "titulo_br": "Meu Senhor",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "80 min",
+    "elenco": [
+      "Lee Sun-kyun",
+      "IU",
+      "Goh Doo-shim",
+      "Park Ho-san",
+      "Lee Ji-ah"
+    ],
+    "diretor": "Kim Won-suk",
+    "roteirista": "Park Hae-young",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/gE9tZDycsA31wvtzUcDWVk6Nf7t.jpg",
+    "banner": "/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
+    "trailer": "https://www.youtube.com/watch?v=f-Eaa3f3gDo"
+  },
+  "move-to-heaven": {
+    "titulo_original": "무브 투 헤븐: 나는 유품정리사입니다",
+    "titulo_br": "A Caminho do Céu",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "elenco": [
+      "Lee Je-hoon",
+      "Tang Joon-sang",
+      "Hong Seung-hee",
+      "Jeong Seok-yong"
+    ],
+    "diretor": "Kim Sung-ho",
+    "roteirista": "Yoon Ji-ryun",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/gUvA20jcHABFPjYMIiZl5o9tWi3.jpg",
+    "banner": "/tsdhmP9H7ZDveYDE0wkh90tjX3S.jpg",
+    "trailer": "https://www.youtube.com/watch?v=80XSCaQIlko"
+  },
+  "navillera": {
+    "titulo_original": "나빌레라",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Park In-hwan",
+      "Song Kang",
+      "Na Moon-hee",
+      "Hong Seung-hee"
+    ],
+    "diretor": "Han Dong-hwa",
+    "roteirista": "Lee Eun-mi",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/pBd6pEhszsWk95TrUqo4bdXhH8T.jpg",
+    "banner": "/ylS5KdDgb8s4Y7P3sDifrizvmA4.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YtK3Vtw4rno"
+  },
+  "prison-playbook": {
+    "titulo_original": "슬기로운 감빵생활",
+    "titulo_br": "Manual do Presidiário",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "90 min",
+    "elenco": [
+      "Park Hae-soo",
+      "Jung Kyung-ho",
+      "Krystal Jung",
+      "Lee Kyoo-hyung",
+      "Choi Mu-sung"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Jung Bo-hoon",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/6Z2Wrr8m8Fx9WN10Q3eqaPI9WgT.jpg",
+    "banner": "/kdsvRpXal5Xa1Ldq7m2qzQmYsBa.jpg",
+    "trailer": "https://www.youtube.com/watch?v=cxRhBctpD3E"
+  },
+  "twinkling-watermelon": {
+    "titulo_original": "반짝이는 워터멜론",
+    "titulo_br": "Melancia Cintilante",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ryeoun",
+      "Choi Hyun-wook",
+      "Seol In-a",
+      "Shin Eun-soo"
+    ],
+    "diretor": "Son Jeong-hyeon",
+    "roteirista": "Jin Soo-wan",
+    "plataformas": [
+      "tvN",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/bwTzW1wTgUxUOQruhT8DvinUYgR.jpg",
+    "banner": "/efaMS00Fevc3fw2dbeP7rh22O6D.jpg",
+    "trailer": "https://www.youtube.com/watch?v=KbWi3VW6QuM"
+  },
+  "alchemy-of-souls": {
+    "titulo_original": "환혼",
+    "titulo_br": "Alquimia das Almas",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 20,
+    "temporadas": 2,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Jae-wook",
+      "Jung So-min",
+      "Go Youn-jung",
+      "Hwang Minhyun",
+      "Shin Seung-ho"
+    ],
+    "diretor": "Park Joon-hwa",
+    "roteirista": "Hong Jeong-eun, Hong Mi-ran",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/gvOZN1NlAoL8iz9ghpES1zWA3w3.jpg",
+    "banner": "/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=50kLmhGpt1s"
+  },
+  "mr-queen": {
+    "titulo_original": "철인왕후",
+    "titulo_br": "Sr. Rainha",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "76 min",
+    "elenco": [
+      "Shin Hae-sun",
+      "Kim Jung-hyun",
+      "Bae Jong-ok",
+      "Seol In-a",
+      "Na In-woo"
+    ],
+    "diretor": "",
+    "roteirista": "Park Kye-ok, Choi A-il",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/ozuyMnOO5pekDklyPpUL1Htkuzy.jpg",
+    "banner": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg",
+    "trailer": "https://www.youtube.com/watch?v=dImREPX_Pbk"
+  },
+  "moon-lovers-scarlet-heart-ryeo": {
+    "titulo_original": "달의 연인 - 보보경심 려",
+    "titulo_br": "Amantes da Lua",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "IU",
+      "Lee Joon-gi",
+      "Kang Ha-neul",
+      "Hong Jong-hyun",
+      "Baekhyun",
+      "Nam Joo-hyuk"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
+    "banner": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg",
+    "trailer": "https://www.youtube.com/watch?v=o7mYYXToqmw"
+  },
+  "mr-sunshine": {
+    "titulo_original": "미스터 션샤인",
+    "titulo_br": "Mr. Sunshine - Um Raio de Sol",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 24,
+    "temporadas": 1,
+    "duracao": "73 min",
+    "elenco": [
+      "Lee Byung-hun",
+      "Kim Tae-ri",
+      "Yoo Yeon-seok",
+      "Kim Min-jung",
+      "Byun Yo-han"
+    ],
+    "diretor": "Lee Eung-bok",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/p7ljjykSsiyWstGVAwIkbdfPzRV.jpg",
+    "banner": "/gQwa6X2nmTHkmDgAifU4wacNqp4.jpg",
+    "trailer": "https://www.youtube.com/watch?v=rPJSo4fhtRU"
+  },
+  "weightlifting-fairy-kim-bok-joo": {
+    "titulo_original": "역도요정 김복주",
+    "titulo_br": "Fada do Levantamento de Peso, Kim Bok-joo",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "61 min",
+    "elenco": [
+      "Lee Sung-kyung",
+      "Nam Joo-hyuk",
+      "Lee Jae-yoon",
+      "Kyung Soo-jin"
+    ],
+    "diretor": "Oh Hyun-jong",
+    "roteirista": "Yang Hui-seung",
+    "plataformas": [
+      "MBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/j6ZvCPj6bNIVbR3r6xJMRVZqsVF.jpg",
+    "banner": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FKpPKqEg2Pc"
+  },
+  "doctor-slump": {
+    "titulo_original": "닥터 슬럼프",
+    "titulo_br": "Remédio para a Vida",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "62 min",
+    "elenco": [
+      "Park Shin-hye",
+      "Park Hyung-sik",
+      "Yoon Park",
+      "Kong Seong-ha"
+    ],
+    "diretor": "Oh Hyun-jong",
+    "roteirista": "Paek Sun-woo",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 12,
+    "poster": "/uBGtTy0fYFGJf7Xj8j82g3lNtJn.jpg",
+    "banner": "/2JMQI9dyR6wzgs8kWDiDK6Npt3j.jpg",
+    "trailer": "https://www.youtube.com/watch?v=oGyWHLCf4NQ"
+  },
+  "reply-1988": {
+    "titulo_original": "응답하라 1988",
+    "titulo_br": "Responde 1988",
+    "pais": "Coreia do Sul",
+    "ano": 2015,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "90 min",
+    "elenco": [
+      "Lee Hye-ri",
+      "Ryu Jun-yeol",
+      "Park Bo-gum",
+      "Go Kyung-pyo",
+      "Lee Dong-hwi",
+      "Ryu Hye-young"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Lee Woo-jung",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/4mMjZGLfjnHIPwv2Jx0wzdqRpGy.jpg",
+    "banner": "/sZH7lGs06skRKkrqp1LRi57VVMb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=c-EMf3JdxUA"
+  },
+  "goblin": {
+    "titulo_original": "쓸쓸하고 찬란하神-도깨비",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "80 min",
+    "elenco": [
+      "Gong Yoo",
+      "Kim Go-eun",
+      "Lee Dong-wook",
+      "Yoo In-na",
+      "Yook Sung-jae"
+    ],
+    "diretor": "Lee Eung-bok",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "tvN",
+      "Crunchyroll"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/uGj0VhydzfMiYXGdx0ps4pKpcN2.jpg",
+    "banner": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg",
+    "trailer": "https://www.youtube.com/watch?v=y1ClsA-zt-I"
+  },
+  "hotel-del-luna": {
+    "titulo_original": "호텔 델루나",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "73 min",
+    "elenco": [
+      "IU",
+      "Yeo Jin-goo",
+      "Shin Jung-keun",
+      "Bae Hae-seon"
+    ],
+    "diretor": "",
+    "roteirista": "Hong Jeong-eun, Hong Mi-ran",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/l9uQ0lYeCM2F3YCXJyF5JaTCQXQ.jpg",
+    "banner": "/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-OGGOA9iyM0"
+  },
+  "what-s-wrong-with-secretary-kim": {
+    "titulo_original": "김비서가 왜 그럴까",
+    "titulo_br": "O Que Houve Com a Secretária Kim?",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "63 min",
+    "elenco": [
+      "Park Seo-jun",
+      "Park Min-young",
+      "Lee Tae-hwan",
+      "Pyo Ye-jin",
+      "Kim Hye-ok"
+    ],
+    "diretor": "Park Joon-hwa",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/qmq7vKRPoK2VHOTeaUdwwe3l5bB.jpg",
+    "banner": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1xh8cujxUGs"
+  }
+}
