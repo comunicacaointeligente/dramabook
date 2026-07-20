@@ -689,6 +689,11 @@ const LOCAL_BANNERS = "assets/banners/";
 /* Quantos cartões renderizar por vez numa grade grande (escala p/ 500+). */
 const PAGE_SIZE = 60;
 
+/* Foco Brasil: o site só exibe doramas com streaming disponível no Brasil.
+   Registros sem streaming BR ficam no banco (invisíveis) e reaparecem
+   automaticamente quando a disponibilidade for atualizada. */
+const SOMENTE_BRASIL = true;
+
 /* Bandeira por país. */
 const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",
@@ -1067,6 +1072,8 @@ function ingestBundle(bundle) {
 function addMany(arr) {
   for (const d of arr) {
     if (!d || !d.id || STATE.byId[d.id]) continue;  // dedupe por id, nunca sobrescreve
+    // Foco Brasil: sem streaming BR → fica no banco, mas não entra no site.
+    if (SOMENTE_BRASIL && !streamingList(d).some(ehStreaming)) continue;
     STATE.byId[d.id] = d;
     STATE.all.push(d);
   }

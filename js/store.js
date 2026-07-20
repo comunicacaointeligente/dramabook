@@ -2,8 +2,9 @@
    store.js — estado, dados e persistência
    Camada de dados: não toca em layout (só o toast, que é utilitário).
    ========================================================= */
-import { IMG_BASE, POSTER_SIZE, BACKDROP_SIZE, LOCAL_POSTERS, LOCAL_BANNERS, FLAGS } from "./config.js";
+import { IMG_BASE, POSTER_SIZE, BACKDROP_SIZE, LOCAL_POSTERS, LOCAL_BANNERS, FLAGS, SOMENTE_BRASIL } from "./config.js";
 import { listaIds, getLista } from "./user.js";
+import { ehStreaming } from "./plataformas.js";
 
 /* ---------- helpers DOM ---------- */
 export const $ = (s, r = document) => r.querySelector(s);
@@ -103,6 +104,8 @@ function ingestBundle(bundle) {
 function addMany(arr) {
   for (const d of arr) {
     if (!d || !d.id || STATE.byId[d.id]) continue;  // dedupe por id, nunca sobrescreve
+    // Foco Brasil: sem streaming BR → fica no banco, mas não entra no site.
+    if (SOMENTE_BRASIL && !streamingList(d).some(ehStreaming)) continue;
     STATE.byId[d.id] = d;
     STATE.all.push(d);
   }

@@ -13,6 +13,11 @@ export const LOCAL_BANNERS = "assets/banners/";
 /* Quantos cartões renderizar por vez numa grade grande (escala p/ 500+). */
 export const PAGE_SIZE = 60;
 
+/* Foco Brasil: o site só exibe doramas com streaming disponível no Brasil.
+   Registros sem streaming BR ficam no banco (invisíveis) e reaparecem
+   automaticamente quando a disponibilidade for atualizada. */
+export const SOMENTE_BRASIL = true;
+
 /* Bandeira por país. */
 export const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",
