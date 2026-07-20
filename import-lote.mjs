@@ -71,6 +71,8 @@ for (const c of curation) {
     banner: m.banner ?? "", poster: m.poster ?? "", trailer: validarTrailer(m.trailer ?? "", c.titulo),
     sinopse: c.sinopse ?? "", porque_assistir: c.porque_assistir ?? "",
     curiosidades: c.curiosidades ?? [],
+    ...(c.conteudo ? { conteudo: c.conteudo } : {}),      // 🚦 semáforo da curadoria
+    ...(c.editor_tags ? { editor_tags: c.editor_tags } : {}),
     recomendacoes: (c.recomendacoes ?? []).map(slugify), // títulos → ids permanentes
   };
   const alerta = foraDaLinha(rec);

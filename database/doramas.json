@@ -7140,6 +7140,10 @@
       "Da mesma roteirista de Kingdom.",
       "Ganhou remake japonês na Fuji TV em 2018."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Crimes reais reconstruídos com peso, incluindo sequestro de criança e assassinatos em série, tratados com gravidade e sem apelo gráfico."
+    },
     "recomendacoes": [
       "stranger",
       "tunnel",
@@ -7226,6 +7230,10 @@
       "O protagonista vence brigas com cálculo e objetos do ambiente, não com força — virou marca da série.",
       "Chegou à Netflix em 2025 e entrou no top 10 de cerca de 70 países."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Bullying extremo, espancamentos gráficos entre adolescentes e consequências psicológicas pesadas, tratadas sem alívio. Classificado 18+ na Coreia."
+    },
     "recomendacoes": [
       "weak-hero-class-2",
       "the-glory",
@@ -7313,6 +7321,10 @@
       "Entrou no ranking de 91 dos 93 países onde a Netflix opera.",
       "O lançamento disparou a leitura do webtoon original na Naver."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência escolar gráfica, brigas com armas improvisadas e luto pesado. Classificado 18+ na Coreia."
+    },
     "recomendacoes": [
       "weak-hero-class-1",
       "the-glory",
@@ -7402,6 +7414,10 @@
       "Uma das produções coreanas mais caras já feitas (entre 50 e 65 bilhões de wons).",
       "A narrativa inverte a ordem esperada: começa com os filhos e recua para contar a história dos pais."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica no último terço, combates com faca e ferimentos explícitos; também trata luto e experimentação com pessoas."
+    },
     "recomendacoes": [
       "signal",
       "alchemy-of-souls",
@@ -7491,6 +7507,10 @@
       "Lee Joon-gi recebeu vários prêmios de Melhor Ator pelo papel.",
       "Citado como referência de thriller psicológico sem triângulo amoroso."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Serial killer, cenas de crime explícitas, sequestro, tortura e abuso na infância."
+    },
     "recomendacoes": [
       "stranger",
       "signal",
@@ -7578,6 +7598,10 @@
       "A trama do ferro de passar remete a um caso real de violência escolar em Cheongju.",
       "Lim Ji-yeon e Lee Do-hyun, que contracenam na série, assumiram um relacionamento real em 2023."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Bullying extremo com queimaduras e agressões explícitas, automutilação, suicídio, abuso doméstico e violência sexual sugerida."
+    },
     "recomendacoes": [
       "weak-hero-class-1",
       "flower-of-evil",
@@ -7666,6 +7690,10 @@
       "O protagonista não sente emoções — condição que define toda a construção da personagem.",
       "Foi o primeiro roteiro de televisão de Lee Su-yeon, que venceu o Baeksang na estreia."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Homicídios e cenas de crime investigadas com frieza clínica, além de corrupção institucional; sem violência gratuita."
+    },
     "recomendacoes": [
       "signal",
       "flower-of-evil",
@@ -7753,6 +7781,10 @@
       "A Netflix confirmou oficialmente a segunda temporada depois do desempenho global.",
       "As coreografias de boxe foram elogiadas pelo realismo, sem recursos de fantasia."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Lutas de rua e boxe muito brutais, espancamentos e crime organizado, mas sem tortura gráfica prolongada."
+    },
     "recomendacoes": [
       "weak-hero-class-1",
       "vincenzo",
@@ -7841,6 +7873,10 @@
       "Grande parte da história se passa numa penitenciária construída como cenário fechado.",
       "Foi o drama de maior audiência da MBC em 2022."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência prisional, espancamentos, tortura, experimentação humana com radiação e mortes; ambientação opressiva do início ao fim."
+    },
     "recomendacoes": [
       "vincenzo",
       "flower-of-evil",
@@ -7928,6 +7964,10 @@
       "Termina em cliffhanger explícito preparando uma 2ª temporada que nunca foi produzida.",
       "A distribuição internacional pela Netflix ampliou muito o alcance fora da Ásia."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Tiroteios, perseguições, atentado com muitas vítimas e mortes de personagens; violência de ação, sem tortura gráfica."
+    },
     "recomendacoes": [
       "big-mouth",
       "healer",
@@ -8016,6 +8056,10 @@
       "Pico de 11% de audiência na TV aberta — resultado forte para o horário.",
       "O sucesso garantiu segunda temporada, prevista para agosto de 2026."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Casos de homicídio e cenas de ação e perseguição, mas com tom predominantemente leve e cômico."
+    },
     "recomendacoes": [
       "bad-and-crazy",
       "vincenzo",
@@ -8099,6 +8143,10 @@
       "Vários arcos se inspiram em crimes reais noticiados na Coreia.",
       "Rendeu 2ª temporada em 2023 e 3ª em 2025 — raro para dramas de emissora aberta."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Retrata crimes reais pesados: tráfico humano, trabalho escravo, crimes sexuais digitais e violência contra vulneráveis."
+    },
     "recomendacoes": [
       "the-glory",
       "vincenzo",
@@ -8184,6 +8232,10 @@
       "O tribunal em formato de catedral foi construído como cenário monumental.",
       "Ji Sung já havia protagonizado outro drama jurídico de peso, Innocent Defendant (2017)."
     ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência física explícita, tortura, incêndio com vítimas, abuso na infância e manipulação psicológica pesada."
+    },
     "recomendacoes": [
       "stranger",
       "vincenzo",
@@ -8268,6 +8320,10 @@
       "Lee Joon-gi, com formação em artes marciais para tela, executou pessoalmente grande parte das lutas.",
       "Exemplo raro de dorama de vingança praticamente sem linha romântica."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Lutas corpo a corpo frequentes, assassinatos e corrupção institucional, sem tortura gráfica prolongada."
+    },
     "recomendacoes": [
       "reborn-rich",
       "taxi-driver",
@@ -8354,6 +8410,10 @@
       "O conglomerado fictício Soonyang se inspira em chaebols reais, com marcos econômicos do país virando enredo.",
       "O desfecho gerou insatisfação noticiada em veículos como Korea Herald e JoongAng Daily."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Assassinato, disputas familiares cruéis e manipulação corporativa; violência pontual, não gráfica."
+    },
     "recomendacoes": [
       "again-my-life",
       "itaewon-class",
@@ -8440,6 +8500,10 @@
       "Foi um dos primeiros trabalhos dele lançados após a explosão global de Round 6.",
       "Cha Hak-yeon, do VIXX, integra o elenco principal."
     ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ação policial intensa, brigas e corrupção institucional, com um fio de trauma de infância tratado com seriedade."
+    },
     "recomendacoes": [
       "flex-x-cop",
       "vincenzo",
@@ -8524,6 +8588,10 @@
       "Bateu o recorde de audiência da OCN no primeiro episódio e voltou a batê-lo no final.",
       "Superou o recorde anterior da emissora, que pertencia a Voice."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Assassinatos em série de mulheres, com violência mais sugerida que mostrada, e um luto que atravessa toda a série."
+    },
     "recomendacoes": [
       "signal",
       "stranger",
