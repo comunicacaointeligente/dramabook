@@ -38,6 +38,7 @@ export function renderCard(d) {
     </div>
     <div class="card-body">
       <p class="card-title">${d.titulo}</p>
+      ${d.titulo_br && d.titulo_br !== d.titulo ? `<p class="card-br">${d.titulo_br}</p>` : ""}
       <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}</p>
     </div>
   </article>`;

@@ -21,6 +21,7 @@ export function renderHero(d) {
     <div class="hero-text">
       <span class="hero-tag">Destaque de hoje</span>
       <h1 class="hero-title">${d.titulo}</h1>
+      ${d.titulo_br && d.titulo_br !== d.titulo ? `<p class="hero-br">${d.titulo_br}</p>` : ""}
       <div class="hero-meta">
         <span class="hero-nota">★ <b>${fmtNota(getNota(d))}</b></span>
         <span>${flag(d.pais)} ${d.pais || ""}</span><span>${d.ano || ""}</span>
