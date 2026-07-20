@@ -151,6 +151,15 @@ export function openModal(id) {
             ${av.imdb > 0 ? mchip("IMDb " + fmtNota(av.imdb)) : ""}
             ${d.status ? mchip(d.status) : ""}
           </div>
+          ${(() => { /* status pessoal — visível de cara ao abrir a ficha */
+            const meu = [
+              inList("assisti", d.id) ? mchip("✅ Você já assistiu", "user") : "",
+              inList("favoritos", d.id) ? mchip("❤️ Seu favorito", "user") : "",
+              inList("quero", d.id) ? mchip("🔖 Na sua lista", "user") : "",
+              minhaNota(d.id) != null ? mchip("⭐ Sua nota: " + minhaNota(d.id), "user") : "",
+            ].join("");
+            return meu ? `<div class="modal-badges meus">${meu}</div>` : "";
+          })()}
           <h2 class="modal-title">${d.titulo}</h2>
           <p class="modal-orig">${d.titulo_original || ""}</p>
           <div class="modal-chips">${chips}</div>
@@ -199,8 +208,10 @@ export function openModal(id) {
   modal.hidden = false;
   document.body.style.overflow = "hidden";
   document.getElementById("modalClose").addEventListener("click", closeModal, { once: true });
-  hydrateImages(document.getElementById("modalCard"));
-  document.getElementById("modalCard").scrollTop = 0;
+  const card = document.getElementById("modalCard");
+  card.dataset.doramaId = d.id; // permite atualizar a ficha ao marcar status
+  hydrateImages(card);
+  card.scrollTop = 0;
 }
 
 export function closeModal() {

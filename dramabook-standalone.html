@@ -313,6 +313,12 @@ a { color: inherit; text-decoration: none; }
 .modal-bannerimg { position: absolute; inset: 0; background-size: cover; background-position: center 18%; }
 .modal-bannerscrim { position: absolute; inset: 0; z-index: 1; background: linear-gradient(transparent 15%, var(--surface)); }
 .modal-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+.modal-badges.meus { margin-top: -2px; }
+.mchip.user {
+  background: color-mix(in srgb, #16A34A 16%, var(--surface-2));
+  border-color: color-mix(in srgb, #16A34A 45%, transparent);
+  color: var(--text); font-weight: 650;
+}
 .modal-close {
   position: absolute; top: 14px; right: 14px; z-index: 4; width: 38px; height: 38px; border-radius: 50%;
   background: rgba(10,12,18,.7); color: #fff; border: 1px solid rgba(255,255,255,.15); font-size: 16px;
@@ -1434,6 +1440,15 @@ function openModal(id) {
             ${av.imdb > 0 ? mchip("IMDb " + fmtNota(av.imdb)) : ""}
             ${d.status ? mchip(d.status) : ""}
           </div>
+          ${(() => { /* status pessoal — visível de cara ao abrir a ficha */
+            const meu = [
+              inList("assisti", d.id) ? mchip("✅ Você já assistiu", "user") : "",
+              inList("favoritos", d.id) ? mchip("❤️ Seu favorito", "user") : "",
+              inList("quero", d.id) ? mchip("🔖 Na sua lista", "user") : "",
+              minhaNota(d.id) != null ? mchip("⭐ Sua nota: " + minhaNota(d.id), "user") : "",
+            ].join("");
+            return meu ? `<div class="modal-badges meus">${meu}</div>` : "";
+          })()}
           <h2 class="modal-title">${d.titulo}</h2>
           <p class="modal-orig">${d.titulo_original || ""}</p>
           <div class="modal-chips">${chips}</div>
@@ -1482,8 +1497,10 @@ function openModal(id) {
   modal.hidden = false;
   document.body.style.overflow = "hidden";
   document.getElementById("modalClose").addEventListener("click", closeModal, { once: true });
-  hydrateImages(document.getElementById("modalCard"));
-  document.getElementById("modalCard").scrollTop = 0;
+  const card = document.getElementById("modalCard");
+  card.dataset.doramaId = d.id; // permite atualizar a ficha ao marcar status
+  hydrateImages(card);
+  card.scrollTop = 0;
 }
 
 function closeModal() {
@@ -1929,6 +1946,9 @@ function onClick(e) {
     refreshListUI(qa.dataset.id); updateBadges();
     const labels = { favoritos: "Favoritos", assisti: "Já assisti", quero: "Quero assistir" };
     toast(`${added ? "Adicionado a" : "Removido de"} ${labels[qa.dataset.qa]}`);
+    // ficha aberta deste dorama → re-renderiza pra atualizar os selos pessoais
+    const mc = $("#modalCard");
+    if (!$("#modal").hidden && mc?.dataset.doramaId === qa.dataset.id) refreshModal(qa.dataset.id);
     return;
   }
 

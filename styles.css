@@ -310,6 +310,12 @@ a { color: inherit; text-decoration: none; }
 .modal-bannerimg { position: absolute; inset: 0; background-size: cover; background-position: center 18%; }
 .modal-bannerscrim { position: absolute; inset: 0; z-index: 1; background: linear-gradient(transparent 15%, var(--surface)); }
 .modal-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+.modal-badges.meus { margin-top: -2px; }
+.mchip.user {
+  background: color-mix(in srgb, #16A34A 16%, var(--surface-2));
+  border-color: color-mix(in srgb, #16A34A 45%, transparent);
+  color: var(--text); font-weight: 650;
+}
 .modal-close {
   position: absolute; top: 14px; right: 14px; z-index: 4; width: 38px; height: 38px; border-radius: 50%;
   background: rgba(10,12,18,.7); color: #fff; border: 1px solid rgba(255,255,255,.15); font-size: 16px;

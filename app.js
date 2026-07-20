@@ -45,6 +45,9 @@ function onClick(e) {
     refreshListUI(qa.dataset.id); updateBadges();
     const labels = { favoritos: "Favoritos", assisti: "Já assisti", quero: "Quero assistir" };
     toast(`${added ? "Adicionado a" : "Removido de"} ${labels[qa.dataset.qa]}`);
+    // ficha aberta deste dorama → re-renderiza pra atualizar os selos pessoais
+    const mc = $("#modalCard");
+    if (!$("#modal").hidden && mc?.dataset.doramaId === qa.dataset.id) refreshModal(qa.dataset.id);
     return;
   }
 
