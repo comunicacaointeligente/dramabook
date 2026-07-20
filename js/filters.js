@@ -48,18 +48,19 @@ export function search(q) {
 
   for (const d of STATE.all) {
     const titulo = semAcento(d.titulo);
+    const tituloBr = semAcento(d.titulo_br);
     const original = semAcento(d.titulo_original);
     const outros = semAcento([d.pais, d.tipo, d.diretor, d.roteirista, d.universo,
       ...streamingList(d), ...tagsOf(d), ...(d.elenco || [])].join(" "));
-    const tudo = `${titulo} ${original} ${outros} ${d.ano || ""}`;
+    const tudo = `${titulo} ${tituloBr} ${original} ${outros} ${d.ano || ""}`;
 
     if (!termos.every(t => tudo.includes(t))) continue; // todas as palavras precisam existir
 
     let score = 0;
-    if (titulo === frase) score += 100;
-    else if (titulo.startsWith(frase)) score += 60;
-    else if (titulo.includes(frase)) score += 40;
-    if (termos.every(t => titulo.includes(t))) score += 20;
+    if (titulo === frase || tituloBr === frase) score += 100;
+    else if (titulo.startsWith(frase) || tituloBr.startsWith(frase)) score += 60;
+    else if (titulo.includes(frase) || tituloBr.includes(frase)) score += 40;
+    if (termos.every(t => titulo.includes(t) || tituloBr.includes(t))) score += 20;
     if (original.includes(frase)) score += 15;
     score += (getNota(d) || 0); // desempate: melhor avaliado primeiro
     achados.push({ d, score });

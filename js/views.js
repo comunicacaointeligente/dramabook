@@ -77,7 +77,7 @@ export function renderSugestoes(q) {
     return `<button class="sg" data-open="${d.id}">
       <span class="sg-poster">${poster ? `<img src="${poster}" alt="" loading="lazy">` : ""}</span>
       <span class="sg-txt">
-        <b>${d.titulo}</b>
+        <b>${d.titulo}${d.titulo_br && d.titulo_br !== d.titulo ? ` <i class="sg-br">(${d.titulo_br})</i>` : ""}</b>
         <i>${flag(d.pais)} ${d.ano || ""}${d.titulo_original ? " · " + d.titulo_original : ""}</i>
       </span>
       <span class="sg-status">${statusHTML(d.id)}</span>

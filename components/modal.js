@@ -163,7 +163,7 @@ export function openModal(id) {
             return meu ? `<div class="modal-badges meus">${meu}</div>` : "";
           })()}
           <h2 class="modal-title">${d.titulo}</h2>
-          <p class="modal-orig">${d.titulo_original || ""}</p>
+          <p class="modal-orig">${d.titulo_original || ""}${has(d.titulo_br) && d.titulo_br !== d.titulo ? ` · <span class="modal-brname">🇧🇷 ${d.titulo_br}</span>` : ""}</p>
           <div class="modal-chips">${chips}</div>
           ${flags ? `<div class="flag-chips">${flags}</div>` : ""}
         </div>

@@ -57,7 +57,7 @@ for (const c of curation) {
   const m = meta[id] || {};
   const rec = {
     id,
-    titulo: c.titulo, titulo_original: m.titulo_original ?? "", tipo: m.tipo ?? tipoDe(m.pais || ""),
+    titulo: c.titulo, titulo_original: m.titulo_original ?? "", titulo_br: m.titulo_br ?? c.titulo_br ?? "", tipo: m.tipo ?? tipoDe(m.pais || ""),
     pais: m.pais ?? "", ano: c.ano ?? m.ano ?? 0, episodios: m.episodios ?? 0, temporadas: m.temporadas ?? 1,
     duracao: m.duracao ?? "", status: m.status ?? "",
     ...(m.classificacao != null ? { classificacao: m.classificacao } : {}),

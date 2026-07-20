@@ -1,0 +1,23 @@
+{
+  "disponibilidade": {
+    "queen-of-tears": ["Netflix"],
+    "descendants-of-the-sun": ["Viki"],
+    "business-proposal": ["Netflix"],
+    "her-private-life": ["Netflix", "Prime Video"],
+    "king-the-land": ["Netflix"],
+    "touch-your-heart": ["Prime Video"],
+    "lovely-runner": ["Viki"],
+    "twenty-five-twenty-one": ["Netflix"],
+    "true-beauty": ["Netflix", "Max"],
+    "extraordinary-attorney-woo": ["Netflix"],
+    "strong-woman-do-bong-soon": ["Viki"],
+    "crash-course-in-romance": ["Netflix"]
+  },
+  "titulos_br_confirmados": {
+    "business-proposal": "Pretendente Surpresa",
+    "king-the-land": "Sorriso Real",
+    "crash-course-in-romance": "Intensivão de Amor",
+    "lovely-runner": "Adorável Corredora",
+    "true-beauty": "Beleza Verdadeira"
+  }
+}
