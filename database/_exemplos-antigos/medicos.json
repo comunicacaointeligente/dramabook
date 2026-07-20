@@ -1,0 +1,57 @@
+[
+  {
+    "id": "hospital-playlist",
+    "titulo": "Hospital Playlist",
+    "titulo_original": "슬기로운 의사생활",
+    "ano": 2020,
+    "pais": "Coreia do Sul",
+    "plataforma": "Netflix",
+    "dublado": false,
+    "categorias": [
+      "Médicos",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Friends to Lovers"
+    ],
+    "nota": 9.2,
+    "obra_prima": true,
+    "poster": "https://image.tmdb.org/t/p/w500/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg",
+    "sinopse": "Cinco médicos amigos desde a faculdade dividem a rotina de um hospital e uma banda. (Sinopse de exemplo — substituir pela curadoria.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "dr-romantic"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg"
+  },
+  {
+    "id": "dr-romantic",
+    "titulo": "Dr. Romantic",
+    "titulo_original": "낭만닥터 김사부",
+    "ano": 2016,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Médicos",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Mentor",
+      "Slow Burn"
+    ],
+    "nota": 8.8,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/eBbxLx6Gzz7sG1oE8FXNQPjYOV7.jpg",
+    "sinopse": "Um cirurgião genial e recluso forma jovens médicos em um pequeno hospital de interior. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "hospital-playlist"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/cmk8d1e1GxrwTaau0Tj4zm1osm0.jpg"
+  }
+]

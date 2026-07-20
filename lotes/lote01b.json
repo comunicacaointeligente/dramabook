@@ -1,0 +1,236 @@
+[
+  {
+    "titulo": "Something in the Rain",
+    "ano": 2018,
+    "sinopse": "Uma executiva reencontra o irmão mais novo de sua melhor amiga, e a amizade rapidamente se transforma em um romance que desafia convenções familiares.",
+    "porque_assistir": "Romance sensível e realista.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Maturidade"
+    ],
+    "profissoes": [],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 0,
+      "imdb": 0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 7,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Crash Landing on You",
+      "Our Beloved Summer"
+    ]
+  },
+  {
+    "titulo": "Call It Love",
+    "ano": 2023,
+    "sinopse": "Movida por um desejo de vingança, uma mulher se aproxima do homem que acredita ser responsável pelo sofrimento de sua família, mas sentimentos inesperados mudam tudo.",
+    "porque_assistir": "Narrativa madura e emocional.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Perdão"
+    ],
+    "profissoes": [],
+    "avaliacao": {
+      "chatgpt": 9.6,
+      "mdl": 0,
+      "imdb": 0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "One Spring Night",
+      "Something in the Rain"
+    ]
+  },
+  {
+    "titulo": "Love to Hate You",
+    "ano": 2023,
+    "sinopse": "Uma advogada que desconfia dos homens cruza o caminho de um ator famoso avesso a relacionamentos, iniciando uma divertida batalha de personalidades.",
+    "porque_assistir": "Comédia romântica adulta e cheia de química.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Enemies to Lovers"
+    ],
+    "temas": [
+      "Amor",
+      "Confiança"
+    ],
+    "profissoes": [
+      "Advogada",
+      "Ator"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 0,
+      "imdb": 0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 7,
+      "humor": 10,
+      "beijos": 9
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Business Proposal",
+      "Her Private Life"
+    ]
+  },
+  {
+    "titulo": "When the Weather Is Fine",
+    "ano": 2020,
+    "sinopse": "Cansada da vida na cidade, uma violoncelista retorna à pequena cidade onde cresceu e reencontra um antigo amigo.",
+    "porque_assistir": "Drama acolhedor e contemplativo.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Small Town",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Recomeço",
+      "Cura"
+    ],
+    "profissoes": [
+      "Violoncelista"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 0,
+      "imdb": 0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 6,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Hometown Cha-Cha-Cha",
+      "Summer Strike"
+    ]
+  },
+  {
+    "titulo": "Run On",
+    "ano": 2020,
+    "sinopse": "Um ex-atleta e uma tradutora descobrem novas perspectivas sobre carreira, amor e amadurecimento.",
+    "porque_assistir": "Relacionamentos saudáveis e diálogos inteligentes.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amadurecimento",
+      "Carreira"
+    ],
+    "profissoes": [
+      "Atleta",
+      "Tradutora"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 0,
+      "imdb": 0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 8,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Because This Is My First Life",
+      "Our Beloved Summer"
+    ]
+  }
+]

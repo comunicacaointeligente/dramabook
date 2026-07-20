@@ -1,0 +1,2124 @@
+<meta charset="utf-8">
+<title>DRAMABOOK — Biblioteca de Doramas</title>
+<style>
+/* =========================================================
+   DRAMABOOK — styles.css
+   Paleta: Azul CI, Laranja CI, brancos e cinzas.
+   Troque os hex de --azul-ci / --laranja-ci pelos oficiais.
+   ========================================================= */
+
+:root {
+  /* --- Marca (TROCAR pelos hex oficiais da CI) --- */
+  --azul-ci: #1e6bff;
+  --azul-ci-2: #0b4fd6;
+  --laranja-ci: #ff7a1a;
+  --laranja-ci-2: #ff9a45;
+
+  /* --- Tema escuro (padrão) --- */
+  --bg: #0b0d12;
+  --bg-2: #10131b;
+  --surface: #161a24;
+  --surface-2: #1d2230;
+  --line: #262c3a;
+  --text: #f3f5fa;
+  --text-dim: #9aa3b5;
+  --text-faint: #6b7385;
+
+  --radius: 16px;
+  --radius-sm: 10px;
+  --shadow: 0 18px 40px -18px rgba(0, 0, 0, .7);
+  --shadow-soft: 0 8px 24px -12px rgba(0, 0, 0, .55);
+  --topbar-h: 66px;
+  --sidebar-w: 248px;
+  --maxw: 1440px;
+}
+
+[data-theme="light"] {
+  --bg: #f5f7fb;
+  --bg-2: #eef1f7;
+  --surface: #ffffff;
+  --surface-2: #f2f4f9;
+  --line: #e2e6ef;
+  --text: #131722;
+  --text-dim: #5a6376;
+  --text-faint: #8a92a4;
+  --shadow: 0 18px 40px -20px rgba(20, 30, 60, .25);
+  --shadow-soft: 0 8px 22px -14px rgba(20, 30, 60, .22);
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  font-family: "Inter", "Segoe UI", system-ui, -apple-system, Roboto, Arial, sans-serif;
+  background:
+    radial-gradient(1200px 600px at 82% -8%, rgba(30, 107, 255, .16), transparent 60%),
+    radial-gradient(900px 520px at -6% 4%, rgba(255, 122, 26, .12), transparent 55%),
+    var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+button { font-family: inherit; cursor: pointer; }
+a { color: inherit; text-decoration: none; }
+/* Garante que qualquer elemento com [hidden] realmente suma — senão o modal
+   (display:grid) empata com [hidden] e cobre a página com o véu escuro. */
+[hidden] { display: none !important; }
+
+/* ===================== TOPO ===================== */
+.topbar {
+  position: sticky; top: 0; z-index: 60;
+  height: var(--topbar-h);
+  display: flex; align-items: center; gap: 16px;
+  padding: 0 22px;
+  background: color-mix(in srgb, var(--bg-2) 82%, transparent);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+.logo { display: flex; align-items: center; gap: 9px; font-weight: 800; letter-spacing: .5px; font-size: 20px; }
+.logo-mark {
+  display: grid; place-items: center;
+  width: 30px; height: 30px; border-radius: 9px; font-size: 12px; color: #fff;
+  background: linear-gradient(135deg, var(--azul-ci), var(--laranja-ci));
+  box-shadow: 0 6px 16px -6px var(--azul-ci);
+}
+.logo-text b { color: var(--laranja-ci); }
+
+.search-wrap {
+  flex: 1; max-width: 640px; margin: 0 auto;
+  display: flex; align-items: center; gap: 8px;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 999px; padding: 0 14px; height: 42px;
+  transition: border-color .15s, box-shadow .15s;
+}
+.search-wrap:focus-within { border-color: var(--azul-ci); box-shadow: 0 0 0 3px rgba(30, 107, 255, .2); }
+.search-ico { opacity: .7; font-size: 14px; }
+.search-input { flex: 1; background: none; border: none; outline: none; color: var(--text); font-size: 15px; }
+.search-input::placeholder { color: var(--text-faint); }
+.search-clear { background: none; border: none; color: var(--text-dim); font-size: 14px; }
+
+.topbar-actions { display: flex; align-items: center; gap: 10px; }
+.icon-btn {
+  width: 40px; height: 40px; border-radius: 11px;
+  background: var(--surface); border: 1px solid var(--line); color: var(--text);
+  font-size: 16px; display: grid; place-items: center; transition: .15s;
+}
+.icon-btn:hover { border-color: var(--azul-ci); transform: translateY(-1px); }
+.menu-toggle { display: none; }
+
+.chip-btn {
+  height: 40px; padding: 0 15px; border-radius: 11px;
+  background: linear-gradient(135deg, var(--laranja-ci), var(--laranja-ci-2));
+  color: #1a0f00; font-weight: 700; border: none; font-size: 14px;
+  display: inline-flex; align-items: center; gap: 6px; transition: .15s;
+  box-shadow: 0 8px 18px -10px var(--laranja-ci);
+}
+.chip-btn:hover { transform: translateY(-1px); filter: brightness(1.05); }
+.chip-btn.ghost { background: var(--surface); color: var(--text); border: 1px solid var(--line); box-shadow: none; font-weight: 600; }
+
+/* ===================== LAYOUT ===================== */
+.layout { display: flex; max-width: var(--maxw); margin: 0 auto; }
+
+/* ===================== SIDEBAR ===================== */
+.sidebar {
+  width: var(--sidebar-w); flex: 0 0 var(--sidebar-w);
+  position: sticky; top: var(--topbar-h);
+  height: calc(100vh - var(--topbar-h));
+  overflow-y: auto;
+  border-right: 1px solid var(--line);
+}
+.sidebar-inner { padding: 18px 12px 30px; display: flex; flex-direction: column; min-height: 100%; }
+.menu { display: flex; flex-direction: column; gap: 3px; }
+.menu-label {
+  font-size: 11px; text-transform: uppercase; letter-spacing: 1.2px;
+  color: var(--text-faint); margin: 16px 12px 6px; font-weight: 700;
+}
+.menu-label:first-child { margin-top: 2px; }
+.menu-item {
+  display: flex; align-items: center; gap: 10px;
+  background: none; border: none; color: var(--text-dim);
+  padding: 9px 12px; border-radius: 10px; font-size: 14.5px; text-align: left;
+  transition: .13s; position: relative;
+}
+.menu-item:hover { background: var(--surface); color: var(--text); }
+.menu-item.active {
+  background: linear-gradient(90deg, color-mix(in srgb, var(--azul-ci) 22%, transparent), transparent);
+  color: var(--text); font-weight: 600;
+}
+.menu-item.active::before {
+  content: ""; position: absolute; left: 0; top: 8px; bottom: 8px; width: 3px;
+  border-radius: 3px; background: var(--laranja-ci);
+}
+.badge {
+  margin-left: auto; min-width: 22px; height: 20px; padding: 0 6px;
+  display: grid; place-items: center; border-radius: 999px;
+  background: var(--surface-2); color: var(--text-dim); font-size: 12px; font-weight: 700;
+}
+.menu-foot { margin-top: auto; padding: 16px 12px 0; font-size: 11px; color: var(--text-faint); }
+.sidebar-scrim { display: none; }
+
+/* ===================== CONTEÚDO ===================== */
+.content { flex: 1; min-width: 0; padding: 24px 26px 40px; }
+
+/* HERO */
+.hero {
+  position: relative; border-radius: var(--radius); overflow: hidden;
+  padding: 36px 42px; margin-bottom: 26px; min-height: 300px;
+  display: flex; align-items: center; gap: 38px;
+  box-shadow: var(--shadow); border: 1px solid var(--line);
+  background: linear-gradient(120deg, var(--pc1, #22314f), var(--pc2, #0c1220));
+}
+/* Banner horizontal (backdrop) com blur discreto + escurecido para o texto respirar. */
+.hero-bg {
+  position: absolute; inset: 0; z-index: 0;
+  background-size: cover; background-position: center 18%;
+  transform: scale(1.06); filter: blur(1.5px) brightness(.6);
+}
+.hero:not(.has-backdrop) .hero-bg { display: none; }
+.hero-scrim {
+  position: absolute; inset: 0; z-index: 1; pointer-events: none;
+  background: linear-gradient(100deg, rgba(6,8,14,.95) 0%, rgba(6,8,14,.72) 40%, rgba(6,8,14,.2) 70%, transparent 100%);
+}
+.hero-text { position: relative; z-index: 2; flex: 1; min-width: 0; }
+.hero-poster { position: relative; z-index: 2; flex: 0 0 auto; }
+.hero-poster img {
+  width: 190px; aspect-ratio: 2 / 3; object-fit: cover; display: block;
+  border-radius: 14px; border: 1px solid rgba(255,255,255,.16);
+  box-shadow: 0 22px 44px -16px rgba(0,0,0,.75); opacity: 0; transition: opacity .35s ease;
+}
+.hero-poster img.loaded { opacity: 1; }
+.hero-tag { font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--laranja-ci-2); }
+.hero-title { font-size: clamp(26px, 4vw, 46px); font-weight: 800; margin: 8px 0 8px; line-height: 1.04; color: #fff; text-wrap: balance; }
+.hero-meta { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; color: #eaeefa; font-size: 14px; margin-bottom: 13px; }
+.hero-nota b { color: var(--laranja-ci-2); }
+.hero-syn { color: #d3daea; font-size: 14.5px; line-height: 1.55; margin-bottom: 18px; max-width: 60ch;
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.hero-actions { display: flex; gap: 10px; flex-wrap: wrap; }
+
+/* QUICKFILTERS */
+.quickfilters { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 22px; }
+.qf {
+  padding: 7px 13px; border-radius: 999px; font-size: 13px;
+  background: var(--surface); border: 1px solid var(--line); color: var(--text-dim); transition: .13s;
+}
+.qf:hover { color: var(--text); border-color: var(--azul-ci); }
+.qf.active { background: var(--azul-ci); border-color: var(--azul-ci); color: #fff; font-weight: 600; }
+
+/* RAIL */
+.rail { margin-bottom: 30px; }
+.rail-head { display: flex; align-items: baseline; gap: 10px; margin: 0 0 14px; }
+.rail-head h2 { font-size: 19px; margin: 0; font-weight: 750; }
+.rail-head .rail-sub { font-size: 12.5px; color: var(--text-faint); }
+.rail-track {
+  display: grid; grid-auto-flow: column; grid-auto-columns: 172px;
+  gap: 16px; overflow-x: auto; padding: 4px 2px 14px; scroll-snap-type: x proximity;
+}
+.rail-track::-webkit-scrollbar { height: 8px; }
+.rail-track::-webkit-scrollbar-thumb { background: var(--surface-2); border-radius: 99px; }
+
+/* GRID */
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(158px, 1fr)); gap: 18px; }
+
+/* ===================== CARD ===================== */
+.card { scroll-snap-align: start; cursor: pointer; }
+.poster {
+  position: relative; aspect-ratio: 2 / 3; border-radius: 13px; overflow: hidden;
+  background: linear-gradient(155deg, var(--pc1, #223), var(--pc2, #112));
+  border: 1px solid var(--line); box-shadow: var(--shadow-soft);
+  transition: transform .2s ease, box-shadow .2s ease, border-color .2s ease;
+  display: grid; place-items: center; text-align: center;
+}
+.card { border-radius: 13px; }
+.card:hover .poster, .card:focus-visible .poster {
+  transform: translateY(-6px) scale(1.02);
+  border-color: color-mix(in srgb, var(--azul-ci) 70%, var(--line));
+  box-shadow: 0 18px 40px -18px rgba(0,0,0,.7), 0 0 0 1px color-mix(in srgb, var(--azul-ci) 45%, transparent),
+              0 10px 34px -10px color-mix(in srgb, var(--azul-ci) 55%, transparent);
+}
+.card:focus-visible { outline: none; }
+.card:focus-visible .poster { outline: 2px solid var(--azul-ci); outline-offset: 2px; }
+.poster img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; transition: opacity .35s ease; }
+.poster img.loaded { opacity: 1; }
+.poster-fallback { padding: 14px; }
+.poster-fallback b { font-size: 17px; font-weight: 800; color: #fff; text-shadow: 0 2px 10px rgba(0,0,0,.6); display: block; line-height: 1.15; }
+.poster-fallback span { font-size: 11px; color: rgba(255,255,255,.75); }
+
+.rating-badge {
+  position: absolute; top: 8px; left: 8px; z-index: 3;
+  background: rgba(8,10,16,.78); color: var(--laranja-ci-2); backdrop-filter: blur(4px);
+  font-size: 12.5px; font-weight: 800; padding: 3px 8px; border-radius: 8px;
+  display: flex; align-items: center; gap: 3px; border: 1px solid rgba(255,255,255,.08);
+}
+.mp-badge {
+  position: absolute; top: 8px; right: 8px; z-index: 3; font-size: 13px;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,.6));
+}
+.dub-badge {
+  position: absolute; bottom: 8px; left: 8px; z-index: 3;
+  background: rgba(30,107,255,.85); color: #fff; font-size: 10px; font-weight: 700;
+  padding: 2px 6px; border-radius: 6px; letter-spacing: .3px;
+}
+
+.quick-actions {
+  position: absolute; inset: auto 0 0 0; z-index: 3;
+  display: flex; gap: 6px; justify-content: center; padding: 10px;
+  background: linear-gradient(transparent, rgba(0,0,0,.85));
+  opacity: 0; transform: translateY(8px); transition: .18s;
+}
+.card:hover .quick-actions { opacity: 1; transform: translateY(0); }
+.qa {
+  width: 34px; height: 34px; border-radius: 9px; border: 1px solid rgba(255,255,255,.16);
+  background: rgba(20,24,34,.9); color: #fff; font-size: 15px; display: grid; place-items: center; transition: .12s;
+}
+.qa:hover { transform: scale(1.12); }
+.qa.on { background: var(--laranja-ci); border-color: var(--laranja-ci); color: #1a0f00; }
+
+.card-body { padding: 9px 2px 0; }
+.card-title { font-size: 14px; font-weight: 650; line-height: 1.25; margin: 0 0 3px;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card-meta { font-size: 12px; color: var(--text-faint); display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+
+/* ===================== ESTADO VAZIO ===================== */
+.empty-state { text-align: center; padding: 80px 20px; max-width: 460px; margin: 0 auto; }
+.empty-mark {
+  width: 78px; height: 78px; margin: 0 auto 18px; display: grid; place-items: center;
+  font-size: 34px; border-radius: 22px;
+  background: linear-gradient(135deg, color-mix(in srgb, var(--azul-ci) 30%, transparent), color-mix(in srgb, var(--laranja-ci) 30%, transparent));
+  border: 1px solid var(--line);
+}
+.empty-state h2 { margin: 0 0 8px; font-size: 22px; }
+.empty-state p { color: var(--text-dim); line-height: 1.6; margin: 0; }
+
+/* ===================== RESULTADOS ===================== */
+.results-head { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+.results-head h2 { margin: 0; font-size: 22px; }
+.results-count { color: var(--text-faint); font-size: 14px; }
+#backHome { margin-left: auto; }
+.empty { text-align: center; color: var(--text-dim); padding: 60px 0; font-size: 16px; }
+
+/* ===================== MODAL ===================== */
+.modal { position: fixed; inset: 0; z-index: 100; display: grid; place-items: center; padding: 20px; }
+.modal-scrim { position: absolute; inset: 0; background: rgba(4,6,12,.72); backdrop-filter: blur(6px); }
+.modal-card {
+  position: relative; z-index: 2; width: min(880px, 100%); max-height: 90vh; overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 20px; box-shadow: var(--shadow);
+  animation: pop .22s ease;
+}
+@keyframes pop { from { transform: translateY(14px) scale(.98); opacity: 0; } }
+.modal-banner { position: relative; height: 220px; border-radius: 20px 20px 0 0; overflow: hidden;
+  background-color: var(--pc1, #223);
+  background-image: linear-gradient(150deg, var(--pc1, #223), var(--pc2, #112));
+  background-size: cover; background-position: center 22%; background-repeat: no-repeat; }
+.modal-banner::after { content: ""; position: absolute; inset: 0; z-index: 1; background: linear-gradient(transparent 30%, var(--surface)); }
+.modal-bannerimg { position: absolute; inset: 0; background-size: cover; background-position: center 18%; }
+.modal-bannerscrim { position: absolute; inset: 0; z-index: 1; background: linear-gradient(transparent 15%, var(--surface)); }
+.modal-badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+.modal-close {
+  position: absolute; top: 14px; right: 14px; z-index: 4; width: 38px; height: 38px; border-radius: 50%;
+  background: rgba(10,12,18,.7); color: #fff; border: 1px solid rgba(255,255,255,.15); font-size: 16px;
+}
+.modal-inner { padding: 0 30px 30px; margin-top: -56px; position: relative; z-index: 3; }
+.modal-head { display: flex; gap: 22px; align-items: flex-start; margin-bottom: 4px; }
+.modal-headmain { flex: 1; min-width: 0; padding-top: 64px; }
+.modal-poster { flex: 0 0 auto; }
+.modal-poster img {
+  width: 152px; aspect-ratio: 2 / 3; object-fit: cover; display: block;
+  border-radius: 12px; border: 3px solid var(--surface);
+  box-shadow: 0 16px 32px -12px rgba(0,0,0,.6);
+}
+.modal-title { font-size: 30px; font-weight: 800; margin: 8px 0 2px; text-wrap: balance; }
+.modal-orig { color: var(--text-dim); font-size: 15px; margin-bottom: 14px; }
+.modal-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
+.mchip { font-size: 12.5px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); }
+.mchip.hi { background: color-mix(in srgb, var(--azul-ci) 20%, transparent); color: var(--text); border-color: transparent; }
+.mchip.filterable { cursor: pointer; font: inherit; transition: .13s; }
+.mchip.filterable:hover { border-color: var(--azul-ci); color: var(--text); transform: translateY(-1px); }
+.mchip.note { background: linear-gradient(135deg, var(--laranja-ci), var(--laranja-ci-2)); color: #1a0f00; font-weight: 800; border: none; }
+.modal-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 22px; }
+.mbtn {
+  padding: 10px 16px; border-radius: 11px; font-size: 14px; font-weight: 650;
+  background: var(--surface-2); border: 1px solid var(--line); color: var(--text); display: inline-flex; gap: 7px; align-items: center; transition: .13s;
+}
+.mbtn:hover { border-color: var(--azul-ci); }
+.mbtn.on { background: var(--laranja-ci); border-color: var(--laranja-ci); color: #1a0f00; }
+.modal-section h3 { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: var(--text-faint); margin: 22px 0 8px; }
+.modal-section p { line-height: 1.65; color: var(--text); margin: 0; font-size: 15.5px; }
+.modal-datagrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; margin-top: 6px; }
+.data-cell { background: var(--surface-2); border: 1px solid var(--line); border-radius: 12px; padding: 11px 14px; }
+.data-cell span { display: block; font-size: 11px; text-transform: uppercase; letter-spacing: .8px; color: var(--text-faint); margin-bottom: 3px; }
+.data-cell b { font-size: 15px; font-weight: 650; }
+.rec-track { display: grid; grid-auto-flow: column; grid-auto-columns: 148px; gap: 14px; overflow-x: auto; padding: 6px 0 10px; }
+
+/* Flags (triângulo / final feliz) */
+.flag-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+
+/* Termômetro (medidores 0–10) */
+.meters { display: grid; gap: 9px; margin-top: 4px; }
+.meter { display: grid; grid-template-columns: 128px 1fr 30px; align-items: center; gap: 12px; font-size: 13.5px; color: var(--text-dim); }
+.meter-bar { height: 9px; border-radius: 99px; background: var(--surface-2); overflow: hidden; }
+.meter-bar i { display: block; height: 100%; border-radius: 99px; background: linear-gradient(90deg, var(--azul-ci), var(--laranja-ci)); }
+.meter-v { text-align: right; font-variant-numeric: tabular-nums; color: var(--text); font-weight: 700; }
+
+/* Trailer */
+.trailer-embed { position: relative; aspect-ratio: 16 / 9; border-radius: 12px; overflow: hidden; border: 1px solid var(--line); margin-top: 4px; }
+.trailer-embed iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+
+/* Elenco */
+.elenco-list { display: flex; gap: 8px; flex-wrap: wrap; }
+.elenco-list span { background: var(--surface-2); border: 1px solid var(--line); padding: 6px 11px; border-radius: 999px; font-size: 13px; }
+
+/* Curiosidades */
+.curio-list { margin: 4px 0 0; padding-left: 20px; line-height: 1.7; color: var(--text); }
+.curio-list li { margin-bottom: 5px; }
+.exemplo-flag { display: inline-block; margin-top: 16px; font-size: 12px; color: var(--laranja-ci-2); background: color-mix(in srgb, var(--laranja-ci) 14%, transparent); padding: 6px 11px; border-radius: 8px; }
+
+/* ===================== HUMOR (Me indique) ===================== */
+.mood {
+  position: absolute; top: calc(var(--topbar-h) - 8px); right: 66px; z-index: 70;
+  width: min(320px, 84vw); padding: 16px; border-radius: 16px;
+  background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow);
+  animation: pop .18s ease;
+}
+.mood-title { margin: 0 0 12px; font-weight: 700; font-size: 15px; }
+.mood-opts { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.mood-opt {
+  text-align: left; padding: 10px 12px; border-radius: 11px; font-size: 13.5px;
+  background: var(--surface-2); border: 1px solid var(--line); color: var(--text); transition: .13s;
+}
+.mood-opt:hover { border-color: var(--laranja-ci); transform: translateY(-1px); }
+
+/* ===================== CARREGAR MAIS ===================== */
+.load-more-wrap { display: flex; justify-content: center; margin-top: 26px; }
+
+/* Acessibilidade: respeita quem prefere menos animação. */
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: .001ms !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
+}
+
+/* ===================== MINHA BIBLIOTECA ===================== */
+.menu-item.destaque {
+  background: linear-gradient(135deg, color-mix(in srgb, var(--azul-ci) 26%, transparent), color-mix(in srgb, var(--laranja-ci) 20%, transparent));
+  color: var(--text); font-weight: 700; margin-bottom: 4px;
+}
+/* Selos de status do usuário no card */
+.card-status { position: absolute; bottom: 8px; right: 8px; z-index: 3; display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end; }
+.card-status .st {
+  background: rgba(10,12,18,.82); backdrop-filter: blur(4px); color: #fff;
+  font-size: 11px; font-weight: 700; padding: 3px 7px; border-radius: 7px;
+  border: 1px solid rgba(255,255,255,.12); line-height: 1.4;
+}
+.card-status .st.seen { background: rgba(22,163,74,.92); border-color: transparent; font-size: 10px; }
+
+/* ===================== ONDE ASSISTIR ===================== */
+.plat-wrap { display: grid; gap: 12px; }
+.plat-btns { display: flex; gap: 10px; flex-wrap: wrap; }
+.plat-btn {
+  display: inline-flex; align-items: center; gap: 9px;
+  padding: 11px 16px; border-radius: 12px; font-size: 14px; font-weight: 650;
+  background: color-mix(in srgb, var(--plat) 16%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--plat) 55%, transparent);
+  color: var(--text); transition: transform .2s ease, box-shadow .2s ease, background .2s ease;
+}
+.plat-btn:hover {
+  transform: translateY(-2px);
+  background: color-mix(in srgb, var(--plat) 26%, var(--surface));
+  box-shadow: 0 10px 26px -12px var(--plat);
+}
+.plat-dot { width: 9px; height: 9px; border-radius: 50%; background: var(--plat); box-shadow: 0 0 10px var(--plat); }
+/* Sem streaming disponível no Brasil */
+.plat-vazio { margin: 0; color: var(--text-dim); font-size: 14.5px; }
+.plat-go { color: var(--text-faint); font-size: 12px; }
+.plat-canais { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 13px; }
+.plat-label { color: var(--text-faint); font-size: 12.5px; }
+.plat-canal { background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); padding: 5px 11px; border-radius: 999px; font-size: 12.5px; }
+.plat-hint { margin: 0; font-size: 12px; color: var(--text-faint); }
+
+/* ===================== SUGESTÕES DA BUSCA ===================== */
+.search-wrap { position: relative; }
+.suggest {
+  position: absolute; top: calc(100% + 8px); left: 0; right: 0; z-index: 80;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+  box-shadow: var(--shadow); overflow: hidden; padding: 6px;
+  max-height: min(60vh, 420px); overflow-y: auto; animation: pop .15s ease;
+}
+.sg {
+  display: flex; align-items: center; gap: 11px; width: 100%; text-align: left;
+  background: none; border: none; color: var(--text); padding: 8px 10px; border-radius: 10px; transition: .12s;
+}
+.sg:hover { background: var(--surface-2); }
+.sg-poster {
+  flex: 0 0 auto; width: 34px; height: 51px; border-radius: 6px; overflow: hidden;
+  background: var(--surface-2); display: block;
+}
+.sg-poster img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.sg-txt { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.sg-txt b { font-size: 14px; font-weight: 650; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sg-txt i { font-style: normal; font-size: 12px; color: var(--text-faint); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sg-status { flex: 0 0 auto; display: flex; gap: 4px; }
+.sg-status .st { background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); font-size: 10.5px; font-weight: 700; padding: 3px 7px; border-radius: 7px; }
+.sg-status .st.seen { background: rgba(22,163,74,.18); color: #4ade80; border-color: transparent; }
+
+/* Filtros de status nos resultados */
+.status-filtros { margin-bottom: 18px; }
+.status-filtros .qf b { color: var(--text-faint); font-weight: 700; margin-left: 3px; }
+.status-filtros .qf.active b { color: rgba(255,255,255,.8); }
+
+.bib-head { margin-bottom: 22px; }
+.bib-head h1 { font-size: clamp(24px, 3vw, 32px); margin: 0 0 6px; }
+.bib-head p { color: var(--text-dim); margin: 0; }
+.bib-secao { margin-top: 34px; }
+.bib-secao h2 { font-size: 19px; margin: 0 0 14px; }
+.bib-rail { margin-top: 30px; }
+
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin-bottom: 14px; }
+.stat-tile {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px;
+}
+.stat-tile b { display: block; font-size: 26px; font-weight: 800; line-height: 1.1; font-variant-numeric: tabular-nums;
+  background: linear-gradient(135deg, var(--azul-ci), var(--laranja-ci)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.stat-tile span { display: block; font-size: 12.5px; color: var(--text-dim); margin-top: 4px; }
+.stat-tile i { display: block; font-style: normal; font-size: 11px; color: var(--text-faint); margin-top: 2px; }
+
+.tops { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; }
+.top-bloco { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; }
+.top-bloco h4 { margin: 0 0 10px; font-size: 13px; text-transform: uppercase; letter-spacing: .8px; color: var(--text-faint); }
+.top-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.top-lista li { display: flex; justify-content: space-between; gap: 10px; font-size: 14px; }
+.top-lista li b { color: var(--laranja-ci-2); font-variant-numeric: tabular-nums; }
+
+.listas-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 14px; }
+.lista-card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 15px; display: flex; flex-direction: column; gap: 11px; }
+.lista-topo { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.lista-nome { font-weight: 650; }
+.lista-qtd { background: var(--surface-2); border-radius: 999px; padding: 2px 9px; font-size: 12px; color: var(--text-dim); font-weight: 700; }
+.lista-acoes { display: flex; gap: 6px; flex-wrap: wrap; }
+.lista-card.nova { border-style: dashed; }
+.lista-input, .lista-emoji, .share-url {
+  background: var(--surface-2); border: 1px solid var(--line); border-radius: 10px;
+  padding: 9px 12px; color: var(--text); font: inherit; font-size: 14px; width: 100%;
+}
+.lista-emoji { width: 62px; text-align: center; }
+.mbtn.sm { padding: 6px 11px; font-size: 12.5px; }
+.mbtn.danger:hover { border-color: #ef4444; color: #ef4444; }
+.bib-backup { display: flex; gap: 10px; flex-wrap: wrap; }
+.dim-hint { color: var(--text-faint); font-size: 12.5px; }
+
+/* Bloco pessoal dentro da ficha */
+.pessoal {
+  background: var(--surface-2); border: 1px solid var(--line); border-radius: 14px;
+  padding: 16px 18px; margin-bottom: 22px; display: grid; gap: 16px;
+}
+.pessoal-linha h4 { margin: 0 0 9px; font-size: 12.5px; text-transform: uppercase; letter-spacing: .8px; color: var(--text-faint); }
+.minha-nota-val { color: var(--laranja-ci-2); font-size: 14px; margin-left: 4px; }
+.nota-escala { display: flex; gap: 5px; flex-wrap: wrap; }
+.nota-op {
+  width: 34px; height: 34px; border-radius: 9px; font-size: 13px; font-weight: 700;
+  background: var(--surface); border: 1px solid var(--line); color: var(--text-dim); transition: .15s;
+}
+.nota-op:hover { border-color: var(--azul-ci); color: var(--text); transform: translateY(-1px); }
+.nota-op.on { background: linear-gradient(135deg, var(--laranja-ci), var(--laranja-ci-2)); color: #1a0f00; border-color: transparent; }
+.nota-limpar { width: 34px; height: 34px; border-radius: 9px; background: none; border: 1px dashed var(--line); color: var(--text-faint); }
+.comentario {
+  width: 100%; background: var(--surface); border: 1px solid var(--line); border-radius: 11px;
+  padding: 11px 13px; color: var(--text); font: inherit; font-size: 14px; resize: vertical; line-height: 1.5;
+}
+.comentario:focus { outline: none; border-color: var(--azul-ci); }
+.listas-chips { display: flex; gap: 7px; flex-wrap: wrap; }
+.lista-chip {
+  padding: 7px 12px; border-radius: 999px; font-size: 13px;
+  background: var(--surface); border: 1px solid var(--line); color: var(--text-dim); transition: .15s;
+}
+.lista-chip:hover { border-color: var(--azul-ci); color: var(--text); }
+.lista-chip.on { background: color-mix(in srgb, var(--azul-ci) 25%, transparent); color: var(--text); border-color: transparent; font-weight: 600; }
+
+/* ===================== COMPARTILHAR ===================== */
+.share-sheet { position: fixed; inset: 0; z-index: 120; display: grid; place-items: center; padding: 20px; background: rgba(4,6,12,.6); backdrop-filter: blur(4px); }
+.share-card { position: relative; width: min(420px, 100%); background: var(--surface); border: 1px solid var(--line); border-radius: 18px; padding: 24px; box-shadow: var(--shadow); animation: pop .2s ease; }
+.share-card h3 { margin: 0 0 10px; font-size: 18px; }
+.share-preview { color: var(--text-dim); font-size: 14px; margin: 0 0 16px; }
+.share-actions { display: flex; gap: 10px; margin-bottom: 12px; flex-wrap: wrap; }
+.share-actions .mbtn { flex: 1; justify-content: center; text-align: center; }
+.share-close { position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; border-radius: 50%; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); }
+.share-url { font-size: 12px; color: var(--text-dim); }
+
+/* ===================== TOAST ===================== */
+.toast {
+  position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+  background: var(--surface); border: 1px solid var(--line); color: var(--text);
+  padding: 12px 20px; border-radius: 12px; box-shadow: var(--shadow); z-index: 200; font-size: 14px;
+  animation: toastin .2s ease;
+}
+@keyframes toastin { from { transform: translate(-50%, 12px); opacity: 0; } }
+
+/* ===================== FOOTER ===================== */
+.footer { margin-top: 30px; padding-top: 24px; border-top: 1px solid var(--line); color: var(--text-dim); font-size: 13.5px; }
+.footer .dim { color: var(--text-faint); font-size: 12.5px; }
+.footer .credit { margin-top: 10px; font-size: 12.5px; color: var(--text-dim); }
+.footer .credit b { background: linear-gradient(135deg, var(--azul-ci), var(--laranja-ci));
+  -webkit-background-clip: text; background-clip: text; color: transparent; font-weight: 800; }
+.hide-sm { }
+
+/* ===================== RESPONSIVO ===================== */
+@media (max-width: 860px) {
+  .menu-toggle { display: grid; }
+  .sidebar {
+    position: fixed; top: var(--topbar-h); left: 0; z-index: 55;
+    transform: translateX(-100%); transition: transform .22s ease;
+    background: var(--bg-2); width: 280px; flex-basis: 280px;
+  }
+  .sidebar.open { transform: translateX(0); box-shadow: var(--shadow); }
+  .sidebar-scrim.show { display: block; position: fixed; inset: var(--topbar-h) 0 0 0; z-index: 54; background: rgba(0,0,0,.5); }
+  .hero { flex-direction: column-reverse; align-items: flex-start; gap: 20px; padding: 26px 22px; min-height: 0; }
+  .hero-poster img { width: 132px; }
+  .content { padding: 18px 16px 32px; }
+  .hide-sm { display: none; }
+  .modal-inner { padding: 0 18px 24px; }
+  .modal-poster img { width: 116px; }
+  .modal-headmain { padding-top: 42px; }
+}
+@media (max-width: 520px) {
+  .logo-text { display: none; }
+  .search-wrap { max-width: none; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 14px; }
+  .rail-track { grid-auto-columns: 138px; }
+}
+
+</style>
+<!-- ===================== TOPO ===================== -->
+  <header class="topbar" id="topbar">
+    <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menu">☰</button>
+
+    <a href="#inicio" class="logo" id="logoHome" aria-label="DRAMABOOK início">
+      <span class="logo-mark">▶</span><span class="logo-text">DRAMA<b>BOOK</b></span>
+    </a>
+
+    <div class="search-wrap">
+      <span class="search-ico" aria-hidden="true">🔍</span>
+      <input type="search" id="searchInput" class="search-input"
+             placeholder="Pesquisar dorama, título original, tropo…" autocomplete="off" aria-label="Pesquisar" />
+      <button class="search-clear" id="searchClear" aria-label="Limpar" hidden>✕</button>
+      <div class="suggest" id="suggest" hidden></div>
+    </div>
+
+    <div class="topbar-actions">
+      <button class="chip-btn" id="randomBtn" title="Me indique um dorama">🎲 <span class="hide-sm">Me indique</span></button>
+      <button class="icon-btn" id="themeToggle" title="Alternar tema" aria-label="Alternar tema">🌙</button>
+    </div>
+
+    <!-- Popover: recomendação por humor -->
+    <div class="mood" id="mood" hidden></div>
+  </header>
+
+  <div class="layout">
+
+    <!-- ===================== MENU LATERAL ===================== -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-inner">
+        <nav class="menu" id="menu"><!-- preenchido por views.renderSidebar() --></nav>
+        <p class="menu-foot">DRAMABOOK · biblioteca em português</p>
+      </div>
+    </aside>
+    <div class="sidebar-scrim" id="sidebarScrim"></div>
+
+    <!-- ===================== CONTEÚDO ===================== -->
+    <main class="content" id="content">
+
+      <section class="hero" id="hero" hidden></section>
+      <section class="quickfilters" id="quickfilters"></section>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <div class="empty-mark">🎬</div>
+        <h2>Catálogo em construção</h2>
+        <p>A curadoria premium está a caminho. Assim que o primeiro lote de doramas chegar, ele aparece aqui.</p>
+      </div>
+
+      <div id="homeView">
+        <section class="rail" data-rail="ultimos"></section>
+        <section class="rail" data-rail="melhores"></section>
+        <section class="rail" data-rail="obras"></section>
+        <section class="rail" data-rail="top100"></section>
+      </div>
+
+      <div id="bibliotecaView" hidden></div>
+
+      <div id="resultsView" hidden>
+        <div class="results-head">
+          <h2 id="resultsTitle">Resultados</h2>
+          <span class="results-count" id="resultsCount"></span>
+          <button class="chip-btn ghost" id="backHome">← Voltar ao início</button>
+        </div>
+        <div class="quickfilters status-filtros" id="statusFiltros"></div>
+        <div class="grid" id="resultsGrid"></div>
+        <p class="empty" id="resultsEmpty" hidden>Nenhum dorama encontrado. 🥲</p>
+        <div class="load-more-wrap"><button class="chip-btn ghost" id="loadMore" hidden>Carregar mais</button></div>
+      </div>
+
+      <footer class="footer">
+        <p>DRAMABOOK — a maior biblioteca de doramas em português.</p>
+        <p class="dim">Conteúdo curado. Registros marcados como “exemplo” são demonstração e serão substituídos pela curadoria oficial.</p>
+        <p class="credit">Desenvolvido por <b>CI · Comunicação Inteligente</b></p>
+      </footer>
+    </main>
+  </div>
+
+  <!-- ===================== MODAL FICHA ===================== -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-scrim" id="modalScrim"></div>
+    <div class="modal-card" id="modalCard" role="dialog" aria-modal="true"></div>
+  </div>
+
+  <!-- ===================== COMPARTILHAR ===================== -->
+  <div class="share-sheet" id="shareSheet" hidden></div>
+
+  <div class="toast" id="toast" hidden></div>
+<script>window.DRAMABOOK_DB = [{"id":"crash-landing-on-you","titulo":"Crash Landing on You","titulo_original":"사랑의 불시착","tipo":"K-Drama","pais":"Coreia do Sul","ano":2019,"episodios":16,"temporadas":1,"duracao":"70 min","status":"Finalizado","classificacao":12,"final":"Feliz","plataformas":["tvN","Netflix"],"dublado":false,"categorias":["Romance Maduro","Obra-prima","K-Drama"],"tropos":["Destino","Opposites Attract","Slow Burn"],"temas":["Amor","Família","Sacrifício"],"profissoes":["Militar","Empresária"],"elenco":["Hyun Bin","Son Ye-jin","Seo Ji-hye","Kim Jung-hyun","Yang Kyung-won","Yoo Su-bin"],"diretor":"Lee Jung-hyo","roteirista":"Park Ji-eun","adaptacao":"","universo":"","avaliacao":{"chatgpt":10,"mdl":9,"imdb":8.7},"sensacoes":{"romance":10,"quimica":10,"emocao":10,"humor":8,"beijos":8},"flags":{"green":10,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg","poster":"/sLBtmtaqrngZegQwbnL2fSzzTBJ.jpg","trailer":"https://www.youtube.com/watch?v=eXMjTXL2Vks","sinopse":"Uma empresária sul-coreana sofre um acidente durante um voo de parapente e acaba cruzando a fronteira com a Coreia do Norte, onde conhece um oficial que decide protegê-la. Entre diferenças culturais e desafios inesperados, nasce um romance marcante.","porque_assistir":"Uma das histórias de amor mais icônicas dos K-Dramas, com equilíbrio entre romance, humor e emoção.","curiosidades":["Foi um grande sucesso internacional.","O casal protagonista tornou-se um casal na vida real."],"recomendacoes":["descendants-of-the-sun","queen-of-tears","encounter"]},{"id":"hometown-cha-cha-cha","titulo":"Hometown Cha-Cha-Cha","titulo_original":"갯마을 차차차","tipo":"K-Drama","pais":"Coreia do Sul","ano":2021,"episodios":16,"temporadas":1,"duracao":"75 min","status":"Finalizado","classificacao":16,"final":"Feliz","plataformas":["tvN","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Enemies to Lovers","Small Town","Healing"],"temas":["Comunidade","Recomeço","Amor"],"profissoes":["Dentista"],"elenco":["Shin Min-a","Kim Seon-ho","Lee Sang-yi","Gong Min-jeung","Kim Yeong-ok","Cho Han-chul"],"diretor":"Yu Je-won","roteirista":"Shin Ha-eun","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.8,"mdl":8.8,"imdb":8.4},"sensacoes":{"romance":9,"quimica":9,"emocao":9,"humor":9,"beijos":7},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/2avhn5tACIdOp9F5EhNytbChJib.jpg","poster":"/kcs6U5cAD1WbvmWSyQheGpfysvl.jpg","trailer":"https://www.youtube.com/watch?v=jnd2RtVB980","sinopse":"Uma dentista decide recomeçar a vida em uma pequena cidade litorânea, onde conhece um morador querido por toda a comunidade. A convivência transforma seus valores e abre espaço para um romance delicado.","porque_assistir":"Confortante, divertido e cheio de personagens cativantes.","curiosidades":["Ambientado em uma vila costeira fictícia.","É conhecido pelo clima 'comfort drama'."],"recomendacoes":["our-beloved-summer","when-the-camellia-blooms","summer-strike"]},{"id":"because-this-is-my-first-life","titulo":"Because This Is My First Life","titulo_original":"이번 생은 처음이라","tipo":"K-Drama","pais":"Coreia do Sul","ano":2017,"episodios":16,"temporadas":1,"duracao":"65 min","status":"Finalizado","final":"Feliz","plataformas":["tvN","Netflix","Prime Video"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Contract Relationship","Slow Burn","Roommates"],"temas":["Casamento","Vida Adulta","Autoconhecimento"],"profissoes":["Roteirista","Desenvolvedor"],"elenco":["Lee Min-ki","Jung So-min","Park Byung-eun","Esom","Kim Min-seok","Kim Ga-eun"],"diretor":"Park Joon-hwa","roteirista":"Yoon Nan-joong","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.7,"mdl":8.9,"imdb":8.3},"sensacoes":{"romance":9,"quimica":8,"emocao":9,"humor":8,"beijos":7},"flags":{"green":10,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/914PkpGVT7TIwIjzDJYlFpozVkk.jpg","poster":"/nyYobOcvgXcrEe4uUErrBPm3Nrm.jpg","trailer":"https://www.youtube.com/watch?v=YtfNG2bnh5Y","sinopse":"Um homem e uma mulher unem interesses práticos ao dividir a mesma casa, mas a convivência faz surgir sentimentos inesperados e reflexões sobre amor, casamento e sonhos.","porque_assistir":"Mistura romance maduro com diálogos inteligentes sobre a vida adulta.","curiosidades":["É referência em romances maduros.","Aborda expectativas sociais sobre casamento."],"recomendacoes":["run-on","love-to-hate-you","romance-is-a-bonus-book"]},{"id":"one-spring-night","titulo":"One Spring Night","titulo_original":"봄밤","tipo":"K-Drama","pais":"Coreia do Sul","ano":2019,"episodios":16,"temporadas":1,"duracao":"70 min","status":"Finalizado","classificacao":12,"final":"Feliz","plataformas":["MBC","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Slow Burn","Second Chance"],"temas":["Família","Maturidade","Relacionamentos"],"profissoes":["Bibliotecária","Farmacêutico"],"elenco":["Han Ji-min","Jung Hae-in","Kim Jun-han","Joo Min-kyung","Kim Chang-wan","Kim Jung-young"],"diretor":"Ahn Pan-seok","roteirista":"Kim Eun","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.6,"mdl":8.8,"imdb":8.1},"sensacoes":{"romance":9,"quimica":9,"emocao":9,"humor":5,"beijos":7},"flags":{"green":10,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":false,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/w5P0EXYWyUZjWVYYgMOkiqvyE3W.jpg","poster":"/mMY8nbaN0RrKIpuPeSKZF5JIFir.jpg","trailer":"https://www.youtube.com/watch?v=vGFu49VSoUQ","sinopse":"O encontro casual entre uma bibliotecária e um farmacêutico muda a forma como ambos enxergam o amor, exigindo coragem para enfrentar expectativas familiares e escolhas difíceis.","porque_assistir":"Romance sensível, realista e extremamente bem desenvolvido.","curiosidades":["É elogiado pelo tom realista.","Tem direção intimista."],"recomendacoes":["something-in-the-rain","call-it-love","tell-me-that-you-love-me"]},{"id":"our-beloved-summer","titulo":"Our Beloved Summer","titulo_original":"그 해 우리는","tipo":"K-Drama","pais":"Coreia do Sul","ano":2021,"episodios":16,"temporadas":1,"duracao":"60 min","status":"Finalizado","classificacao":12,"final":"Feliz","plataformas":["SBS","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Second Chance","Exes to Lovers","Slow Burn"],"temas":["Crescimento Pessoal","Amor","Carreira"],"profissoes":["Ilustrador","Produtora"],"elenco":["Choi Woo-shik","Kim Da-mi","Kim Sung-cheol","Roh Jeong-eui","Ahn Dong-gu","Jeon Hye-won"],"diretor":"Kim Yoon-jin","roteirista":"Lee Na-eun","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.8,"mdl":8.9,"imdb":8.3},"sensacoes":{"romance":10,"quimica":10,"emocao":9,"humor":8,"beijos":8},"flags":{"green":10,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/A4WAgjXnuCHWdY5TYyLf2wvAIPD.jpg","poster":"/8w44hUnFZIuK6plchcGzcW2mPU4.jpg","trailer":"https://www.youtube.com/watch?v=p_dDoDQ8u94","sinopse":"Anos após um relacionamento marcante terminar, dois ex-namorados são obrigados a se reencontrar quando um antigo documentário sobre eles volta a fazer sucesso.","porque_assistir":"Um romance delicado sobre amadurecimento, reencontros e segundas chances.","curiosidades":["Conhecido pela fotografia elegante.","A trilha sonora é muito elogiada."],"recomendacoes":["hometown-cha-cha-cha","our-blues","run-on"]},{"id":"something-in-the-rain","titulo":"Something in the Rain","titulo_original":"밥 잘 사주는 예쁜 누나","tipo":"K-Drama","pais":"Coreia do Sul","ano":2018,"episodios":16,"temporadas":1,"duracao":"","status":"Finalizado","classificacao":12,"final":"Feliz","plataformas":["JTBC","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Slow Burn"],"temas":["Amor","Maturidade"],"profissoes":[],"elenco":["Son Ye-jin","Jung Hae-in","Jang So-yeon","Jung Yoo-jin","Joo Min-kyung"],"diretor":"Ahn Pan-seok","roteirista":"Kim Eun","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.5,"mdl":0,"imdb":0},"sensacoes":{"romance":9,"quimica":9,"emocao":9,"humor":7,"beijos":7},"flags":{"green":9,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/2Lm6n4ojSW4t4rIoiyAF9g9U58e.jpg","poster":"/sTNXMCASbNn7cSzcQ7DVazixnAc.jpg","trailer":"https://www.youtube.com/watch?v=LSMLg1-I7Sw","sinopse":"Uma executiva reencontra o irmão mais novo de sua melhor amiga, e a amizade rapidamente se transforma em um romance que desafia convenções familiares.","porque_assistir":"Romance sensível e realista.","curiosidades":[],"recomendacoes":["crash-landing-on-you","our-beloved-summer"]},{"id":"call-it-love","titulo":"Call It Love","titulo_original":"사랑이라 말해요","tipo":"K-Drama","pais":"Coreia do Sul","ano":2023,"episodios":16,"temporadas":1,"duracao":"","status":"Finalizado","classificacao":14,"final":"Feliz","plataformas":["Disney+"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Slow Burn"],"temas":["Amor","Perdão"],"profissoes":[],"elenco":["Kim Young-kwang","Lee Sung-kyung","Sung Joon","Hani","Kim Ye-won"],"diretor":"Lee Kwang-young","roteirista":"Kim Eun-ji","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.6,"mdl":0,"imdb":0},"sensacoes":{"romance":9,"quimica":9,"emocao":10,"humor":5,"beijos":6},"flags":{"green":9,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":false,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/97yvRBw1GzX7fXprcF80er19ot.jpg","poster":"/2XqXnm95f3qSqQXNJ3jd4Iz7Bjw.jpg","trailer":"https://www.youtube.com/watch?v=WBkRcy9-9uU","sinopse":"Movida por um desejo de vingança, uma mulher se aproxima do homem que acredita ser responsável pelo sofrimento de sua família, mas sentimentos inesperados mudam tudo.","porque_assistir":"Narrativa madura e emocional.","curiosidades":[],"recomendacoes":["one-spring-night","something-in-the-rain"]},{"id":"love-to-hate-you","titulo":"Love to Hate You","titulo_original":"연애대전","tipo":"K-Drama","pais":"Coreia do Sul","ano":2023,"episodios":10,"temporadas":1,"duracao":"","status":"Finalizado","classificacao":12,"final":"Feliz","plataformas":["Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Enemies to Lovers"],"temas":["Amor","Confiança"],"profissoes":["Advogada","Ator"],"elenco":["Kim Ok-vin","Teo Yoo","Kim Ji-hoon","Go Won-hee","Kim Sung-ryung"],"diretor":"Kim Jeong-kwon","roteirista":"Choi Soo-young","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.4,"mdl":0,"imdb":0},"sensacoes":{"romance":9,"quimica":10,"emocao":7,"humor":10,"beijos":9},"flags":{"green":9,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/wApbr6dC602QMnoCMdRvfV4aMKq.jpg","poster":"/sh8T8DsHMqqy2R1cgSdHw7iY7AM.jpg","trailer":"https://www.youtube.com/watch?v=HECtAOtE3d8","sinopse":"Uma advogada que desconfia dos homens cruza o caminho de um ator famoso avesso a relacionamentos, iniciando uma divertida batalha de personalidades.","porque_assistir":"Comédia romântica adulta e cheia de química.","curiosidades":[],"recomendacoes":["business-proposal","her-private-life"]},{"id":"when-the-weather-is-fine","titulo":"When the Weather Is Fine","titulo_original":"날씨가 좋으면 찾아가겠어요","tipo":"K-Drama","pais":"Coreia do Sul","ano":2020,"episodios":16,"temporadas":1,"duracao":"","status":"Finalizado","classificacao":15,"final":"Feliz","plataformas":["JTBC","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Small Town","Slow Burn"],"temas":["Recomeço","Cura"],"profissoes":["Violoncelista"],"elenco":["Park Min-young","Seo Kang-joon","Lee Jae-wook","Moon Jeong-hee"],"diretor":"Han Ji-seung","roteirista":"Han Ga-ram","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.5,"mdl":0,"imdb":0},"sensacoes":{"romance":9,"quimica":8,"emocao":9,"humor":6,"beijos":6},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":false,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/6duvyxTYkDRGCzvTvXMwnojlXot.jpg","poster":"/cxknJj2PoxGSPBGPnPLmrm2KzoG.jpg","trailer":"https://www.youtube.com/watch?v=RD9stlNgi44","sinopse":"Cansada da vida na cidade, uma violoncelista retorna à pequena cidade onde cresceu e reencontra um antigo amigo.","porque_assistir":"Drama acolhedor e contemplativo.","curiosidades":[],"recomendacoes":["hometown-cha-cha-cha","summer-strike"]},{"id":"run-on","titulo":"Run On","titulo_original":"런 온","tipo":"K-Drama","pais":"Coreia do Sul","ano":2020,"episodios":16,"temporadas":1,"duracao":"","status":"Finalizado","classificacao":15,"final":"Feliz","plataformas":["JTBC","Netflix"],"dublado":false,"categorias":["Romance Maduro","K-Drama"],"tropos":["Slow Burn"],"temas":["Amadurecimento","Carreira"],"profissoes":["Atleta","Tradutora"],"elenco":["Yim Si-wan","Shin Se-kyung","Choi Soo-young","Kang Tae-oh"],"diretor":"Lee Jae-hoon","roteirista":"Park Si-hyun","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.5,"mdl":0,"imdb":0},"sensacoes":{"romance":9,"quimica":9,"emocao":8,"humor":8,"beijos":7},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/9DUSmAB9DOZjXOg6tsUb7nFoA1F.jpg","poster":"/a6oZ7GDonjmFsymoAxDL2uQ61h1.jpg","trailer":"https://www.youtube.com/watch?v=KVsok-tMcYw","sinopse":"Um ex-atleta e uma tradutora descobrem novas perspectivas sobre carreira, amor e amadurecimento.","porque_assistir":"Relacionamentos saudáveis e diálogos inteligentes.","curiosidades":[],"recomendacoes":["because-this-is-my-first-life","our-beloved-summer"]},{"id":"hospital-playlist","titulo":"Hospital Playlist","titulo_original":"슬기로운 의사생활","tipo":"K-Drama","pais":"Coreia do Sul","ano":2020,"episodios":12,"temporadas":2,"duracao":"83 min","status":"Finalizado","final":"Feliz","plataformas":["tvN","Netflix"],"dublado":false,"categorias":["Romance","Romance Maduro","Médicos"],"tropos":["Slow Burn","Friends to Lovers","Healing"],"temas":["Amizade","Vida Adulta","Hospital"],"profissoes":["Médicos"],"elenco":["Cho Jung-seok","Yoo Yeon-seok","Jung Kyung-ho","Kim Dae-myung","Jeon Mi-do","Shin Hyun-been"],"diretor":"Shin Won-ho","roteirista":"Lee Woo-jung","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.9,"mdl":9.1,"imdb":8.8},"sensacoes":{"romance":8,"quimica":9,"emocao":10,"humor":9,"beijos":6},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg","poster":"/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg","trailer":"https://www.youtube.com/watch?v=ulf9PtJjVjc","sinopse":"Cinco médicos amigos equilibram a rotina intensa do hospital com suas vidas pessoais, mostrando que o amor também floresce em meio aos desafios da profissão.","porque_assistir":"Uma celebração da amizade, da medicina e dos romances que amadurecem naturalmente.","curiosidades":["Conta com duas temporadas."],"recomendacoes":["our-blues","chocolate","when-the-camellia-blooms"]},{"id":"it-s-okay-that-s-love","titulo":"It's Okay, That's Love","titulo_original":"괜찮아, 사랑이야","tipo":"K-Drama","pais":"Coreia do Sul","ano":2014,"episodios":16,"temporadas":1,"duracao":"58 min","status":"Finalizado","classificacao":14,"final":"Feliz","plataformas":["SBS","Kocowa"],"dublado":false,"categorias":["Romance","Romance Maduro","Médicos"],"tropos":["Healing","Química Inesquecível"],"temas":["Saúde Mental","Amor"],"profissoes":["Médicos","Escritor"],"elenco":["Zo In-sung","Gong Hyo-jin","Sung Dong-il","Lee Kwang-soo","Jin Kyung","Lee Sung-kyung"],"diretor":"Kim Kyu-tae","roteirista":"Noh Hee-kyung","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.8,"mdl":9,"imdb":8.3},"sensacoes":{"romance":9,"quimica":10,"emocao":10,"humor":8,"beijos":8},"flags":{"green":9,"red":2},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/hwsU65QW7A4dbMEWkDpgHyCNcfS.jpg","poster":"/pcjGXR5g0YAvvGYmsrQsWf98CyO.jpg","trailer":"https://www.youtube.com/watch?v=PdP_wR6k9Jw","sinopse":"Uma psiquiatra e um escritor aproximam-se enquanto enfrentam feridas emocionais e descobrem novas formas de amar.","porque_assistir":"Romance marcante sobre cura emocional.","curiosidades":[],"recomendacoes":["you-are-my-spring","chocolate","call-it-love"]},{"id":"tell-me-that-you-love-me","titulo":"Tell Me That You Love Me","titulo_original":"사랑한다고 말해줘","tipo":"K-Drama","pais":"Coreia do Sul","ano":2023,"episodios":16,"temporadas":1,"duracao":"63 min","status":"Finalizado","classificacao":15,"final":"Feliz","plataformas":["ENA"],"dublado":false,"categorias":["Romance","Romance Maduro"],"tropos":["Slow Burn","Healing"],"temas":["Inclusão","Comunicação"],"profissoes":["Artista","Atriz"],"elenco":["Jung Woo-sung","Shin Hyun-been","Kim Ji-hyun","Lee Jae-kyoon","Park Jin-joo","Oh So-hyun"],"diretor":"Kim Yoon-jin","roteirista":"Kim Min-jung","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.7,"mdl":8.9,"imdb":8},"sensacoes":{"romance":9,"quimica":9,"emocao":10,"humor":5,"beijos":6},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":false,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/tTOxnft2N2JwdodCUFNfoD0PrjS.jpg","poster":"/u8GTmtL8VkulRyq4z6xuQ9x2klw.jpg","trailer":"","sinopse":"Um artista com deficiência auditiva e uma aspirante a atriz encontram uma forma única de construir um relacionamento.","porque_assistir":"Sensível e visualmente elegante.","curiosidades":[],"recomendacoes":["call-it-love","one-spring-night","a-piece-of-your-mind"]},{"id":"do-you-like-brahms","titulo":"Do You Like Brahms?","titulo_original":"브람스를 좋아하세요","tipo":"K-Drama","pais":"Coreia do Sul","ano":2020,"episodios":16,"temporadas":1,"duracao":"61 min","status":"Finalizado","classificacao":15,"final":"Feliz","plataformas":["SBS","Viki","Kocowa"],"dublado":false,"categorias":["Romance","Romance Maduro","Emocionantes"],"tropos":["Slow Burn"],"temas":["Música","Autoconhecimento"],"profissoes":["Pianista"],"elenco":["Park Eun-bin","Kim Min-jae","Kim Sung-cheol","Park Ji-hyun","Lee You-jin","Bae Da-bin"],"diretor":"Cho Young-min","roteirista":"Ryu Bo-ri","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.5,"mdl":8.7,"imdb":8},"sensacoes":{"romance":9,"quimica":8,"emocao":9,"humor":5,"beijos":6},"flags":{"green":9,"red":2},"triangulo_amoroso":true,"perfil":{"iniciante":false,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/lQqSG7dtKSQYlc8tOaiOUGq325G.jpg","poster":"/5kuSIA9uXZJE8LHePszDEYPSSLP.jpg","trailer":"https://www.youtube.com/watch?v=xD-uZkTv0-I","sinopse":"Uma estudante de música e um pianista renomado aproximam-se enquanto buscam realizar seus sonhos.","porque_assistir":"Romance contemplativo e emocionante.","curiosidades":[],"recomendacoes":["run-on","our-beloved-summer"]},{"id":"romance-is-a-bonus-book","titulo":"Romance Is a Bonus Book","titulo_original":"로맨스는 별책부록","tipo":"K-Drama","pais":"Coreia do Sul","ano":2019,"episodios":16,"temporadas":1,"duracao":"63 min","status":"Finalizado","final":"Feliz","plataformas":["tvN","Netflix"],"dublado":false,"categorias":["Romance","Romance Maduro","Comédia"],"tropos":["Friends to Lovers","Slow Burn"],"temas":["Livros","Recomeço"],"profissoes":["Editora"],"elenco":["Lee Jong-suk","Lee Na-young","Jung Yoo-jin","Wi Ha-jun","Kim Tae-woo","Kim Yu-mi"],"diretor":"Lee Jung-hyo","roteirista":"Jung Hyun-jung","adaptacao":"","universo":"","avaliacao":{"chatgpt":9.6,"mdl":8.8,"imdb":8},"sensacoes":{"romance":9,"quimica":9,"emocao":8,"humor":8,"beijos":7},"flags":{"green":10,"red":1},"triangulo_amoroso":false,"perfil":{"iniciante":true,"dorameiro_veterano":true},"ost":[],"premios":[],"banner":"/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg","poster":"/3cbvygVSgmxN2r4f3nKE7uAv4Vg.jpg","trailer":"","sinopse":"Uma editora tenta reconstruir sua carreira enquanto reencontra um velho amigo que passa a vê-la de outra forma.","porque_assistir":"Um romance acolhedor para quem ama livros.","curiosidades":[],"recomendacoes":["because-this-is-my-first-life","run-on","love-to-hate-you"]}];</script>
+<script>(function(){
+/* ---- js/config.js ---- */
+/* =========================================================
+   config.js — configuração central do DRAMABOOK
+   Fonte única de constantes. Nada de valores mágicos espalhados.
+   ========================================================= */
+
+/* Imagens (TMDb). Trocar o tamanho aqui muda em todo o site. */
+const IMG_BASE = "https://image.tmdb.org/t/p";
+const POSTER_SIZE = "w500";     // cartão / pôster vertical (>=500px, regra da curadoria)
+const BACKDROP_SIZE = "w1280";  // banner horizontal do hero/modal
+const LOCAL_POSTERS = "assets/posters/";
+const LOCAL_BANNERS = "assets/banners/";
+
+/* Quantos cartões renderizar por vez numa grade grande (escala p/ 500+). */
+const PAGE_SIZE = 60;
+
+/* Bandeira por país. */
+const FLAGS = {
+  "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",
+  "Tailândia": "🇹🇭", "Taiwan": "🇹🇼",
+};
+
+/* Menu lateral — dirigido por dados (adicionar item = 1 linha aqui). */
+const LIST_MENU = [
+  { list: "favoritos", icon: "❤️", label: "Favoritos", badge: "badgeFav" },
+  { list: "assisti",   icon: "✅", label: "Já assisti", badge: "badgeAssisti" },
+  { list: "quero",     icon: "🔖", label: "Quero assistir", badge: "badgeQuero" },
+];
+
+/* Filtros do site — EXATAMENTE a lista definida pela curadoria (não inventar). */
+const CATEGORY_MENU = [
+  { facet: "all", icon: "🏠", label: "Início" },
+  { facet: "Romance", icon: "❤️", label: "Romance" },
+  { facet: "Casamento por contrato", icon: "💍", label: "Casamento por contrato" },
+  { facet: "Namoro de mentira", icon: "💕", label: "Namoro de mentira" },
+  { facet: "Rivais que se apaixonam", icon: "😤", label: "Rivais que se apaixonam" },
+  { facet: "CEO", icon: "👔", label: "CEO" },
+  { facet: "Slow Burn", icon: "☕", label: "Slow Burn" },
+  { facet: "Química Inesquecível", icon: "🔥", label: "Química Inesquecível" },
+  { facet: "Green Flag", icon: "💚", label: "Green Flags" },
+  { facet: "Red Flag", icon: "🚩", label: "Red Flags" },
+  { facet: "Comédia", icon: "😂", label: "Comédia" },
+  { facet: "Emocionantes", icon: "😭", label: "Emocionantes" },
+  { facet: "Médicos", icon: "🩺", label: "Médicos" },
+  { facet: "Advogados", icon: "⚖️", label: "Advogados" },
+  { facet: "Históricos", icon: "👑", label: "Históricos" },
+  { facet: "Fantasia", icon: "✨", label: "Fantasia" },
+  { facet: "Sobrenatural", icon: "👻", label: "Sobrenatural" },
+  { facet: "Investigação", icon: "🕵️", label: "Investigação" },
+  { facet: "Coreia", icon: "🇰🇷", label: "Coreia" },
+  { facet: "Japão", icon: "🇯🇵", label: "Japão" },
+  { facet: "China", icon: "🇨🇳", label: "China" },
+  { facet: "obra_prima", icon: "⭐", label: "Obras-primas" },
+];
+
+/* Chips de filtro rápido no topo da home. */
+const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
+
+/* Recomendações por humor — botão "Me indique um dorama". */
+const MOODS = [
+  { key: "rir", emoji: "😂", label: "Quero rir", facets: ["Comédia"] },
+  { key: "chorar", emoji: "😭", label: "Quero chorar", facets: ["Emocionantes"] },
+  { key: "romance", emoji: "❤️", label: "Quero romance", facets: ["Romance"] },
+  { key: "medico", emoji: "🩺", label: "Quero médico", facets: ["Médicos"] },
+  { key: "historico", emoji: "👑", label: "Quero histórico", facets: ["Históricos"] },
+  { key: "ceo", emoji: "👔", label: "Quero CEO", facets: ["CEO"] },
+  { key: "contrato", emoji: "💍", label: "Casamento por contrato", facets: ["Casamento por contrato"] },
+  { key: "fantasia", emoji: "✨", label: "Quero fantasia", facets: ["Fantasia"] },
+  { key: "tantofaz", emoji: "🤷", label: "Tanto faz", facets: [] },
+];
+
+/* localStorage keys. */
+const LS = {
+  favoritos: "db_favoritos",
+  assisti: "db_assisti",
+  quero: "db_quero",
+  theme: "db_theme",
+};
+
+
+/* ---- js/user.js ---- */
+/* =========================================================
+   user.js — MINHA BIBLIOTECA: camada de dados PESSOAIS
+   100% local (localStorage), separada do banco editorial (doramas.json).
+   Estrutura versionada e exportável — pronta para login/nuvem/multi-device.
+   Nenhuma importação de lote toca nestes dados (chave própria + ids permanentes).
+   ========================================================= */
+
+const KEY = "dramabook_user_v1";
+const LEGADO = { favoritos: "db_favoritos", assisti: "db_assisti", quero: "db_quero" };
+const LISTAS = ["favoritos", "assisti", "quero"];
+const ROTULOS = { favoritos: "Favoritos", assisti: "Já assisti", quero: "Quero assistir" };
+
+const vazio = () => ({
+  version: 1,
+  listas: { favoritos: [], assisti: [], quero: [] },
+  marcadoEm: { favoritos: {}, assisti: {}, quero: {} },
+  notas: {},          // { [doramaId]: 0..10 }
+  comentarios: {},    // { [doramaId]: "texto" }
+  personalizadas: [], // [{ id, nome, emoji, itens: [doramaId], criadaEm }]
+});
+
+let DATA = carregar();
+
+function carregar() {
+  let d = null;
+  try { d = JSON.parse(localStorage.getItem(KEY)); } catch { /* corrompido */ }
+  if (!d || typeof d !== "object") d = migrarLegado();
+  return normalizar(d);
+}
+function normalizar(d) {
+  const base = vazio();
+  return {
+    ...base, ...d,
+    version: 1,
+    listas: { ...base.listas, ...(d.listas || {}) },
+    marcadoEm: { ...base.marcadoEm, ...(d.marcadoEm || {}) },
+    notas: d.notas && typeof d.notas === "object" ? d.notas : {},
+    comentarios: d.comentarios && typeof d.comentarios === "object" ? d.comentarios : {},
+    personalizadas: Array.isArray(d.personalizadas) ? d.personalizadas : [],
+  };
+}
+/* Migra favoritos/assisti/quero das chaves antigas (uma única vez). */
+function migrarLegado() {
+  const d = vazio();
+  for (const l of LISTAS) {
+    try {
+      const arr = JSON.parse(localStorage.getItem(LEGADO[l]) || "[]");
+      if (Array.isArray(arr) && arr.length) d.listas[l] = arr;
+    } catch { /* ignora */ }
+  }
+  return d;
+}
+function salvar() { try { localStorage.setItem(KEY, JSON.stringify(DATA)); } catch { /* cota */ } }
+
+function dados() { return DATA; }
+
+/* ---------- listas de status ---------- */
+function inList(lista, id) { return (DATA.listas[lista] || []).includes(id); }
+function listaIds(lista) { return DATA.listas[lista] || []; }
+function toggleList(lista, id) {
+  const arr = DATA.listas[lista] || (DATA.listas[lista] = []);
+  const i = arr.indexOf(id);
+  const add = i === -1;
+  if (add) { arr.push(id); DATA.marcadoEm[lista][id] = Date.now(); }
+  else { arr.splice(i, 1); delete DATA.marcadoEm[lista][id]; }
+  salvar();
+  return add;
+}
+/* Ids de uma lista ordenados do mais recente para o mais antigo. */
+function recentes(lista, limite = Infinity) {
+  const stamps = DATA.marcadoEm[lista] || {};
+  return [...listaIds(lista)].sort((a, b) => (stamps[b] || 0) - (stamps[a] || 0)).slice(0, limite);
+}
+
+/* ---------- nota pessoal (0–10) ---------- */
+function minhaNota(id) { const n = DATA.notas[id]; return typeof n === "number" ? n : null; }
+function setMinhaNota(id, n) {
+  if (n === null || n === "" || n === undefined) delete DATA.notas[id];
+  else DATA.notas[id] = Math.max(0, Math.min(10, Number(n)));
+  salvar();
+}
+
+/* ---------- comentário pessoal ---------- */
+function getComentario(id) { return DATA.comentarios[id] || ""; }
+function setComentario(id, txt) {
+  const t = String(txt || "").trim();
+  if (!t) delete DATA.comentarios[id]; else DATA.comentarios[id] = t;
+  salvar();
+}
+
+/* ---------- listas personalizadas ---------- */
+function listasPersonalizadas() { return DATA.personalizadas; }
+function getLista(listaId) { return DATA.personalizadas.find(l => l.id === listaId) || null; }
+function criarLista(nome, emoji = "📁") {
+  const id = "l" + Date.now().toString(36);
+  DATA.personalizadas.push({ id, nome: String(nome).trim() || "Nova lista", emoji, itens: [], criadaEm: Date.now() });
+  salvar();
+  return id;
+}
+function removerLista(listaId) {
+  DATA.personalizadas = DATA.personalizadas.filter(l => l.id !== listaId);
+  salvar();
+}
+function naLista(listaId, doramaId) { return (getLista(listaId)?.itens || []).includes(doramaId); }
+function toggleNaLista(listaId, doramaId) {
+  const l = getLista(listaId); if (!l) return false;
+  const i = l.itens.indexOf(doramaId);
+  const add = i === -1;
+  add ? l.itens.push(doramaId) : l.itens.splice(i, 1);
+  salvar();
+  return add;
+}
+
+/* ---------- exportar / importar (base p/ nuvem e multi-device) ---------- */
+function exportar() { return JSON.stringify(DATA, null, 2); }
+function importar(json) {
+  const d = typeof json === "string" ? JSON.parse(json) : json;
+  if (!d || typeof d !== "object") throw new Error("Arquivo inválido");
+  DATA = normalizar(d);
+  salvar();
+  return true;
+}
+
+/* ---------- estatísticas ---------- */
+const minutosDe = (dur) => { const m = String(dur || "").match(/(\d+)/); return m ? Number(m[1]) : 0; };
+const contar = (arr) => {
+  const m = {}; arr.forEach(k => { if (k) m[k] = (m[k] || 0) + 1; });
+  return Object.entries(m).sort((a, b) => b[1] - a[1]);
+};
+
+function estatisticas(byId) {
+  const assistidos = listaIds("assisti").map(id => byId[id]).filter(Boolean);
+  const notas = Object.values(DATA.notas).filter(n => typeof n === "number");
+  const episodios = assistidos.reduce((s, d) => s + (Number(d.episodios) || 0), 0);
+  const minutos = assistidos.reduce((s, d) => s + (Number(d.episodios) || 0) * minutosDe(d.duracao), 0);
+  return {
+    assistidos: assistidos.length,
+    favoritos: listaIds("favoritos").length,
+    quero: listaIds("quero").length,
+    comentarios: Object.keys(DATA.comentarios).length,
+    mediaNota: notas.length ? notas.reduce((a, b) => a + b, 0) / notas.length : null,
+    totalNotas: notas.length,
+    paises: contar(assistidos.map(d => d.pais)),
+    categorias: contar(assistidos.flatMap(d => d.categorias || [])),
+    tropos: contar(assistidos.flatMap(d => d.tropos || [])),
+    episodios,
+    horas: Math.round(minutos / 60),
+    semDuracao: assistidos.filter(d => !minutosDe(d.duracao)).length,
+  };
+}
+
+
+/* ---- js/plataformas.js ---- */
+/* =========================================================
+   plataformas.js — "Onde assistir": link + identidade visual
+   Streamings viram botões clicáveis (busca já preenchida com o título);
+   canais de TV (tvN, JTBC…) aparecem como exibição original, sem link.
+   Se um dia a curadoria trouxer links exatos, `linkExato` os usa.
+   ========================================================= */
+
+const normPlat = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+
+/* Streamings: busca oficial + cor da marca. */
+const STREAMINGS = {
+  "netflix":       { nome: "Netflix",     cor: "#E50914", busca: (t) => `https://www.netflix.com/search?q=${t}` },
+  "viki":          { nome: "Viki",        cor: "#1BB786", busca: (t) => `https://www.viki.com/search?q=${t}` },
+  "rakuten viki":  { nome: "Viki",        cor: "#1BB786", busca: (t) => `https://www.viki.com/search?q=${t}` },
+  "prime video":   { nome: "Prime Video", cor: "#00A8E1", busca: (t) => `https://www.primevideo.com/search?phrase=${t}` },
+  "prime":         { nome: "Prime Video", cor: "#00A8E1", busca: (t) => `https://www.primevideo.com/search?phrase=${t}` },
+  "disney+":       { nome: "Disney+",     cor: "#113CCF", busca: (t) => `https://www.disneyplus.com/search?q=${t}` },
+  "disney plus":   { nome: "Disney+",     cor: "#113CCF", busca: (t) => `https://www.disneyplus.com/search?q=${t}` },
+  "max":           { nome: "Max",         cor: "#0B24E8", busca: (t) => `https://play.max.com/search?q=${t}` },
+  "hbo max":       { nome: "Max",         cor: "#0B24E8", busca: (t) => `https://play.max.com/search?q=${t}` },
+  "hbo":           { nome: "Max",         cor: "#0B24E8", busca: (t) => `https://play.max.com/search?q=${t}` },
+  "apple tv":      { nome: "Apple TV+",   cor: "#C9CDD3", busca: (t) => `https://tv.apple.com/search?term=${t}` },
+  "apple tv+":     { nome: "Apple TV+",   cor: "#C9CDD3", busca: (t) => `https://tv.apple.com/search?term=${t}` },
+  "apple tv plus": { nome: "Apple TV+",   cor: "#C9CDD3", busca: (t) => `https://tv.apple.com/search?term=${t}` },
+  "paramount+":    { nome: "Paramount+",  cor: "#0064FF", busca: (t) => `https://www.paramountplus.com/br/search/?q=${t}` },
+  "paramount":     { nome: "Paramount+",  cor: "#0064FF", busca: (t) => `https://www.paramountplus.com/br/search/?q=${t}` },
+  "paramount plus": { nome: "Paramount+", cor: "#0064FF", busca: (t) => `https://www.paramountplus.com/br/search/?q=${t}` },
+  "star+":         { nome: "Disney+",     cor: "#113CCF", busca: (t) => `https://www.disneyplus.com/search?q=${t}` },
+  "crunchyroll":   { nome: "Crunchyroll", cor: "#F47521", busca: (t) => `https://www.crunchyroll.com/search?q=${t}` },
+  "iqiyi":         { nome: "iQIYI",       cor: "#00BE06", busca: (t) => `https://www.iq.com/search?query=${t}` },
+  "wetv":          { nome: "WeTV",        cor: "#FF5C00", busca: (t) => `https://wetv.vip/search?keyword=${t}` },
+  "kocowa":        { nome: "Kocowa",      cor: "#6C2BD9", busca: (t) => `https://www.kocowa.com/search?query=${t}` },
+  "globoplay":     { nome: "Globoplay",   cor: "#FF4D4D", busca: (t) => `https://globoplay.globo.com/busca/?q=${t}` },
+  "youtube":       { nome: "YouTube",     cor: "#FF0000", busca: (t) => `https://www.youtube.com/results?search_query=${t}` },
+};
+
+/* Canais de TV: onde foi exibido originalmente (não é lugar de assistir). */
+const CANAIS = new Set(["tvn", "jtbc", "sbs", "mbc", "kbs", "kbs2", "kbs1", "ocn", "ena", "channel a", "tv chosun", "mbn", "tving", "wavve"]);
+
+const ehStreaming = (p) => !!STREAMINGS[normPlat(p)];
+const ehCanal = (p) => CANAIS.has(normPlat(p));
+
+/* Link para assistir. Usa link exato se a ficha tiver (`links: {netflix: "..."}`),
+   senão cai na busca da plataforma com o título — sempre funciona. */
+function linkPlataforma(d, plataforma) {
+  const chave = normPlat(plataforma);
+  const exato = d?.links?.[chave];
+  if (exato) return exato;
+  const s = STREAMINGS[chave];
+  if (!s) return null;
+  const termo = encodeURIComponent(d?.titulo_original && chave === "viki" ? d.titulo : (d?.titulo || ""));
+  return s.busca(termo);
+}
+const infoPlataforma = (p) => STREAMINGS[normPlat(p)] || null;
+
+
+/* ---- js/store.js ---- */
+/* =========================================================
+   store.js — estado, dados e persistência
+   Camada de dados: não toca em layout (só o toast, que é utilitário).
+   ========================================================= */
+
+/* ---------- helpers DOM ---------- */
+const $ = (s, r = document) => r.querySelector(s);
+const $$ = (s, r = document) => [...r.querySelectorAll(s)];
+
+/* ---------- estado ---------- */
+const STATE = {
+  all: [],
+  byId: {},
+  categories: [],
+};
+
+/* ---------- utilidades ---------- */
+function hashHue(str) { let h = 0; for (const c of String(str)) h = (h * 31 + c.charCodeAt(0)) % 360; return h; }
+function posterColors(id) {
+  const h = hashHue(id);
+  return [`hsl(${h} 45% 26%)`, `hsl(${(h + 40) % 360} 55% 14%)`];
+}
+function flag(pais) { return FLAGS[pais] || "🌏"; }
+function fmtNota(n) { return (n != null && n !== "") ? Number(n).toFixed(1) : "—"; }
+
+/* Resolve imagem: TMDb path (/xxx.jpg), URL completa, ou nome de arquivo local. */
+function resolveImg(value, tmdbSize, localDir) {
+  if (!value || !String(value).trim()) return null;
+  const v = String(value).trim();
+  if (v.startsWith("/")) return `${IMG_BASE}/${tmdbSize}${v}`;   // caminho TMDb
+  if (/^(https?:\/\/|data:)/.test(v)) return v;                 // URL/data pronta
+  if (v.includes("/")) return v;                                // caminho relativo
+  return localDir + v;                                          // só o nome do arquivo
+}
+const resolvePoster = (d) => resolveImg(d.poster ?? d.tmdb_poster, POSTER_SIZE, LOCAL_POSTERS);
+const resolveBackdrop = (d) => resolveImg(d.banner ?? d.backdrop ?? d.tmdb_backdrop, BACKDROP_SIZE, LOCAL_BANNERS);
+
+/* Nota principal: avaliacao.chatgpt → avaliacao.mdl → campos legados. */
+function getNota(d) {
+  const a = d.avaliacao || {};
+  const n = a.chatgpt ?? a.mdl ?? d.nota_chatgpt ?? d.nota_mdl ?? d.nota;
+  return n ?? null;
+}
+/* Sensação (0–10) com nome padronizado, aceitando aninhado (v4) ou legado. */
+function sensacao(d, key) {
+  const legado = { humor: "comedia" };
+  const s = d.sensacoes || {};
+  return s[key] ?? d[key] ?? d[legado[key]] ?? null;
+}
+/* Onde assistir: aceita streaming{} (v4), array ou string (legado). */
+const STREAM_NAMES = {
+  netflix: "Netflix", viki: "Viki", prime: "Prime Video", disney: "Disney+", max: "Max",
+  crunchyroll: "Crunchyroll", iqiyi: "iQIYI", wetv: "WeTV", kocowa: "Kocowa", globoplay: "Globoplay",
+};
+function streamingList(d) {
+  if (Array.isArray(d.plataformas)) return d.plataformas;         // v4 (congelado)
+  if (Array.isArray(d.plataforma)) return d.plataforma;          // legado
+  if (typeof d.plataforma === "string" && d.plataforma) return [d.plataforma];
+  const s = d.streaming; if (!s) return [];                       // legado (objeto)
+  const out = Object.keys(STREAM_NAMES).filter(k => s[k]).map(k => STREAM_NAMES[k]);
+  if (Array.isArray(s.outros)) out.push(...s.outros);
+  return out;
+}
+/* Medidor de flags (green/red) — objeto flags{} (v4) com fallback legado. */
+function getFlag(d, key) { return d.flags?.[key] ?? d[`${key}_flag`] ?? null; }
+function platformText(d) { return streamingList(d).join(" · "); }
+/* Resolve recomendação por id OU por título (o ChatGPT pode mandar qualquer um). */
+function resolveRef(key) {
+  if (STATE.byId[key]) return STATE.byId[key];
+  const k = String(key).toLowerCase();
+  return STATE.all.find(d => d.titulo?.toLowerCase() === k) || null;
+}
+
+/* ---------- carregamento do catálogo ---------- */
+async function loadCatalog() {
+  // Modo empacotado (arquivo único / offline): dados já injetados.
+  if (window.DRAMABOOK_DB) { ingestBundle(window.DRAMABOOK_DB); return true; }
+
+  // Modo servido: lê o manifesto (lista de arquivos) e carrega em paralelo.
+  let files = ["doramas.json"];
+  try {
+    const m = await fetch("database/manifest.json").then(r => r.json());
+    if (Array.isArray(m.files) && m.files.length) files = m.files;
+  } catch { /* usa o padrão doramas.json */ }
+
+  const results = await Promise.allSettled(
+    files.map(f => fetch(`database/${f}`).then(r => { if (!r.ok) throw new Error(`${f}: ${r.status}`); return r.json(); }))
+  );
+  let ok = 0;
+  results.forEach((res, i) => {
+    if (res.status === "fulfilled" && Array.isArray(res.value)) { ok++; addMany(res.value); }
+    else console.warn("Falha ao carregar", files[i], res.reason);
+  });
+  return ok > 0; // true mesmo se o catálogo estiver vazio (arquivo carregou)
+}
+function ingestBundle(bundle) {
+  // Aceita array direto (doramas.json) ou objeto {arquivo:[...]} (legado).
+  if (Array.isArray(bundle)) { addMany(bundle); return; }
+  Object.keys(bundle).forEach(name => { if (Array.isArray(bundle[name])) addMany(bundle[name]); });
+}
+function addMany(arr) {
+  for (const d of arr) {
+    if (!d || !d.id || STATE.byId[d.id]) continue;  // dedupe por id, nunca sobrescreve
+    STATE.byId[d.id] = d;
+    STATE.all.push(d);
+  }
+}
+
+/* ---------- listas do usuário (delegado p/ user.js — Minha Biblioteca) ---------- */
+function itemsInList(list) { return listaIds(list).map(id => STATE.byId[id]).filter(Boolean); }
+/* Doramas de uma lista personalizada, na ordem em que foram adicionados. */
+function itemsDaLista(listaId) {
+  return (getLista(listaId)?.itens || []).map(id => STATE.byId[id]).filter(Boolean);
+}
+
+/* ---------- toast ---------- */
+function toast(msg) {
+  const t = $("#toast"); if (!t) return;
+  t.textContent = msg; t.hidden = false;
+  clearTimeout(t._t); t._t = setTimeout(() => (t.hidden = true), 1800);
+}
+
+
+/* ---- js/filters.js ---- */
+/* =========================================================
+   filters.js — busca e filtragem (lógica pura, sem DOM)
+   ========================================================= */
+
+/* Países: casam por inclusão (dado pode vir "Coreia do Sul", "Coreia", etc.). */
+const COUNTRY_FACETS = { "Coreia": ["coreia"], "Japão": ["japão", "japao"], "China": ["china"] };
+/* Facetas que também olham medidores numéricos (além da tag). [valor, mínimo] */
+const NUM_FACETS = {
+  "Green Flag": [(d) => getFlag(d, "green"), 8],
+  "Red Flag": [(d) => getFlag(d, "red"), 7],
+  "Química Inesquecível": [(d) => sensacao(d, "quimica"), 9],
+};
+/* Normaliza p/ casar plural/singular e maiúsculas ("Green Flags" ≈ "green flag"). */
+const norm = (s) => String(s || "").toLowerCase().trim().replace(/s$/, "");
+
+/* Todas as tags classificatórias de um dorama (categorias, tropos, temas, profissões, gêneros legado). */
+function tagsOf(d) {
+  return [...(d.categorias || []), ...(d.tropos || []), ...(d.temas || []), ...(d.profissoes || []), ...(d.generos || [])];
+}
+
+/* Um dorama casa com a faceta? (país, medidor, obra-prima, ou tag) */
+function matchFacet(d, facet) {
+  if (!facet || facet === "all") return true;
+  if (facet === "obra_prima") return d.obra_prima === true || (getNota(d) ?? 0) >= 9;
+  if (COUNTRY_FACETS[facet]) {
+    const p = String(d.pais || "").toLowerCase();
+    return COUNTRY_FACETS[facet].some(k => p.includes(k));
+  }
+  if (NUM_FACETS[facet] && (NUM_FACETS[facet][0](d) ?? 0) >= NUM_FACETS[facet][1]) return true;
+  const f = norm(facet);
+  return tagsOf(d).some(x => norm(x) === f);
+}
+
+function byFacet(facet) { return STATE.all.filter(d => matchFacet(d, facet)); }
+
+/* Busca textual em título, título original, país, plataforma, categorias e tropos. */
+/* Tira acentos e caixa: "comedia" acha "Comédia", "coreia" acha "Coreia do Sul". */
+const semAcento = (s) => String(s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+/* Busca por relevância: título > título original > elenco/tags/equipe.
+   Aceita várias palavras (todas precisam casar) e ignora acentos. */
+function search(q) {
+  const termos = semAcento(q).trim().split(/\s+/).filter(Boolean);
+  if (!termos.length) return [];
+  const frase = termos.join(" ");
+  const achados = [];
+
+  for (const d of STATE.all) {
+    const titulo = semAcento(d.titulo);
+    const original = semAcento(d.titulo_original);
+    const outros = semAcento([d.pais, d.tipo, d.diretor, d.roteirista, d.universo,
+      ...streamingList(d), ...tagsOf(d), ...(d.elenco || [])].join(" "));
+    const tudo = `${titulo} ${original} ${outros} ${d.ano || ""}`;
+
+    if (!termos.every(t => tudo.includes(t))) continue; // todas as palavras precisam existir
+
+    let score = 0;
+    if (titulo === frase) score += 100;
+    else if (titulo.startsWith(frase)) score += 60;
+    else if (titulo.includes(frase)) score += 40;
+    if (termos.every(t => titulo.includes(t))) score += 20;
+    if (original.includes(frase)) score += 15;
+    score += (getNota(d) || 0); // desempate: melhor avaliado primeiro
+    achados.push({ d, score });
+  }
+  return achados.sort((a, b) => b.score - a.score).map(x => x.d);
+}
+
+function topRated(limit = Infinity) {
+  return [...STATE.all].sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0)).slice(0, limit);
+}
+function latest(limit = Infinity) { return [...STATE.all].reverse().slice(0, limit); }
+function masterpieces() { return STATE.all.filter(d => matchFacet(d, "obra_prima")); }
+
+/* Sorteio (dorama aleatório / recomendação por humor). */
+function pickRandom(pool = STATE.all) {
+  if (!pool.length) return null;
+  return pool[Math.floor(Math.random() * pool.length)];
+}
+
+
+/* ---- components/card.js ---- */
+/* =========================================================
+   components/card.js — cartão de dorama (componente reutilizável)
+   ========================================================= */
+
+/* Selos de status do usuário mostrados no próprio card (busca inclusa). */
+function statusHTML(id) {
+  return [
+    inList("assisti", id) ? '<span class="st seen" title="Já assisti">✅ Assistido</span>' : "",
+    inList("favoritos", id) ? '<span class="st" title="Favorito">❤️</span>' : "",
+    inList("quero", id) ? '<span class="st" title="Quero assistir">🔖</span>' : "",
+  ].join("");
+}
+
+function qaButton(id, list, ico) {
+  return `<button class="qa ${inList(list, id) ? "on" : ""}" data-qa="${list}" data-id="${id}" title="${list}" aria-label="${list}">${ico}</button>`;
+}
+
+/* Retorna o HTML de um cartão. Placeholder elegante (gradiente + título) quando não há capa. */
+function renderCard(d) {
+  const [c1, c2] = posterColors(d.id);
+  const src = resolvePoster(d);
+  const img = src ? `<img src="${src}" alt="Pôster de ${d.titulo}" loading="lazy">` : "";
+  return `
+  <article class="card" data-id="${d.id}" tabindex="0" role="button" aria-label="${d.titulo}">
+    <div class="poster" style="--pc1:${c1};--pc2:${c2}">
+      ${img}
+      <div class="poster-fallback"><b>${d.titulo}</b><span>${d.ano || ""}</span></div>
+      <div class="rating-badge">★ ${fmtNota(getNota(d))}</div>
+      ${(d.obra_prima === true || (getNota(d) ?? 0) >= 9) ? '<div class="mp-badge" title="Obra-prima">⭐</div>' : ""}
+      ${d.dublado ? '<div class="dub-badge">DUB</div>' : ""}
+      <div class="card-status">${statusHTML(d.id)}</div>
+      <div class="quick-actions">
+        ${qaButton(d.id, "favoritos", "❤️")}
+        ${qaButton(d.id, "quero", "🔖")}
+        ${qaButton(d.id, "assisti", "✅")}
+      </div>
+    </div>
+    <div class="card-body">
+      <p class="card-title">${d.titulo}</p>
+      <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}</p>
+    </div>
+  </article>`;
+}
+
+function renderCards(list) { return list.map(renderCard).join(""); }
+
+/* Fade-in robusto: marca .loaded mesmo com imagem em cache; erro cai no gradiente. */
+function hydrateImages(root = document) {
+  root.querySelectorAll(".poster img, .hero-poster img, .modal-poster img").forEach(img => {
+    if (img.dataset.hy) return; img.dataset.hy = "1";
+    if (img.complete && img.naturalWidth > 0) img.classList.add("loaded");
+    else {
+      img.addEventListener("load", () => img.classList.add("loaded"), { once: true });
+      img.addEventListener("error", () => img.classList.add("failed"), { once: true });
+    }
+  });
+}
+
+
+/* ---- components/rail.js ---- */
+/* =========================================================
+   components/rail.js — trilho horizontal (Netflix-style)
+   ========================================================= */
+
+function renderRail(el, { title, sub = "", items }) {
+  if (!el) return;
+  if (!items || !items.length) { el.innerHTML = ""; el.hidden = true; return; }
+  el.hidden = false;
+  el.innerHTML = `
+    <div class="rail-head"><h2>${title}</h2>${sub ? `<span class="rail-sub">${sub}</span>` : ""}</div>
+    <div class="rail-track">${renderCards(items)}</div>`;
+}
+
+
+/* ---- components/hero.js ---- */
+/* =========================================================
+   components/hero.js — destaque com banner horizontal + pôster
+   ========================================================= */
+
+function renderHero(d) {
+  const hero = document.getElementById("hero");
+  if (!hero || !d) return;
+  hero.hidden = false;
+  const [c1, c2] = posterColors(d.id);
+  const back = resolveBackdrop(d);
+  const poster = resolvePoster(d);
+  hero.style.setProperty("--pc1", c1);
+  hero.style.setProperty("--pc2", c2);
+  hero.classList.toggle("has-backdrop", !!back);
+
+  hero.innerHTML = `
+    <div class="hero-bg" ${back ? `style="background-image:url('${back}')"` : ""}></div>
+    <div class="hero-scrim"></div>
+    <div class="hero-text">
+      <span class="hero-tag">Destaque de hoje</span>
+      <h1 class="hero-title">${d.titulo}</h1>
+      <div class="hero-meta">
+        <span class="hero-nota">★ <b>${fmtNota(getNota(d))}</b></span>
+        <span>${flag(d.pais)} ${d.pais || ""}</span><span>${d.ano || ""}</span>
+        ${platformText(d) ? `<span>${platformText(d)}</span>` : ""}${d.dublado ? "<span>Dublado</span>" : ""}
+      </div>
+      <p class="hero-syn">${d.sinopse || ""}</p>
+      <div class="hero-actions">
+        <button class="chip-btn" data-open="${d.id}">▶ Ver ficha</button>
+        <button class="chip-btn ghost" data-qa="quero" data-id="${d.id}">🔖 Quero assistir</button>
+      </div>
+    </div>
+    ${poster ? `<div class="hero-poster"><img src="${poster}" alt="Pôster de ${d.titulo}" loading="lazy"></div>` : ""}`;
+}
+
+
+/* ---- components/modal.js ---- */
+/* =========================================================
+   components/modal.js — ficha completa (schema v2 da curadoria)
+   Exibe só o que existe: todo campo é opcional e defensivo.
+   ========================================================= */
+
+const FINAL_ICON = { feliz: "💚", agridoce: "🎭", triste: "😢", aberto: "🔓" };
+
+/* "Onde assistir": só streamings VERIFICADOS NO BRASIL viram botão (a verificação
+   acontece na importação de cada lote e fica gravada no nosso banco).
+   Canais de TV aparecem como exibição original. Sem streaming no BR → aviso. */
+function blocoOndeAssistir(d) {
+  const lista = streamingList(d);
+  const streams = lista.filter(ehStreaming);
+  const canais = lista.filter((p) => !ehStreaming(p));
+
+  const botoes = streams.map((p) => {
+    const info = infoPlataforma(p);
+    const url = linkPlataforma(d, p);
+    return `<a class="plat-btn" href="${url}" target="_blank" rel="noopener"
+       style="--plat:${info.cor}" title="Assistir ${d.titulo} na ${info.nome}">
+       <span class="plat-dot"></span>${info.nome} <span class="plat-go">↗</span></a>`;
+  }).join("");
+
+  const chips = canais.map((c) =>
+    `<span class="plat-canal" title="${ehCanal(c) ? "Exibição original" : "Plataforma"}">${c}</span>`).join("");
+
+  return `
+    <div class="plat-wrap">
+      ${botoes ? `<div class="plat-btns">${botoes}</div>`
+               : `<p class="plat-vazio">😔 Sem streaming no Brasil no momento.</p>`}
+      ${chips ? `<div class="plat-canais"><span class="plat-label">Exibição original:</span> ${chips}</div>` : ""}
+      ${botoes ? `<p class="plat-hint">Disponibilidade verificada no Brasil. O botão abre a plataforma com o título já buscado.</p>` : ""}
+    </div>`;
+}
+
+/* Bloco "Minha Biblioteca" dentro da ficha: nota pessoal, comentário e listas. */
+function blocoPessoal(d) {
+  const nota = minhaNota(d.id);
+  const escala = Array.from({ length: 11 }, (_, n) =>
+    `<button class="nota-op ${nota === n ? "on" : ""}" data-nota="${n}" data-id="${d.id}">${n}</button>`).join("");
+  const listas = listasPersonalizadas();
+  const chipsListas = listas.length
+    ? listas.map((l) => `<button class="lista-chip ${naLista(l.id, d.id) ? "on" : ""}" data-addlista="${l.id}" data-id="${d.id}">${l.emoji} ${l.nome}</button>`).join("")
+    : `<span class="dim-hint">Crie listas em 📚 Minha Biblioteca</span>`;
+
+  return `
+    <div class="pessoal">
+      <div class="pessoal-linha">
+        <h4>⭐ Minha nota ${nota != null ? `<b class="minha-nota-val">${nota}</b>` : ""}</h4>
+        <div class="nota-escala">${escala}${nota != null ? `<button class="nota-limpar" data-nota="" data-id="${d.id}" title="Limpar nota">✕</button>` : ""}</div>
+      </div>
+      <div class="pessoal-linha">
+        <h4>📝 Meu comentário</h4>
+        <textarea class="comentario" data-coment="${d.id}" rows="2"
+          placeholder="Suas anotações pessoais…">${getComentario(d.id)}</textarea>
+      </div>
+      <div class="pessoal-linha">
+        <h4>📚 Minhas listas</h4>
+        <div class="listas-chips">${chipsListas}</div>
+      </div>
+    </div>`;
+}
+
+const has = (v) => v !== undefined && v !== null && v !== "" && !(Array.isArray(v) && v.length === 0);
+const mchip = (t, cls = "") => `<span class="mchip ${cls}">${t}</span>`;
+/* Chip clicável que vira filtro (categoria, gênero, tropo). */
+const fchip = (t, cls = "") => `<button class="mchip filterable ${cls}" data-facet="${t}">${t}</button>`;
+const mbtn = (id, list, label) => `<button class="mbtn ${inList(list, id) ? "on" : ""}" data-qa="${list}" data-id="${id}">${label}</button>`;
+const cell = (label, val) => `<div class="data-cell"><span>${label}</span><b>${val}</b></div>`;
+const section = (title, inner) => inner ? `<div class="modal-section"><h3>${title}</h3>${inner}</div>` : "";
+
+/* Medidor 0–10 (romance, química, emoção…) */
+function meter(label, val) {
+  if (!has(val)) return "";
+  const pct = Math.max(0, Math.min(100, (Number(val) / 10) * 100));
+  return `<div class="meter"><span class="meter-l">${label}</span>
+    <span class="meter-bar"><i style="width:${pct}%"></i></span>
+    <span class="meter-v">${Number(val).toFixed(1).replace(/\.0$/, "")}</span></div>`;
+}
+
+/* Extrai o id do YouTube de várias formas de URL. */
+function ytEmbed(url) {
+  const m = String(url || "").match(/(?:youtu\.be\/|[?&]v=|embed\/|shorts\/)([\w-]{11})/);
+  return m ? `https://www.youtube-nocookie.com/embed/${m[1]}` : null;
+}
+
+function openModal(id) {
+  const d = STATE.byId[id]; if (!d) return;
+  const [c1, c2] = posterColors(d.id);
+  const back = resolveBackdrop(d);
+  const poster = resolvePoster(d);
+
+  const seen = new Set();
+  const chips = [
+    ...(d.categorias || []).map((t) => [t, "hi"]),
+    ...(d.profissoes || []).map((t) => [t, "hi"]),
+    ...(d.tropos || []).map((t) => [t, ""]),
+    ...(d.temas || []).map((t) => [t, ""]),
+    ...(d.generos || []).map((t) => [t, "hi"]), // legado
+  ].filter(([t]) => { const k = String(t).toLowerCase().trim(); if (seen.has(k)) return false; seen.add(k); return true; })
+   .map(([t, c]) => fchip(t, c)).join("");
+
+  const av = d.avaliacao || {};
+  const notaMdl = av.mdl ?? d.nota_mdl;
+  const perfil = d.perfil || {};
+  const finalTxt = has(d.final) ? d.final : (d.final_feliz === true ? "Feliz" : d.final_feliz === false ? "Agridoce" : "");
+  const flags = [
+    d.triangulo_amoroso === true ? mchip("💔 Triângulo amoroso") : "",
+    finalTxt ? mchip(`${FINAL_ICON[finalTxt.toLowerCase()] || "🎭"} Final ${finalTxt.toLowerCase()}`) : "",
+    perfil.iniciante ? mchip("👶 Bom pra começar") : "",
+    (perfil.dorameiro_veterano || perfil.veterano) ? mchip("🎓 Pra veteranos") : "",
+  ].join("");
+
+  const meters = [
+    meter("❤️ Romance", sensacao(d, "romance")), meter("⚡ Química", sensacao(d, "quimica")),
+    meter("😭 Emoção", sensacao(d, "emocao")), meter("😂 Humor", sensacao(d, "humor")),
+    meter("💋 Beijos", sensacao(d, "beijos")), meter("🟢 Green flag", getFlag(d, "green")),
+    meter("🔴 Red flag", getFlag(d, "red")),
+  ].join("");
+
+  const yt = ytEmbed(d.trailer);
+  const trailer = has(d.trailer)
+    ? (yt ? `<div class="trailer-embed"><iframe src="${yt}" title="Trailer" loading="lazy" allowfullscreen></iframe></div>`
+          : `<a class="mbtn" href="${d.trailer}" target="_blank" rel="noopener">▶ Assistir trailer</a>`)
+    : "";
+
+  const elenco = has(d.elenco) ? `<div class="elenco-list">${d.elenco.map((n) => `<span>${n}</span>`).join("")}</div>` : "";
+  const curios = has(d.curiosidades) ? `<ul class="curio-list">${d.curiosidades.map((c) => `<li>${c}</li>`).join("")}</ul>` : "";
+  const recs = (d.recomendacoes || []).map(resolveRef).filter(Boolean);
+
+  document.getElementById("modalCard").innerHTML = `
+    <div class="modal-banner" style="--pc1:${c1};--pc2:${c2}">
+      ${back ? `<div class="modal-bannerimg" style="background-image:url('${back}')"></div><div class="modal-bannerscrim"></div>` : ""}
+      <button class="modal-close" id="modalClose" aria-label="Fechar">✕</button>
+    </div>
+    <div class="modal-inner">
+      <div class="modal-head">
+        ${poster ? `<div class="modal-poster"><img src="${poster}" alt="Pôster de ${d.titulo}" loading="lazy"></div>` : ""}
+        <div class="modal-headmain">
+          <div class="modal-badges">
+            ${getNota(d) > 0 ? mchip("★ " + fmtNota(getNota(d)), "note") : ""}
+            ${notaMdl > 0 ? mchip("MDL " + fmtNota(notaMdl)) : ""}
+            ${av.imdb > 0 ? mchip("IMDb " + fmtNota(av.imdb)) : ""}
+            ${d.status ? mchip(d.status) : ""}
+          </div>
+          <h2 class="modal-title">${d.titulo}</h2>
+          <p class="modal-orig">${d.titulo_original || ""}</p>
+          <div class="modal-chips">${chips}</div>
+          ${flags ? `<div class="flag-chips">${flags}</div>` : ""}
+        </div>
+      </div>
+
+      <div class="modal-actions">
+        ${mbtn(d.id, "favoritos", "❤️ Favorito")}
+        ${mbtn(d.id, "quero", "🔖 Quero assistir")}
+        ${mbtn(d.id, "assisti", "✅ Já assisti")}
+        <button class="mbtn share" data-share="${d.id}">📤 Compartilhar</button>
+      </div>
+
+      ${blocoPessoal(d)}
+
+      <div class="modal-datagrid">
+        ${has(d.tipo) ? cell("Tipo", d.tipo) : ""}
+        ${cell("País", flag(d.pais) + " " + (d.pais || "—"))}
+        ${cell("Ano", d.ano || "—")}
+        ${has(d.episodios) ? cell("Episódios", d.episodios) : ""}
+        ${has(d.temporadas) ? cell("Temporadas", d.temporadas) : ""}
+        ${has(d.duracao) ? cell("Duração", d.duracao) : ""}
+        ${has(d.classificacao) ? cell("Classificação", d.classificacao + " anos") : ""}
+        ${cell("Dublagem", d.dublado ? "Dublado" : "Legendado")}
+        ${has(d.diretor) ? cell("Direção", d.diretor) : ""}
+        ${has(d.roteirista) ? cell("Roteiro", d.roteirista) : ""}
+        ${has(d.adaptacao) ? cell("Adaptação", d.adaptacao) : ""}
+        ${has(d.universo) ? cell("Universo", d.universo) : ""}
+      </div>
+
+      ${section("▶️ Onde assistir", blocoOndeAssistir(d))}
+      ${trailer ? section("Trailer", trailer) : ""}
+      ${section("Sinopse", has(d.sinopse) ? `<p>${d.sinopse}</p>` : "")}
+      ${section("Por que assistir", has(d.porque_assistir) ? `<p>${d.porque_assistir}</p>` : "")}
+      ${meters ? section("Termômetro", `<div class="meters">${meters}</div>`) : ""}
+      ${section("Elenco", elenco)}
+      ${section("Curiosidades", curios)}
+      ${has(d.ost) ? section("Trilha sonora (OST)", `<ul class="curio-list">${d.ost.map((s) => `<li>${s}</li>`).join("")}</ul>`) : ""}
+      ${has(d.premios) ? section("Prêmios", `<ul class="curio-list">${d.premios.map((p) => `<li>${p}</li>`).join("")}</ul>`) : ""}
+      ${recs.length ? section("Se você gostou, assista", `<div class="rec-track">${recs.map(renderCard).join("")}</div>`) : ""}
+      ${d.status_curadoria === "exemplo" ? '<span class="exemplo-flag">⚠ Registro de exemplo — substituir pela curadoria oficial.</span>' : ""}
+    </div>`;
+
+  const modal = document.getElementById("modal");
+  modal.hidden = false;
+  document.body.style.overflow = "hidden";
+  document.getElementById("modalClose").addEventListener("click", closeModal, { once: true });
+  hydrateImages(document.getElementById("modalCard"));
+  document.getElementById("modalCard").scrollTop = 0;
+}
+
+function closeModal() {
+  const modal = document.getElementById("modal");
+  if (modal) modal.hidden = true;
+  document.body.style.overflow = "";
+}
+
+
+/* ---- components/biblioteca.js ---- */
+/* =========================================================
+   components/biblioteca.js — tela "Minha Biblioteca"
+   Resumo + estatísticas + listas personalizadas + exportar/importar.
+   Lê apenas dados locais do usuário (user.js) cruzados com o catálogo.
+   ========================================================= */
+
+const tile = (valor, rotulo, extra = "") =>
+  `<div class="stat-tile"><b>${valor}</b><span>${rotulo}</span>${extra ? `<i>${extra}</i>` : ""}</div>`;
+
+const topLista = (titulo, pares, sufixo = "") => {
+  if (!pares.length) return "";
+  return `<div class="top-bloco"><h4>${titulo}</h4><ol class="top-lista">${pares
+    .slice(0, 5)
+    .map(([nome, n]) => `<li><span>${nome}</span><b>${n}${sufixo}</b></li>`)
+    .join("")}</ol></div>`;
+};
+
+function renderBiblioteca() {
+  const el = document.getElementById("bibliotecaView");
+  if (!el) return;
+  const s = estatisticas(STATE.byId);
+  const listas = listasPersonalizadas();
+
+  const recFav = recentes("favoritos", 10).map((id) => STATE.byId[id]).filter(Boolean);
+  const recVis = recentes("assisti", 10).map((id) => STATE.byId[id]).filter(Boolean);
+  const quero = itemsInList("quero");
+
+  el.innerHTML = `
+    <div class="bib-head">
+      <h1>📚 Minha Biblioteca</h1>
+      <p>Sua jornada como dorameira — tudo salvo só no seu navegador.</p>
+    </div>
+
+    <div class="stat-grid">
+      ${tile(STATE.all.length, "no catálogo")}
+      ${tile(s.assistidos, "já assisti")}
+      ${tile(s.favoritos, "favoritos")}
+      ${tile(s.quero, "quero assistir")}
+      ${tile(s.mediaNota != null ? s.mediaNota.toFixed(1) : "—", "minha nota média", s.totalNotas ? `${s.totalNotas} avaliados` : "")}
+    </div>
+
+    <div class="stat-grid">
+      ${tile(s.episodios, "episódios assistidos")}
+      ${tile(s.horas + "h", "horas assistidas", s.semDuracao ? `${s.semDuracao} sem duração` : "")}
+      ${tile(s.paises[0]?.[0] || "—", "país que mais assiste")}
+      ${tile(s.categorias[0]?.[0] || "—", "categoria favorita")}
+      ${tile(s.comentarios, "comentários seus")}
+    </div>
+
+    ${(s.categorias.length || s.tropos.length || s.paises.length) ? `
+    <section class="bib-secao">
+      <h2>📊 Estatísticas</h2>
+      <div class="tops">
+        ${topLista("Categorias favoritas", s.categorias)}
+        ${topLista("Tropos favoritos", s.tropos)}
+        ${topLista("Países", s.paises)}
+      </div>
+    </section>` : ""}
+
+    <section class="bib-secao">
+      <h2>✨ Minhas listas</h2>
+      <div class="listas-grid">
+        ${listas.map((l) => `
+          <div class="lista-card">
+            <div class="lista-topo"><span class="lista-nome">${l.emoji} ${l.nome}</span>
+              <span class="lista-qtd">${l.itens.length}</span></div>
+            <div class="lista-acoes">
+              <button class="mbtn sm" data-verlista="${l.id}">Ver</button>
+              <button class="mbtn sm" data-sharelista="${l.id}">📤 Compartilhar</button>
+              <button class="mbtn sm danger" data-dellista="${l.id}">Excluir</button>
+            </div>
+          </div>`).join("")}
+        <div class="lista-card nova">
+          <input class="lista-input" id="novaListaNome" placeholder="Nome da lista (ex.: Comfort dramas)" />
+          <input class="lista-emoji" id="novaListaEmoji" value="💜" maxlength="2" aria-label="Emoji" />
+          <button class="chip-btn" id="criarLista">+ Criar lista</button>
+        </div>
+      </div>
+    </section>
+
+    ${recVis.length ? `<section class="rail bib-rail"><div class="rail-head"><h2>✅ Últimos assistidos</h2></div>
+      <div class="rail-track">${renderCards(recVis)}</div></section>` : ""}
+    ${recFav.length ? `<section class="rail bib-rail"><div class="rail-head"><h2>❤️ Últimos favoritados</h2></div>
+      <div class="rail-track">${renderCards(recFav)}</div></section>` : ""}
+    ${quero.length ? `<section class="rail bib-rail"><div class="rail-head"><h2>🔖 Quero assistir</h2></div>
+      <div class="rail-track">${renderCards(quero)}</div></section>` : ""}
+
+    ${!s.assistidos && !s.favoritos && !s.quero ? `
+      <div class="empty-state"><div class="empty-mark">💜</div>
+        <h2>Sua biblioteca está vazia</h2>
+        <p>Marque doramas como favoritos, "já assisti" ou "quero assistir" e eles aparecem aqui com suas estatísticas.</p>
+      </div>` : ""}
+
+    <section class="bib-secao">
+      <h2>💾 Backup da minha biblioteca</h2>
+      <p class="dim-hint">Seus dados ficam só neste navegador. Exporte para guardar ou levar para outro dispositivo.</p>
+      <div class="bib-backup">
+        <button class="mbtn" id="exportarBib">⬇️ Exportar</button>
+        <label class="mbtn" for="importarBib">⬆️ Importar</label>
+        <input type="file" id="importarBib" accept="application/json" hidden />
+      </div>
+    </section>`;
+
+  hydrateImages(el);
+}
+
+
+/* ---- js/share.js ---- */
+/* =========================================================
+   share.js — compartilhamento de dorama e de listas
+   Usa a Web Share API quando disponível; senão abre uma folha
+   com "copiar link" e "WhatsApp". Links funcionam por hash,
+   sem back-end (o site abre direto no item/lista compartilhada).
+   ========================================================= */
+
+const base = () => location.href.split("#")[0];
+const linkDorama = (id) => `${base()}#d=${encodeURIComponent(id)}`;
+
+/* Codifica/decodifica uma lista personalizada no próprio link (unicode-safe). */
+function linkLista(lista) {
+  const payload = { n: lista.nome, e: lista.emoji, i: lista.itens };
+  const b64 = btoa(unescape(encodeURIComponent(JSON.stringify(payload))));
+  return `${base()}#lista=${b64}`;
+}
+function lerListaDoLink(b64) {
+  try { return JSON.parse(decodeURIComponent(escape(atob(b64)))); } catch { return null; }
+}
+
+function resumo(txt, max = 160) {
+  const t = String(txt || "").replace(/\s+/g, " ").trim();
+  return t.length > max ? t.slice(0, max).trimEnd() + "…" : t;
+}
+
+async function compartilharDorama(d) {
+  const url = linkDorama(d.id);
+  const nota = getNota(d);
+  const titulo = `${d.titulo}${d.ano ? ` (${d.ano})` : ""}`;
+  const texto = `🎬 ${titulo}${nota > 0 ? ` — ★ ${fmtNota(nota)} no DRAMABOOK` : ""}\n${resumo(d.sinopse)}`;
+  return compartilhar({ title: titulo, text: texto, url, poster: d.poster });
+}
+
+async function compartilharLista(lista, qtd) {
+  const url = linkLista(lista);
+  const titulo = `${lista.emoji} ${lista.nome}`;
+  const texto = `${titulo} — minha lista com ${qtd} dorama(s) no DRAMABOOK 💜`;
+  return compartilhar({ title: titulo, text: texto, url });
+}
+
+async function compartilhar({ title, text, url }) {
+  if (navigator.share) {
+    try { await navigator.share({ title, text, url }); return "nativo"; }
+    catch (e) { if (e?.name === "AbortError") return "cancelado"; }
+  }
+  abrirFolha({ title, text, url });
+  return "folha";
+}
+
+function abrirFolha({ title, text, url }) {
+  const el = $("#shareSheet");
+  el.innerHTML = `
+    <div class="share-card">
+      <button class="share-close" data-sharefechar aria-label="Fechar">✕</button>
+      <h3>Compartilhar</h3>
+      <p class="share-preview">${title}</p>
+      <div class="share-actions">
+        <button class="mbtn" data-sharecopiar>📋 Copiar link</button>
+        <a class="mbtn" target="_blank" rel="noopener"
+           href="https://wa.me/?text=${encodeURIComponent(text + "\n" + url)}">💬 WhatsApp</a>
+      </div>
+      <input class="share-url" value="${url}" readonly />
+    </div>`;
+  el.hidden = false;
+  el.dataset.url = url;
+}
+function fecharFolha() { const el = $("#shareSheet"); if (el) el.hidden = true; }
+
+async function copiarLink(url) {
+  try { await navigator.clipboard.writeText(url); toast("Link copiado ✓"); }
+  catch { toast("Não consegui copiar — selecione o link"); }
+}
+
+
+/* ---- js/views.js ---- */
+/* =========================================================
+   views.js — telas e renderização (home, resultados, menu)
+   ========================================================= */
+
+/* ---------- menu lateral (data-driven) ---------- */
+function renderSidebar() {
+  const listHtml = LIST_MENU.map(m =>
+    `<button class="menu-item" data-list="${m.list}">${m.icon} ${m.label} <span class="badge" id="${m.badge}">0</span></button>`).join("");
+  const catHtml = CATEGORY_MENU.map(m =>
+    `<button class="menu-item" data-facet="${m.facet}">${m.icon} ${m.label}</button>`).join("");
+  const minhas = listasPersonalizadas();
+  const minhasHtml = minhas.length
+    ? `<p class="menu-label">Listas personalizadas</p>` + minhas.map(l =>
+        `<button class="menu-item" data-verlista="${l.id}">${l.emoji} ${l.nome} <span class="badge">${l.itens.length}</span></button>`).join("")
+    : "";
+  $("#menu").innerHTML = `
+    <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
+    <p class="menu-label">Minhas listas</p>${listHtml}
+    ${minhasHtml}
+    <p class="menu-label">Categorias</p>${catHtml}`;
+}
+
+/* ---------- chips + humor ---------- */
+function renderQuickfilters() {
+  $("#quickfilters").innerHTML = QUICK_FILTERS.map(f => `<button class="qf" data-facet="${f}">${f}</button>`).join("");
+}
+function renderMood() {
+  $("#mood").innerHTML = `
+    <p class="mood-title">Me indique um dorama…</p>
+    <div class="mood-opts">${MOODS.map(m => `<button class="mood-opt" data-mood="${m.key}">${m.emoji} ${m.label}</button>`).join("")}</div>`;
+}
+function indicarPorHumor(key) {
+  const mood = MOODS.find(m => m.key === key);
+  const pool = !mood || !mood.facets.length ? STATE.all : STATE.all.filter(d => mood.facets.some(f => byFacet(f).includes(d)));
+  const pick = pickRandom(pool.length ? pool : STATE.all);
+  if (pick) { toggleMood(false); openModal(pick.id); }
+}
+
+/* ---------- home ---------- */
+function renderHome() {
+  const empty = !STATE.all.length;
+  $("#resultsView").hidden = true;
+  $("#bibliotecaView").hidden = true;
+  $("#homeView").hidden = false;
+  $("#emptyState").hidden = !empty;
+  $("#hero").hidden = empty;
+  $("#quickfilters").hidden = empty;
+  $$("#homeView .rail").forEach(r => (r.hidden = empty));
+  if (empty) return;
+
+  renderRail($('[data-rail="ultimos"]'), { title: "🆕 Últimos adicionados", sub: "recém-chegados ao acervo", items: latest(14) });
+  renderRail($('[data-rail="melhores"]'), { title: "🏆 Mais bem avaliados", sub: "as maiores notas da curadoria", items: topRated(14) });
+  renderRail($('[data-rail="obras"]'), { title: "⭐ Obras-primas", sub: "os imperdíveis", items: masterpieces() });
+  renderRail($('[data-rail="top100"]'), { title: "🔥 Top 100", sub: "ranking geral", items: topRated(100) });
+  renderHero(pickRandom(topRated(5)));
+  hydrateImages(document);
+}
+
+/* ---------- sugestões instantâneas da busca ---------- */
+function renderSugestoes(q) {
+  const el = $("#suggest");
+  const termo = q.trim();
+  if (!termo) { el.hidden = true; el.innerHTML = ""; return; }
+  const achados = search(termo).slice(0, 7);
+  if (!achados.length) { el.hidden = true; el.innerHTML = ""; return; }
+  el.innerHTML = achados.map(d => {
+    const poster = resolvePoster(d);
+    return `<button class="sg" data-open="${d.id}">
+      <span class="sg-poster">${poster ? `<img src="${poster}" alt="" loading="lazy">` : ""}</span>
+      <span class="sg-txt">
+        <b>${d.titulo}</b>
+        <i>${flag(d.pais)} ${d.ano || ""}${d.titulo_original ? " · " + d.titulo_original : ""}</i>
+      </span>
+      <span class="sg-status">${statusHTML(d.id)}</span>
+    </button>`;
+  }).join("");
+  el.hidden = false;
+}
+function fecharSugestoes() { const el = $("#suggest"); if (el) { el.hidden = true; el.innerHTML = ""; } }
+
+/* ---------- resultados (com paginação p/ escala) ---------- */
+let _pending = [];
+let _todos = [];        // resultado completo, antes do filtro de status
+let _titulo = "";
+let _statusFiltro = "todos";
+
+const STATUS_CHIPS = [
+  { k: "todos", label: "Todos" },
+  { k: "nao-assisti", label: "👀 Não assisti" },
+  { k: "assisti", label: "✅ Já assisti" },
+  { k: "favoritos", label: "❤️ Favoritos" },
+  { k: "quero", label: "🔖 Quero assistir" },
+];
+
+function aplicaStatus(items) {
+  if (_statusFiltro === "todos") return items;
+  if (_statusFiltro === "nao-assisti") return items.filter(d => !inList("assisti", d.id));
+  return items.filter(d => inList(_statusFiltro, d.id));
+}
+
+function renderStatusChips() {
+  const el = $("#statusFiltros");
+  if (!el) return;
+  el.innerHTML = STATUS_CHIPS.map(c => {
+    const n = c.k === "todos" ? _todos.length
+      : c.k === "nao-assisti" ? _todos.filter(d => !inList("assisti", d.id)).length
+      : _todos.filter(d => inList(c.k, d.id)).length;
+    return `<button class="qf ${_statusFiltro === c.k ? "active" : ""}" data-status="${c.k}">${c.label} <b>${n}</b></button>`;
+  }).join("");
+}
+
+/* Reaplica o filtro de status sobre o último resultado (sem refazer a busca). */
+function filtrarPorStatus(k) {
+  _statusFiltro = k;
+  renderStatusChips();
+  pintarResultados(aplicaStatus(_todos));
+}
+
+function showResults(title, items) {
+  $("#homeView").hidden = true;
+  $("#hero").hidden = true;
+  $("#quickfilters").hidden = true;
+  $("#emptyState").hidden = true;
+  $("#bibliotecaView").hidden = true;
+  $("#resultsView").hidden = false;
+  $("#backHome").hidden = false;
+  _todos = items.slice();
+  _titulo = title;
+  _statusFiltro = "todos";
+  $("#resultsTitle").textContent = title;
+  renderStatusChips();
+  pintarResultados(items);
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+/* Desenha a grade a partir de uma lista já filtrada. */
+function pintarResultados(items) {
+  $("#resultsCount").textContent = items.length ? `${items.length} título(s)` : "";
+  const grid = $("#resultsGrid");
+  grid.innerHTML = "";
+  _pending = items.slice();
+  $("#resultsEmpty").hidden = items.length > 0;
+  appendPage();
+}
+function appendPage() {
+  const grid = $("#resultsGrid");
+  const chunk = _pending.splice(0, PAGE_SIZE);
+  grid.insertAdjacentHTML("beforeend", renderCards(chunk));
+  hydrateImages(grid);
+  const more = $("#loadMore");
+  more.hidden = _pending.length === 0;
+  if (!more.hidden) more.textContent = `Carregar mais (${_pending.length})`;
+}
+function bindLoadMore() { $("#loadMore").addEventListener("click", appendPage); }
+
+function showHome() {
+  const si = $("#searchInput"); if (si) si.value = "";
+  $("#searchClear").hidden = true;
+  setActiveMenu(null);
+  renderHome();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+
+function showSearch(q) {
+  if (!q.trim()) { showHome(); return; }
+  showResults(`Resultados para “${q.trim()}”`, search(q));
+}
+function showFacet(facet, label) {
+  if (facet === "all") { showHome(); return; }
+  showResults(label || facet, byFacet(facet));
+}
+function showList(list) {
+  const labels = { favoritos: "❤️ Favoritos", assisti: "✅ Já assisti", quero: "🔖 Quero assistir" };
+  showResults(labels[list], itemsInList(list));
+}
+
+/* ---------- estado de UI ---------- */
+function updateBadges() {
+  LIST_MENU.forEach(m => { const el = $("#" + m.badge); if (el) el.textContent = listaIds(m.list).length; });
+}
+function refreshListUI(id) {
+  $$(`.qa[data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
+  $$(`.mbtn[data-qa][data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
+  // selos de status no card e nas sugestões
+  $$(`.card[data-id="${id}"] .card-status`).forEach(el => (el.innerHTML = statusHTML(id)));
+  $$(`.sg[data-open="${id}"] .sg-status`).forEach(el => (el.innerHTML = statusHTML(id)));
+  renderStatusChips();
+}
+
+/* ---------- Minha Biblioteca ---------- */
+function showBiblioteca() {
+  $("#homeView").hidden = true;
+  $("#resultsView").hidden = true;
+  $("#hero").hidden = true;
+  $("#quickfilters").hidden = true;
+  $("#emptyState").hidden = true;
+  $("#bibliotecaView").hidden = false;
+  renderBiblioteca();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
+function showListaPersonalizada(listaId) {
+  const l = getLista(listaId);
+  if (!l) { toast("Lista não encontrada"); return; }
+  showResults(`${l.emoji} ${l.nome}`, itemsDaLista(listaId));
+}
+function setActiveMenu(el) {
+  $$(".menu-item").forEach(m => m.classList.remove("active"));
+  if (el) el.classList.add("active");
+}
+
+/* ---------- popover de humor ---------- */
+function toggleMood(force) {
+  const m = $("#mood");
+  const open = force === undefined ? m.hidden : force;
+  m.hidden = !open;
+}
+
+
+/* ---- app.js ---- */
+/* =========================================================
+   app.js — ponto de entrada (ES module)
+   Só orquestra: importa os módulos, liga eventos, inicia.
+   ========================================================= */
+
+/* PWA: arquivos prontos, mas desligada por padrão (ativar quando hospedar). */
+const PWA_ENABLED = false;
+
+function toggleTheme() {
+  const next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  $("#themeToggle").textContent = next === "dark" ? "🌙" : "☀️";
+  localStorage.setItem(LS.theme, next);
+}
+function closeSidebar() { $("#sidebar").classList.remove("open"); $("#sidebarScrim").classList.remove("show"); }
+
+/* Reabre a ficha para refletir mudanças (nota, listas) sem perder o scroll. */
+function refreshModal(id) {
+  const card = $("#modalCard");
+  const scroll = card?.scrollTop || 0;
+  openModal(id);
+  if (card) card.scrollTop = scroll;
+}
+
+function onClick(e) {
+  /* --- listas de status (favorito / quero / assisti) --- */
+  const qa = e.target.closest("[data-qa]");
+  if (qa) {
+    e.stopPropagation();
+    const added = toggleList(qa.dataset.qa, qa.dataset.id);
+    refreshListUI(qa.dataset.id); updateBadges();
+    const labels = { favoritos: "Favoritos", assisti: "Já assisti", quero: "Quero assistir" };
+    toast(`${added ? "Adicionado a" : "Removido de"} ${labels[qa.dataset.qa]}`);
+    return;
+  }
+
+  /* --- minha nota (0–10) --- */
+  const nota = e.target.closest("[data-nota]");
+  if (nota) {
+    e.stopPropagation();
+    const v = nota.dataset.nota;
+    setMinhaNota(nota.dataset.id, v === "" ? null : Number(v));
+    toast(v === "" ? "Nota removida" : `Sua nota: ${v}`);
+    refreshModal(nota.dataset.id);
+    return;
+  }
+
+  /* --- adicionar/remover de lista personalizada (pela ficha) --- */
+  const addLista = e.target.closest("[data-addlista]");
+  if (addLista) {
+    e.stopPropagation();
+    const add = toggleNaLista(addLista.dataset.addlista, addLista.dataset.id);
+    const l = getLista(addLista.dataset.addlista);
+    toast(`${add ? "Adicionado a" : "Removido de"} ${l?.emoji || ""} ${l?.nome || "lista"}`);
+    refreshModal(addLista.dataset.id);
+    renderSidebar(); updateBadges();
+    return;
+  }
+
+  /* --- compartilhar dorama / lista --- */
+  const share = e.target.closest("[data-share]");
+  if (share) { e.stopPropagation(); const d = STATE.byId[share.dataset.share]; if (d) compartilharDorama(d); return; }
+  const shareLista = e.target.closest("[data-sharelista]");
+  if (shareLista) {
+    const l = getLista(shareLista.dataset.sharelista);
+    if (l) compartilharLista(l, l.itens.length);
+    return;
+  }
+  if (e.target.closest("[data-sharecopiar]")) { copiarLink($("#shareSheet").dataset.url); return; }
+  if (e.target.closest("[data-sharefechar]") || e.target.id === "shareSheet") { fecharFolha(); return; }
+
+  /* --- Minha Biblioteca / listas personalizadas --- */
+  if (e.target.closest("[data-biblioteca]")) {
+    closeModal(); showBiblioteca(); setActiveMenu(e.target.closest(".menu-item")); closeSidebar(); return;
+  }
+  const verLista = e.target.closest("[data-verlista]");
+  if (verLista) {
+    closeModal(); showListaPersonalizada(verLista.dataset.verlista);
+    setActiveMenu(verLista.closest(".menu-item") ? verLista : null); closeSidebar(); return;
+  }
+  const delLista = e.target.closest("[data-dellista]");
+  if (delLista) {
+    const l = getLista(delLista.dataset.dellista);
+    if (l && confirm(`Excluir a lista "${l.nome}"? Os doramas não são apagados.`)) {
+      removerLista(l.id); renderSidebar(); showBiblioteca(); toast("Lista excluída");
+    }
+    return;
+  }
+
+  /* --- filtro por status nos resultados --- */
+  const st = e.target.closest("[data-status]");
+  if (st) { filtrarPorStatus(st.dataset.status); return; }
+
+  /* --- navegação padrão --- */
+  const open = e.target.closest("[data-open]");
+  if (open) { fecharSugestoes(); openModal(open.dataset.open); return; }
+
+  const mood = e.target.closest("[data-mood]");
+  if (mood) { indicarPorHumor(mood.dataset.mood); return; }
+
+  const card = e.target.closest(".card");
+  if (card) { openModal(card.dataset.id); return; }
+
+  const facetBtn = e.target.closest("[data-facet]");
+  if (facetBtn) {
+    closeModal();
+    showFacet(facetBtn.dataset.facet, facetBtn.textContent.trim());
+    setActiveMenu(facetBtn.classList.contains("menu-item") ? facetBtn : null);
+    closeSidebar(); return;
+  }
+  const listBtn = e.target.closest("[data-list]");
+  if (listBtn) { closeModal(); showList(listBtn.dataset.list); setActiveMenu(listBtn); closeSidebar(); return; }
+
+  if (!e.target.closest("#mood") && !e.target.closest("#randomBtn")) toggleMood(false);
+}
+
+/* Comentário pessoal — salva enquanto digita (com debounce). */
+let tComent;
+function onInput(e) {
+  const ta = e.target.closest("[data-coment]");
+  if (!ta) return;
+  clearTimeout(tComent);
+  tComent = setTimeout(() => { setComentario(ta.dataset.coment, ta.value); }, 400);
+}
+
+/* Criar lista + backup (elementos existem só na tela Minha Biblioteca). */
+function onBibliotecaAction(e) {
+  if (e.target.id === "criarLista") {
+    const nome = $("#novaListaNome")?.value.trim();
+    const emoji = $("#novaListaEmoji")?.value.trim() || "💜";
+    if (!nome) { toast("Dê um nome para a lista"); return; }
+    criarLista(nome, emoji);
+    renderSidebar(); showBiblioteca(); toast("Lista criada ✓");
+  }
+  if (e.target.id === "exportarBib") {
+    const blob = new Blob([exportar()], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "minha-biblioteca-dramabook.json";
+    a.click(); URL.revokeObjectURL(a.href);
+    toast("Biblioteca exportada ✓");
+  }
+}
+function onFile(e) {
+  if (e.target.id !== "importarBib") return;
+  const file = e.target.files?.[0]; if (!file) return;
+  const fr = new FileReader();
+  fr.onload = () => {
+    try { importar(fr.result); renderSidebar(); updateBadges(); showBiblioteca(); toast("Biblioteca importada ✓"); }
+    catch { toast("Arquivo inválido"); }
+  };
+  fr.readAsText(file);
+}
+
+/* Deep link: #d=<id> abre a ficha; #lista=<b64> abre uma lista compartilhada. */
+function aplicarHash() {
+  const h = location.hash.slice(1);
+  if (h.startsWith("d=")) {
+    const id = decodeURIComponent(h.slice(2));
+    if (STATE.byId[id]) openModal(id);
+  } else if (h.startsWith("lista=")) {
+    const l = lerListaDoLink(h.slice(6));
+    if (!l) return;
+    const itens = (l.i || []).map((id) => STATE.byId[id]).filter(Boolean);
+    showResults(`${l.e || "💜"} ${l.n || "Lista compartilhada"}`, itens);
+    toast(`Lista compartilhada: ${itens.length} dorama(s)`);
+  }
+}
+
+function wireEvents() {
+  const si = $("#searchInput");
+  si.addEventListener("input", () => {
+    $("#searchClear").hidden = !si.value;
+    renderSugestoes(si.value);
+    showSearch(si.value);
+  });
+  si.addEventListener("focus", () => renderSugestoes(si.value));
+  $("#searchClear").addEventListener("click", () => { si.value = ""; fecharSugestoes(); showHome(); si.focus(); });
+  document.addEventListener("click", (e) => { if (!e.target.closest(".search-wrap")) fecharSugestoes(); });
+
+  document.addEventListener("click", onClick);
+  document.addEventListener("click", onBibliotecaAction);
+  document.addEventListener("input", onInput);
+  document.addEventListener("change", onFile);
+  document.addEventListener("keydown", e => {
+    if (e.key === "Escape") { closeModal(); toggleMood(false); fecharFolha(); }
+    if ((e.key === "Enter" || e.key === " ") && e.target.classList?.contains("card")) {
+      e.preventDefault(); openModal(e.target.dataset.id);
+    }
+  });
+
+  $("#logoHome").addEventListener("click", e => { e.preventDefault(); showHome(); });
+  $("#backHome").addEventListener("click", showHome);
+  $("#randomBtn").addEventListener("click", e => { e.stopPropagation(); toggleMood(); });
+  $("#modalScrim").addEventListener("click", closeModal);
+  $("#themeToggle").addEventListener("click", toggleTheme);
+  $("#menuToggle").addEventListener("click", () => {
+    $("#sidebar").classList.toggle("open"); $("#sidebarScrim").classList.toggle("show");
+  });
+  $("#sidebarScrim").addEventListener("click", closeSidebar);
+  window.addEventListener("hashchange", aplicarHash);
+  bindLoadMore();
+}
+
+function showLoadError() {
+  $("#homeView").hidden = true;
+  $("#resultsView").hidden = false;
+  $("#backHome").hidden = true;
+  $("#resultsTitle").textContent = "Não foi possível carregar o acervo";
+  $("#resultsGrid").innerHTML = `<p class="empty" style="grid-column:1/-1">
+    Rode um servidor na pasta: <code>python3 -m http.server 8080</code> e abra <code>http://localhost:8080</code>.</p>`;
+}
+
+async function init() {
+  const theme = localStorage.getItem(LS.theme) || "dark";
+  document.documentElement.setAttribute("data-theme", theme);
+  $("#themeToggle").textContent = theme === "dark" ? "🌙" : "☀️";
+
+  renderSidebar(); renderQuickfilters(); renderMood();
+  wireEvents(); updateBadges();
+
+  const ok = await loadCatalog();
+  ok ? renderHome() : showLoadError();
+  if (ok) aplicarHash();
+
+  if (PWA_ENABLED && "serviceWorker" in navigator && location.protocol.startsWith("http")) {
+    navigator.serviceWorker.register("service-worker.js").catch(() => {});
+  }
+}
+
+init();
+
+})();</script>

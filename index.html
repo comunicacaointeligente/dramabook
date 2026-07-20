@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="DRAMABOOK — a maior biblioteca de doramas em português. Encontre qualquer dorama em segundos." />
+  <meta name="theme-color" content="#0b0d12" />
+  <title>DRAMABOOK — Biblioteca de Doramas</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="manifest" href="pwa/manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="assets/icons/icon.svg" />
+</head>
+<body>
+
+  <!-- ===================== TOPO ===================== -->
+  <header class="topbar" id="topbar">
+    <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menu">☰</button>
+
+    <a href="#inicio" class="logo" id="logoHome" aria-label="DRAMABOOK início">
+      <span class="logo-mark">▶</span><span class="logo-text">DRAMA<b>BOOK</b></span>
+    </a>
+
+    <div class="search-wrap">
+      <span class="search-ico" aria-hidden="true">🔍</span>
+      <input type="search" id="searchInput" class="search-input"
+             placeholder="Pesquisar dorama, título original, tropo…" autocomplete="off" aria-label="Pesquisar" />
+      <button class="search-clear" id="searchClear" aria-label="Limpar" hidden>✕</button>
+      <div class="suggest" id="suggest" hidden></div>
+    </div>
+
+    <div class="topbar-actions">
+      <button class="chip-btn" id="randomBtn" title="Me indique um dorama">🎲 <span class="hide-sm">Me indique</span></button>
+      <button class="icon-btn" id="themeToggle" title="Alternar tema" aria-label="Alternar tema">🌙</button>
+    </div>
+
+    <!-- Popover: recomendação por humor -->
+    <div class="mood" id="mood" hidden></div>
+  </header>
+
+  <div class="layout">
+
+    <!-- ===================== MENU LATERAL ===================== -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-inner">
+        <nav class="menu" id="menu"><!-- preenchido por views.renderSidebar() --></nav>
+        <p class="menu-foot">DRAMABOOK · biblioteca em português</p>
+      </div>
+    </aside>
+    <div class="sidebar-scrim" id="sidebarScrim"></div>
+
+    <!-- ===================== CONTEÚDO ===================== -->
+    <main class="content" id="content">
+
+      <section class="hero" id="hero" hidden></section>
+      <section class="quickfilters" id="quickfilters"></section>
+
+      <div class="empty-state" id="emptyState" hidden>
+        <div class="empty-mark">🎬</div>
+        <h2>Catálogo em construção</h2>
+        <p>A curadoria premium está a caminho. Assim que o primeiro lote de doramas chegar, ele aparece aqui.</p>
+      </div>
+
+      <div id="homeView">
+        <section class="rail" data-rail="ultimos"></section>
+        <section class="rail" data-rail="melhores"></section>
+        <section class="rail" data-rail="obras"></section>
+        <section class="rail" data-rail="top100"></section>
+      </div>
+
+      <div id="bibliotecaView" hidden></div>
+
+      <div id="resultsView" hidden>
+        <div class="results-head">
+          <h2 id="resultsTitle">Resultados</h2>
+          <span class="results-count" id="resultsCount"></span>
+          <button class="chip-btn ghost" id="backHome">← Voltar ao início</button>
+        </div>
+        <div class="quickfilters status-filtros" id="statusFiltros"></div>
+        <div class="grid" id="resultsGrid"></div>
+        <p class="empty" id="resultsEmpty" hidden>Nenhum dorama encontrado. 🥲</p>
+        <div class="load-more-wrap"><button class="chip-btn ghost" id="loadMore" hidden>Carregar mais</button></div>
+      </div>
+
+      <footer class="footer">
+        <p>DRAMABOOK — a maior biblioteca de doramas em português.</p>
+        <p class="dim">Conteúdo curado. Registros marcados como “exemplo” são demonstração e serão substituídos pela curadoria oficial.</p>
+        <p class="credit">Desenvolvido por <b>CI · Comunicação Inteligente</b></p>
+      </footer>
+    </main>
+  </div>
+
+  <!-- ===================== MODAL FICHA ===================== -->
+  <div class="modal" id="modal" hidden>
+    <div class="modal-scrim" id="modalScrim"></div>
+    <div class="modal-card" id="modalCard" role="dialog" aria-modal="true"></div>
+  </div>
+
+  <!-- ===================== COMPARTILHAR ===================== -->
+  <div class="share-sheet" id="shareSheet" hidden></div>
+
+  <div class="toast" id="toast" hidden></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

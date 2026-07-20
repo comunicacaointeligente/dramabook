@@ -1,0 +1,57 @@
+[
+  {
+    "id": "moon-lovers",
+    "titulo": "Moon Lovers: Scarlet Heart Ryeo",
+    "titulo_original": "달의 연인 - 보보경심 려",
+    "ano": 2016,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Fantasia"
+    ],
+    "tropos": [
+      "Viagem no tempo",
+      "Rivais que se apaixonam"
+    ],
+    "nota": 9,
+    "obra_prima": true,
+    "poster": "https://image.tmdb.org/t/p/w500/sTW7wLyD95JRCyUEdTfxCWQWsvd.jpg",
+    "sinopse": "Uma mulher dos dias atuais desperta na era Goryeo, cercada por príncipes que disputam o trono. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "mr-queen"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/yBmqsAFjJJtdHkptwlCy0WMsfKA.jpg"
+  },
+  {
+    "id": "mr-queen",
+    "titulo": "Mr. Queen",
+    "titulo_original": "철인왕후",
+    "ano": 2020,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Históricos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Troca de corpos",
+      "Casamento por contrato"
+    ],
+    "nota": 8.9,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/zbOirTHricdr0Z2lN6likIHzXVL.jpg",
+    "sinopse": "Um chef moderno acorda no corpo de uma rainha da dinastia Joseon. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "moon-lovers"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/zs803kZR1rT5niAakQokxtp3Uqv.jpg"
+  }
+]

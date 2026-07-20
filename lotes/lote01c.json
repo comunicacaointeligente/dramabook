@@ -1,0 +1,255 @@
+[
+  {
+    "titulo": "Hospital Playlist",
+    "ano": 2020,
+    "sinopse": "Cinco médicos amigos equilibram a rotina intensa do hospital com suas vidas pessoais, mostrando que o amor também floresce em meio aos desafios da profissão.",
+    "porque_assistir": "Uma celebração da amizade, da medicina e dos romances que amadurecem naturalmente.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Médicos"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Friends to Lovers",
+      "Healing"
+    ],
+    "temas": [
+      "Amizade",
+      "Vida Adulta",
+      "Hospital"
+    ],
+    "profissoes": [
+      "Médicos"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.9,
+      "mdl": 9.1,
+      "imdb": 8.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 9,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "Conta com duas temporadas."
+    ],
+    "recomendacoes": [
+      "Our Blues",
+      "Chocolate",
+      "When the Camellia Blooms"
+    ]
+  },
+  {
+    "titulo": "It's Okay, That's Love",
+    "ano": 2014,
+    "sinopse": "Uma psiquiatra e um escritor aproximam-se enquanto enfrentam feridas emocionais e descobrem novas formas de amar.",
+    "porque_assistir": "Romance marcante sobre cura emocional.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Médicos"
+    ],
+    "tropos": [
+      "Healing",
+      "Química Inesquecível"
+    ],
+    "temas": [
+      "Saúde Mental",
+      "Amor"
+    ],
+    "profissoes": [
+      "Médicos",
+      "Escritor"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.8,
+      "mdl": 9.0,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 10,
+      "humor": 8,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "You Are My Spring",
+      "Chocolate",
+      "Call It Love"
+    ]
+  },
+  {
+    "titulo": "Tell Me That You Love Me",
+    "ano": 2023,
+    "sinopse": "Um artista com deficiência auditiva e uma aspirante a atriz encontram uma forma única de construir um relacionamento.",
+    "porque_assistir": "Sensível e visualmente elegante.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Healing"
+    ],
+    "temas": [
+      "Inclusão",
+      "Comunicação"
+    ],
+    "profissoes": [
+      "Artista",
+      "Atriz"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.7,
+      "mdl": 8.9,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Call It Love",
+      "One Spring Night",
+      "A Piece of Your Mind"
+    ]
+  },
+  {
+    "titulo": "Do You Like Brahms?",
+    "ano": 2020,
+    "sinopse": "Uma estudante de música e um pianista renomado aproximam-se enquanto buscam realizar seus sonhos.",
+    "porque_assistir": "Romance contemplativo e emocionante.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn"
+    ],
+    "temas": [
+      "Música",
+      "Autoconhecimento"
+    ],
+    "profissoes": [
+      "Pianista"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.7,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Run On",
+      "Our Beloved Summer"
+    ]
+  },
+  {
+    "titulo": "Romance Is a Bonus Book",
+    "ano": 2019,
+    "sinopse": "Uma editora tenta reconstruir sua carreira enquanto reencontra um velho amigo que passa a vê-la de outra forma.",
+    "porque_assistir": "Um romance acolhedor para quem ama livros.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Comédia"
+    ],
+    "tropos": [
+      "Friends to Lovers",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Livros",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Editora"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.6,
+      "mdl": 8.8,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 8,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [],
+    "recomendacoes": [
+      "Because This Is My First Life",
+      "Run On",
+      "Love to Hate You"
+    ]
+  }
+]

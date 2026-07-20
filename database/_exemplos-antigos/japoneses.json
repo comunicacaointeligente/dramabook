@@ -1,0 +1,54 @@
+[
+  {
+    "id": "alice-in-borderland",
+    "titulo": "Alice in Borderland",
+    "titulo_original": "今際の国のアリス",
+    "ano": 2020,
+    "pais": "Japão",
+    "plataforma": "Netflix",
+    "dublado": true,
+    "categorias": [
+      "Japoneses",
+      "Fantasia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Sobrevivência",
+      "Distopia"
+    ],
+    "nota": 8.7,
+    "obra_prima": true,
+    "poster": "https://image.tmdb.org/t/p/w500/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+    "sinopse": "Um jovem e seus amigos ficam presos em uma Tóquio deserta onde precisam vencer jogos mortais para sobreviver. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [],
+    "status_curadoria": "exemplo",
+    "backdrop": "/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg"
+  },
+  {
+    "id": "good-morning-call",
+    "titulo": "Good Morning Call",
+    "titulo_original": "グッドモーニング・コール",
+    "ano": 2016,
+    "pais": "Japão",
+    "plataforma": "Netflix",
+    "dublado": false,
+    "categorias": [
+      "Japoneses",
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [
+      "Morando juntos",
+      "Rivais que se apaixonam"
+    ],
+    "nota": 8,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/651V944nJJePplsYTA6yH5uZgAD.jpg",
+    "sinopse": "Dois colegas de escola acabam, por um golpe do destino, dividindo o mesmo apartamento em segredo. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [],
+    "status_curadoria": "exemplo",
+    "backdrop": "/ddk2Y4lPYSxqM7v7E7UA19bJTx8.jpg"
+  }
+]

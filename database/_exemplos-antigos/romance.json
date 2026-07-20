@@ -1,0 +1,85 @@
+[
+  {
+    "id": "crash-landing-on-you",
+    "titulo": "Pouso de Emergência no Amor",
+    "titulo_original": "사랑의 불시착",
+    "ano": 2019,
+    "pais": "Coreia do Sul",
+    "plataforma": "Netflix",
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Rivais que se apaixonam"
+    ],
+    "nota": 9.3,
+    "obra_prima": true,
+    "poster": "https://image.tmdb.org/t/p/w500/sLBtmtaqrngZegQwbnL2fSzzTBJ.jpg",
+    "sinopse": "Uma herdeira sul-coreana faz um pouso forçado em território norte-coreano e é encontrada por um oficial do exército. (Sinopse de exemplo — substituir pela curadoria.)",
+    "comentario": "Registro de exemplo para demonstrar o layout. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "business-proposal",
+      "goblin"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/3yEHM2HT2vrUtO93YzTJNgEfiZG.jpg"
+  },
+  {
+    "id": "business-proposal",
+    "titulo": "Proposta de Emprego",
+    "titulo_original": "사내맞선",
+    "ano": 2022,
+    "pais": "Coreia do Sul",
+    "plataforma": "Netflix",
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [
+      "Namoro de mentira",
+      "CEO",
+      "Casamento por contrato"
+    ],
+    "nota": 8.9,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/cCwOdavFOCPIyzsv1C2PsEFR7vN.jpg",
+    "sinopse": "Uma funcionária vai a um encontro às cegas no lugar de uma amiga e descobre que o pretendente é o CEO da própria empresa. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "whats-wrong-secretary-kim"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg"
+  },
+  {
+    "id": "whats-wrong-secretary-kim",
+    "titulo": "O Que Há de Errado com a Secretária Kim?",
+    "titulo_original": "김비서가 왜 그럴까",
+    "ano": 2018,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [
+      "CEO",
+      "Slow Burn"
+    ],
+    "nota": 8.7,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/kyOJoLaTxVV5pPrHwBQMtIqfKR8.jpg",
+    "sinopse": "Um CEO narcisista precisa reconquistar a secretária competente que decidiu, após anos, pedir demissão. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "business-proposal"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/kKlzA0owtx63wxpiYxgzSXrx6yz.jpg"
+  }
+]

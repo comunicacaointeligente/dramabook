@@ -1,0 +1,88 @@
+[
+  {
+    "id": "goblin",
+    "titulo": "Goblin",
+    "titulo_original": "쓸쓸하고 찬란하神 - 도깨비",
+    "ano": 2016,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Sobrenatural",
+      "Imortal"
+    ],
+    "nota": 9.4,
+    "obra_prima": true,
+    "poster": "https://image.tmdb.org/t/p/w500/uGj0VhydzfMiYXGdx0ps4pKpcN2.jpg",
+    "sinopse": "Um goblin imortal procura a noiva humana capaz de encerrar sua vida eterna, e acaba dividindo casa com um ceifador. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "hotel-del-luna",
+      "tale-nine-tailed"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/smSbK5cd8T9XHcxEUcems23BDEF.jpg"
+  },
+  {
+    "id": "hotel-del-luna",
+    "titulo": "Hotel del Luna",
+    "titulo_original": "호텔 델루나",
+    "ano": 2019,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Romance",
+      "Sobrenatural"
+    ],
+    "tropos": [
+      "Sobrenatural",
+      "Slow Burn"
+    ],
+    "nota": 9,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/8bizZsXoAsOTbhyFKfBogC8mgG2.jpg",
+    "sinopse": "Um hotel que hospeda fantasmas é comandado por uma dona de temperamento difícil presa a uma antiga maldição. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "goblin"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/epq6I0AwVaHldCrQ6xJ5ZsAyHCF.jpg"
+  },
+  {
+    "id": "tale-nine-tailed",
+    "titulo": "Tale of the Nine-Tailed",
+    "titulo_original": "구미호뎐",
+    "ano": 2020,
+    "pais": "Coreia do Sul",
+    "plataforma": "Viki",
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Romance",
+      "Sobrenatural"
+    ],
+    "tropos": [
+      "Sobrenatural",
+      "Reencarnação"
+    ],
+    "nota": 8.6,
+    "obra_prima": false,
+    "poster": "https://image.tmdb.org/t/p/w500/4dMweWj2HaiYGY1NKqBBsxmDOrT.jpg",
+    "sinopse": "Uma raposa de nove caudas que hoje caça outros seres sobrenaturais reencontra o amor de outra vida. (Sinopse de exemplo — substituir.)",
+    "comentario": "Registro de exemplo. Substituir pelo comentário oficial da curadoria.",
+    "recomendacoes": [
+      "hotel-del-luna"
+    ],
+    "status_curadoria": "exemplo",
+    "backdrop": "/oPJQvS8Xyg7chAX0jQoC2smqMxv.jpg"
+  }
+]

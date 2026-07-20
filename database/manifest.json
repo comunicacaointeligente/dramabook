@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 3,
+  "updatedAt": "2026-07-17",
+  "note": "Fonte única: doramas.json (todos os doramas). Os menus/filtros são derivados das categorias/tropos/gêneros de cada ficha. Se um dia o arquivo ficar grande demais, dá pra dividir em vários e listá-los aqui, sem tocar no código.",
+  "files": ["doramas.json"]
+}

@@ -1,0 +1,276 @@
+[
+  {
+    "titulo": "Crash Landing on You",
+    "ano": 2019,
+    "sinopse": "Uma empresária sul-coreana sofre um acidente durante um voo de parapente e acaba cruzando a fronteira com a Coreia do Norte, onde conhece um oficial que decide protegê-la. Entre diferenças culturais e desafios inesperados, nasce um romance marcante.",
+    "porque_assistir": "Uma das histórias de amor mais icônicas dos K-Dramas, com equilíbrio entre romance, humor e emoção.",
+    "categorias": [
+      "Romance Maduro",
+      "Obra-prima",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Destino",
+      "Opposites Attract",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Família",
+      "Sacrifício"
+    ],
+    "profissoes": [
+      "Militar",
+      "Empresária"
+    ],
+    "avaliacao": {
+      "chatgpt": 10,
+      "mdl": 9.0,
+      "imdb": 8.7
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 10,
+      "emocao": 10,
+      "humor": 8,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 10,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "Foi um grande sucesso internacional.",
+      "O casal protagonista tornou-se um casal na vida real."
+    ],
+    "recomendacoes": [
+      "Descendants of the Sun",
+      "Queen of Tears",
+      "Encounter"
+    ]
+  },
+  {
+    "titulo": "Hometown Cha-Cha-Cha",
+    "ano": 2021,
+    "sinopse": "Uma dentista decide recomeçar a vida em uma pequena cidade litorânea, onde conhece um morador querido por toda a comunidade. A convivência transforma seus valores e abre espaço para um romance delicado.",
+    "porque_assistir": "Confortante, divertido e cheio de personagens cativantes.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Enemies to Lovers",
+      "Small Town",
+      "Healing"
+    ],
+    "temas": [
+      "Comunidade",
+      "Recomeço",
+      "Amor"
+    ],
+    "profissoes": [
+      "Dentista"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.8,
+      "mdl": 8.8,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 9,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "Ambientado em uma vila costeira fictícia.",
+      "É conhecido pelo clima 'comfort drama'."
+    ],
+    "recomendacoes": [
+      "Our Beloved Summer",
+      "When the Camellia Blooms",
+      "Summer Strike"
+    ]
+  },
+  {
+    "titulo": "Because This Is My First Life",
+    "ano": 2017,
+    "sinopse": "Um homem e uma mulher unem interesses práticos ao dividir a mesma casa, mas a convivência faz surgir sentimentos inesperados e reflexões sobre amor, casamento e sonhos.",
+    "porque_assistir": "Mistura romance maduro com diálogos inteligentes sobre a vida adulta.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Contract Relationship",
+      "Slow Burn",
+      "Roommates"
+    ],
+    "temas": [
+      "Casamento",
+      "Vida Adulta",
+      "Autoconhecimento"
+    ],
+    "profissoes": [
+      "Roteirista",
+      "Desenvolvedor"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.7,
+      "mdl": 8.9,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 8,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 10,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "É referência em romances maduros.",
+      "Aborda expectativas sociais sobre casamento."
+    ],
+    "recomendacoes": [
+      "Run On",
+      "Love to Hate You",
+      "Romance Is a Bonus Book"
+    ]
+  },
+  {
+    "titulo": "One Spring Night",
+    "ano": 2019,
+    "sinopse": "O encontro casual entre uma bibliotecária e um farmacêutico muda a forma como ambos enxergam o amor, exigindo coragem para enfrentar expectativas familiares e escolhas difíceis.",
+    "porque_assistir": "Romance sensível, realista e extremamente bem desenvolvido.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Slow Burn",
+      "Second Chance"
+    ],
+    "temas": [
+      "Família",
+      "Maturidade",
+      "Relacionamentos"
+    ],
+    "profissoes": [
+      "Bibliotecária",
+      "Farmacêutico"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.6,
+      "mdl": 8.8,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 10,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "É elogiado pelo tom realista.",
+      "Tem direção intimista."
+    ],
+    "recomendacoes": [
+      "Something in the Rain",
+      "Call It Love",
+      "Tell Me That You Love Me"
+    ]
+  },
+  {
+    "titulo": "Our Beloved Summer",
+    "ano": 2021,
+    "sinopse": "Anos após um relacionamento marcante terminar, dois ex-namorados são obrigados a se reencontrar quando um antigo documentário sobre eles volta a fazer sucesso.",
+    "porque_assistir": "Um romance delicado sobre amadurecimento, reencontros e segundas chances.",
+    "categorias": [
+      "Romance Maduro",
+      "K-Drama"
+    ],
+    "tropos": [
+      "Second Chance",
+      "Exes to Lovers",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Crescimento Pessoal",
+      "Amor",
+      "Carreira"
+    ],
+    "profissoes": [
+      "Ilustrador",
+      "Produtora"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.8,
+      "mdl": 8.9,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 10,
+      "emocao": 9,
+      "humor": 8,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 10,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "curiosidades": [
+      "Conhecido pela fotografia elegante.",
+      "A trilha sonora é muito elogiada."
+    ],
+    "recomendacoes": [
+      "Hometown Cha-Cha-Cha",
+      "Our Blues",
+      "Run On"
+    ]
+  }
+]
