@@ -201,55 +201,6 @@
     "status": "Finalizado",
     "titulo_br": "Contrato de Casamento"
   },
-  "goong": {
-    "titulo_original": "궁",
-    "pais": "Coreia do Sul",
-    "ano": 2006,
-    "episodios": 24,
-    "temporadas": 1,
-    "duracao": "65 min",
-    "elenco": [
-      "Yoon Eun-hye",
-      "Ju Ji-hoon",
-      "Song Ji-hyo",
-      "Kim Jeong-hoon"
-    ],
-    "diretor": "Hwang In-roe",
-    "roteirista": "In Eun-ah",
-    "plataformas": [
-      "MBC"
-    ],
-    "classificacao": 15,
-    "poster": "/1FFMp7N70soxPIvAyxRpypyUzbM.jpg",
-    "banner": "/cqLrc6WXOm57Z18X6etRoRUOi7h.jpg",
-    "trailer": "https://www.youtube.com/watch?v=HgN5iX8JQ4E",
-    "status": "Finalizado",
-    "titulo_br": "Horas de Princesa"
-  },
-  "a-coroa-perfeita": {
-    "titulo_original": "21세기 대군부인",
-    "pais": "Coreia do Sul",
-    "ano": 2026,
-    "episodios": 12,
-    "temporadas": 1,
-    "duracao": "65 min",
-    "elenco": [
-      "IU",
-      "Byeon Woo-seok",
-      "Steve Sanghyun Noh",
-      "Gong Seung-yeon"
-    ],
-    "diretor": "Bae Hee-young, Park Joon-hwa",
-    "roteirista": "Yoo A-in",
-    "plataformas": [
-      "Disney+"
-    ],
-    "classificacao": 15,
-    "poster": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
-    "banner": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-    "trailer": "https://www.youtube.com/watch?v=MOXFNE9x1G4",
-    "status": "Finalizado"
-  },
   "boyfriend-on-demand": {
     "titulo_original": "월간남친",
     "pais": "Coreia do Sul",
@@ -274,30 +225,6 @@
     "trailer": "https://www.youtube.com/watch?v=A0GqKTgSpuE",
     "status": "Finalizado",
     "titulo_br": "Namorado por Assinatura"
-  },
-  "a-leste-do-palacio": {
-    "titulo_original": "동궁",
-    "pais": "Coreia do Sul",
-    "ano": 2026,
-    "episodios": 8,
-    "temporadas": 1,
-    "duracao": "65 min",
-    "elenco": [
-      "Nam Joo-hyuk",
-      "Roh Yoon-seo",
-      "Cho Seung-woo",
-      "Jang Young-nam"
-    ],
-    "diretor": "Choi Jung-kyu",
-    "roteirista": "Kwon So-ra, Seo Jae-won",
-    "plataformas": [
-      "Netflix"
-    ],
-    "classificacao": 16,
-    "poster": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-    "banner": "/2rAkYlsLcpMgLD6cycKajVX7C0O.jpg",
-    "trailer": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
-    "status": "Finalizado"
   },
   "can-this-love-be-translated": {
     "titulo_original": "이 사랑 통역 되나요?",
@@ -375,5 +302,78 @@
     "trailer": "https://www.youtube.com/watch?v=ggrP-QrbkNM",
     "status": "Finalizado",
     "titulo_br": "Hong, a Infiltrada"
+  },
+  "perfect-crown": {
+    "titulo_original": "21세기 대군부인",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "IU",
+      "Byeon Woo-seok",
+      "Steve Sanghyun Noh",
+      "Gong Seung-yeon"
+    ],
+    "diretor": "Bae Hee-young, Park Joon-hwa",
+    "roteirista": "Yoo A-in",
+    "plataformas": [
+      "Disney+"
+    ],
+    "classificacao": 15,
+    "poster": "/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg",
+    "banner": "/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
+    "trailer": "https://www.youtube.com/watch?v=MOXFNE9x1G4",
+    "status": "Finalizado"
+  },
+  "the-east-palace": {
+    "titulo_original": "동궁",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Nam Joo-hyuk",
+      "Roh Yoon-seo",
+      "Cho Seung-woo",
+      "Jang Young-nam"
+    ],
+    "diretor": "Choi Jung-kyu",
+    "roteirista": "Kwon So-ra, Seo Jae-won",
+    "plataformas": [
+      "Netflix"
+    ],
+    "classificacao": 16,
+    "poster": "/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+    "banner": "/2rAkYlsLcpMgLD6cycKajVX7C0O.jpg",
+    "trailer": "https://www.youtube.com/watch?v=wBUkNE1l9DU",
+    "status": "Finalizado"
+  },
+  "princess-hours": {
+    "titulo_original": "궁",
+    "pais": "Coreia do Sul",
+    "ano": 2006,
+    "episodios": 24,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Yoon Eun-hye",
+      "Ju Ji-hoon",
+      "Song Ji-hyo",
+      "Kim Jeong-hoon"
+    ],
+    "diretor": "Hwang In-roe",
+    "roteirista": "In Eun-ah",
+    "plataformas": [
+      "MBC"
+    ],
+    "classificacao": 15,
+    "poster": "/1FFMp7N70soxPIvAyxRpypyUzbM.jpg",
+    "banner": "/cqLrc6WXOm57Z18X6etRoRUOi7h.jpg",
+    "trailer": "https://www.youtube.com/watch?v=HgN5iX8JQ4E",
+    "status": "Finalizado",
+    "titulo_br": "Horas de Princesa"
   }
 }
