@@ -2,6 +2,7 @@
    components/hero.js — destaque com banner horizontal + pôster
    ========================================================= */
 import { resolvePoster, resolveBackdrop, posterColors, flag, fmtNota, getNota, platformText } from "../js/store.js";
+import { statusHTML } from "./card.js";
 
 export function renderHero(d) {
   const hero = document.getElementById("hero");
@@ -25,6 +26,7 @@ export function renderHero(d) {
         <span>${flag(d.pais)} ${d.pais || ""}</span><span>${d.ano || ""}</span>
         ${platformText(d) ? `<span>${platformText(d)}</span>` : ""}${d.dublado ? "<span>Dublado</span>" : ""}
       </div>
+      <div class="hero-status" data-id="${d.id}">${statusHTML(d.id)}</div>
       <p class="hero-syn">${d.sinopse || ""}</p>
       <div class="hero-actions">
         <button class="chip-btn" data-open="${d.id}">▶ Ver ficha</button>

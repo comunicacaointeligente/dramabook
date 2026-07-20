@@ -188,6 +188,10 @@ a { color: inherit; text-decoration: none; }
 }
 .hero-poster img.loaded { opacity: 1; }
 .hero-tag { font-size: 12px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase; color: var(--laranja-ci-2); }
+.hero-status { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+.hero-status:empty { display: none; }
+.hero-status .st { background: rgba(10,12,18,.55); border: 1px solid rgba(255,255,255,.16); color: #fff; font-size: 12.5px; font-weight: 700; padding: 5px 11px; border-radius: 9px; }
+.hero-status .st.seen { background: rgba(22,163,74,.92); border-color: transparent; }
 .hero-title { font-size: clamp(26px, 4vw, 46px); font-weight: 800; margin: 8px 0 8px; line-height: 1.04; color: #fff; text-wrap: balance; }
 .hero-meta { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; color: #eaeefa; font-size: 14px; margin-bottom: 13px; }
 .hero-nota b { color: var(--laranja-ci-2); }
@@ -406,8 +410,10 @@ a { color: inherit; text-decoration: none; }
   background: linear-gradient(135deg, color-mix(in srgb, var(--azul-ci) 26%, transparent), color-mix(in srgb, var(--laranja-ci) 20%, transparent));
   color: var(--text); font-weight: 700; margin-bottom: 4px;
 }
-/* Selos de status do usuário no card */
-.card-status { position: absolute; bottom: 8px; right: 8px; z-index: 3; display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end; }
+/* Selos de status do usuário no card — o "✅ Assistido" fica SEMPRE à mostra:
+   z-index acima do overlay de hover e, no hover, sobe para não ser coberto. */
+.card-status { position: absolute; bottom: 8px; right: 8px; z-index: 4; display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end; pointer-events: none; transition: transform .2s ease; }
+.card:hover .card-status { transform: translateY(-48px); }
 .card-status .st {
   background: rgba(10,12,18,.82); backdrop-filter: blur(4px); color: #fff;
   font-size: 11px; font-weight: 700; padding: 3px 7px; border-radius: 7px;
@@ -1284,6 +1290,7 @@ function renderHero(d) {
         <span>${flag(d.pais)} ${d.pais || ""}</span><span>${d.ano || ""}</span>
         ${platformText(d) ? `<span>${platformText(d)}</span>` : ""}${d.dublado ? "<span>Dublado</span>" : ""}
       </div>
+      <div class="hero-status" data-id="${d.id}">${statusHTML(d.id)}</div>
       <p class="hero-syn">${d.sinopse || ""}</p>
       <div class="hero-actions">
         <button class="chip-btn" data-open="${d.id}">▶ Ver ficha</button>
@@ -1877,9 +1884,10 @@ function updateBadges() {
 function refreshListUI(id) {
   $$(`.qa[data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
   $$(`.mbtn[data-qa][data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
-  // selos de status no card e nas sugestões
+  // selos de status no card, nas sugestões e no hero — o "✅ Assistido" nunca some
   $$(`.card[data-id="${id}"] .card-status`).forEach(el => (el.innerHTML = statusHTML(id)));
   $$(`.sg[data-open="${id}"] .sg-status`).forEach(el => (el.innerHTML = statusHTML(id)));
+  $$(`.hero-status[data-id="${id}"]`).forEach(el => (el.innerHTML = statusHTML(id)));
   renderStatusChips();
 }
 

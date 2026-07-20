@@ -190,9 +190,10 @@ export function updateBadges() {
 export function refreshListUI(id) {
   $$(`.qa[data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
   $$(`.mbtn[data-qa][data-id="${id}"]`).forEach(b => b.classList.toggle("on", inList(b.dataset.qa, id)));
-  // selos de status no card e nas sugestões
+  // selos de status no card, nas sugestões e no hero — o "✅ Assistido" nunca some
   $$(`.card[data-id="${id}"] .card-status`).forEach(el => (el.innerHTML = statusHTML(id)));
   $$(`.sg[data-open="${id}"] .sg-status`).forEach(el => (el.innerHTML = statusHTML(id)));
+  $$(`.hero-status[data-id="${id}"]`).forEach(el => (el.innerHTML = statusHTML(id)));
   renderStatusChips();
 }
 
