@@ -2,6 +2,7 @@
    filters.js — busca e filtragem (lógica pura, sem DOM)
    ========================================================= */
 import { STATE, getNota, sensacao, streamingList, getFlag } from "./store.js";
+import { EXPERIENCIAS } from "./config.js";
 
 /* Países: casam por inclusão (dado pode vir "Coreia do Sul", "Coreia", etc.). */
 const COUNTRY_FACETS = { "Coreia": ["coreia"], "Japão": ["japão", "japao"], "China": ["china"] };
@@ -74,24 +75,53 @@ export function topRated(limit = Infinity) {
 export function latest(limit = Infinity) { return [...STATE.all].reverse().slice(0, limit); }
 export function masterpieces() { return STATE.all.filter(d => matchFacet(d, "obra_prima")); }
 
-/* ✨ Experiências: prateleiras emocionais derivadas dos dados das fichas. */
-export function byExperiencia(key) {
-  const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
-  const regras = {
-    maratona:    d => d.episodios > 0 && d.episodios <= 12,
-    lencinhos:   d => (sensacao(d, "emocao") ?? 0) >= 9,
-    comfort:     d => tem(d, "Healing") || tem(d, "Comfort"),
-    quimica:     d => (sensacao(d, "quimica") ?? 0) >= 9,
-    beijos:      d => (sensacao(d, "beijos") ?? 0) >= 8,
-    saudaveis:   d => (getFlag(d, "green") ?? 0) >= 9,
-    leves:       d => (sensacao(d, "humor") ?? 0) >= 8,
-    segunda:     d => tem(d, "Second Chance"),
-    primeiro:    d => d.perfil?.iniciante === true,
-    imperdiveis: d => (getNota(d) ?? 0) >= 9.5,
-    lancamentos: d => (d.ano ?? 0) >= 2025,
-  };
-  const r = regras[key];
-  return r ? STATE.all.filter(r).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0)) : [];
+/* ✨ Experiências / selos editoriais.
+   Cada regra é DERIVADA dos dados da ficha. O campo opcional `editor_tags`
+   (curadoria manual) SEMPRE vence: entra na prateleira mesmo sem bater a regra. */
+const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
+const REGRAS_EXP = {
+  maratona:      d => d.episodios > 0 && d.episodios <= 12,
+  lencinhos:     d => (sensacao(d, "emocao") ?? 0) >= 9,
+  comfort:       d => tem(d, "Healing") || tem(d, "Comfort") || ((getFlag(d, "green") ?? 0) >= 8 && (sensacao(d, "emocao") ?? 10) <= 7),
+  healing:       d => tem(d, "Healing") || tem(d, "Cura Emocional"),
+  viciante:      d => (getNota(d) ?? 0) >= 9 && (sensacao(d, "emocao") ?? 0) >= 8,
+  quimica:       d => (sensacao(d, "quimica") ?? 0) >= 9,
+  beijos:        d => (sensacao(d, "beijos") ?? 0) >= 8,
+  saudaveis:     d => (getFlag(d, "green") ?? 0) >= 9,
+  problematicos: d => (getFlag(d, "red") ?? 0) >= 5,
+  borboletas:    d => (sensacao(d, "romance") ?? 0) >= 9 && (sensacao(d, "quimica") ?? 0) >= 9,
+  segunda:       d => tem(d, "Second Chance"),
+  leves:         d => (sensacao(d, "humor") ?? 0) >= 8,
+  refletir:      d => (sensacao(d, "emocao") ?? 0) >= 9 && (sensacao(d, "romance") ?? 10) <= 5,
+  curtinhos:     d => d.episodios > 0 && d.episodios <= 10,
+  noite:         d => d.episodios > 0 && (sensacao(d, "emocao") ?? 10) <= 7 && (getFlag(d, "green") ?? 0) >= 7,
+  primeiro:      d => d.perfil?.iniciante === true,
+  nota95:        d => (getNota(d) ?? 0) >= 9.5,
+  /* joia escondida: nota alta que o público de massa não descobriu (sem Netflix). */
+  joias:         d => (getNota(d) ?? 0) >= 9 && !streamingList(d).some(p => /netflix/i.test(p)),
+  lancamentos:   d => (d.ano ?? 0) >= 2025,
+};
+
+/* O dorama tem esta experiência? (regra derivada OU curadoria manual) */
+export function temExperiencia(d, key, selo) {
+  if (selo && (d.editor_tags || []).some(t => norm(t) === norm(selo))) return true;
+  return REGRAS_EXP[key] ? REGRAS_EXP[key](d) : false;
+}
+
+export function byExperiencia(key, selo) {
+  return STATE.all.filter(d => temExperiencia(d, key, selo))
+    .sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+}
+
+/* 🏷️ Destaques da ficha: até 5 selos, os mais distintivos primeiro. */
+const PESO_SELO = ["nota95", "joias", "lencinhos", "quimica", "borboletas", "viciante",
+  "beijos", "saudaveis", "problematicos", "healing", "comfort", "maratona", "curtinhos",
+  "refletir", "segunda", "leves", "noite", "lancamentos", "primeiro"];
+export function selosDe(d, limite = 5) {
+  return PESO_SELO
+    .map(k => EXPERIENCIAS.find(e => e.key === k))
+    .filter(e => e && temExperiencia(d, e.key, e.selo))
+    .slice(0, limite);
 }
 
 /* Sorteio (dorama aleatório / recomendação por humor). */

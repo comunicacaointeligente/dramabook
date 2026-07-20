@@ -60,32 +60,42 @@ export const CATEGORY_MENU = [
 /* ✨ Descubra por experiência — prateleiras emocionais DERIVADAS dos dados
    das fichas (sensações, flags, episódios, perfil, tags). Nada novo no schema. */
 export const EXPERIENCIAS = [
-  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana" },
-  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos" },
-  { key: "comfort",    icon: "☕", label: "Doramas confortáveis" },
-  { key: "quimica",    icon: "🔥", label: "Química de milhões" },
-  { key: "beijos",     icon: "💋", label: "Beijos memoráveis" },
-  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis" },
-  { key: "leves",      icon: "🎉", label: "Leves e divertidos" },
-  { key: "segunda",    icon: "🥹", label: "Segunda chance" },
-  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama" },
-  { key: "imperdiveis",icon: "🏆", label: "Imperdíveis" },
-  { key: "lancamentos",icon: "🆕", label: "Lançamentos" },
+  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana", selo: "🍿 Maratona de fim de semana" },
+  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos",            selo: "😭 Prepare os lencinhos" },
+  { key: "comfort",    icon: "☕", label: "Comfort Drama",                   selo: "☕ Comfort Drama" },
+  { key: "healing",    icon: "🌧️", label: "Cura emocional",                  selo: "🌧️ Cura emocional" },
+  { key: "viciante",   icon: "⚡", label: "Não dá pra parar de assistir",    selo: "⚡ Viciante" },
+  { key: "quimica",    icon: "🔥", label: "Melhor química",                  selo: "🔥 Química absurda" },
+  { key: "beijos",     icon: "💋", label: "Beijos memoráveis",               selo: "💋 Beijos memoráveis" },
+  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis",                selo: "💚 Casal saudável" },
+  { key: "problematicos", icon: "🚩", label: "Casais problemáticos",         selo: "🚩 Casal problemático" },
+  { key: "borboletas", icon: "🦋", label: "Borboletas no estômago",          selo: "🦋 Borboletas no estômago" },
+  { key: "segunda",    icon: "🥹", label: "Segunda chance",                  selo: "🥹 Segunda chance" },
+  { key: "leves",      icon: "🎉", label: "Leves e divertidos",              selo: "🎉 Leve e divertido" },
+  { key: "refletir",   icon: "🧠", label: "Para refletir",                   selo: "🧠 Faz pensar" },
+  { key: "curtinhos",  icon: "🎬", label: "Curtinhos",                       selo: "🎬 Curtinho" },
+  { key: "noite",      icon: "🌙", label: "Para antes de dormir",            selo: "🌙 Pra antes de dormir" },
+  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama",             selo: "👶 Ótimo pra começar" },
+  { key: "nota95",     icon: "🏆", label: "Nota acima de 9,5",               selo: "🏆 Imperdível" },
+  { key: "joias",      icon: "💎", label: "Joias escondidas",                selo: "💎 Joia escondida" },
+  { key: "lancamentos",icon: "🆕", label: "Lançamentos",                     selo: "🆕 Lançamento" },
 ];
 
 /* Chips de filtro rápido no topo da home. */
 export const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 
-/* Recomendações por humor — botão "Me indique um dorama". */
+/* 💜 Escolha pelo seu humor — "Hoje eu quero…".
+   `exp` puxa de EXPERIENCIAS (sentimento); `facets`, das categorias. */
 export const MOODS = [
-  { key: "rir", emoji: "😂", label: "Quero rir", facets: ["Comédia"] },
-  { key: "chorar", emoji: "😭", label: "Quero chorar", facets: ["Emocionantes"] },
-  { key: "romance", emoji: "❤️", label: "Quero romance", facets: ["Romance"] },
-  { key: "medico", emoji: "🩺", label: "Quero médico", facets: ["Médicos"] },
-  { key: "historico", emoji: "👑", label: "Quero histórico", facets: ["Históricos"] },
-  { key: "ceo", emoji: "👔", label: "Quero CEO", facets: ["CEO"] },
-  { key: "contrato", emoji: "💍", label: "Casamento por contrato", facets: ["Casamento por contrato"] },
-  { key: "fantasia", emoji: "✨", label: "Quero fantasia", facets: ["Fantasia"] },
+  { key: "apaixonar", emoji: "😍", label: "Me apaixonar", facets: ["Romance"] },
+  { key: "rir", emoji: "😂", label: "Dar risada", exp: "leves" },
+  { key: "chorar", emoji: "😭", label: "Chorar", exp: "lencinhos" },
+  { key: "tensa", emoji: "😱", label: "Ficar tensa", facets: ["Investigação", "Sobrenatural"] },
+  { key: "emocionar", emoji: "🥹", label: "Me emocionar", facets: ["Emocionantes"] },
+  { key: "relaxar", emoji: "🧘", label: "Relaxar", exp: "comfort" },
+  { key: "maratonar", emoji: "🔥", label: "Maratonar", exp: "maratona" },
+  { key: "borboletas", emoji: "💕", label: "Sentir borboletas", exp: "borboletas" },
+  { key: "pensar", emoji: "🧠", label: "Pensar na vida", exp: "refletir" },
   { key: "tantofaz", emoji: "🤷", label: "Tanto faz", facets: [] },
 ];
 

@@ -35,7 +35,7 @@ export function renderSidebar() {
 export function showExperiencia(key) {
   const e = EXPERIENCIAS.find(x => x.key === key);
   if (!e) return;
-  showResults(`${e.icon} ${e.label}`, byExperiencia(key));
+  showResults(`${e.icon} ${e.label}`, byExperiencia(key, e.selo));
 }
 
 /* ---------- chips + humor ---------- */
@@ -49,7 +49,13 @@ export function renderMood() {
 }
 export function indicarPorHumor(key) {
   const mood = MOODS.find(m => m.key === key);
-  const pool = !mood || !mood.facets.length ? STATE.all : STATE.all.filter(d => mood.facets.some(f => byFacet(f).includes(d)));
+  let pool = STATE.all;
+  if (mood?.exp) {
+    const e = EXPERIENCIAS.find(x => x.key === mood.exp);
+    pool = byExperiencia(mood.exp, e?.selo);
+  } else if (mood?.facets?.length) {
+    pool = STATE.all.filter(d => mood.facets.some(f => byFacet(f).includes(d)));
+  }
   const pick = pickRandom(pool.length ? pool : STATE.all);
   if (pick) { toggleMood(false); openModal(pick.id); }
 }

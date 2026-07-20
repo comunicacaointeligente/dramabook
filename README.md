@@ -122,3 +122,19 @@ No topo do `styles.css`, troque `--azul-ci` e `--laranja-ci` pelos hex oficiais 
 🔍 busca instantânea · 🧭 menu por categorias/tropos · ❤️ favoritos / já assisti / quero assistir (localStorage) · 🆕🏆⭐🔥 trilhos · 🎲 "Me indique um dorama" por humor · 📄 ficha com banner + recomendações · 🌙 tema claro/escuro · 📱 responsivo · ⚡ paginação para escalar.
 
 > Registros com `"status_curadoria": "exemplo"` são demonstração — substituir pela curadoria oficial.
+
+## Regra oficial do acervo (20/07/2026)
+**Só entram doramas disponíveis oficialmente em ao menos um streaming no Brasil.**
+Toda recomendação do DRAMABOOK precisa ser assistível — nada de encantar a leitora
+com um título que ela não tem onde ver. Registros sem streaming BR ficam guardados
+no banco (invisíveis) e reaparecem sozinhos quando a disponibilidade muda.
+Implementação: `SOMENTE_BRASIL` em js/config.js + filtro em js/store.js.
+
+## Selos editoriais (editor_tags)
+As prateleiras "✨ Descubra por experiência" são DERIVADAS dos dados da ficha
+(sensações, flags, episódios, nota, perfil). O campo opcional `editor_tags`
+permite curadoria manual e SEMPRE vence a regra automática:
+```json
+"editor_tags": ["😭 Prepare os lencinhos", "💎 Joia escondida"]
+```
+Use só quando a régua automática errar — o padrão é deixar os dados falarem.

@@ -342,6 +342,11 @@ a { color: inherit; text-decoration: none; }
 .modal-title { font-size: 30px; font-weight: 800; margin: 8px 0 2px; text-wrap: balance; }
 .modal-orig { color: var(--text-dim); font-size: 15px; margin-bottom: 14px; }
 .modal-brname { color: var(--laranja-ci-2); font-weight: 650; }
+.selo { display: inline-block; margin: 0 6px 6px 0; padding: 6px 11px; border-radius: 999px;
+  font-size: 12.5px; font-weight: 600; cursor: pointer; transition: transform .16s, border-color .16s;
+  background: color-mix(in srgb, var(--laranja-ci) 12%, transparent);
+  border: 1px solid color-mix(in srgb, var(--laranja-ci) 34%, transparent); color: var(--text); }
+.selo:hover { transform: translateY(-1px); border-color: var(--laranja-ci); }
 .sg-br { font-style: normal; color: var(--laranja-ci-2); font-weight: 600; font-size: 12.5px; }
 .modal-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
 .mchip { font-size: 12.5px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); }
@@ -755,32 +760,42 @@ const CATEGORY_MENU = [
 /* ✨ Descubra por experiência — prateleiras emocionais DERIVADAS dos dados
    das fichas (sensações, flags, episódios, perfil, tags). Nada novo no schema. */
 const EXPERIENCIAS = [
-  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana" },
-  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos" },
-  { key: "comfort",    icon: "☕", label: "Doramas confortáveis" },
-  { key: "quimica",    icon: "🔥", label: "Química de milhões" },
-  { key: "beijos",     icon: "💋", label: "Beijos memoráveis" },
-  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis" },
-  { key: "leves",      icon: "🎉", label: "Leves e divertidos" },
-  { key: "segunda",    icon: "🥹", label: "Segunda chance" },
-  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama" },
-  { key: "imperdiveis",icon: "🏆", label: "Imperdíveis" },
-  { key: "lancamentos",icon: "🆕", label: "Lançamentos" },
+  { key: "maratona",   icon: "🍿", label: "Para maratonar no fim de semana", selo: "🍿 Maratona de fim de semana" },
+  { key: "lencinhos",  icon: "😭", label: "Prepare os lencinhos",            selo: "😭 Prepare os lencinhos" },
+  { key: "comfort",    icon: "☕", label: "Comfort Drama",                   selo: "☕ Comfort Drama" },
+  { key: "healing",    icon: "🌧️", label: "Cura emocional",                  selo: "🌧️ Cura emocional" },
+  { key: "viciante",   icon: "⚡", label: "Não dá pra parar de assistir",    selo: "⚡ Viciante" },
+  { key: "quimica",    icon: "🔥", label: "Melhor química",                  selo: "🔥 Química absurda" },
+  { key: "beijos",     icon: "💋", label: "Beijos memoráveis",               selo: "💋 Beijos memoráveis" },
+  { key: "saudaveis",  icon: "💚", label: "Casais saudáveis",                selo: "💚 Casal saudável" },
+  { key: "problematicos", icon: "🚩", label: "Casais problemáticos",         selo: "🚩 Casal problemático" },
+  { key: "borboletas", icon: "🦋", label: "Borboletas no estômago",          selo: "🦋 Borboletas no estômago" },
+  { key: "segunda",    icon: "🥹", label: "Segunda chance",                  selo: "🥹 Segunda chance" },
+  { key: "leves",      icon: "🎉", label: "Leves e divertidos",              selo: "🎉 Leve e divertido" },
+  { key: "refletir",   icon: "🧠", label: "Para refletir",                   selo: "🧠 Faz pensar" },
+  { key: "curtinhos",  icon: "🎬", label: "Curtinhos",                       selo: "🎬 Curtinho" },
+  { key: "noite",      icon: "🌙", label: "Para antes de dormir",            selo: "🌙 Pra antes de dormir" },
+  { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama",             selo: "👶 Ótimo pra começar" },
+  { key: "nota95",     icon: "🏆", label: "Nota acima de 9,5",               selo: "🏆 Imperdível" },
+  { key: "joias",      icon: "💎", label: "Joias escondidas",                selo: "💎 Joia escondida" },
+  { key: "lancamentos",icon: "🆕", label: "Lançamentos",                     selo: "🆕 Lançamento" },
 ];
 
 /* Chips de filtro rápido no topo da home. */
 const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 
-/* Recomendações por humor — botão "Me indique um dorama". */
+/* 💜 Escolha pelo seu humor — "Hoje eu quero…".
+   `exp` puxa de EXPERIENCIAS (sentimento); `facets`, das categorias. */
 const MOODS = [
-  { key: "rir", emoji: "😂", label: "Quero rir", facets: ["Comédia"] },
-  { key: "chorar", emoji: "😭", label: "Quero chorar", facets: ["Emocionantes"] },
-  { key: "romance", emoji: "❤️", label: "Quero romance", facets: ["Romance"] },
-  { key: "medico", emoji: "🩺", label: "Quero médico", facets: ["Médicos"] },
-  { key: "historico", emoji: "👑", label: "Quero histórico", facets: ["Históricos"] },
-  { key: "ceo", emoji: "👔", label: "Quero CEO", facets: ["CEO"] },
-  { key: "contrato", emoji: "💍", label: "Casamento por contrato", facets: ["Casamento por contrato"] },
-  { key: "fantasia", emoji: "✨", label: "Quero fantasia", facets: ["Fantasia"] },
+  { key: "apaixonar", emoji: "😍", label: "Me apaixonar", facets: ["Romance"] },
+  { key: "rir", emoji: "😂", label: "Dar risada", exp: "leves" },
+  { key: "chorar", emoji: "😭", label: "Chorar", exp: "lencinhos" },
+  { key: "tensa", emoji: "😱", label: "Ficar tensa", facets: ["Investigação", "Sobrenatural"] },
+  { key: "emocionar", emoji: "🥹", label: "Me emocionar", facets: ["Emocionantes"] },
+  { key: "relaxar", emoji: "🧘", label: "Relaxar", exp: "comfort" },
+  { key: "maratonar", emoji: "🔥", label: "Maratonar", exp: "maratona" },
+  { key: "borboletas", emoji: "💕", label: "Sentir borboletas", exp: "borboletas" },
+  { key: "pensar", emoji: "🧠", label: "Pensar na vida", exp: "refletir" },
   { key: "tantofaz", emoji: "🤷", label: "Tanto faz", facets: [] },
 ];
 
@@ -1205,24 +1220,53 @@ function topRated(limit = Infinity) {
 function latest(limit = Infinity) { return [...STATE.all].reverse().slice(0, limit); }
 function masterpieces() { return STATE.all.filter(d => matchFacet(d, "obra_prima")); }
 
-/* ✨ Experiências: prateleiras emocionais derivadas dos dados das fichas. */
-function byExperiencia(key) {
-  const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
-  const regras = {
-    maratona:    d => d.episodios > 0 && d.episodios <= 12,
-    lencinhos:   d => (sensacao(d, "emocao") ?? 0) >= 9,
-    comfort:     d => tem(d, "Healing") || tem(d, "Comfort"),
-    quimica:     d => (sensacao(d, "quimica") ?? 0) >= 9,
-    beijos:      d => (sensacao(d, "beijos") ?? 0) >= 8,
-    saudaveis:   d => (getFlag(d, "green") ?? 0) >= 9,
-    leves:       d => (sensacao(d, "humor") ?? 0) >= 8,
-    segunda:     d => tem(d, "Second Chance"),
-    primeiro:    d => d.perfil?.iniciante === true,
-    imperdiveis: d => (getNota(d) ?? 0) >= 9.5,
-    lancamentos: d => (d.ano ?? 0) >= 2025,
-  };
-  const r = regras[key];
-  return r ? STATE.all.filter(r).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0)) : [];
+/* ✨ Experiências / selos editoriais.
+   Cada regra é DERIVADA dos dados da ficha. O campo opcional `editor_tags`
+   (curadoria manual) SEMPRE vence: entra na prateleira mesmo sem bater a regra. */
+const tem = (d, tag) => tagsOf(d).some(t => norm(t) === norm(tag));
+const REGRAS_EXP = {
+  maratona:      d => d.episodios > 0 && d.episodios <= 12,
+  lencinhos:     d => (sensacao(d, "emocao") ?? 0) >= 9,
+  comfort:       d => tem(d, "Healing") || tem(d, "Comfort") || ((getFlag(d, "green") ?? 0) >= 8 && (sensacao(d, "emocao") ?? 10) <= 7),
+  healing:       d => tem(d, "Healing") || tem(d, "Cura Emocional"),
+  viciante:      d => (getNota(d) ?? 0) >= 9 && (sensacao(d, "emocao") ?? 0) >= 8,
+  quimica:       d => (sensacao(d, "quimica") ?? 0) >= 9,
+  beijos:        d => (sensacao(d, "beijos") ?? 0) >= 8,
+  saudaveis:     d => (getFlag(d, "green") ?? 0) >= 9,
+  problematicos: d => (getFlag(d, "red") ?? 0) >= 5,
+  borboletas:    d => (sensacao(d, "romance") ?? 0) >= 9 && (sensacao(d, "quimica") ?? 0) >= 9,
+  segunda:       d => tem(d, "Second Chance"),
+  leves:         d => (sensacao(d, "humor") ?? 0) >= 8,
+  refletir:      d => (sensacao(d, "emocao") ?? 0) >= 9 && (sensacao(d, "romance") ?? 10) <= 5,
+  curtinhos:     d => d.episodios > 0 && d.episodios <= 10,
+  noite:         d => d.episodios > 0 && (sensacao(d, "emocao") ?? 10) <= 7 && (getFlag(d, "green") ?? 0) >= 7,
+  primeiro:      d => d.perfil?.iniciante === true,
+  nota95:        d => (getNota(d) ?? 0) >= 9.5,
+  /* joia escondida: nota alta que o público de massa não descobriu (sem Netflix). */
+  joias:         d => (getNota(d) ?? 0) >= 9 && !streamingList(d).some(p => /netflix/i.test(p)),
+  lancamentos:   d => (d.ano ?? 0) >= 2025,
+};
+
+/* O dorama tem esta experiência? (regra derivada OU curadoria manual) */
+function temExperiencia(d, key, selo) {
+  if (selo && (d.editor_tags || []).some(t => norm(t) === norm(selo))) return true;
+  return REGRAS_EXP[key] ? REGRAS_EXP[key](d) : false;
+}
+
+function byExperiencia(key, selo) {
+  return STATE.all.filter(d => temExperiencia(d, key, selo))
+    .sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+}
+
+/* 🏷️ Destaques da ficha: até 5 selos, os mais distintivos primeiro. */
+const PESO_SELO = ["nota95", "joias", "lencinhos", "quimica", "borboletas", "viciante",
+  "beijos", "saudaveis", "problematicos", "healing", "comfort", "maratona", "curtinhos",
+  "refletir", "segunda", "leves", "noite", "lancamentos", "primeiro"];
+function selosDe(d, limite = 5) {
+  return PESO_SELO
+    .map(k => EXPERIENCIAS.find(e => e.key === k))
+    .filter(e => e && temExperiencia(d, e.key, e.selo))
+    .slice(0, limite);
 }
 
 /* Sorteio (dorama aleatório / recomendação por humor). */
@@ -1537,6 +1581,8 @@ function openModal(id) {
 
       ${section("▶️ Onde assistir", blocoOndeAssistir(d))}
       ${trailer ? section("Trailer", trailer) : ""}
+      ${section("🏷️ Destaques", selosDe(d).map(s =>
+        `<button class="selo" data-exp="${s.key}">${s.selo}</button>`).join("") || "")}
       ${section("Sinopse", has(d.sinopse) ? `<p>${d.sinopse}</p>` : "")}
       ${section("Por que assistir", has(d.porque_assistir) ? `<p>${d.porque_assistir}</p>` : "")}
       ${meters ? section("Termômetro", `<div class="meters">${meters}</div>`) : ""}
@@ -1777,7 +1823,7 @@ function renderSidebar() {
 function showExperiencia(key) {
   const e = EXPERIENCIAS.find(x => x.key === key);
   if (!e) return;
-  showResults(`${e.icon} ${e.label}`, byExperiencia(key));
+  showResults(`${e.icon} ${e.label}`, byExperiencia(key, e.selo));
 }
 
 /* ---------- chips + humor ---------- */
@@ -1791,7 +1837,13 @@ function renderMood() {
 }
 function indicarPorHumor(key) {
   const mood = MOODS.find(m => m.key === key);
-  const pool = !mood || !mood.facets.length ? STATE.all : STATE.all.filter(d => mood.facets.some(f => byFacet(f).includes(d)));
+  let pool = STATE.all;
+  if (mood?.exp) {
+    const e = EXPERIENCIAS.find(x => x.key === mood.exp);
+    pool = byExperiencia(mood.exp, e?.selo);
+  } else if (mood?.facets?.length) {
+    pool = STATE.all.filter(d => mood.facets.some(f => byFacet(f).includes(d)));
+  }
   const pick = pickRandom(pool.length ? pool : STATE.all);
   if (pick) { toggleMood(false); openModal(pick.id); }
 }

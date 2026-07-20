@@ -12,6 +12,7 @@ import { renderCard, hydrateImages } from "./card.js";
 import { minhaNota, getComentario, listasPersonalizadas, naLista } from "../js/user.js";
 import { streamingList } from "../js/store.js";
 import { ehStreaming, ehCanal, linkPlataforma, infoPlataforma } from "../js/plataformas.js";
+import { selosDe } from "../js/filters.js";
 
 /* "Onde assistir": só streamings VERIFICADOS NO BRASIL viram botão (a verificação
    acontece na importação de cada lote e fica gravada no nosso banco).
@@ -195,6 +196,8 @@ export function openModal(id) {
 
       ${section("▶️ Onde assistir", blocoOndeAssistir(d))}
       ${trailer ? section("Trailer", trailer) : ""}
+      ${section("🏷️ Destaques", selosDe(d).map(s =>
+        `<button class="selo" data-exp="${s.key}">${s.selo}</button>`).join("") || "")}
       ${section("Sinopse", has(d.sinopse) ? `<p>${d.sinopse}</p>` : "")}
       ${section("Por que assistir", has(d.porque_assistir) ? `<p>${d.porque_assistir}</p>` : "")}
       ${meters ? section("Termômetro", `<div class="meters">${meters}</div>`) : ""}
