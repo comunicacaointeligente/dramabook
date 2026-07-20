@@ -347,6 +347,12 @@ a { color: inherit; text-decoration: none; }
   background: color-mix(in srgb, var(--laranja-ci) 12%, transparent);
   border: 1px solid color-mix(in srgb, var(--laranja-ci) 34%, transparent); color: var(--text); }
 .selo:hover { transform: translateY(-1px); border-color: var(--laranja-ci); }
+.aviso-conteudo { margin: 0 0 16px; padding: 9px 13px; border-radius: 10px; font-size: 13.5px;
+  background: color-mix(in srgb, var(--text-dim) 10%, transparent); border-left: 3px solid var(--text-dim); }
+.aviso-conteudo.n-violencia { border-left-color: #E8B62C; }
+.aviso-conteudo.n-sensivel  { border-left-color: #E8862C; }
+.aviso-conteudo.n-intenso   { border-left-color: #E0453C; }
+.card-cont { font-size: 9px; vertical-align: middle; }
 .sg-br { font-style: normal; color: var(--laranja-ci-2); font-weight: 600; font-size: 12.5px; }
 .modal-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
 .mchip { font-size: 12.5px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); }
@@ -781,6 +787,16 @@ const EXPERIENCIAS = [
   { key: "lancamentos",icon: "🆕", label: "Lançamentos",                     selo: "🆕 Lançamento" },
 ];
 
+/* 🚦 Semáforo de conteúdo — avisa antes, em vez de excluir o título.
+   Vem de `conteudo: { nivel, aviso }` na ficha; sem isso, é deduzido
+   da classificação etária e das red flags. Ordem = intensidade crescente. */
+const CONTEUDO = {
+  leve:      { cor: "🟢", label: "Conteúdo leve",        desc: "sem violência relevante" },
+  violencia: { cor: "🟡", label: "Contém violência",      desc: "luta, crime ou ação, sem cenas gráficas" },
+  sensivel:  { cor: "🟠", label: "Temas sensíveis",       desc: "assuntos duros tratados com peso" },
+  intenso:   { cor: "🔴", label: "Conteúdo intenso",      desc: "violência gráfica e/ou temas explícitos" },
+};
+
 /* Chips de filtro rápido no topo da home. */
 const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 
@@ -1084,6 +1100,24 @@ function streamingList(d) {
 }
 /* Medidor de flags (green/red) — objeto flags{} (v4) com fallback legado. */
 function getFlag(d, key) { return d.flags?.[key] ?? d[`${key}_flag`] ?? null; }
+
+/* 🚦 Nível de conteúdo. O campo `conteudo.nivel` da curadoria manda.
+   Sem ele, deduz das TAGS temáticas — a classificação etária coreana não
+   serve de proxy (quase todo drama é 15+ lá, inclusive comédia romântica). */
+const TAGS_PESADAS = ["vingança", "vinganca", "assassinato", "crime", "violência", "violencia",
+  "bullying", "abuso", "luto", "morte", "máfia", "mafia", "guerra", "tortura", "trauma"];
+function nivelConteudo(d) {
+  const n = d.conteudo?.nivel;
+  if (n && ["leve", "violencia", "sensivel", "intenso"].includes(n)) return n;
+  const tags = [...(d.categorias || []), ...(d.tropos || []), ...(d.temas || [])]
+    .map(t => String(t).toLowerCase());
+  const pesadas = TAGS_PESADAS.filter(p => tags.some(t => t.includes(p))).length;
+  const red = getFlag(d, "red") ?? 0;
+  if (pesadas >= 2 || red >= 7) return "sensivel";
+  if (pesadas >= 1 || red >= 5) return "violencia";
+  return "leve";
+}
+function avisoConteudo(d) { return d.conteudo?.aviso || ""; }
 function platformText(d) { return streamingList(d).join(" · "); }
 /* Resolve recomendação por id OU por título (o ChatGPT pode mandar qualquer um). */
 function resolveRef(key) {
@@ -1178,7 +1212,13 @@ function matchFacet(d, facet) {
   return tagsOf(d).some(x => norm(x) === f);
 }
 
-function byFacet(facet) { return STATE.all.filter(d => matchFacet(d, facet)); }
+function byFacet(facet) {
+  if (facet?.startsWith("conteudo:")) {
+    const nv = facet.slice(9);
+    return STATE.all.filter(d => nivelConteudo(d) === nv).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+  }
+  return STATE.all.filter(d => matchFacet(d, facet));
+}
 
 /* Busca textual em título, título original, país, plataforma, categorias e tropos. */
 /* Tira acentos e caixa: "comedia" acha "Comédia", "coreia" acha "Coreia do Sul". */
@@ -1317,7 +1357,8 @@ function renderCard(d) {
     <div class="card-body">
       <p class="card-title">${d.titulo}</p>
       ${d.titulo_br && d.titulo_br !== d.titulo ? `<p class="card-br">${d.titulo_br}</p>` : ""}
-      <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}</p>
+      <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}${
+        nivelConteudo(d) !== "leve" ? ` <span class="card-cont" title="${CONTEUDO[nivelConteudo(d)].label}">${CONTEUDO[nivelConteudo(d)].cor}</span>` : ""}</p>
     </div>
   </article>`;
 }
@@ -1581,6 +1622,12 @@ function openModal(id) {
 
       ${section("▶️ Onde assistir", blocoOndeAssistir(d))}
       ${trailer ? section("Trailer", trailer) : ""}
+      ${(() => {
+        const nv = nivelConteudo(d), c = CONTEUDO[nv];
+        if (!c || nv === "leve") return "";           // 🟢 não precisa de aviso
+        return `<p class="aviso-conteudo n-${nv}">${c.cor} <b>${c.label}</b>${
+          avisoConteudo(d) ? " — " + avisoConteudo(d) : " — " + c.desc}</p>`;
+      })()}
       ${section("🏷️ Destaques", selosDe(d).map(s =>
         `<button class="selo" data-exp="${s.key}">${s.selo}</button>`).join("") || "")}
       ${section("Sinopse", has(d.sinopse) ? `<p>${d.sinopse}</p>` : "")}
@@ -1812,12 +1859,15 @@ function renderSidebar() {
     : "";
   const expHtml = EXPERIENCIAS.map(e =>
     `<button class="menu-item" data-exp="${e.key}">${e.icon} ${e.label}</button>`).join("");
+  const contHtml = Object.entries(CONTEUDO).map(([k, c]) =>
+    `<button class="menu-item" data-facet="conteudo:${k}">${c.cor} ${c.label}</button>`).join("");
   $("#menu").innerHTML = `
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
     <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
-    <p class="menu-label">Categorias</p>${catHtml}`;
+    <p class="menu-label">Categorias</p>${catHtml}
+    <p class="menu-label">🚦 Conteúdo</p>${contHtml}`;
 }
 
 function showExperiencia(key) {

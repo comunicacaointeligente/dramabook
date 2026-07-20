@@ -2,7 +2,7 @@
    views.js — telas e renderização (home, resultados, menu)
    ========================================================= */
 import { $, $$, STATE, itemsInList, itemsDaLista, toast, resolvePoster, flag } from "./store.js";
-import { LIST_MENU, CATEGORY_MENU, QUICK_FILTERS, MOODS, PAGE_SIZE, EXPERIENCIAS } from "./config.js";
+import { LIST_MENU, CATEGORY_MENU, QUICK_FILTERS, MOODS, PAGE_SIZE, EXPERIENCIAS, CONTEUDO } from "./config.js";
 import { inList, listaIds, listasPersonalizadas, getLista } from "./user.js";
 import { renderBiblioteca } from "../components/biblioteca.js";
 import { byFacet, search, topRated, latest, masterpieces, pickRandom, byExperiencia } from "./filters.js";
@@ -24,12 +24,15 @@ export function renderSidebar() {
     : "";
   const expHtml = EXPERIENCIAS.map(e =>
     `<button class="menu-item" data-exp="${e.key}">${e.icon} ${e.label}</button>`).join("");
+  const contHtml = Object.entries(CONTEUDO).map(([k, c]) =>
+    `<button class="menu-item" data-facet="conteudo:${k}">${c.cor} ${c.label}</button>`).join("");
   $("#menu").innerHTML = `
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
     <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
-    <p class="menu-label">Categorias</p>${catHtml}`;
+    <p class="menu-label">Categorias</p>${catHtml}
+    <p class="menu-label">🚦 Conteúdo</p>${contHtml}`;
 }
 
 export function showExperiencia(key) {

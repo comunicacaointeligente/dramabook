@@ -1,7 +1,8 @@
 /* =========================================================
    components/card.js — cartão de dorama (componente reutilizável)
    ========================================================= */
-import { STATE, resolvePoster, posterColors, flag, fmtNota, inList, getNota, platformText } from "../js/store.js";
+import { STATE, resolvePoster, posterColors, flag, fmtNota, inList, getNota, platformText, nivelConteudo } from "../js/store.js";
+import { CONTEUDO } from "../js/config.js";
 
 /* Selos de status do usuário mostrados no próprio card (busca inclusa). */
 export function statusHTML(id) {
@@ -39,7 +40,8 @@ export function renderCard(d) {
     <div class="card-body">
       <p class="card-title">${d.titulo}</p>
       ${d.titulo_br && d.titulo_br !== d.titulo ? `<p class="card-br">${d.titulo_br}</p>` : ""}
-      <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}</p>
+      <p class="card-meta">${flag(d.pais)} ${d.ano || ""}${platformText(d) ? " · " + platformText(d) : ""}${
+        nivelConteudo(d) !== "leve" ? ` <span class="card-cont" title="${CONTEUDO[nivelConteudo(d)].label}">${CONTEUDO[nivelConteudo(d)].cor}</span>` : ""}</p>
     </div>
   </article>`;
 }

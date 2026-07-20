@@ -66,6 +66,24 @@ export function streamingList(d) {
 }
 /* Medidor de flags (green/red) — objeto flags{} (v4) com fallback legado. */
 export function getFlag(d, key) { return d.flags?.[key] ?? d[`${key}_flag`] ?? null; }
+
+/* 🚦 Nível de conteúdo. O campo `conteudo.nivel` da curadoria manda.
+   Sem ele, deduz das TAGS temáticas — a classificação etária coreana não
+   serve de proxy (quase todo drama é 15+ lá, inclusive comédia romântica). */
+const TAGS_PESADAS = ["vingança", "vinganca", "assassinato", "crime", "violência", "violencia",
+  "bullying", "abuso", "luto", "morte", "máfia", "mafia", "guerra", "tortura", "trauma"];
+export function nivelConteudo(d) {
+  const n = d.conteudo?.nivel;
+  if (n && ["leve", "violencia", "sensivel", "intenso"].includes(n)) return n;
+  const tags = [...(d.categorias || []), ...(d.tropos || []), ...(d.temas || [])]
+    .map(t => String(t).toLowerCase());
+  const pesadas = TAGS_PESADAS.filter(p => tags.some(t => t.includes(p))).length;
+  const red = getFlag(d, "red") ?? 0;
+  if (pesadas >= 2 || red >= 7) return "sensivel";
+  if (pesadas >= 1 || red >= 5) return "violencia";
+  return "leve";
+}
+export function avisoConteudo(d) { return d.conteudo?.aviso || ""; }
 export function platformText(d) { return streamingList(d).join(" · "); }
 /* Resolve recomendação por id OU por título (o ChatGPT pode mandar qualquer um). */
 export function resolveRef(key) {

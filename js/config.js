@@ -81,6 +81,16 @@ export const EXPERIENCIAS = [
   { key: "lancamentos",icon: "🆕", label: "Lançamentos",                     selo: "🆕 Lançamento" },
 ];
 
+/* 🚦 Semáforo de conteúdo — avisa antes, em vez de excluir o título.
+   Vem de `conteudo: { nivel, aviso }` na ficha; sem isso, é deduzido
+   da classificação etária e das red flags. Ordem = intensidade crescente. */
+export const CONTEUDO = {
+  leve:      { cor: "🟢", label: "Conteúdo leve",        desc: "sem violência relevante" },
+  violencia: { cor: "🟡", label: "Contém violência",      desc: "luta, crime ou ação, sem cenas gráficas" },
+  sensivel:  { cor: "🟠", label: "Temas sensíveis",       desc: "assuntos duros tratados com peso" },
+  intenso:   { cor: "🔴", label: "Conteúdo intenso",      desc: "violência gráfica e/ou temas explícitos" },
+};
+
 /* Chips de filtro rápido no topo da home. */
 export const QUICK_FILTERS = ["Romance", "Fantasia", "Históricos", "Médicos", "Comédia", "Emocionantes", "Slow Burn", "CEO"];
 

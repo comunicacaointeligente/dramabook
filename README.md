@@ -138,3 +138,16 @@ permite curadoria manual e SEMPRE vence a regra automática:
 "editor_tags": ["😭 Prepare os lencinhos", "💎 Joia escondida"]
 ```
 Use só quando a régua automática errar — o padrão é deixar os dados falarem.
+
+## 🚦 Semáforo de conteúdo
+Em vez de excluir títulos pesados, o DRAMABOOK **avisa antes**:
+🟢 leve · 🟡 contém violência · 🟠 temas sensíveis · 🔴 conteúdo intenso
+
+Vem do campo `conteudo: { nivel, aviso }` na ficha. Sem ele, é deduzido das TAGS
+temáticas (vingança, bullying, luto, crime…) + red flags — NUNCA da classificação
+etária coreana, que marca 15+ até em comédia romântica e daria falso alarme.
+O aviso aparece na ficha (com a frase do que esperar) e como pontinho no card.
+
+ATENÇÃO: o semáforo cobre violência e temas duros. A linha editorial que barra
+BL/GL e sexo explícito na importação (`foraDaLinha` em import-lote.mjs) continua
+valendo e é independente disto.

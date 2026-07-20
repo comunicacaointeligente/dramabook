@@ -1,7 +1,7 @@
 /* =========================================================
    filters.js — busca e filtragem (lógica pura, sem DOM)
    ========================================================= */
-import { STATE, getNota, sensacao, streamingList, getFlag } from "./store.js";
+import { STATE, getNota, sensacao, streamingList, getFlag, nivelConteudo } from "./store.js";
 import { EXPERIENCIAS } from "./config.js";
 
 /* Países: casam por inclusão (dado pode vir "Coreia do Sul", "Coreia", etc.). */
@@ -33,7 +33,13 @@ export function matchFacet(d, facet) {
   return tagsOf(d).some(x => norm(x) === f);
 }
 
-export function byFacet(facet) { return STATE.all.filter(d => matchFacet(d, facet)); }
+export function byFacet(facet) {
+  if (facet?.startsWith("conteudo:")) {
+    const nv = facet.slice(9);
+    return STATE.all.filter(d => nivelConteudo(d) === nv).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+  }
+  return STATE.all.filter(d => matchFacet(d, facet));
+}
 
 /* Busca textual em título, título original, país, plataforma, categorias e tropos. */
 /* Tira acentos e caixa: "comedia" acha "Comédia", "coreia" acha "Coreia do Sul". */

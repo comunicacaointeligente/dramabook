@@ -5,7 +5,9 @@
 import {
   STATE, resolvePoster, resolveBackdrop, posterColors, flag, fmtNota,
   inList, getNota, platformText, resolveRef, sensacao, getFlag,
+  nivelConteudo, avisoConteudo,
 } from "../js/store.js";
+import { CONTEUDO } from "../js/config.js";
 
 const FINAL_ICON = { feliz: "💚", agridoce: "🎭", triste: "😢", aberto: "🔓" };
 import { renderCard, hydrateImages } from "./card.js";
@@ -196,6 +198,12 @@ export function openModal(id) {
 
       ${section("▶️ Onde assistir", blocoOndeAssistir(d))}
       ${trailer ? section("Trailer", trailer) : ""}
+      ${(() => {
+        const nv = nivelConteudo(d), c = CONTEUDO[nv];
+        if (!c || nv === "leve") return "";           // 🟢 não precisa de aviso
+        return `<p class="aviso-conteudo n-${nv}">${c.cor} <b>${c.label}</b>${
+          avisoConteudo(d) ? " — " + avisoConteudo(d) : " — " + c.desc}</p>`;
+      })()}
       ${section("🏷️ Destaques", selosDe(d).map(s =>
         `<button class="selo" data-exp="${s.key}">${s.selo}</button>`).join("") || "")}
       ${section("Sinopse", has(d.sinopse) ? `<p>${d.sinopse}</p>` : "")}
