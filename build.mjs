@@ -70,7 +70,7 @@ body = body.replace(/<script type="module" src="app\.js"><\/script>/, "").trim()
 
 const html =
   `<meta charset="utf-8">\n` +
-  `<title>DRAMABOOK — Biblioteca de Doramas</title>\n` +
+  `<title>dorama book — Biblioteca de Doramas</title>\n` +
   `<style>\n${read("styles.css")}\n</style>\n` +
   `${body}\n` +
   `<script>window.DRAMABOOK_DB = ${JSON.stringify(all)};</script>\n` +
