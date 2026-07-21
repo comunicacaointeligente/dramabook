@@ -159,6 +159,7 @@ export function openModal(id) {
           ${(() => { /* status pessoal — visível de cara ao abrir a ficha */
             const meu = [
               inList("assisti", d.id) ? mchip("✅ Você já assistiu", "user") : "",
+              inList("assistindo", d.id) ? mchip("▶️ Você está assistindo", "user") : "",
               inList("favoritos", d.id) ? mchip("❤️ Seu favorito", "user") : "",
               inList("quero", d.id) ? mchip("🔖 Na sua lista", "user") : "",
               minhaNota(d.id) != null ? mchip("⭐ Sua nota: " + minhaNota(d.id), "user") : "",
@@ -175,6 +176,7 @@ export function openModal(id) {
       <div class="modal-actions">
         ${mbtn(d.id, "favoritos", "❤️ Favorito")}
         ${mbtn(d.id, "quero", "🔖 Quero assistir")}
+        ${mbtn(d.id, "assistindo", "▶️ Assistindo")}
         ${mbtn(d.id, "assisti", "✅ Já assisti")}
         <button class="mbtn share" data-share="${d.id}">📤 Compartilhar</button>
       </div>

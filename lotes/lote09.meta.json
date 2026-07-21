@@ -1,0 +1,183 @@
+{
+  "thirty-nine": {
+    "titulo_original": "서른, 아홉",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Son Ye-jin",
+      "Jeon Mi-do",
+      "Kim Ji-hyun",
+      "Yeon Woo-jin",
+      "Lee Mu-saeng"
+    ],
+    "diretor": "Kim Sang-ho",
+    "roteirista": "Yu Young-ah",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/oD6tvFW7VXwZ09HadwXjCH9Niwa.jpg",
+    "banner": "/8NMOaMMtxSypZsMnt34aujxBZWM.jpg",
+    "trailer": null,
+    "titulo_br": "Trinta e Nove"
+  },
+  "welcome-to-samdal-ri": {
+    "titulo_original": "웰컴투 삼달리",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Shin Hye-sun",
+      "Yu Oh-seong",
+      "Kim Mi-kyeong",
+      "Lee Jae-won"
+    ],
+    "diretor": "Cha Young-hoon",
+    "roteirista": "Kwon Hye-ju",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/tUkjcpOZqrL1eGgdns7yd7QX9Oh.jpg",
+    "banner": "/jPTwLNzWGvJzbxjVbpqGaF5kB1k.jpg",
+    "trailer": null,
+    "titulo_br": "De Volta às Raízes"
+  },
+  "suspicious-partner": {
+    "titulo_original": "수상한 파트너",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 40,
+    "temporadas": 1,
+    "duracao": "30 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Nam Ji-hyun",
+      "Choi Tae-joon",
+      "Kwon Na-ra"
+    ],
+    "diretor": "Park Sun-ho",
+    "roteirista": "Kwon Ki-young",
+    "plataformas": [
+      "SBS",
+      "Netflix",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/gaGrnjwKT6flrEapiZUuuvWm0GQ.jpg",
+    "banner": "/qzw3CA3AqrLsBa25XUjLLpkWrAk.jpg",
+    "trailer": null
+  },
+  "the-k2": {
+    "titulo_original": "더 케이투",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Song Yun-ah",
+      "Yoona",
+      "Cho Seong-ha"
+    ],
+    "diretor": "Kwak Jung-hwan",
+    "roteirista": "Jang Hyuk-rin",
+    "plataformas": [
+      "tvN",
+      "Prime Video",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/fqjA7j8R5xDVuU5Lg8zuG3s6smV.jpg",
+    "banner": "/3xHzNBfXfzfd3cLZMhkwJCl4xR9.jpg",
+    "trailer": null
+  },
+  "the-sound-of-magic": {
+    "titulo_original": "안나라수마나라",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Choi Sung-eun",
+      "Hwang In-youp"
+    ],
+    "diretor": "Kim Sung-yoon",
+    "roteirista": "Kim Min-jung",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/fZUHoANJaXgB82pVqgHm44jeYXT.jpg",
+    "banner": "/ft9kPRULcAN7hgjvzpEfmtROiQR.jpg",
+    "trailer": "https://www.youtube.com/watch?v=SHxtc70Is4U",
+    "titulo_br": "O Som da Magia"
+  },
+  "melting-me-softly": {
+    "titulo_original": "날 녹여주오",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Won Jin-ah",
+      "Yoon Se-a",
+      "Im Won-hee"
+    ],
+    "diretor": "Shin Woo-chul",
+    "roteirista": "Baek Mi-kyung",
+    "plataformas": [
+      "tvN",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/bnooLKK5a5yLrCFP8MCLkeR7upm.jpg",
+    "banner": "/zMZ75Ui71g5QjDgEeFpn26bqDCA.jpg",
+    "trailer": null
+  },
+  "temperature-of-love": {
+    "titulo_original": "사랑의 온도",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 40,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Seo Hyun-jin",
+      "Yang Se-jong",
+      "Jo Bo-ah",
+      "Kim Jae-wook"
+    ],
+    "diretor": "Nam Gun",
+    "roteirista": "Ha Myung-hee",
+    "plataformas": [
+      "SBS",
+      "Viki",
+      "Kocowa"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/vuxx8HdoBZYljSEPNFQKiQCHOhP.jpg",
+    "banner": "/1yW7RR0alaQBOcwxLI1fHwF5smJ.jpg",
+    "trailer": null
+  }
+}

@@ -6,14 +6,14 @@
    ========================================================= */
 
 const KEY = "dramabook_user_v1";
-const LEGADO = { favoritos: "db_favoritos", assisti: "db_assisti", quero: "db_quero" };
-export const LISTAS = ["favoritos", "assisti", "quero"];
-export const ROTULOS = { favoritos: "Favoritos", assisti: "Já assisti", quero: "Quero assistir" };
+const LEGADO = { favoritos: "db_favoritos", assistindo: "db_assistindo", assisti: "db_assisti", quero: "db_quero" };
+export const LISTAS = ["favoritos", "assistindo", "assisti", "quero"];
+export const ROTULOS = { favoritos: "Favoritos", assistindo: "Assistindo", assisti: "Já assisti", quero: "Quero assistir" };
 
 const vazio = () => ({
   version: 1,
-  listas: { favoritos: [], assisti: [], quero: [] },
-  marcadoEm: { favoritos: {}, assisti: {}, quero: {} },
+  listas: { favoritos: [], assistindo: [], assisti: [], quero: [] },
+  marcadoEm: { favoritos: {}, assistindo: {}, assisti: {}, quero: {} },
   notas: {},          // { [doramaId]: 0..10 }
   comentarios: {},    // { [doramaId]: "texto" }
   personalizadas: [], // [{ id, nome, emoji, itens: [doramaId], criadaEm }]
@@ -61,8 +61,16 @@ export function toggleList(lista, id) {
   const arr = DATA.listas[lista] || (DATA.listas[lista] = []);
   const i = arr.indexOf(id);
   const add = i === -1;
-  if (add) { arr.push(id); DATA.marcadoEm[lista][id] = Date.now(); }
-  else { arr.splice(i, 1); delete DATA.marcadoEm[lista][id]; }
+  if (add) {
+    arr.push(id); DATA.marcadoEm[lista][id] = Date.now();
+    // Trocar "assistindo" ↔ "assisti" automaticamente (evita ficar nos dois).
+    if (lista === "assisti" || lista === "assistindo") {
+      const outra = lista === "assisti" ? "assistindo" : "assisti";
+      const jaTem = DATA.listas[outra] || [];
+      const k = jaTem.indexOf(id);
+      if (k !== -1) { jaTem.splice(k, 1); delete DATA.marcadoEm[outra][id]; }
+    }
+  } else { arr.splice(i, 1); delete DATA.marcadoEm[lista][id]; }
   salvar();
   return add;
 }

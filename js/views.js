@@ -115,6 +115,7 @@ let _statusFiltro = "todos";
 const STATUS_CHIPS = [
   { k: "todos", label: "Todos" },
   { k: "nao-assisti", label: "👀 Não assisti" },
+  { k: "assistindo", label: "▶️ Assistindo" },
   { k: "assisti", label: "✅ Já assisti" },
   { k: "favoritos", label: "❤️ Favoritos" },
   { k: "quero", label: "🔖 Quero assistir" },
@@ -198,7 +199,7 @@ export function showFacet(facet, label) {
   showResults(label || facet, byFacet(facet));
 }
 export function showList(list) {
-  const labels = { favoritos: "❤️ Favoritos", assisti: "✅ Já assisti", quero: "🔖 Quero assistir" };
+  const labels = { favoritos: "❤️ Favoritos", assistindo: "▶️ Assistindo", assisti: "✅ Já assisti", quero: "🔖 Quero assistir" };
   showResults(labels[list], itemsInList(list));
 }
 

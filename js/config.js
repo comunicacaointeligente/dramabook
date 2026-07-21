@@ -26,9 +26,10 @@ export const FLAGS = {
 
 /* Menu lateral — dirigido por dados (adicionar item = 1 linha aqui). */
 export const LIST_MENU = [
-  { list: "favoritos", icon: "❤️", label: "Favoritos", badge: "badgeFav" },
-  { list: "assisti",   icon: "✅", label: "Já assisti", badge: "badgeAssisti" },
-  { list: "quero",     icon: "🔖", label: "Quero assistir", badge: "badgeQuero" },
+  { list: "favoritos",  icon: "❤️", label: "Favoritos", badge: "badgeFav" },
+  { list: "assistindo", icon: "▶️", label: "Assistindo", badge: "badgeAssistindo" },
+  { list: "assisti",    icon: "✅", label: "Já assisti", badge: "badgeAssisti" },
+  { list: "quero",      icon: "🔖", label: "Quero assistir", badge: "badgeQuero" },
 ];
 
 /* Filtros do site — EXATAMENTE a lista definida pela curadoria (não inventar). */
@@ -112,6 +113,7 @@ export const MOODS = [
 /* localStorage keys. */
 export const LS = {
   favoritos: "db_favoritos",
+  assistindo: "db_assistindo",
   assisti: "db_assisti",
   quero: "db_quero",
   theme: "db_theme",

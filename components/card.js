@@ -8,6 +8,7 @@ import { CONTEUDO } from "../js/config.js";
 export function statusHTML(id) {
   return [
     inList("assisti", id) ? '<span class="st seen" title="Já assisti">✅ Assistido</span>' : "",
+    inList("assistindo", id) ? '<span class="st watching" title="Assistindo">▶️ Assistindo</span>' : "",
     inList("favoritos", id) ? '<span class="st" title="Favorito">❤️</span>' : "",
     inList("quero", id) ? '<span class="st" title="Quero assistir">🔖</span>' : "",
   ].join("");
