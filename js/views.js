@@ -27,11 +27,12 @@ export function renderSidebar() {
   const contHtml = Object.entries(CONTEUDO).map(([k, c]) =>
     `<button class="menu-item" data-facet="conteudo:${k}">${c.cor} ${c.label}</button>`).join("");
   $("#menu").innerHTML = `
+    <button class="menu-item destaque" data-facet="all">🏠 Início</button>
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
     <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
-    <p class="menu-label">Categorias</p>${catHtml}
+    <p class="menu-label">Categorias</p>${catHtml.replace(/<button[^>]*data-facet="all"[^>]*>[^<]*<\/button>/,"")}
     <p class="menu-label">🚦 Conteúdo</p>${contHtml}`;
 }
 
