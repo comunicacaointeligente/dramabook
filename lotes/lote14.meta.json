@@ -1,0 +1,481 @@
+{
+  "the-heirs": {
+    "titulo_original": "상속자들",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Min-ho",
+      "Park Shin-hye",
+      "Kim Woo-bin",
+      "Krystal Jung",
+      "Kang Ha-neul"
+    ],
+    "diretor": "Kang Shin-hyo",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/lQKZfxRSAxsWDGGqBcJz1Wq3Vqk.jpg",
+    "banner": "/rvfjxKcysR9UBM7wqTAqNRJPYWO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=lLL5WxCyGYo"
+  },
+  "sky-castle": {
+    "titulo_original": "SKY 캐슬",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Yum Jung-ah",
+      "Lee Tae-ran",
+      "Yoon Se-ah",
+      "Oh Na-ra",
+      "Kim Seo-hyung"
+    ],
+    "diretor": "Jo Hyun-tak",
+    "roteirista": "Yoo Hyun-mi",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/ekLj5oXqRAtLjRxhCUJgL3TgFHc.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=nEt3JYbBqPY"
+  },
+  "misaeng": {
+    "titulo_original": "미생",
+    "titulo_br": "Vida Incompleta",
+    "pais": "Coreia do Sul",
+    "ano": 2014,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Im Si-wan",
+      "Lee Sung-min",
+      "Kang So-ra",
+      "Kang Ha-neul",
+      "Byun Yo-han"
+    ],
+    "diretor": "Kim Won-suk",
+    "roteirista": "Jung Yoon-jung",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "you-re-beautiful": {
+    "titulo_original": "미남이시네요",
+    "pais": "Coreia do Sul",
+    "ano": 2009,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Shin-hye",
+      "Jang Keun-suk",
+      "Lee Hong-ki",
+      "Jung Yong-hwa",
+      "UEE"
+    ],
+    "diretor": "Hong Sung-chang",
+    "roteirista": "Hong Jung-eun",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 12,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "secret-garden": {
+    "titulo_original": "시크릿 가든",
+    "pais": "Coreia do Sul",
+    "ano": 2010,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ha Ji-won",
+      "Hyun Bin",
+      "Yoon Sang-hyun",
+      "Kim Sa-rang",
+      "Philip Lee"
+    ],
+    "diretor": "Shin Woo-chul",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "the-master-s-sun": {
+    "titulo_original": "주군의 태양",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 17,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Gong Hyo-jin",
+      "So Ji-sub",
+      "Seo In-guk",
+      "Kim Yu-ri"
+    ],
+    "diretor": "Jin Hyuk",
+    "roteirista": "Hong Jung-eun",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "pinocchio": {
+    "titulo_original": "피노키오",
+    "pais": "Coreia do Sul",
+    "ano": 2014,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Jong-suk",
+      "Park Shin-hye",
+      "Kim Young-kwang",
+      "Lee Yu-bi"
+    ],
+    "diretor": "Jo Soo-won",
+    "roteirista": "Park Hye-ryun",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "i-hear-your-voice": {
+    "titulo_original": "너의 목소리가 들려",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Bo-young",
+      "Lee Jong-suk",
+      "Yoon Sang-hyun",
+      "Lee Da-hee"
+    ],
+    "diretor": "Jo Soo-won",
+    "roteirista": "Park Hye-ryun",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "dr-romantic": {
+    "titulo_original": "낭만닥터 김사부",
+    "titulo_br": "Dr. Romântico",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 21,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Han Suk-kyu",
+      "Yoo Yeon-seok",
+      "Seo Hyun-jin",
+      "Kim Min-jae"
+    ],
+    "diretor": "Yoo In-shik",
+    "roteirista": "Kang Eun-kyung",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=WjMHhaGm7uY"
+  },
+  "tale-of-the-nine-tailed": {
+    "titulo_original": "구미호뎐",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Dong-wook",
+      "Jo Bo-ah",
+      "Kim Bum",
+      "Kim Yong-ji"
+    ],
+    "diretor": "Kang Shin-hyo",
+    "roteirista": "Han Woo-ri",
+    "plataformas": [
+      "tvN",
+      "Netflix",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/vJHVACkoMBnrfM0z7SLuwQ0i9nB.jpg",
+    "banner": "/jBQIwZP7g4nFyk3G4l7l5X9rMzn.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Vp0Kk9Y8Ejw"
+  },
+  "my-roommate-is-a-gumiho": {
+    "titulo_original": "간 떨어지는 동거",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Jang Ki-yong",
+      "Hyeri",
+      "Kang Han-na",
+      "Kim Do-wan",
+      "Bae In-hyuk"
+    ],
+    "diretor": "Nam Sung-woo",
+    "roteirista": "Baek Sun-woo",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/6ZBFGaOTjOAsyDwtiJn8mzMQyBk.jpg",
+    "banner": "/xkxxL8dJirkQl2VE5o9DyOAB3aE.jpg",
+    "trailer": "https://www.youtube.com/watch?v=lRRoHZ0K6qA"
+  },
+  "the-fiery-priest": {
+    "titulo_original": "열혈사제",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 40,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Kim Nam-gil",
+      "Kim Sung-kyun",
+      "Lee Ha-nee",
+      "Go Jun"
+    ],
+    "diretor": "Park Jae-beom",
+    "roteirista": "Park Jae-beom",
+    "plataformas": [
+      "SBS",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/lJMJ6xkxN6dwvHm7wV8Rd7pQPtd.jpg",
+    "banner": "/kFrH3mFyKlEB5Fp5aGqW9pAxJlH.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8YZLA2Zg0Xw"
+  },
+  "the-red-sleeve": {
+    "titulo_original": "옷소매 붉은 끝동",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 17,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Junho",
+      "Lee Se-young",
+      "Kang Hoon",
+      "Lee Deok-hwa"
+    ],
+    "diretor": "Jung Ji-in",
+    "roteirista": "Jung Hae-ri",
+    "plataformas": [
+      "MBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/tXQu6zPZgTdUvxg3nDWnI1qYBaG.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=fyHt7oQXWhg"
+  },
+  "yumi-s-cells": {
+    "titulo_original": "유미의 세포들",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 14,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Go-eun",
+      "Ahn Bo-hyun",
+      "Lee Yoo-bi",
+      "Park Ji-hyun",
+      "Park Jin-young"
+    ],
+    "diretor": "Lee Sang-yeob",
+    "roteirista": "Kim Kyung-ran",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/1GfKgWKxk4b1eS8GAOoJmXeI6NG.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=ZCJ5c3AmO5A"
+  },
+  "just-between-lovers": {
+    "titulo_original": "그냥 사랑하는 사이",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Junho",
+      "Won Jin-ah",
+      "Lee Ki-woo",
+      "Kang Han-na"
+    ],
+    "diretor": "Kim Jin-won",
+    "roteirista": "Yoo Bo-ra",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "come-and-hug-me": {
+    "titulo_original": "이리와 안아줘",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 32,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Jang Ki-yong",
+      "Jin Ki-joo",
+      "Heo Joon-ho",
+      "Choo Soo-hyun"
+    ],
+    "diretor": "Choi Joon-bae",
+    "roteirista": "Lee A-ram",
+    "plataformas": [
+      "MBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "extracurricular": {
+    "titulo_original": "인간수업",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Kim Dong-hee",
+      "Park Ju-hyun",
+      "Jung Da-bin",
+      "Nam Yoon-su"
+    ],
+    "diretor": "Kim Jin-min",
+    "roteirista": "Jin Han-sae",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "the-king-s-affection": {
+    "titulo_original": "연모",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Park Eun-bin",
+      "Rowoon",
+      "Nam Yoon-su",
+      "Choi Byung-chan"
+    ],
+    "diretor": "Song Hyun-wook",
+    "roteirista": "Han Hee-jung",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  },
+  "once-upon-a-small-town": {
+    "titulo_original": "어쩌다 전원일기",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Choo Young-woo",
+      "Baek Sung-chul",
+      "Park Soo-young",
+      "Kim Seon-ho"
+    ],
+    "diretor": "Kwon Seok-jang",
+    "roteirista": "Baek Eun-jin",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 12,
+    "poster": "",
+    "banner": "",
+    "trailer": null
+  }
+}
