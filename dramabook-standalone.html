@@ -1306,6 +1306,8 @@ function byFacet(facet) {
     return STATE.all.filter(d => streamingList(d).some(x => norm(x) === p))
       .sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
   }
+  if (facet === "dublado")   return STATE.all.filter(d => d.dublado === true).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+  if (facet === "legendado") return STATE.all.filter(d => d.dublado === false).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
   return STATE.all.filter(d => matchFacet(d, facet));
 }
 
@@ -2148,7 +2150,10 @@ function renderSidebar() {
     ${minhasHtml}
     <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
     <p class="menu-label">Categorias</p>${catHtml.replace(/<button[^>]*data-facet="all"[^>]*>[^<]*<\/button>/,"")}
-    <p class="menu-label">🚦 Conteúdo</p>${contHtml}`;
+    <p class="menu-label">🚦 Conteúdo</p>${contHtml}
+    <p class="menu-label">🎧 Áudio</p>
+    <button class="menu-item" data-facet="dublado">🎤 Dublados</button>
+    <button class="menu-item" data-facet="legendado">📝 Só legendados</button>`;
 }
 
 function showExperiencia(key) {
@@ -2332,6 +2337,8 @@ function showFacet(facet, label) {
   if (facet === "all") { showHome(); return; }
   const title = facet?.startsWith("plat:") ? `📺 ${facet.slice(5)}`
               : facet?.startsWith("conteudo:") ? label || facet
+              : facet === "dublado" ? "🎤 Dublados em português"
+              : facet === "legendado" ? "📝 Só com legendas"
               : (label || facet);
   showResults(title, byFacet(facet));
 }

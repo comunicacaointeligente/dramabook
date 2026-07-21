@@ -33,7 +33,10 @@ export function renderSidebar() {
     ${minhasHtml}
     <p class="menu-label">✨ Descubra por experiência</p>${expHtml}
     <p class="menu-label">Categorias</p>${catHtml.replace(/<button[^>]*data-facet="all"[^>]*>[^<]*<\/button>/,"")}
-    <p class="menu-label">🚦 Conteúdo</p>${contHtml}`;
+    <p class="menu-label">🚦 Conteúdo</p>${contHtml}
+    <p class="menu-label">🎧 Áudio</p>
+    <button class="menu-item" data-facet="dublado">🎤 Dublados</button>
+    <button class="menu-item" data-facet="legendado">📝 Só legendados</button>`;
 }
 
 export function showExperiencia(key) {
@@ -217,6 +220,8 @@ export function showFacet(facet, label) {
   if (facet === "all") { showHome(); return; }
   const title = facet?.startsWith("plat:") ? `📺 ${facet.slice(5)}`
               : facet?.startsWith("conteudo:") ? label || facet
+              : facet === "dublado" ? "🎤 Dublados em português"
+              : facet === "legendado" ? "📝 Só com legendas"
               : (label || facet);
   showResults(title, byFacet(facet));
 }

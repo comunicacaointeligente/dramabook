@@ -54,6 +54,8 @@ export function byFacet(facet) {
     return STATE.all.filter(d => streamingList(d).some(x => norm(x) === p))
       .sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
   }
+  if (facet === "dublado")   return STATE.all.filter(d => d.dublado === true).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+  if (facet === "legendado") return STATE.all.filter(d => d.dublado === false).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
   return STATE.all.filter(d => matchFacet(d, facet));
 }
 
