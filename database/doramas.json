@@ -4032,31 +4032,33 @@
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2019,
-    "episodios": 16,
+    "episodios": 32,
     "temporadas": 1,
-    "duracao": "65 min",
+    "duracao": "35 min",
     "status": "Finalizado",
-    "classificacao": 16,
-    "final": "Feliz",
+    "classificacao": 15,
+    "final": "Agridoce",
     "plataformas": [
       "SBS",
-      "Netflix"
+      "Netflix",
+      "Viki",
+      "Kocowa"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
-      "Romance",
       "Médicos",
       "Emocionantes"
     ],
     "tropos": [
-      "Mentor",
-      "Slow Burn"
+      "Anti-Herói",
+      "Ética Médica",
+      "Slice of Life"
     ],
     "temas": [
-      "Ética Médica",
+      "Eutanásia",
       "Dor",
-      "Redenção",
-      "Compaixão"
+      "Vida e Morte",
+      "Justiça"
     ],
     "profissoes": [
       "Anestesiologista",
@@ -4065,29 +4067,29 @@
     "elenco": [
       "Ji Sung",
       "Lee Se-young",
-      "Lee Kyoo-hyung",
-      "Oh Hyun-joong",
-      "Kim Hye-eun"
+      "Lee Kyu-hyung",
+      "Hwang Hee",
+      "Shin Dong-mi"
     ],
     "diretor": "Jo Soo-won",
     "roteirista": "Kim Ji-woon",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9.3,
+      "chatgpt": 9.1,
       "mdl": 8.5,
       "imdb": 8
     },
     "sensacoes": {
-      "romance": 6,
-      "quimica": 7,
-      "emocao": 8,
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 9,
       "humor": 3,
-      "beijos": 4
+      "beijos": 2
     },
     "flags": {
-      "green": 8,
-      "red": 2
+      "green": 7,
+      "red": 4
     },
     "triangulo_amoroso": false,
     "perfil": {
@@ -4096,20 +4098,25 @@
     },
     "ost": [],
     "premios": [],
-    "banner": "/s0ZXX7Zr2oX4VDUMHRHXjkXeDeN.jpg",
+    "banner": "",
     "poster": "/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
-    "trailer": "https://www.youtube.com/watch?v=BAx5W5vMTzM",
-    "sinopse": "A dor é um enigma — e Cha Yo-han é o detetive. Anestesiologista genial da medicina da dor, ele diagnostica sofrimentos que nenhum exame explica, com métodos pouco ortodoxos e um passado que o persegue: uma condenação ligada ao dilema mais delicado da medicina. Ao lado da residente Kang Si-young, que carrega as próprias cicatrizes, ele trata cada paciente como um mistério a resolver — enquanto a pergunta que destruiu sua carreira volta a bater à porta: até onde vai o dever de um médico diante do sofrimento sem cura?",
-    "porque_assistir": "O favorito da casa 💜: Ji Sung em estado de graça num drama médico que ousa discutir eutanásia com seriedade e ternura. Cada caso é um quebra-cabeça emocionante, e o romance cresce em silêncio, no ritmo de quem cura. Um dos médicos mais fascinantes já escritos em dorama — indicado ao Grande Prêmio da SBS por isso.",
+    "trailer": "",
+    "sinopse": "Cha Yo-han é anestesiologista genial, apelidado de '10 Segundos' pela velocidade em diagnosticar dor. O paradoxo: ele mesmo não sente dor nenhuma — condição rara chamada CIPA. Ao ser transferido para uma clínica de manejo da dor depois de sair da prisão por um caso polêmico de eutanásia, cruza o caminho da residente Kang Shi-young. Cada paciente traz uma pergunta ética: prolongar a vida ou garantir uma morte digna?",
+    "porque_assistir": "Ji Sung em outra atuação camaleônica (depois de Kill Me Heal Me e Innocent Defendant) — um dos maiores atores da geração dele. Prêmio de Excelência a Lee Kyu-hyung e Lee Se-young. Não é drama médico leve: discute eutanásia, dor crônica e sistema prisional com peso. Denso, humanista, inesquecível.",
     "curiosidades": [
-      "Baseado no romance japonês 'On Hand of God', de Yo Kusakabe.",
-      "O debate ético sobre eutanásia é o coração da série — raridade nos dramas médicos coreanos.",
-      "Ji Sung foi indicado ao Daesang do SBS Drama Awards 2019 pelo papel."
+      "Baseado no romance japonês 'On Hand of God' de Yo Kusakabe.",
+      "Ji Sung interpreta um anestesiologista com Analgesia Congênita (CIPA), condição rara que impede sentir dor física.",
+      "Transmitido em bloco duplo de 30 minutos (32 'meia-horas'), embora produzido como 16 episódios de uma hora.",
+      "Retorno de Ji Sung à TV depois de Familiar Wife."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Discute eutanásia, suicídio assistido, dor crônica, câncer terminal e sistema prisional. Cenas médicas realistas e debate ético denso."
+    },
     "recomendacoes": [
-      "doctor-slump",
-      "hospital-playlist",
-      "it-s-okay-that-s-love"
+      "kill-me-heal-me",
+      "the-trauma-code-heroes-on-call",
+      "innocent-defendant"
     ]
   },
   {
@@ -5222,47 +5229,50 @@
     "dublado": false,
     "categorias": [
       "Romance",
+      "Fantasia",
       "Romance Maduro",
-      "Fantasia"
+      "Emocionantes"
     ],
     "tropos": [
       "Viagem no Tempo",
-      "Second Chance",
-      "Casamento em Crise"
+      "Casamento",
+      "Second Chance"
     ],
     "temas": [
       "Casamento",
       "Escolhas",
-      "Gratidão"
+      "Família",
+      "Recomeço"
     ],
     "profissoes": [
       "Bancário",
-      "Bancária"
+      "Enfermeira"
     ],
     "elenco": [
       "Ji Sung",
       "Han Ji-min",
       "Kang Han-na",
-      "Jang Seung-jo"
+      "Jang Seung-jo",
+      "Cha Hak-yeon"
     ],
-    "diretor": "Lee Sang-yeob",
+    "diretor": "",
     "roteirista": "Yang Hui-seung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 8.8,
-      "mdl": 8.1,
-      "imdb": 7.7
+      "chatgpt": 9,
+      "mdl": 8.5,
+      "imdb": 7.9
     },
     "sensacoes": {
       "romance": 8,
-      "quimica": 8,
+      "quimica": 9,
       "emocao": 8,
       "humor": 6,
-      "beijos": 6
+      "beijos": 7
     },
     "flags": {
-      "green": 7,
+      "green": 8,
       "red": 3
     },
     "triangulo_amoroso": true,
@@ -5275,17 +5285,22 @@
     "banner": "/pnKlgwSHfBcsz7zt4acZPwdvDlQ.jpg",
     "poster": "/ds84fVavAJX872qh4kUHAfqjp3b.jpg",
     "trailer": "https://www.youtube.com/watch?v=9NC4F2cR64w",
-    "sinopse": "O bancário Joo-hyuk vive no piloto automático de um casamento desgastado e se pega fantasiando: e se tivesse escolhido diferente? Depois de um encontro misterioso no metrô, ele acorda exatamente nessa outra vida — solteiro do casamento, casado com a 'escolha certa', e a ex-esposa virou uma estranha que ele reencontra por acaso. Só que segundas chances têm regras próprias, e o coração insiste em lembrar o que a linha do tempo apagou.",
-    "porque_assistir": "Ji Sung e Han Ji-min num 'e se...?' que todo casal já se perguntou, com uma das mensagens mais maduras do gênero: relacionamento não é destino, é construção diária. Quebrou os próprios recordes de audiência na tvN e entrega um final que justifica cada desvio no caminho.",
+    "sinopse": "Cha Joo-hyuk é bancário afogado em dívidas, com um chefe insuportável e um casamento desgastado com Woo Jin. Ao atravessar um pedágio mágico, ele viaja no tempo e escolhe não se casar com ela — acordando numa realidade onde os dois são só colegas de trabalho e a vida parece mais leve. Até ele perceber, devagarinho, tudo o que perdeu.",
+    "porque_assistir": "Um dos rom-coms mais elogiados de 2018 — química inesperada entre Ji Sung e Han Ji-min. Escrito pela mesma roteirista de Weightlifting Fairy Kim Bok-joo (Yang Hui-seung). Han Ji-min interpreta duas versões da mesma mulher com estilos, voz e postura diferentes — proeza de atuação. Trata cansaço conjugal e maternidade sem romantizar.",
     "curiosidades": [
-      "O gatilho da viagem no tempo são duas moedas misteriosas num pedágio.",
-      "Ji Sung e Han Ji-min já tinham atuado juntos 15 anos antes, em All In (2003).",
-      "A frase-tema: 'não existem relacionamentos de mão única'."
+      "Han Ji-min interpreta duas versões da mesma mulher com estilos, voz e postura diferentes.",
+      "A trilha 'Way Back Then' de Kim Yeon-ji virou hit nas paradas melô coreanas em 2018.",
+      "Escrita por Yang Hui-seung, roteirista de Weightlifting Fairy Kim Bok-joo.",
+      "Ji Sung e a esposa Lee Bo-young receberam elogios públicos do elenco por como Ji Sung falava dela nos bastidores."
     ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
     "recomendacoes": [
-      "queen-of-tears",
-      "marry-my-husband",
-      "because-this-is-my-first-life"
+      "because-this-is-my-first-life",
+      "see-you-in-my-19th-life",
+      "twinkling-watermelon"
     ]
   },
   {
@@ -11824,6 +11839,1765 @@
       "w-two-worlds",
       "true-beauty",
       "twinkling-watermelon"
+    ]
+  },
+  {
+    "id": "innocent-defendant",
+    "titulo": "Innocent Defendant",
+    "titulo_original": "피고인",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Advogados",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Amnésia",
+      "Prisão",
+      "Vingança"
+    ],
+    "temas": [
+      "Injustiça",
+      "Família",
+      "Memória",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Promotor"
+    ],
+    "elenco": [
+      "Ji Sung",
+      "Uhm Ki-joon",
+      "Kwon Yuri",
+      "Oh Chang-seok"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.9,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 3,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/3spBT6tCcEJCBMDFEsFp83ueArg.jpg",
+    "poster": "/qoFTJi6b5Q5eNOArLOTe1Hi1fui.jpg",
+    "trailer": "",
+    "sinopse": "Park Jung-woo é promotor de sucesso — família bonita, casa bonita, futuro brilhante. Uma manhã, acorda no corredor da morte acusado do assassinato da própria esposa e da filha pequena. E não lembra de absolutamente nada. Enquanto luta pra recuperar a memória atrás das grades, precisa provar sua inocência e descobrir quem armou tudo. Cada aliado dentro é uma incógnita. Cada movimento fora, um passo pro cadafalso.",
+    "porque_assistir": "Ji Sung levou o DAESANG (Grande Prêmio) do SBS Drama Awards 2017 — o Oscar coreano da TV daquele ano. Pico de 28% de audiência. Suspense episódio a episódio que agarra o pescoço. Um dos poucos K-dramas de prisão a ultrapassar 25% de ibope em rede aberta. Obra-prima do gênero.",
+    "curiosidades": [
+      "Ji Sung levou o Daesang do SBS Drama Awards 2017 pelo papel.",
+      "A produção teve extensão de episódios (de 16 para 18) por causa do sucesso de audiência.",
+      "Um dos poucos K-dramas do gênero prisão a ultrapassar 25% de ibope em rede aberta.",
+      "Kim Min-seok, o jovem 'Chulsik', ganhou visibilidade nacional a partir dessa série."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Assassinato de familiares (inclusive criança), prisão, violência psicológica."
+    },
+    "recomendacoes": [
+      "doctor-john",
+      "big-mouth",
+      "the-glory"
+    ]
+  },
+  {
+    "id": "connect",
+    "titulo": "Connect",
+    "titulo_original": "커넥트",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Sobrenatural",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Imortal",
+      "Serial Killer",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Vida e Morte",
+      "Corpo",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Sem-Teto",
+      "Fotógrafo"
+    ],
+    "elenco": [
+      "Jung Hae-in",
+      "Go Kyung-pyo",
+      "Kim Hye-jun",
+      "Yang Dong-geun"
+    ],
+    "diretor": "Takashi Miike",
+    "roteirista": "Takashi Miike",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7.8,
+      "mdl": 7.7,
+      "imdb": 6.6
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 2,
+      "emocao": 5,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
+    "trailer": "https://www.youtube.com/watch?v=rCVoCy93X5w",
+    "sinopse": "Ha Dong-soo é um 'Connect' — um imortal que se regenera de qualquer ferimento. Sequestrado por traficantes de órgãos, tem um dos olhos removido. Quando percebe que passa a enxergar pelo olho transplantado, descobre que o receptor é um serial killer. Sem controle sobre o que vê, precisa caçá-lo à distância — pelas próprias visões dele.",
+    "porque_assistir": "Primeiro K-drama dirigido pelo cult japonês Takashi Miike (Audition, Ichi the Killer) — aposta autoral do Disney+. Estética suja de body horror, apenas 6 episódios densos. Jung Hae-in fora do romance, em papel sombrio. Não é pra sensíveis: violência gráfica constante.",
+    "curiosidades": [
+      "Primeiro K-drama dirigido pelo cult japonês Takashi Miike, contratado pela Disney+ como aposta autoral.",
+      "Baseado no webtoon homônimo de Shin Dae-sung publicado no Daum.",
+      "Estreou no Festival Internacional de Busan 2022 antes de ir para o streaming.",
+      "Apenas 6 episódios densos."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Tráfico de órgãos, mutilação, homicídios em série e imagens gráficas de violência."
+    },
+    "recomendacoes": [
+      "mouse",
+      "sweet-home",
+      "a-shop-for-killers"
+    ]
+  },
+  {
+    "id": "if-you-wish-upon-me",
+    "titulo": "If You Wish Upon Me",
+    "titulo_original": "당신이 소원을 말하면",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Romance",
+      "Médicos"
+    ],
+    "tropos": [
+      "Cura Emocional",
+      "Healing",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Morte",
+      "Segunda Chance",
+      "Sonhos",
+      "Cuidado"
+    ],
+    "profissoes": [
+      "Voluntário",
+      "Enfermeira"
+    ],
+    "elenco": [
+      "Ji Chang-wook",
+      "Choi Su-young",
+      "Sung Dong-il",
+      "Won Ji-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.4,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 6,
+      "emocao": 10,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 9,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/bjZZf3pSJtqPHTUsnRwg7UeIcTK.jpg",
+    "poster": "/oqQ90A1WZxyy7nQDtGXQSA1xlaa.jpg",
+    "trailer": "",
+    "sinopse": "Yoon Gyeo-re é ex-detento fechado, desconfiado, sem laços. Começa a trabalhar num hospice e é obrigado a integrar uma equipe voluntária que realiza os últimos desejos dos pacientes terminais. Uma criança quer ver o mar. Uma mãe quer dançar com o filho no casamento que não vai chegar. Ao lado da enfermeira Seo Yeon-joo, ele redescobre o próprio direito de sonhar.",
+    "porque_assistir": "Inspirado no projeto REAL 'Ambulance Wish Foundation' da Holanda, que realiza últimos desejos de pacientes terminais. Ji Chang-wook em papel introspectivo e silencioso, depois de anos de ação. Aprovação crítica altíssima. Comovente, delicado, esperançoso — tira o peito no melhor sentido.",
+    "curiosidades": [
+      "Inspirado no projeto real 'Ambulance Wish Foundation' dos Países Baixos, que realiza últimos desejos de pacientes terminais.",
+      "A produção consultou hospices reais na Coreia para roteirizar procedimentos de fim de vida.",
+      "Sung Dong-il, que interpreta o diretor do hospice, aceitou o papel sem ler o roteiro completo, só pela sinopse.",
+      "Primeiro papel de Ji Chang-wook em papel introspectivo depois de anos em ação."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Câncer terminal, morte de pacientes, luto, traumas de infância em orfanato."
+    },
+    "recomendacoes": [
+      "move-to-heaven",
+      "my-mister",
+      "doctor-john"
+    ]
+  },
+  {
+    "id": "empress-ki",
+    "titulo": "Empress Ki",
+    "titulo_original": "기황후",
+    "titulo_br": "Imperatriz Ki",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 51,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "MBC",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Realeza",
+      "Vingança",
+      "Triângulo",
+      "Sageuk"
+    ],
+    "temas": [
+      "Poder",
+      "Sobrevivência",
+      "Amor",
+      "Guerra"
+    ],
+    "profissoes": [
+      "Imperatriz",
+      "Rei",
+      "Imperador"
+    ],
+    "elenco": [
+      "Ha Ji-won",
+      "Ju Jin-mo",
+      "Ji Chang-wook",
+      "Jin Yi-han",
+      "Baek Jin-hee"
+    ],
+    "diretor": "",
+    "roteirista": "Han Hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "trailer": "https://www.youtube.com/watch?v=JHPY5KS07YA",
+    "sinopse": "Século XIV, dinastia Goryeo. Ki Seung-nyang cresce disfarçada de homem para escapar do tributo de mulheres exigido pelos mongóis. Levada à força para a corte Yuan, ela se envolve num triângulo entre o rei destronado de Goryeo e o jovem imperador Toghon Temür — e ascende, degrau por degrau, até o topo do maior império da época. Não é a história tradicional de uma imperatriz. É a de uma sobrevivente.",
+    "porque_assistir": "Épico sageuk de 51 episódios — um dos maiores da MBC. Sucesso massivo (média acima de 28% de audiência), consolidou Ji Chang-wook como leading man antes do serviço militar. Ha Ji-won fez a maior parte das cenas de luta com espada sem dublê. Gerou controvérsia histórica por romantizar figura vista como colaboradora Yuan. Grandioso e trágico.",
+    "curiosidades": [
+      "51 episódios, um dos sageuks mais longos da MBC no formato prime-time.",
+      "Historiadores coreanos criticaram publicamente a romantização da Imperatriz Ki durante a exibição.",
+      "Foi o papel que consolidou Ji Chang-wook como leading man antes do serviço militar.",
+      "Ha Ji-won fez a maior parte das cenas de luta com espada sem dublê."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Guerra, execuções, escravidão, intrigas de corte com envenenamentos e traições."
+    },
+    "recomendacoes": [
+      "moon-lovers-scarlet-heart-ryeo",
+      "alchemy-of-souls",
+      "perfect-crown"
+    ]
+  },
+  {
+    "id": "vigilante",
+    "titulo": "Vigilante",
+    "titulo_original": "비질란테",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Justiceiro",
+      "Vingança"
+    ],
+    "temas": [
+      "Justiça",
+      "Moral",
+      "Trauma",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Repórter"
+    ],
+    "elenco": [
+      "Nam Joo-hyuk",
+      "Yoo Ji-tae",
+      "Kim So-jin",
+      "Lee Jun-hyuk",
+      "Kwon Hae-hyo"
+    ],
+    "diretor": "",
+    "roteirista": "Moon Yoo-seok",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.4,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 3,
+      "emocao": 6,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "poster": "/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8QErHoBAACs",
+    "sinopse": "Kim Ji-yong é o estudante modelo da academia de polícia — calmo, disciplinado, respeitado. À noite, ele vira um justiceiro mascarado que executa criminosos que a lei deixou escapar. Um repórter obcecado e um bilionário misterioso começam a rastrear sua identidade. E cada morte é um passo mais fundo em quem ele decidiu ser.",
+    "porque_assistir": "Nam Joo-hyuk saindo do galã romântico numa transformação física e atuação sombria — aprovação absoluta da crítica. Primeiro papel dele pós-serviço militar. Coreografias de MMA com bastões, contratadas pra realismo brutal. Yoo Ji-tae acumulou papel de ator e diretor de episódios. Debate ético sobre justiceirismo divide público — de propósito.",
+    "curiosidades": [
+      "Baseado no webtoon Vigilante de CRG e Kim Kyu-sam.",
+      "Primeiro papel de Nam Joo-hyuk após o serviço militar.",
+      "A produção contratou coreógrafos de MMA para os combates realistas com bastões.",
+      "Yoo Ji-tae acumula papel de ator e diretor de alguns episódios."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, homicídios, discussão de abuso infantil e feminicídio como gatilho de vingança."
+    },
+    "recomendacoes": [
+      "the-glory",
+      "bloodhounds",
+      "moving"
+    ]
+  },
+  {
+    "id": "uncle-samsik",
+    "titulo": "Uncle Samsik",
+    "titulo_original": "삼식이 삼촌",
+    "titulo_br": "Tio Samsik",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Históricos",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Época",
+      "Conspiração",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Poder",
+      "Golpe",
+      "Corrupção",
+      "Sobrevivência"
+    ],
+    "profissoes": [
+      "Burocrata",
+      "Fornecedor"
+    ],
+    "elenco": [
+      "Song Kang-ho",
+      "Byun Yo-han",
+      "Lee Kyoo-hyung",
+      "Seo Hyun-woo",
+      "Jin Ki-joo"
+    ],
+    "diretor": "Shin Yeon-shick",
+    "roteirista": "Shin Yeon-shick",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.3,
+      "mdl": 7.8,
+      "imdb": 7.3
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 2,
+      "emocao": 6,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/60iLAUnwnejECmOwDcuimUnMAO6.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6saADmo_lhA",
+    "sinopse": "Anos 1960, Coreia do Sul devastada pela guerra. Kim San, jovem burocrata idealista, se alia a 'Tio Samsik' — fornecedor sombrio que consegue absolutamente qualquer coisa no mercado negro. Juntos, apostam num plano de industrialização acelerada que os arrasta pro centro de uma conspiração de golpe militar. Não tem herói. Só gente jogando xadrez com o país como tabuleiro.",
+    "porque_assistir": "Primeira SÉRIE de TV da carreira de Song Kang-ho — o Cannes de Broker (2022), o Oscar de Parasita. Estreou no Festival de Cannes 2024 antes do streaming. Ambientação de época impecável. Denso, político, autoral. Não é pra maratonar sem café — é pra estudar.",
+    "curiosidades": [
+      "Primeira série de TV da carreira de Song Kang-ho, vencedor de Cannes por Broker.",
+      "Ambientada na Coreia dos anos 1960, entre o pós-guerra e o golpe militar de 16 de maio.",
+      "Estreou no Festival de Cannes 2024, na seção Cannes Séries.",
+      "Roteiro e direção de Shin Yeon-shick, conhecido por filmes autorais."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Golpe militar, tortura política, fome, execuções e corrupção estatal."
+    },
+    "recomendacoes": [
+      "mr-sunshine",
+      "reborn-rich",
+      "big-bet"
+    ]
+  },
+  {
+    "id": "big-bet",
+    "titulo": "Big Bet",
+    "titulo_original": "카지노",
+    "titulo_br": "A Próxima Aposta",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Agridoce",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Máfia",
+      "Exílio"
+    ],
+    "temas": [
+      "Vício",
+      "Poder",
+      "Corrupção",
+      "Sobrevivência"
+    ],
+    "profissoes": [
+      "Empresário",
+      "Gângster"
+    ],
+    "elenco": [
+      "Choi Min-sik",
+      "Son Suk-ku",
+      "Lee Dong-hwi",
+      "Heo Sung-tae",
+      "Lee Hye-young"
+    ],
+    "diretor": "Kang Yun-sung",
+    "roteirista": "Kang Yun-sung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 3,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/9GEGH8kT7XK8iUXl76cWsCt8e46.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-74Kgca_RjQ",
+    "sinopse": "Cha Moo-sik é o rei do cassino coreano — exilado nas Filipinas depois de perder tudo na Coreia. Quando um turista aparece morto na sala VIP dele, é acusado do crime e precisa recorrer a políticos corruptos, gângsteres locais e dívidas antigas pra não ser extraditado. Cada aposta pode ser a última.",
+    "porque_assistir": "Primeira SÉRIE de Choi Min-sik (Oldboy, I Saw the Devil). Dirigida por Kang Yoon-sung (The Outlaws com Ma Dong-seok). Gravada em Manila. Duas temporadas lançadas de dezembro/2022 a fevereiro/2023. Noir brutal, adulto, sujo. Não tem alívio cômico — não pede, não dá.",
+    "curiosidades": [
+      "Primeira série de TV de Choi Min-sik, ator de Oldboy e I Saw the Devil.",
+      "Dirigida por Kang Yoon-sung, o mesmo de The Outlaws com Ma Dong-seok.",
+      "Gravada em Manila, nas Filipinas, onde se passa a maior parte da trama.",
+      "Dividida em duas temporadas lançadas com poucos meses de diferença."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Vício em jogo, homicídios, tráfico, tortura e corrupção internacional."
+    },
+    "recomendacoes": [
+      "vincenzo",
+      "uncle-samsik",
+      "vigilante"
+    ]
+  },
+  {
+    "id": "grid",
+    "titulo": "Grid",
+    "titulo_original": "그리드",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Distopia",
+      "Mistério",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Tempo",
+      "Escolhas",
+      "Verdade",
+      "Poder"
+    ],
+    "profissoes": [
+      "Agente",
+      "Fugitiva"
+    ],
+    "elenco": [
+      "Seo Kang-joon",
+      "Kim A-joong",
+      "Lee Si-young",
+      "Kim Moo-yul",
+      "Jang So-yeon"
+    ],
+    "diretor": "",
+    "roteirista": "Lee Su-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7.9,
+      "mdl": 7.2,
+      "imdb": 6.7
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 4,
+      "emocao": 5,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/w3jA7mvNW2TjrnNCe2MmTzV7rtY.jpg",
+    "poster": "/rlC29GLbjwkwezeNGqyLrnuQUpb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Ehquzb78kcI",
+    "sinopse": "Em 1997, um 'Grid' misterioso apareceu na estratosfera e salvou a humanidade de uma tempestade solar mortal. Vinte anos depois, uma testemunha do fenômeno reaparece — protegendo um serial killer. E um agente da agência secreta que monitora o Grid começa a caçar os dois. A explicação envolve tudo o que a Terra escolheu não perguntar.",
+    "porque_assistir": "Roteiro de Lee Soo-yeon (Stranger, Blood Free) — uma das melhores roteiristas de suspense da Coreia. Apenas 10 episódios num formato curto de streaming, incomum no K-drama tradicional. Sci-fi cerebral e distópico. Recepção dividida — pra quem gosta do gênero, é um achado.",
+    "curiosidades": [
+      "Roteiro de Lee Soo-yeon, também de Stranger e Blood Free.",
+      "Título original 'Grid' refere-se a um escudo eletromagnético que teria salvado a Terra em 1997.",
+      "Apenas 10 episódios, formato mais curto para streaming.",
+      "Primeiro papel de destaque em sci-fi para Seo Kang-joon depois de Are You Human Too?"
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Homicídios em série, experimentos com humanos, violência contra crianças no passado do vilão."
+    },
+    "recomendacoes": [
+      "blood-free",
+      "sweet-home",
+      "signal"
+    ]
+  },
+  {
+    "id": "squid-game",
+    "titulo": "Squid Game",
+    "titulo_original": "오징어 게임",
+    "titulo_br": "Round 6",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 9,
+    "temporadas": 3,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Distopia",
+      "Sobrevivência",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Desigualdade",
+      "Ganância",
+      "Sobrevivência",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Endividado",
+      "Guarda",
+      "Recrutador"
+    ],
+    "elenco": [
+      "Lee Jung-jae",
+      "Wi Ha-jun",
+      "Lee Byung-hun",
+      "Yim Si-wan",
+      "Jo Yuri"
+    ],
+    "diretor": "Hwang Dong-hyuk",
+    "roteirista": "Hwang Dong-hyuk",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.4,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 5,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jHAGoD3OePI",
+    "sinopse": "Centenas de pessoas endividadas, desesperadas e sem saída aceitam entrar num torneio secreto de jogos infantis com prêmio milionário. Sem noção do que vem pela frente, tudo parece bom demais — descontraído, colorido, absurdo. Só descobrem tarde demais que perder significa morrer. E que quem controla o jogo não brinca.",
+    "porque_assistir": "A série mais assistida da história da Netflix na estreia. Lee Jung-jae virou o PRIMEIRO ator asiático a vencer o Emmy de Melhor Ator em Série Dramática. Crítica social feroz sobre desigualdade, embalada em visual pop icônico. Fenômeno global que redefiniu o que K-drama pode alcançar. Aviso: pesado e brutal.",
+    "curiosidades": [
+      "Hwang Dong-hyuk escreveu o roteiro em 2009 e passou mais de 10 anos tentando produzir; foi rejeitado várias vezes por ser 'estranho demais'.",
+      "Os uniformes verdes dos jogadores e os macacões cor-de-rosa dos guardas viraram fantasias mundiais de Halloween em 2021.",
+      "Lee Jung-jae foi o primeiro ator asiático a vencer o Emmy de Melhor Ator em Série Dramática.",
+      "O jogo Ppopgi (biscoito dalgona) causou uma corrida à guloseima em Seul após a estreia."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica extrema, execuções em massa, temas de suicídio e exploração humana. Classificação 18+."
+    },
+    "recomendacoes": [
+      "sweet-home",
+      "all-of-us-are-dead",
+      "hellbound"
+    ]
+  },
+  {
+    "id": "kingdom",
+    "titulo": "Kingdom",
+    "titulo_original": "킹덤",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Históricos",
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Zumbis",
+      "Realeza",
+      "Sageuk",
+      "Sobrevivência"
+    ],
+    "temas": [
+      "Poder",
+      "Fome",
+      "Sobrevivência",
+      "Corrupção"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Médica",
+      "Guarda"
+    ],
+    "elenco": [
+      "Ju Ji-hoon",
+      "Ryu Seung-ryong",
+      "Bae Doona",
+      "Kim Sang-ho",
+      "Kim Sung-kyu"
+    ],
+    "diretor": "Kim Seong-hun",
+    "roteirista": "Kim Eun-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.7,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "trailer": "",
+    "sinopse": "Séc. XVI, dinastia Joseon. O rei está morto — ou algo que já foi rei. Uma peste misteriosa começa a transformar os súditos famintos do reino em criaturas sedentas de carne. Enquanto uma facção política tenta usurpar o trono aproveitando o vácuo, o príncipe herdeiro Lee Chang parte em busca da verdade. Zumbis coreanos, hanboks e política de corte no mesmo pacote — pela primeira vez na história.",
+    "porque_assistir": "Primeiro sageuk original da Netflix. Escrito por Kim Eun-hee (Signal!) — uma das maiores roteiristas da Coreia. Uma das produções mais caras da TV coreana (~US$ 1,7 milhão por episódio). Os figurinos e chapéus tradicionais (gat) viraram tendência de busca na Amazon após a estreia. Elegante, épico, aterrorizante.",
+    "curiosidades": [
+      "Baseado no webcomic 'The Kingdom of the Gods' de Kim Eun-hee, que também assina o roteiro.",
+      "Os figurinos e chapéus tradicionais (gat) viraram tendência de busca na Amazon após a estreia.",
+      "Uma das produções mais caras da história da TV coreana, com cerca de US$ 1,7 milhão por episódio.",
+      "Bae Doona e Ju Ji-hoon fizeram o próprio treinamento com armas medievais para as cenas de ação."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Zumbis, mutilações, violência gráfica e cenas perturbadoras de fome coletiva."
+    },
+    "recomendacoes": [
+      "all-of-us-are-dead",
+      "sweet-home",
+      "signal"
+    ]
+  },
+  {
+    "id": "d-p",
+    "titulo": "D.P.",
+    "titulo_original": "D.P 개의 날",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "45 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Militar",
+      "Underdog",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Bullying",
+      "Sistema",
+      "Trauma",
+      "Deserção"
+    ],
+    "profissoes": [
+      "Soldado",
+      "Perseguidor"
+    ],
+    "elenco": [
+      "Jung Hae-in",
+      "Koo Kyo-hwan",
+      "Kim Sung-kyun",
+      "Son Suk-ku",
+      "Park Se-jun"
+    ],
+    "diretor": "Han Jun-hee",
+    "roteirista": "Kim Bo-tong",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.8,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/akvPsqe1u1NpIQ8Ln2Vt06uhOv9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=VTesFEfIwl0",
+    "sinopse": "An Jun-ho é recruta introvertido, com trauma de infância e olho pra detalhe. Contra a vontade, é recrutado para a unidade D.P. (Deserter Pursuit) — o esquadrão do exército que caça soldados desertores. Cada perseguição descobre POR QUE aqueles homens fugiram. E cada resposta escancara uma violência institucional que a Coreia inteira preferiria não ver.",
+    "porque_assistir": "Retratou SEM FILTROS os abusos dentro do exército sul-coreano — gerou debate público nacional e foi mencionada NO PARLAMENTO. O Ministério da Defesa foi obrigado a responder publicamente. Jung Hae-in mudou completamente o registro de galã romântico e foi indicado ao Baeksang. Baseada em webtoon autobiográfico de um ex-oficial de perseguição de desertores.",
+    "curiosidades": [
+      "Baseada no webtoon autobiográfico 'D.P Dog's Day' de Kim Bo-tong, ex-oficial de perseguição de desertores.",
+      "O Ministério da Defesa da Coreia do Sul foi obrigado a responder publicamente às denúncias retratadas na série.",
+      "Jung Hae-in foi indicado ao Baeksang pela mudança de registro.",
+      "As cenas de treinamento militar foram filmadas com consultoria de ex-oficiais para máxima autenticidade."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Bullying militar, suicídio, agressões físicas e psicológicas. Pode ser gatilho pra quem serviu."
+    },
+    "recomendacoes": [
+      "juvenile-justice",
+      "my-mister",
+      "signal"
+    ]
+  },
+  {
+    "id": "doom-at-your-service",
+    "titulo": "Doom at Your Service",
+    "titulo_original": "어느 날 우리 집 현관으로 멸망이 들어왔다",
+    "titulo_br": "Desgraça ao Seu Dispor",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "final": "Agridoce",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Doença",
+      "Destino"
+    ],
+    "temas": [
+      "Morte",
+      "Destino",
+      "Amor",
+      "Solidão"
+    ],
+    "profissoes": [
+      "Editora",
+      "Mensageiro da Destruição"
+    ],
+    "elenco": [
+      "Park Bo-young",
+      "Seo In-guk",
+      "Lee Soo-hyuk",
+      "Kang Tae-oh"
+    ],
+    "diretor": "Kwon Young-il",
+    "roteirista": "Im Me-ari",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.1,
+      "mdl": 8.2,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/pnO3KILdMILZFl0Zq6MxX6CyRjM.jpg",
+    "trailer": "",
+    "sinopse": "Tak Dong-kyung, editora de webtoons, recebe um diagnóstico devastador — tempo curto, sem cura. Numa noite qualquer, faz um desejo impulsivo, quase raivoso: 'Que tudo se acabe.' E do outro lado da porta aparece Myul Mang — Destruição em pessoa, o mensageiro da destruição. Ele oferece cem dias sem sofrimento em troca de um destino que ela ainda não compreende. Fantasia melancólica sobre a morte, o amor e o que a gente escolhe fazer com o pouco que sobra.",
+    "porque_assistir": "Química elétrica entre Park Bo-young (Strong Woman!) e Seo In-guk. Fotografia poética, trilha de OST inesquecível ('Lonely' do Ha Sung-woon, um dos OSTs mais tocados de 2021 no Melon). Reunião de Park Bo-young com fantasia romântica depois de Strong Woman e Abyss. Delicado, existencial, chorável.",
+    "curiosidades": [
+      "Roteirista Im Me-ari (Shopping King Louie) escreveu Seo In-guk pensando especificamente no ator.",
+      "Reunião de Park Bo-young com o gênero fantasia romântica após Strong Woman Do Bong-soon e Abyss.",
+      "Trilha 'Lonely' de Ha Sung-woon foi um dos OSTs mais tocados de 2021 no Melon.",
+      "A produção usou drones e locações em Namhae para as sequências oníricas."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "goblin",
+      "see-you-in-my-19th-life",
+      "my-love-from-the-star"
+    ]
+  },
+  {
+    "id": "love-in-the-moonlight",
+    "titulo": "Love in the Moonlight",
+    "titulo_original": "구르미 그린 달빛",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Históricos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Realeza",
+      "Identidade Secreta",
+      "Sageuk",
+      "Colegial"
+    ],
+    "temas": [
+      "Amor",
+      "Deveres",
+      "Classe",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Eunuco",
+      "Estudante"
+    ],
+    "elenco": [
+      "Park Bo-gum",
+      "Kim Yoo-jung",
+      "Jung Jin-young",
+      "Chae Soo-bin",
+      "Kwak Dong-yeon"
+    ],
+    "diretor": "Kim Sung-yoon",
+    "roteirista": "Yoon Yi-soo",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.4,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 7,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/137UF33ilpoznUzDVKcJ3mcdRbN.jpg",
+    "trailer": "",
+    "sinopse": "Hong Ra-on é uma jovem que se disfarça de eunuco pra sobreviver depois que o pai é executado — e acaba servindo diretamente ao príncipe herdeiro Lee Yeong. O que começa com brigas divertidas evolui, delicadamente, pra um romance impossível dentro do palácio. Porque príncipes se casam com quem o pai manda. E eunucos não são mulheres — pelo menos não em teoria.",
+    "porque_assistir": "Sucesso ESTRONDOSO da KBS em 2016 (picos acima de 23%). Consagrou Park Bo-gum e Kim Yoo-jung como estrelas da nova geração. Park Bo-gum levou o DAESANG do KBS Drama Awards com apenas 23 anos. A OST 'My Person' de Gummy é um dos hinos de karaokê coreano. Sageuk romântico fofíssimo — ponto de entrada perfeito no gênero histórico.",
+    "curiosidades": [
+      "Baseada no romance web homônimo de Yoon Yi-soo, ambientado no reinado do rei Sunjo (dinastia Joseon).",
+      "Park Bo-gum ganhou o Daesang (Grande Prêmio) do KBS Drama Awards de 2016 aos 23 anos.",
+      "Kim Yoo-jung tinha apenas 17 anos durante as filmagens e conciliou a produção com o ensino médio.",
+      "A OST 'My Person' de Gummy tornou-se uma das faixas mais tocadas do ano em karaokês na Coreia."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "moon-lovers-scarlet-heart-ryeo",
+      "alchemy-of-souls",
+      "princess-hours"
+    ]
+  },
+  {
+    "id": "hellbound",
+    "titulo": "Hellbound",
+    "titulo_original": "지옥",
+    "titulo_br": "Profecia do Inferno",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Sobrenatural",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Distopia",
+      "Religião",
+      "Mistério"
+    ],
+    "temas": [
+      "Fé",
+      "Morte",
+      "Justiça",
+      "Culto"
+    ],
+    "profissoes": [
+      "Detetive",
+      "Advogada",
+      "Pastor"
+    ],
+    "elenco": [
+      "Kim Hyun-joo",
+      "Kim Shin-rock",
+      "Yang Ik-june",
+      "Yoo Ah-in"
+    ],
+    "diretor": "Yeon Sang-ho",
+    "roteirista": "Choi Gyu-seok",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.3,
+      "mdl": 7.4,
+      "imdb": 6.6
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 3,
+      "emocao": 6,
+      "humor": 0,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/wmb0qvVKIU4dFtPRopbx594Zzck.jpg",
+    "trailer": "https://www.youtube.com/watch?v=79WjcOFj3IY",
+    "sinopse": "Em Seul, entidades sobrenaturais aparecem diante de pessoas comuns e anunciam o dia e a hora exatos em que serão condenadas. No horário marcado, monstros aparecem e as arrastam pro inferno em público. Um culto religioso surge pra explicar as execuções como julgamento divino — e a sociedade se divide entre fé cega e razão. Todos querem entender por quê. E o culto tem respostas convenientes demais.",
+    "porque_assistir": "Estreou como a série mais assistida da Netflix globalmente na semana de lançamento — superou brevemente Round 6. Dirigida por Yeon Sang-ho (Invasão Zumbi/Train to Busan). Metáfora religiosa densa, tom filosófico, VFX dos 'anjos' criados pela equipe de Peninsula. Segunda temporada em 2024. Não é pra todo mundo, mas é obra autoral.",
+    "curiosidades": [
+      "Dirigida por Yeon Sang-ho, o mesmo de Invasão Zumbi (Train to Busan).",
+      "Baseada no webtoon Hell do próprio Yeon Sang-ho com Choi Gyu-seok.",
+      "Os efeitos visuais dos 'anjos' foram criados pela mesma equipe de Peninsula.",
+      "A segunda temporada estreou em 2024, três anos após a original."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica extrema, fanatismo religioso, cenas de linchamento e crianças em perigo."
+    },
+    "recomendacoes": [
+      "sweet-home",
+      "kingdom",
+      "squid-game"
+    ]
+  },
+  {
+    "id": "juvenile-justice",
+    "titulo": "Juvenile Justice",
+    "titulo_original": "소년심판",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Advogados",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Workplace",
+      "Anti-Herói",
+      "Ética"
+    ],
+    "temas": [
+      "Justiça",
+      "Infância",
+      "Sistema",
+      "Ética"
+    ],
+    "profissoes": [
+      "Juíza"
+    ],
+    "elenco": [
+      "Kim Hye-soo",
+      "Kim Moo-yul",
+      "Lee Sung-min",
+      "Lee Jung-eun",
+      "Lee Sang-hee"
+    ],
+    "diretor": "Hong Jong-chan",
+    "roteirista": "Kim Min-suk",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.2,
+      "mdl": 8.6,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=CDinSVeaEUo",
+    "sinopse": "Sim Eun-seok é juíza dura, ríspida, e abertamente detesta menores infratores. É transferida contra a vontade pra vara da infância e juventude. A cada caso ela precisa decidir entre punir com dureza ou entender as feridas por trás dos crimes. E cada decisão dela é errada de algum jeito. Talvez seja essa a lição — e talvez ela precise dela também.",
+    "porque_assistir": "Entrou no Top 10 GLOBAL da Netflix. Kim Hye-soo indicada ao Baeksang de Melhor Atriz. Reacendeu o debate público sul-coreano sobre a idade de imputabilidade penal — provocou discussão PARLAMENTAR em 2022. Cada episódio inspirado em casos reais julgados em tribunais de menores. Denso, ético, provocativo. Impossível não pensar.",
+    "curiosidades": [
+      "Cada episódio é inspirado em casos reais julgados em tribunais de menores na Coreia.",
+      "A roteirista Kim Min-seok trabalhou por cinco anos pesquisando processos reais antes de escrever.",
+      "Kim Hye-soo estudou postura e trejeitos com juízas reais para compor a personagem.",
+      "A série provocou discussão parlamentar sobre a reforma da Lei do Menor sul-coreana em 2022."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Crimes contra crianças, abuso doméstico, homicídio e violência sexual mencionada."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "gyeongseong-creature",
+    "titulo": "Gyeongseong Creature",
+    "titulo_original": "경성크리처",
+    "titulo_br": "O Monstro de Gyeongseong",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 10,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Históricos",
+      "Sobrenatural",
+      "Investigação",
+      "Ação"
+    ],
+    "tropos": [
+      "Época",
+      "Sobrevivência",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Colonialismo",
+      "Ganância",
+      "Verdade",
+      "Sobrevivência"
+    ],
+    "profissoes": [
+      "Comerciante",
+      "Detetive"
+    ],
+    "elenco": [
+      "Park Seo-joon",
+      "Han So-hee",
+      "Kim Hae-sook",
+      "Claudia Kim"
+    ],
+    "diretor": "Chung Dong-yoon",
+    "roteirista": "Kang Eun-kyung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.2,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/tbHf9E7VkI0uFOfwEtcPWNoMjN8.jpg",
+    "trailer": "https://www.youtube.com/watch?v=OAHZinOTfBY",
+    "sinopse": "1945, Gyeongseong (antigo nome de Seul sob domínio japonês). Jang Tae-sang é um caçador de tesouros bem-sucedido — sabe onde encontrar qualquer coisa por dinheiro. Yoon Chae-ok é detetive de pessoas desaparecidas, e chegou pra caçar o rastro da mãe. Juntos, investigam sumiços misteriosos ligados a um hospital japonês. O que encontram é uma criatura que expõe as atrocidades reais do colonialismo — inspirada nos horrores da Unidade 731.",
+    "porque_assistir": "Top 10 global da Netflix. Uma das produções coreanas mais caras já feitas para a plataforma. Cidade de Gyeongseong recriada em um dos maiores sets já construídos na Coreia. Park Seo-joon (Itaewon Class) reunido com a roteirista Kang Eun-kyung. Han So-hee mudando de registro drasticamente depois de My Name. Reconstituição histórica pesada, monstro sombrio.",
+    "curiosidades": [
+      "Ambientada em 1945, durante a ocupação japonesa; a criatura é inspirada nos horrores da Unidade 731.",
+      "Reunião de Park Seo-joon com a roteirista Kang Eun-kyung depois de Itaewon Class.",
+      "A cidade de Gyeongseong (antigo nome de Seul sob domínio japonês) foi recriada em um dos maiores sets já construídos na Coreia.",
+      "Han So-hee filmou Gyeongseong logo após My Name e mudou drasticamente o registro para uma heroína dos anos 40."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência de guerra, experimentos humanos, tortura e criaturas grotescas."
+    },
+    "recomendacoes": [
+      "mr-sunshine",
+      "kingdom",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "a-killer-paradox",
+    "titulo": "A Killer Paradox",
+    "titulo_original": "살인자ㅇ난감",
+    "titulo_br": "O Paradoxo do Assassino",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Serial Killer",
+      "Justiceiro"
+    ],
+    "temas": [
+      "Moral",
+      "Justiça",
+      "Culpa",
+      "Destino"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Detetive"
+    ],
+    "elenco": [
+      "Choi Woo-shik",
+      "Son Suk-ku",
+      "Lee Hee-jun",
+      "Kwon Da-ham"
+    ],
+    "diretor": "Lee Chang-hee",
+    "roteirista": "Kim Da-min",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.2,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/dNZyFS8iviJQiBTieLe76iatcxn.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6RvG0GAgR3g",
+    "sinopse": "Lee Tang é estudante universitário comum. Numa noite qualquer, mata acidentalmente um estranho num beco. Descobre depois que a vítima era um serial killer procurado pela polícia. E que nas mãos dele existe um dom estranho: só ele sabe reconhecer quem realmente 'merece'. A partir daí, ele passa a executar apenas pessoas 'realmente más' — enquanto um detetive obcecado, Jang Nan-gam, tenta detê-lo.",
+    "porque_assistir": "Estreou como #1 global na Netflix em fevereiro/2024 e permaneceu semanas no Top 10 em mais de 40 países. Direção estilizada de Lee Chang-hee, com trilha misturando indie rock coreano e faixas ocidentais dos anos 80 (toque Tarantino). Duelo Choi Woo-shik (Parasita) vs Son Suk-ku. Sombrio, moral, irônico. Só 8 episódios.",
+    "curiosidades": [
+      "Baseada no webtoon 'Salinjaonantomu' de Kkomabi, publicado no Naver.",
+      "Choi Woo-shik reencontrou a plataforma Netflix após Our Beloved Summer num registro oposto.",
+      "Son Suk-ku ganhou fama internacional após o papel e emplacou vários outros projetos no mesmo ano.",
+      "A trilha combina indie rock coreano e faixas ocidentais dos anos 80, num toque Tarantino."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Assassinatos, dilemas morais sobre justiça pelas próprias mãos e violência gráfica."
+    },
+    "recomendacoes": [
+      "vigilante",
+      "mouse",
+      "beyond-evil"
+    ]
+  },
+  {
+    "id": "chicken-nugget",
+    "titulo": "Chicken Nugget",
+    "titulo_original": "닭강정",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "40 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Comédia",
+      "Fantasia"
+    ],
+    "tropos": [
+      "Absurdo",
+      "Amizade",
+      "Comida"
+    ],
+    "temas": [
+      "Absurdo",
+      "Família",
+      "Amor",
+      "Ciência Maluca"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Funcionário"
+    ],
+    "elenco": [
+      "Ahn Jae-hong",
+      "Ryu Seung-ryong",
+      "Kim Yoo-jung",
+      "Hwang Dong-hee"
+    ],
+    "diretor": "Lee Byeong-heon",
+    "roteirista": "Lee Byeong-heon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.2,
+      "mdl": 7.5,
+      "imdb": 6.8
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 4,
+      "emocao": 5,
+      "humor": 9,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/9hefpkltcFLcZSKXr65l0mPMRKn.jpg",
+    "trailer": "https://www.youtube.com/watch?v=e9Y7F3SGUks",
+    "sinopse": "Uma jovem chamada Choi Min-ah entra numa máquina misteriosa no escritório do pai e, ao sair, virou LITERALMENTE um nugget de frango. Não é metáfora, não é fase — é um nugget de verdade. Pai e funcionário apaixonado partem numa jornada bizarra pra tentar revertê-la, atravessando teorias absurdas, cientistas malucos e uma sequência de coisas que não fazem sentido nenhum. É pra ser assim mesmo.",
+    "porque_assistir": "Dirigida por Lee Byeong-heon (Extreme Job — uma das maiores bilheterias coreanas). Considerada o experimento mais 'esquisito' da Netflix Coreia — e assumido como tal na coletiva. Base fiel de fãs do humor surreal coreano. Se você gostou de W: Two Worlds ou Extraordinary You (meta), vai amar. Se busca lógica narrativa, PULE.",
+    "curiosidades": [
+      "Baseada no webtoon homônimo de Park Ji-dok, famoso por comédias de humor absurdo.",
+      "Dirigida por Lee Byeong-heon, o mesmo de Extreme Job, uma das maiores bilheterias coreanas.",
+      "A equipe de efeitos criou um nugget gigante hiper-realista de silicone para as cenas em set.",
+      "É considerado o experimento mais 'esquisito' da Netflix Coreia até agora."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Humor absurdo pode incomodar quem busca lógica narrativa; contém algumas cenas de violência cômica."
+    },
+    "recomendacoes": [
+      "extraordinary-you",
+      "w-two-worlds",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "parasyte-the-grey",
+    "titulo": "Parasyte: The Grey",
+    "titulo_original": "기생수: 더 그레이",
+    "titulo_br": "Parasyte: Cinza",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Body Horror",
+      "Anti-Herói",
+      "Sobrevivência"
+    ],
+    "temas": [
+      "Identidade",
+      "Sobrevivência",
+      "Corpo",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Funcionária",
+      "Detetive"
+    ],
+    "elenco": [
+      "Jeon So-nee",
+      "Koo Kyo-hwan",
+      "Lee Jung-hyun",
+      "Kwon Hae-hyo"
+    ],
+    "diretor": "Yeon Sang-ho",
+    "roteirista": "Yeon Sang-ho",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 8,
+      "imdb": 7.1
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 4,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=j8paerXpzok",
+    "sinopse": "Jeong Su-in é jovem funcionária de mercado, comum, quieta, que quer apenas passar o dia. Uma noite, é infectada por um parasita alienígena que TENTA tomar o controle do cérebro dela — mas falha. As duas consciências passam a coexistir dentro do mesmo corpo, revezando controle. Enquanto isso, uma força-tarefa da polícia caça criaturas iguais pelo país. E Su-in vira o único caso do gênero.",
+    "porque_assistir": "Estreou como #1 global da Netflix em abril/2024. Dirigida por Yeon Sang-ho (Invasão Zumbi, Hellbound). Continuação-derivada do mangá japonês 'Kiseijuu' de Hitoshi Iwaaki, ambientada em paralelo aos eventos originais. Jeon So-nee estudou linguagem gestual e alterou a voz pra diferenciar hospedeira humana e parasita. VFX impressionantes.",
+    "curiosidades": [
+      "Dirigida por Yeon Sang-ho (Invasão Zumbi, Hellbound), especialista em terror sobrenatural coreano.",
+      "É uma continuação-derivada do mangá japonês 'Kiseijuu' de Hitoshi Iwaaki, ambientada em paralelo aos eventos originais.",
+      "Jeon So-nee estudou linguagem gestual e alterou a voz para diferenciar a hospedeira humana e o parasita.",
+      "A cena final abre porta para crossover com o universo japonês."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Body horror, decapitações, mutilações e criaturas com dentes. Imagens perturbadoras."
+    },
+    "recomendacoes": [
+      "sweet-home",
+      "all-of-us-are-dead",
+      "hellbound"
     ]
   }
 ]

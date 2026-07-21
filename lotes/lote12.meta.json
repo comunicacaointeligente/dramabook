@@ -1,0 +1,279 @@
+{
+  "squid-game": {
+    "titulo_original": "오징어 게임",
+    "titulo_br": "Round 6",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 9,
+    "temporadas": 3,
+    "duracao": "55 min",
+    "elenco": [
+      "Lee Jung-jae",
+      "Wi Ha-jun",
+      "Lee Byung-hun",
+      "Yim Si-wan",
+      "Jo Yuri"
+    ],
+    "diretor": "Hwang Dong-hyuk",
+    "roteirista": "Hwang Dong-hyuk",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/6gcHdboppvplmBWxvROc96NJnmm.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=jHAGoD3OePI"
+  },
+  "kingdom": {
+    "titulo_original": "킹덤",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "55 min",
+    "elenco": [
+      "Ju Ji-hoon",
+      "Ryu Seung-ryong",
+      "Bae Doona",
+      "Kim Sang-ho",
+      "Kim Sung-kyu"
+    ],
+    "diretor": "Kim Seong-hun",
+    "roteirista": "Kim Eun-hee",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "d-p": {
+    "titulo_original": "D.P 개의 날",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "45 min",
+    "elenco": [
+      "Jung Hae-in",
+      "Koo Kyo-hwan",
+      "Kim Sung-kyun",
+      "Son Suk-ku",
+      "Park Se-jun"
+    ],
+    "diretor": "Han Jun-hee",
+    "roteirista": "Kim Bo-tong",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/akvPsqe1u1NpIQ8Ln2Vt06uhOv9.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=VTesFEfIwl0"
+  },
+  "doom-at-your-service": {
+    "titulo_original": "어느 날 우리 집 현관으로 멸망이 들어왔다",
+    "titulo_br": "Desgraça ao Seu Dispor",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Park Bo-young",
+      "Seo In-guk",
+      "Lee Soo-hyuk",
+      "Kang Tae-oh"
+    ],
+    "diretor": "Kwon Young-il",
+    "roteirista": "Im Me-ari",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/pnO3KILdMILZFl0Zq6MxX6CyRjM.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "love-in-the-moonlight": {
+    "titulo_original": "구르미 그린 달빛",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Bo-gum",
+      "Kim Yoo-jung",
+      "Jung Jin-young",
+      "Chae Soo-bin",
+      "Kwak Dong-yeon"
+    ],
+    "diretor": "Kim Sung-yoon",
+    "roteirista": "Yoon Yi-soo",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/137UF33ilpoznUzDVKcJ3mcdRbN.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "hellbound": {
+    "titulo_original": "지옥",
+    "titulo_br": "Profecia do Inferno",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 6,
+    "temporadas": 2,
+    "duracao": "55 min",
+    "elenco": [
+      "Kim Hyun-joo",
+      "Kim Shin-rock",
+      "Yang Ik-june",
+      "Yoo Ah-in"
+    ],
+    "diretor": "Yeon Sang-ho",
+    "roteirista": "Choi Gyu-seok",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/wmb0qvVKIU4dFtPRopbx594Zzck.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=79WjcOFj3IY"
+  },
+  "juvenile-justice": {
+    "titulo_original": "소년심판",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Hye-soo",
+      "Kim Moo-yul",
+      "Lee Sung-min",
+      "Lee Jung-eun",
+      "Lee Sang-hee"
+    ],
+    "diretor": "Hong Jong-chan",
+    "roteirista": "Kim Min-suk",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/xH2wTVlsUlYeFEOVGFDaamHkMCm.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=CDinSVeaEUo"
+  },
+  "gyeongseong-creature": {
+    "titulo_original": "경성크리처",
+    "titulo_br": "O Monstro de Gyeongseong",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 10,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Seo-joon",
+      "Han So-hee",
+      "Kim Hae-sook",
+      "Claudia Kim"
+    ],
+    "diretor": "Chung Dong-yoon",
+    "roteirista": "Kang Eun-kyung",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/tbHf9E7VkI0uFOfwEtcPWNoMjN8.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=OAHZinOTfBY"
+  },
+  "a-killer-paradox": {
+    "titulo_original": "살인자ㅇ난감",
+    "titulo_br": "O Paradoxo do Assassino",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "elenco": [
+      "Choi Woo-shik",
+      "Son Suk-ku",
+      "Lee Hee-jun",
+      "Kwon Da-ham"
+    ],
+    "diretor": "Lee Chang-hee",
+    "roteirista": "Kim Da-min",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/dNZyFS8iviJQiBTieLe76iatcxn.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=6RvG0GAgR3g"
+  },
+  "chicken-nugget": {
+    "titulo_original": "닭강정",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "40 min",
+    "elenco": [
+      "Ahn Jae-hong",
+      "Ryu Seung-ryong",
+      "Kim Yoo-jung",
+      "Hwang Dong-hee"
+    ],
+    "diretor": "Lee Byeong-heon",
+    "roteirista": "Lee Byeong-heon",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/9hefpkltcFLcZSKXr65l0mPMRKn.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=e9Y7F3SGUks"
+  },
+  "parasyte-the-grey": {
+    "titulo_original": "기생수: 더 그레이",
+    "titulo_br": "Parasyte: Cinza",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "elenco": [
+      "Jeon So-nee",
+      "Koo Kyo-hwan",
+      "Lee Jung-hyun",
+      "Kwon Hae-hyo"
+    ],
+    "diretor": "Yeon Sang-ho",
+    "roteirista": "Yeon Sang-ho",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/uaYlFpBYbzi3trD32w2LHimiMzJ.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=j8paerXpzok"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "connect": {
+    "titulo_original": "커넥트",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Jung Hae-in",
+      "Go Kyung-pyo",
+      "Kim Hye-jun",
+      "Yang Dong-geun"
+    ],
+    "diretor": "Takashi Miike",
+    "roteirista": "Takashi Miike",
+    "plataformas": [],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/bVgwlYamm5gplckeMWKNFBVyNXi.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=rCVoCy93X5w"
+  },
+  "innocent-defendant": {
+    "titulo_original": "피고인",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Sung",
+      "Uhm Ki-joon",
+      "Kwon Yuri",
+      "Oh Chang-seok"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/qoFTJi6b5Q5eNOArLOTe1Hi1fui.jpg",
+    "banner": "/3spBT6tCcEJCBMDFEsFp83ueArg.jpg",
+    "trailer": null
+  },
+  "familiar-wife": {
+    "titulo_original": "아는 와이프",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Sung",
+      "Han Ji-min",
+      "Kang Han-na",
+      "Jang Seung-jo",
+      "Cha Hak-yeon"
+    ],
+    "diretor": "",
+    "roteirista": "Yang Hui-seung",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/ds84fVavAJX872qh4kUHAfqjp3b.jpg",
+    "banner": "/pnKlgwSHfBcsz7zt4acZPwdvDlQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=9NC4F2cR64w"
+  },
+  "if-you-wish-upon-me": {
+    "titulo_original": "당신이 소원을 말하면",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Choi Su-young",
+      "Sung Dong-il",
+      "Won Ji-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/oqQ90A1WZxyy7nQDtGXQSA1xlaa.jpg",
+    "banner": "/bjZZf3pSJtqPHTUsnRwg7UeIcTK.jpg",
+    "trailer": null
+  },
+  "empress-ki": {
+    "titulo_original": "기황후",
+    "titulo_br": "Imperatriz Ki",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 51,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ha Ji-won",
+      "Ju Jin-mo",
+      "Ji Chang-wook",
+      "Jin Yi-han",
+      "Baek Jin-hee"
+    ],
+    "diretor": "",
+    "roteirista": "Han Hee",
+    "plataformas": [
+      "MBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/cH9PMmBkhtVMlCdi8fgvMqekNKi.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=JHPY5KS07YA"
+  },
+  "vigilante": {
+    "titulo_original": "비질란테",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Nam Joo-hyuk",
+      "Yoo Ji-tae",
+      "Kim So-jin",
+      "Lee Jun-hyuk",
+      "Kwon Hae-hyo"
+    ],
+    "diretor": "",
+    "roteirista": "Moon Yoo-seok",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/lauvBkCZhcZHj5uUwUxwr5GTPps.jpg",
+    "banner": "/daGuh4UzHFF8sSHrYHMw0mb2qBt.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8QErHoBAACs"
+  },
+  "uncle-samsik": {
+    "titulo_original": "삼식이 삼촌",
+    "titulo_br": "Tio Samsik",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Song Kang-ho",
+      "Byun Yo-han",
+      "Lee Kyoo-hyung",
+      "Seo Hyun-woo",
+      "Jin Ki-joo"
+    ],
+    "diretor": "Shin Yeon-shick",
+    "roteirista": "Shin Yeon-shick",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/60iLAUnwnejECmOwDcuimUnMAO6.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=6saADmo_lhA"
+  },
+  "big-bet": {
+    "titulo_original": "카지노",
+    "titulo_br": "A Próxima Aposta",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "elenco": [
+      "Choi Min-sik",
+      "Son Suk-ku",
+      "Lee Dong-hwi",
+      "Heo Sung-tae",
+      "Lee Hye-young"
+    ],
+    "diretor": "Kang Yun-sung",
+    "roteirista": "Kang Yun-sung",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/9GEGH8kT7XK8iUXl76cWsCt8e46.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=-74Kgca_RjQ"
+  },
+  "grid": {
+    "titulo_original": "그리드",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Seo Kang-joon",
+      "Kim A-joong",
+      "Lee Si-young",
+      "Kim Moo-yul",
+      "Jang So-yeon"
+    ],
+    "diretor": "",
+    "roteirista": "Lee Su-yeon",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/rlC29GLbjwkwezeNGqyLrnuQUpb.jpg",
+    "banner": "/w3jA7mvNW2TjrnNCe2MmTzV7rtY.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Ehquzb78kcI"
+  },
+  "doctor-john": {
+    "titulo_original": "의사요한",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 32,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Ji Sung",
+      "Lee Se-young",
+      "Lee Kyu-hyung",
+      "Hwang Hee",
+      "Shin Dong-mi"
+    ],
+    "diretor": "Jo Soo-won",
+    "roteirista": "Kim Ji-woon",
+    "plataformas": [
+      "SBS",
+      "Netflix",
+      "Viki",
+      "Kocowa"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/2EtZ91FzsFRe3FFtAr29ESgW9QK.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}

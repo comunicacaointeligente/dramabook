@@ -1,0 +1,714 @@
+[
+  {
+    "titulo": "Squid Game",
+    "ano": 2021,
+    "titulo_br": "Round 6",
+    "sinopse": "Centenas de pessoas endividadas, desesperadas e sem saída aceitam entrar num torneio secreto de jogos infantis com prêmio milionário. Sem noção do que vem pela frente, tudo parece bom demais — descontraído, colorido, absurdo. Só descobrem tarde demais que perder significa morrer. E que quem controla o jogo não brinca.",
+    "porque_assistir": "A série mais assistida da história da Netflix na estreia. Lee Jung-jae virou o PRIMEIRO ator asiático a vencer o Emmy de Melhor Ator em Série Dramática. Crítica social feroz sobre desigualdade, embalada em visual pop icônico. Fenômeno global que redefiniu o que K-drama pode alcançar. Aviso: pesado e brutal.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Distopia",
+      "Sobrevivência",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Desigualdade",
+      "Ganância",
+      "Sobrevivência",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Endividado",
+      "Guarda",
+      "Recrutador"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.4,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 5,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica extrema, execuções em massa, temas de suicídio e exploração humana. Classificação 18+."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Hwang Dong-hyuk escreveu o roteiro em 2009 e passou mais de 10 anos tentando produzir; foi rejeitado várias vezes por ser 'estranho demais'.",
+      "Os uniformes verdes dos jogadores e os macacões cor-de-rosa dos guardas viraram fantasias mundiais de Halloween em 2021.",
+      "Lee Jung-jae foi o primeiro ator asiático a vencer o Emmy de Melhor Ator em Série Dramática.",
+      "O jogo Ppopgi (biscoito dalgona) causou uma corrida à guloseima em Seul após a estreia."
+    ],
+    "recomendacoes": [
+      "Sweet Home",
+      "All of Us Are Dead",
+      "Hellbound"
+    ]
+  },
+  {
+    "titulo": "Kingdom",
+    "ano": 2019,
+    "sinopse": "Séc. XVI, dinastia Joseon. O rei está morto — ou algo que já foi rei. Uma peste misteriosa começa a transformar os súditos famintos do reino em criaturas sedentas de carne. Enquanto uma facção política tenta usurpar o trono aproveitando o vácuo, o príncipe herdeiro Lee Chang parte em busca da verdade. Zumbis coreanos, hanboks e política de corte no mesmo pacote — pela primeira vez na história.",
+    "porque_assistir": "Primeiro sageuk original da Netflix. Escrito por Kim Eun-hee (Signal!) — uma das maiores roteiristas da Coreia. Uma das produções mais caras da TV coreana (~US$ 1,7 milhão por episódio). Os figurinos e chapéus tradicionais (gat) viraram tendência de busca na Amazon após a estreia. Elegante, épico, aterrorizante.",
+    "categorias": [
+      "Históricos",
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Zumbis",
+      "Realeza",
+      "Sageuk",
+      "Sobrevivência"
+    ],
+    "temas": [
+      "Poder",
+      "Fome",
+      "Sobrevivência",
+      "Corrupção"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Médica",
+      "Guarda"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.7,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Zumbis, mutilações, violência gráfica e cenas perturbadoras de fome coletiva."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseado no webcomic 'The Kingdom of the Gods' de Kim Eun-hee, que também assina o roteiro.",
+      "Os figurinos e chapéus tradicionais (gat) viraram tendência de busca na Amazon após a estreia.",
+      "Uma das produções mais caras da história da TV coreana, com cerca de US$ 1,7 milhão por episódio.",
+      "Bae Doona e Ju Ji-hoon fizeram o próprio treinamento com armas medievais para as cenas de ação."
+    ],
+    "recomendacoes": [
+      "All of Us Are Dead",
+      "Sweet Home",
+      "Signal"
+    ]
+  },
+  {
+    "titulo": "D.P.",
+    "ano": 2021,
+    "sinopse": "An Jun-ho é recruta introvertido, com trauma de infância e olho pra detalhe. Contra a vontade, é recrutado para a unidade D.P. (Deserter Pursuit) — o esquadrão do exército que caça soldados desertores. Cada perseguição descobre POR QUE aqueles homens fugiram. E cada resposta escancara uma violência institucional que a Coreia inteira preferiria não ver.",
+    "porque_assistir": "Retratou SEM FILTROS os abusos dentro do exército sul-coreano — gerou debate público nacional e foi mencionada NO PARLAMENTO. O Ministério da Defesa foi obrigado a responder publicamente. Jung Hae-in mudou completamente o registro de galã romântico e foi indicado ao Baeksang. Baseada em webtoon autobiográfico de um ex-oficial de perseguição de desertores.",
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Militar",
+      "Underdog",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Bullying",
+      "Sistema",
+      "Trauma",
+      "Deserção"
+    ],
+    "profissoes": [
+      "Soldado",
+      "Perseguidor"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.8,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 8
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Bullying militar, suicídio, agressões físicas e psicológicas. Pode ser gatilho pra quem serviu."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseada no webtoon autobiográfico 'D.P Dog's Day' de Kim Bo-tong, ex-oficial de perseguição de desertores.",
+      "O Ministério da Defesa da Coreia do Sul foi obrigado a responder publicamente às denúncias retratadas na série.",
+      "Jung Hae-in foi indicado ao Baeksang pela mudança de registro.",
+      "As cenas de treinamento militar foram filmadas com consultoria de ex-oficiais para máxima autenticidade."
+    ],
+    "recomendacoes": [
+      "Juvenile Justice",
+      "My Mister",
+      "Signal"
+    ]
+  },
+  {
+    "titulo": "Doom at Your Service",
+    "ano": 2021,
+    "titulo_br": "Desgraça ao Seu Dispor",
+    "sinopse": "Tak Dong-kyung, editora de webtoons, recebe um diagnóstico devastador — tempo curto, sem cura. Numa noite qualquer, faz um desejo impulsivo, quase raivoso: 'Que tudo se acabe.' E do outro lado da porta aparece Myul Mang — Destruição em pessoa, o mensageiro da destruição. Ele oferece cem dias sem sofrimento em troca de um destino que ela ainda não compreende. Fantasia melancólica sobre a morte, o amor e o que a gente escolhe fazer com o pouco que sobra.",
+    "porque_assistir": "Química elétrica entre Park Bo-young (Strong Woman!) e Seo In-guk. Fotografia poética, trilha de OST inesquecível ('Lonely' do Ha Sung-woon, um dos OSTs mais tocados de 2021 no Melon). Reunião de Park Bo-young com fantasia romântica depois de Strong Woman e Abyss. Delicado, existencial, chorável.",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Doença",
+      "Destino"
+    ],
+    "temas": [
+      "Morte",
+      "Destino",
+      "Amor",
+      "Solidão"
+    ],
+    "profissoes": [
+      "Editora",
+      "Mensageiro da Destruição"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.1,
+      "mdl": 8.2,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Roteirista Im Me-ari (Shopping King Louie) escreveu Seo In-guk pensando especificamente no ator.",
+      "Reunião de Park Bo-young com o gênero fantasia romântica após Strong Woman Do Bong-soon e Abyss.",
+      "Trilha 'Lonely' de Ha Sung-woon foi um dos OSTs mais tocados de 2021 no Melon.",
+      "A produção usou drones e locações em Namhae para as sequências oníricas."
+    ],
+    "recomendacoes": [
+      "Goblin",
+      "See You in My 19th Life",
+      "My Love from the Star"
+    ]
+  },
+  {
+    "titulo": "Love in the Moonlight",
+    "ano": 2016,
+    "sinopse": "Hong Ra-on é uma jovem que se disfarça de eunuco pra sobreviver depois que o pai é executado — e acaba servindo diretamente ao príncipe herdeiro Lee Yeong. O que começa com brigas divertidas evolui, delicadamente, pra um romance impossível dentro do palácio. Porque príncipes se casam com quem o pai manda. E eunucos não são mulheres — pelo menos não em teoria.",
+    "porque_assistir": "Sucesso ESTRONDOSO da KBS em 2016 (picos acima de 23%). Consagrou Park Bo-gum e Kim Yoo-jung como estrelas da nova geração. Park Bo-gum levou o DAESANG do KBS Drama Awards com apenas 23 anos. A OST 'My Person' de Gummy é um dos hinos de karaokê coreano. Sageuk romântico fofíssimo — ponto de entrada perfeito no gênero histórico.",
+    "categorias": [
+      "Romance",
+      "Históricos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Realeza",
+      "Identidade Secreta",
+      "Sageuk",
+      "Colegial"
+    ],
+    "temas": [
+      "Amor",
+      "Deveres",
+      "Classe",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Eunuco",
+      "Estudante"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.4,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 7,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseada no romance web homônimo de Yoon Yi-soo, ambientado no reinado do rei Sunjo (dinastia Joseon).",
+      "Park Bo-gum ganhou o Daesang (Grande Prêmio) do KBS Drama Awards de 2016 aos 23 anos.",
+      "Kim Yoo-jung tinha apenas 17 anos durante as filmagens e conciliou a produção com o ensino médio.",
+      "A OST 'My Person' de Gummy tornou-se uma das faixas mais tocadas do ano em karaokês na Coreia."
+    ],
+    "recomendacoes": [
+      "Moon Lovers: Scarlet Heart Ryeo",
+      "Alchemy of Souls",
+      "Princess Hours"
+    ]
+  },
+  {
+    "titulo": "Hellbound",
+    "ano": 2021,
+    "titulo_br": "Profecia do Inferno",
+    "sinopse": "Em Seul, entidades sobrenaturais aparecem diante de pessoas comuns e anunciam o dia e a hora exatos em que serão condenadas. No horário marcado, monstros aparecem e as arrastam pro inferno em público. Um culto religioso surge pra explicar as execuções como julgamento divino — e a sociedade se divide entre fé cega e razão. Todos querem entender por quê. E o culto tem respostas convenientes demais.",
+    "porque_assistir": "Estreou como a série mais assistida da Netflix globalmente na semana de lançamento — superou brevemente Round 6. Dirigida por Yeon Sang-ho (Invasão Zumbi/Train to Busan). Metáfora religiosa densa, tom filosófico, VFX dos 'anjos' criados pela equipe de Peninsula. Segunda temporada em 2024. Não é pra todo mundo, mas é obra autoral.",
+    "categorias": [
+      "Sobrenatural",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Distopia",
+      "Religião",
+      "Mistério"
+    ],
+    "temas": [
+      "Fé",
+      "Morte",
+      "Justiça",
+      "Culto"
+    ],
+    "profissoes": [
+      "Detetive",
+      "Advogada",
+      "Pastor"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.3,
+      "mdl": 7.4,
+      "imdb": 6.6
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 3,
+      "emocao": 6,
+      "humor": 0,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica extrema, fanatismo religioso, cenas de linchamento e crianças em perigo."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Dirigida por Yeon Sang-ho, o mesmo de Invasão Zumbi (Train to Busan).",
+      "Baseada no webtoon Hell do próprio Yeon Sang-ho com Choi Gyu-seok.",
+      "Os efeitos visuais dos 'anjos' foram criados pela mesma equipe de Peninsula.",
+      "A segunda temporada estreou em 2024, três anos após a original."
+    ],
+    "recomendacoes": [
+      "Sweet Home",
+      "Kingdom",
+      "Squid Game"
+    ]
+  },
+  {
+    "titulo": "Juvenile Justice",
+    "ano": 2022,
+    "sinopse": "Sim Eun-seok é juíza dura, ríspida, e abertamente detesta menores infratores. É transferida contra a vontade pra vara da infância e juventude. A cada caso ela precisa decidir entre punir com dureza ou entender as feridas por trás dos crimes. E cada decisão dela é errada de algum jeito. Talvez seja essa a lição — e talvez ela precise dela também.",
+    "porque_assistir": "Entrou no Top 10 GLOBAL da Netflix. Kim Hye-soo indicada ao Baeksang de Melhor Atriz. Reacendeu o debate público sul-coreano sobre a idade de imputabilidade penal — provocou discussão PARLAMENTAR em 2022. Cada episódio inspirado em casos reais julgados em tribunais de menores. Denso, ético, provocativo. Impossível não pensar.",
+    "categorias": [
+      "Advogados",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Workplace",
+      "Anti-Herói",
+      "Ética"
+    ],
+    "temas": [
+      "Justiça",
+      "Infância",
+      "Sistema",
+      "Ética"
+    ],
+    "profissoes": [
+      "Juíza"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.2,
+      "mdl": 8.6,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Crimes contra crianças, abuso doméstico, homicídio e violência sexual mencionada."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Cada episódio é inspirado em casos reais julgados em tribunais de menores na Coreia.",
+      "A roteirista Kim Min-seok trabalhou por cinco anos pesquisando processos reais antes de escrever.",
+      "Kim Hye-soo estudou postura e trejeitos com juízas reais para compor a personagem.",
+      "A série provocou discussão parlamentar sobre a reforma da Lei do Menor sul-coreana em 2022."
+    ]
+  },
+  {
+    "titulo": "Gyeongseong Creature",
+    "ano": 2023,
+    "titulo_br": "O Monstro de Gyeongseong",
+    "sinopse": "1945, Gyeongseong (antigo nome de Seul sob domínio japonês). Jang Tae-sang é um caçador de tesouros bem-sucedido — sabe onde encontrar qualquer coisa por dinheiro. Yoon Chae-ok é detetive de pessoas desaparecidas, e chegou pra caçar o rastro da mãe. Juntos, investigam sumiços misteriosos ligados a um hospital japonês. O que encontram é uma criatura que expõe as atrocidades reais do colonialismo — inspirada nos horrores da Unidade 731.",
+    "porque_assistir": "Top 10 global da Netflix. Uma das produções coreanas mais caras já feitas para a plataforma. Cidade de Gyeongseong recriada em um dos maiores sets já construídos na Coreia. Park Seo-joon (Itaewon Class) reunido com a roteirista Kang Eun-kyung. Han So-hee mudando de registro drasticamente depois de My Name. Reconstituição histórica pesada, monstro sombrio.",
+    "categorias": [
+      "Históricos",
+      "Sobrenatural",
+      "Investigação",
+      "Ação"
+    ],
+    "tropos": [
+      "Época",
+      "Sobrevivência",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Colonialismo",
+      "Ganância",
+      "Verdade",
+      "Sobrevivência"
+    ],
+    "profissoes": [
+      "Comerciante",
+      "Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.2,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência de guerra, experimentos humanos, tortura e criaturas grotescas."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Ambientada em 1945, durante a ocupação japonesa; a criatura é inspirada nos horrores da Unidade 731.",
+      "Reunião de Park Seo-joon com a roteirista Kang Eun-kyung depois de Itaewon Class.",
+      "A cidade de Gyeongseong (antigo nome de Seul sob domínio japonês) foi recriada em um dos maiores sets já construídos na Coreia.",
+      "Han So-hee filmou Gyeongseong logo após My Name e mudou drasticamente o registro para uma heroína dos anos 40."
+    ],
+    "recomendacoes": [
+      "Mr. Sunshine",
+      "Kingdom",
+      "Vincenzo"
+    ]
+  },
+  {
+    "titulo": "A Killer Paradox",
+    "ano": 2024,
+    "titulo_br": "O Paradoxo do Assassino",
+    "sinopse": "Lee Tang é estudante universitário comum. Numa noite qualquer, mata acidentalmente um estranho num beco. Descobre depois que a vítima era um serial killer procurado pela polícia. E que nas mãos dele existe um dom estranho: só ele sabe reconhecer quem realmente 'merece'. A partir daí, ele passa a executar apenas pessoas 'realmente más' — enquanto um detetive obcecado, Jang Nan-gam, tenta detê-lo.",
+    "porque_assistir": "Estreou como #1 global na Netflix em fevereiro/2024 e permaneceu semanas no Top 10 em mais de 40 países. Direção estilizada de Lee Chang-hee, com trilha misturando indie rock coreano e faixas ocidentais dos anos 80 (toque Tarantino). Duelo Choi Woo-shik (Parasita) vs Son Suk-ku. Sombrio, moral, irônico. Só 8 episódios.",
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Serial Killer",
+      "Justiceiro"
+    ],
+    "temas": [
+      "Moral",
+      "Justiça",
+      "Culpa",
+      "Destino"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.2,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Assassinatos, dilemas morais sobre justiça pelas próprias mãos e violência gráfica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseada no webtoon 'Salinjaonantomu' de Kkomabi, publicado no Naver.",
+      "Choi Woo-shik reencontrou a plataforma Netflix após Our Beloved Summer num registro oposto.",
+      "Son Suk-ku ganhou fama internacional após o papel e emplacou vários outros projetos no mesmo ano.",
+      "A trilha combina indie rock coreano e faixas ocidentais dos anos 80, num toque Tarantino."
+    ],
+    "recomendacoes": [
+      "Vigilante",
+      "Mouse",
+      "Beyond Evil"
+    ]
+  },
+  {
+    "titulo": "Chicken Nugget",
+    "ano": 2024,
+    "sinopse": "Uma jovem chamada Choi Min-ah entra numa máquina misteriosa no escritório do pai e, ao sair, virou LITERALMENTE um nugget de frango. Não é metáfora, não é fase — é um nugget de verdade. Pai e funcionário apaixonado partem numa jornada bizarra pra tentar revertê-la, atravessando teorias absurdas, cientistas malucos e uma sequência de coisas que não fazem sentido nenhum. É pra ser assim mesmo.",
+    "porque_assistir": "Dirigida por Lee Byeong-heon (Extreme Job — uma das maiores bilheterias coreanas). Considerada o experimento mais 'esquisito' da Netflix Coreia — e assumido como tal na coletiva. Base fiel de fãs do humor surreal coreano. Se você gostou de W: Two Worlds ou Extraordinary You (meta), vai amar. Se busca lógica narrativa, PULE.",
+    "categorias": [
+      "Comédia",
+      "Fantasia"
+    ],
+    "tropos": [
+      "Absurdo",
+      "Amizade",
+      "Comida"
+    ],
+    "temas": [
+      "Absurdo",
+      "Família",
+      "Amor",
+      "Ciência Maluca"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Funcionário"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.2,
+      "mdl": 7.5,
+      "imdb": 6.8
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 4,
+      "emocao": 5,
+      "humor": 9,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 3
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Humor absurdo pode incomodar quem busca lógica narrativa; contém algumas cenas de violência cômica."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseada no webtoon homônimo de Park Ji-dok, famoso por comédias de humor absurdo.",
+      "Dirigida por Lee Byeong-heon, o mesmo de Extreme Job, uma das maiores bilheterias coreanas.",
+      "A equipe de efeitos criou um nugget gigante hiper-realista de silicone para as cenas em set.",
+      "É considerado o experimento mais 'esquisito' da Netflix Coreia até agora."
+    ],
+    "recomendacoes": [
+      "Extraordinary You",
+      "W: Two Worlds",
+      "Vincenzo"
+    ]
+  },
+  {
+    "titulo": "Parasyte: The Grey",
+    "ano": 2024,
+    "titulo_br": "Parasyte: Cinza",
+    "sinopse": "Jeong Su-in é jovem funcionária de mercado, comum, quieta, que quer apenas passar o dia. Uma noite, é infectada por um parasita alienígena que TENTA tomar o controle do cérebro dela — mas falha. As duas consciências passam a coexistir dentro do mesmo corpo, revezando controle. Enquanto isso, uma força-tarefa da polícia caça criaturas iguais pelo país. E Su-in vira o único caso do gênero.",
+    "porque_assistir": "Estreou como #1 global da Netflix em abril/2024. Dirigida por Yeon Sang-ho (Invasão Zumbi, Hellbound). Continuação-derivada do mangá japonês 'Kiseijuu' de Hitoshi Iwaaki, ambientada em paralelo aos eventos originais. Jeon So-nee estudou linguagem gestual e alterou a voz pra diferenciar hospedeira humana e parasita. VFX impressionantes.",
+    "categorias": [
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Body Horror",
+      "Anti-Herói",
+      "Sobrevivência"
+    ],
+    "temas": [
+      "Identidade",
+      "Sobrevivência",
+      "Corpo",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Funcionária",
+      "Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 8.0,
+      "imdb": 7.1
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 4,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Body horror, decapitações, mutilações e criaturas com dentes. Imagens perturbadoras."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Dirigida por Yeon Sang-ho (Invasão Zumbi, Hellbound), especialista em terror sobrenatural coreano.",
+      "É uma continuação-derivada do mangá japonês 'Kiseijuu' de Hitoshi Iwaaki, ambientada em paralelo aos eventos originais.",
+      "Jeon So-nee estudou linguagem gestual e alterou a voz para diferenciar a hospedeira humana e o parasita.",
+      "A cena final abre porta para crossover com o universo japonês."
+    ],
+    "recomendacoes": [
+      "Sweet Home",
+      "All of Us Are Dead",
+      "Hellbound"
+    ]
+  }
+]
