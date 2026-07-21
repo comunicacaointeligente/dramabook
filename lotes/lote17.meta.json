@@ -1,0 +1,162 @@
+{
+  "positively-yours": {
+    "titulo_original": "아기가 생겼어요",
+    "titulo_br": "Positivamente Sua",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Choi Jin-hyuk",
+      "Oh Yeon-seo",
+      "Hong Jong-hyun",
+      "Kim Da-som"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Channel A",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
+    "banner": "/zzLRrEtJPyqMAgCbpTiokRilGTd.jpg",
+    "trailer": null
+  },
+  "our-universe": {
+    "titulo_original": "우주를 줄게",
+    "titulo_br": "Nosso Universo",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Bae In-hyuk",
+      "Roh Jeong-eui",
+      "Park Seo-ham",
+      "Park Yu-ho"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Viki",
+      "Max"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/eOTMp8oqnQEzOyZimCjun4UFVVU.jpg",
+    "banner": "/hwmtHFaHVoYs1N8oQI7UlD5DY2C.jpg",
+    "trailer": null
+  },
+  "pearl-in-red": {
+    "titulo_original": "붉은 진주",
+    "titulo_br": "Pérola Vermelha",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 102,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Park Jin-hee",
+      "Nam Sang-ji",
+      "Kim Kyung-bo",
+      "Kang Da-bin",
+      "Choi Jae-sung"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Em exibição",
+    "classificacao": 15,
+    "poster": "/4sLAVN5zeukfiKKn2XvnffVIuw6.jpg",
+    "banner": "/oQzp6JxTqjESsEkWsnmGYgvP5Ur.jpg",
+    "trailer": null
+  },
+  "climax": {
+    "titulo_original": "클라이맥스",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ju Ji-hoon",
+      "Ha Ji-won",
+      "Nana",
+      "Oh Jung-se",
+      "Cha Joo-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "ENA",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/zN3Vg1KAhLsOuUxIzB8buu6XmC6.jpg",
+    "banner": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
+    "trailer": null
+  },
+  "reborn-rookie": {
+    "titulo_original": "신입사원 강회장",
+    "titulo_br": "Renascendo Como Novato",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Lee Jun-young",
+      "Lee Joo-myoung",
+      "Jeon Hye-jin",
+      "Jin Goo",
+      "Son Hyun-joo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/bFd3x79JItzVrQdj2J0O5cfiHOF.jpg",
+    "banner": "/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "trailer": null
+  },
+  "dream-to-you": {
+    "titulo_original": "그대에게 드림",
+    "titulo_br": "Um Sonho Até Você",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Hwang In-youp",
+      "Hyeri",
+      "Baek Sung-chul",
+      "Lee Yul-eum",
+      "Lee Sang-yeob"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "ENA",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/wtdOlHpGDoMtAopJ6xmaKYwhxEp.jpg",
+    "banner": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
+    "trailer": null
+  }
+}

@@ -17987,5 +17987,574 @@
       "misaeng",
       "reborn-rich"
     ]
+  },
+  {
+    "id": "positively-yours",
+    "titulo": "Positively Yours",
+    "titulo_original": "아기가 생겼어요",
+    "titulo_br": "Positivamente Sua",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "Channel A",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Casamento por contrato",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "CEO",
+      "Gravidez Inesperada",
+      "Casamento por contrato"
+    ],
+    "temas": [
+      "Amor",
+      "Trabalho",
+      "Família",
+      "Compromisso"
+    ],
+    "profissoes": [
+      "CEO",
+      "Gerente"
+    ],
+    "elenco": [
+      "Choi Jin-hyuk",
+      "Oh Yeon-seo",
+      "Hong Jong-hyun",
+      "Kim Da-som"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 7,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/zzLRrEtJPyqMAgCbpTiokRilGTd.jpg",
+    "poster": "/6lnM7PecwSEyYjrWr2nQzmmZaDU.jpg",
+    "trailer": "",
+    "sinopse": "Um CEO e uma gerente de desenvolvimento de produtos JURAM nunca casar — cada um por motivos próprios. Uma noite juntos vira suas vidas de cabeça pra baixo com uma gravidez INESPERADA. Nenhum dos dois estava planejando nada disso. E a rotina corporativa vai precisar dar lugar a algo bem maior do que reuniões de estratégia.",
+    "porque_assistir": "Adaptação do webtoon do Naver de Lee Jung. Choi Jin-hyuk voltando ao rom-com corporativo com Oh Yeon-seo — química de veteranos. Rom-com adulta com peso emocional real: envolve reconciliação familiar, não é só comédia leve. Estreou em janeiro de 2026 na Channel A.",
+    "curiosidades": [
+      "Adaptação do webtoon do Naver de Lee Jung.",
+      "12 episódios, exibido de 17/01 a 22/02/2026 nas noites de sáb/dom na Channel A.",
+      "Reunião de Choi Jin-hyuk com o gênero rom-com corporativo.",
+      "Kim Da-som (ex-Sistar) integra o elenco secundário."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "fated-to-love-you",
+      "marriage-contract",
+      "doctor-slump"
+    ]
+  },
+  {
+    "id": "our-universe",
+    "titulo": "Our Universe",
+    "titulo_original": "우주를 줄게",
+    "titulo_br": "Nosso Universo",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Viki",
+      "Max"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Família Encontrada",
+      "Slow Burn",
+      "Cohabitação"
+    ],
+    "temas": [
+      "Família",
+      "Luto",
+      "Amor",
+      "Responsabilidade"
+    ],
+    "profissoes": [
+      "Adulto",
+      "Adulto"
+    ],
+    "elenco": [
+      "Bae In-hyuk",
+      "Roh Jeong-eui",
+      "Park Seo-ham",
+      "Park Yu-ho"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": null,
+      "imdb": 7.3
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/hwmtHFaHVoYs1N8oQI7UlD5DY2C.jpg",
+    "poster": "/eOTMp8oqnQEzOyZimCjun4UFVVU.jpg",
+    "trailer": "",
+    "sinopse": "Dois cunhados que mal se toleravam são FORÇADOS a criar juntos um sobrinho de 20 meses depois de um acidente trágico deixar a criança órfã. Um é rígido, o outro é bagunçado. Nenhum dos dois tinha planejado ser pai. Da hostilidade inicial nasce um vínculo inesperado — pra criança, pra si mesmos, e talvez pra um novo tipo de família.",
+    "porque_assistir": "Coming-of-age misturado com romance — Bae In-hyuk (Story of Park's Marriage Contract, Cheer Up!) num papel adulto pesado. Roh Jeong-eui em ascensão. Estreou fev/2026 na tvN, com distribuição INTERNACIONAL Viki + Max. Só 12 episódios. IMDb 7.3 durante exibição. Delicado, emocional, sobre família encontrada.",
+    "curiosidades": [
+      "12 episódios; estreou 04/02/2026, encerrou 12/03/2026 na tvN.",
+      "Distribuição internacional simultânea em Viki e HBO Max.",
+      "Bae In-hyuk emenda depois do sucesso em Cheer Up e Story of Park's Marriage Contract.",
+      "IMDb 7.3 durante a exibição."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Luto por morte súbita, adaptação de criança órfã, responsabilidades adultas pesadas."
+    },
+    "recomendacoes": [
+      "move-to-heaven",
+      "family-by-choice",
+      "come-and-hug-me"
+    ]
+  },
+  {
+    "id": "pearl-in-red",
+    "titulo": "Pearl in Red",
+    "titulo_original": "붉은 진주",
+    "titulo_br": "Pérola Vermelha",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 102,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "status": "Em exibição",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Identidade Trocada",
+      "Vingança",
+      "Gêmeas",
+      "Família Rica"
+    ],
+    "temas": [
+      "Vingança",
+      "Segredos",
+      "Herança",
+      "Família"
+    ],
+    "profissoes": [
+      "Executiva",
+      "Herdeira"
+    ],
+    "elenco": [
+      "Park Jin-hee",
+      "Nam Sang-ji",
+      "Kim Kyung-bo",
+      "Kang Da-bin",
+      "Choi Jae-sung"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7.8,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/oQzp6JxTqjESsEkWsnmGYgvP5Ur.jpg",
+    "poster": "/4sLAVN5zeukfiKKn2XvnffVIuw6.jpg",
+    "trailer": "",
+    "sinopse": "Duas mulheres assumem identidades FALSAS pra se infiltrar na poderosa família Adel e desmascarar segredos e crimes escondidos há anos. Uma toma o lugar da irmã gêmea MORTA pra dominar o grupo empresarial. A outra entra pra VINGAR a família destruída num acidente. Uma reconhece a outra? Isso é o motor da série inteira.",
+    "porque_assistir": "Melodrama diário coreano no seu auge — 102 episódios curtos de 35 minutos. Baseado em receita brasileira de novela mesmo: você maratona um punhado, se envolve, volta amanhã. Park Jin-hee (Save Me, Perfume) sabe carregar melodrama nos ombros. Vingança + gêmeas + herança + segredos de família em doses diárias. Estreou fev/2026 na KBS2.",
+    "curiosidades": [
+      "102 episódios curtos (~35 min) — formato de daily drama coreano.",
+      "Estreou 23/02/2026 na KBS2, segunda a sexta 19:50 KST.",
+      "Ainda em exibição — Viki lança episódios a cada semana no Brasil.",
+      "Formato lembra novelas brasileiras diárias em ritmo e melodrama."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Vingança prolongada, disputa de herança, morte de familiares e manipulação psicológica."
+    },
+    "recomendacoes": [
+      "the-devil-judge",
+      "marriage-contract",
+      "wonderful-world"
+    ]
+  },
+  {
+    "id": "climax",
+    "titulo": "Climax",
+    "titulo_original": "클라이맥스",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "ENA",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Advogados"
+    ],
+    "tropos": [
+      "Conspiração",
+      "Anti-Herói",
+      "Mistério"
+    ],
+    "temas": [
+      "Poder",
+      "Mídia",
+      "Corrupção",
+      "Ambição"
+    ],
+    "profissoes": [
+      "Promotor",
+      "Atriz",
+      "Fixadora"
+    ],
+    "elenco": [
+      "Ju Ji-hoon",
+      "Ha Ji-won",
+      "Nana",
+      "Oh Jung-se",
+      "Cha Joo-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/ynixwhYEcDrYRr5Jft0LNqAQERQ.jpg",
+    "poster": "/zN3Vg1KAhLsOuUxIzB8buu6XmC6.jpg",
+    "trailer": "",
+    "sinopse": "O promotor Bang Tae-seop entra num caso de ALTO RISCO que investiga laços entre o prefeito de Seul e a chair do WR Group. Enquanto ele investiga, sua esposa (uma estrela em decadência) e uma poderosa fixadora do entretenimento MANIPULAM celebridades pra chantagem. Noir político sobre ambição, mídia e poder — cada personagem tem algo pra esconder e alguém pra derrubar.",
+    "porque_assistir": "ELENCÃO DE PESO: Ju Ji-hoon (Trauma Code, Kingdom, Blood Free) + Ha Ji-won (Empress Ki, Secret Garden) + NANA (After School / drama sério) + Oh Jung-se (It's Okay to Not Be Okay). Só 10 episódios densos de mar-abr/2026 na ENA. Noir estiloso, sombrio, cerebral. Pra quem gosta do Ju Ji-hoon em modo intenso.",
+    "curiosidades": [
+      "10 episódios; exibido de 16/03 a 14/04/2026, seg/ter 22:00 KST na ENA.",
+      "Reunião de peso: Ju Ji-hoon + Ha Ji-won pela primeira vez em drama.",
+      "Nana (After School) em papel dramático adulto, contra o tipo idol.",
+      "Oh Jung-se depois do sucesso emocional em It's Okay to Not Be Okay."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Chantagem, corrupção política, manipulação de mídia, violência pontual e temas adultos pesados."
+    },
+    "recomendacoes": [
+      "the-devil-judge",
+      "blood-free",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "reborn-rookie",
+    "titulo": "Reborn Rookie",
+    "titulo_original": "신입사원 강회장",
+    "titulo_br": "Renascendo Como Novato",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Comédia",
+      "Fantasia",
+      "Emocionantes",
+      "Romance"
+    ],
+    "tropos": [
+      "Troca de Corpos",
+      "CEO",
+      "Underdog",
+      "Workplace"
+    ],
+    "temas": [
+      "Classe",
+      "Trabalho",
+      "Identidade",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Chairman",
+      "Funcionário"
+    ],
+    "elenco": [
+      "Lee Jun-young",
+      "Lee Joo-myoung",
+      "Jeon Hye-jin",
+      "Jin Goo",
+      "Son Hyun-joo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "poster": "/bFd3x79JItzVrQdj2J0O5cfiHOF.jpg",
+    "trailer": "",
+    "sinopse": "Kang Yong-ho é chairman de conglomerado — poder absoluto, ego proporcional. Depois de um acidente, TROCA de alma com Hwang Jun-hyeon, um jovem qualquer. Acorda no corpo de um FUNCIONÁRIO JÚNIOR da própria empresa. Do topo da hierarquia pra base em uma pancada. Body-swap comedy que vira crítica de classe e retrato da rotina real de quem está na base.",
+    "porque_assistir": "Lee Jun-young (The Impossible Heir, D.P.) num papel duplo — a atuação vai carregar tudo. Baseado em web novel de San Kyeong (o mesmo de Reborn Rich!). Da mesma vibe corporativa satírica. Elenco de peso: Jeon Hye-jin (Search: WWW), Jin Goo (Descendants of the Sun), Son Hyun-joo. Estreou maio/2026 na JTBC. Cômico + reflexivo.",
+    "curiosidades": [
+      "Baseado em web novel de San Kyeong, o mesmo de Reborn Rich.",
+      "Estreou 30/05/2026 na JTBC, sáb 22:40 / dom 22:30 KST.",
+      "Lee Jun-young num papel duplo body-swap — chairman e funcionário júnior.",
+      "Jeon Hye-jin (Search: WWW), Jin Goo (Descendants of the Sun) no elenco de apoio."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Assédio moral no trabalho e crítica corporativa em tom de comédia."
+    },
+    "recomendacoes": [
+      "reborn-rich",
+      "good-manager",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "dream-to-you",
+    "titulo": "Dream to You",
+    "titulo_original": "그대에게 드림",
+    "titulo_br": "Um Sonho Até Você",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "ENA",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Amor de Infância",
+      "Second Chance",
+      "Reencontro",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Sonhos",
+      "Recomeço",
+      "Perda"
+    ],
+    "profissoes": [
+      "Diretor",
+      "Repórter"
+    ],
+    "elenco": [
+      "Hwang In-youp",
+      "Hyeri",
+      "Baek Sung-chul",
+      "Lee Yul-eum",
+      "Lee Sang-yeob"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
+    "poster": "/wtdOlHpGDoMtAopJ6xmaKYwhxEp.jpg",
+    "trailer": "",
+    "sinopse": "Aos 19 anos, Woo Su-bin e Ju I-jae sonhavam JUNTOS em virar diretores de cinema — combinaram tudo, planejaram cada passo. Aí ele DESAPARECEU sem explicação. Quinze anos depois, ele volta como diretor GENIAL premiado e ela, agora repórter, precisa entrevistá-lo. Cara a cara com quem sumiu, ela reviva o amor e o sonho que abandonou.",
+    "porque_assistir": "Hwang In-youp (True Beauty, Family by Choice, Dr. Slump) + Hyeri (Reply 1988, My Roommate Is a Gumiho) REUNIDOS pela primeira vez — química já elogiada nos teasers. Sobre amor de adolescência que volta forte na fase adulta. Estreia 13/07/2026 na ENA/Genie TV. Distribuição BR simultânea no Viki. Romântico, nostálgico, reencontro clássico.",
+    "curiosidades": [
+      "Estreia 13/07/2026, seg/ter na ENA/Genie TV.",
+      "Primeira colaboração entre Hwang In-youp e Hyeri.",
+      "Distribuição BR simultânea no Viki.",
+      "Hwang In-youp emenda depois de Family by Choice e Dr. Slump."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "when-life-gives-you-tangerines",
+      "lovely-runner",
+      "something-in-the-rain"
+    ]
   }
 ]
