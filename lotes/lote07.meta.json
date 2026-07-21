@@ -1,0 +1,377 @@
+{
+  "mouse": {
+    "titulo_original": "마우스",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Lee Seung-gi",
+      "Lee Hee-jun",
+      "Park Ju-hyun",
+      "Kwon Hwa-woon"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/qz0axqEwwIa5uaMsUYKGs9u29ut.jpg",
+    "banner": "/ikU9een11dr6UFy0XzQMJv3YJQq.jpg",
+    "trailer": "https://www.youtube.com/watch?v=i_K9U3gE9os"
+  },
+  "beyond-evil": {
+    "titulo_original": "괴물",
+    "titulo_br": "Além do Mal",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Shin Ha-kyun",
+      "Yeo Jin-goo",
+      "Choi Dae-hoon",
+      "Choi Sung-eun"
+    ],
+    "diretor": "Sim Na-yeon",
+    "roteirista": "Kim Soo-jin",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "banner": "/qCKFi1v109vOEHlc02AJFpBcS79.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zQCOdcBAWtU"
+  },
+  "voice": {
+    "titulo_original": "보이스",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 4,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Ha-na",
+      "Jang Hyuk",
+      "Son Eun-seo",
+      "Kim Joong-ki"
+    ],
+    "diretor": "Ma Jin-won",
+    "roteirista": "",
+    "plataformas": [
+      "OCN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/gMgzUEvNljCkNjUDlGaYyLn2zyz.jpg",
+    "banner": "/i8iujCYtGOG8f6ui90ADs5NxHKb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=hFQazVSTQF4"
+  },
+  "healer": {
+    "titulo_original": "힐러",
+    "pais": "Coreia do Sul",
+    "ano": 2014,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Park Min-young",
+      "Yoo Ji-tae",
+      "Park Sang-won"
+    ],
+    "diretor": "Kim Jin-woo",
+    "roteirista": "Song Ji-na",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/4Zc0XtzXasrfgOyCH7wX8stqkEu.jpg",
+    "banner": "/uFoPKUmrJBWwOCKFfRO2LiGFSwV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zwbwmYi0nlo"
+  },
+  "live": {
+    "titulo_original": "라이브",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Jung Yu-mi",
+      "Lee Kwang-soo",
+      "Bae Sung-woo",
+      "Bae Jong-ok"
+    ],
+    "diretor": "",
+    "roteirista": "No Hee-Kyung",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/f8eQMaFRM4kvohslsTv2wa0CSSG.jpg",
+    "banner": "/7AMZ9sOH4cHvbvsVfcKU6g1g5rR.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Erexc9-iStY"
+  },
+  "blind": {
+    "titulo_original": "블라인드",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ok Taec-yeon",
+      "Ha Seok-jin",
+      "Jung Eun-ji",
+      "Park Ji-bin"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/qHoH58my1xhHc0jYpvPcDFXZrsf.jpg",
+    "banner": "/9eEu31KfGdDDYtAgtClEgAvVV4C.jpg",
+    "trailer": "https://www.youtube.com/watch?v=g_z-KpXZPyg"
+  },
+  "kill-me-heal-me": {
+    "titulo_original": "킬미, 힐미",
+    "pais": "Coreia do Sul",
+    "ano": 2015,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "elenco": [
+      "Ji Sung",
+      "Hwang Jung-eum",
+      "Park Seo-jun",
+      "Oh Min-suk"
+    ],
+    "diretor": "",
+    "roteirista": "Han Hee",
+    "plataformas": [
+      "MBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/1RkBC4VkJ7TS4nSvKMc5QooaUQu.jpg",
+    "banner": "/3nqI6FimqPqxXPLPKy2kutAjUAS.jpg",
+    "trailer": "https://www.youtube.com/watch?v=VYg5wUPbRu4"
+  },
+  "my-mister": {
+    "titulo_original": "나의 아저씨",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "80 min",
+    "elenco": [
+      "Lee Sun-kyun",
+      "IU",
+      "Goh Doo-shim",
+      "Park Ho-san",
+      "Song Sae-byuk"
+    ],
+    "diretor": "Kim Won-suk",
+    "roteirista": "Park Hae-young",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/gE9tZDycsA31wvtzUcDWVk6Nf7t.jpg",
+    "banner": "/i7prwa7UwOAUcpTmWnUd75J2PWe.jpg",
+    "trailer": "https://www.youtube.com/watch?v=f-Eaa3f3gDo"
+  },
+  "reply-1997": {
+    "titulo_original": "응답하라 1997",
+    "pais": "Coreia do Sul",
+    "ano": 2012,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Jung Eun-ji",
+      "Seo In-guk",
+      "Eun Ji-won",
+      "Lee Ho-won",
+      "Shin So-yul"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Lee Woo-jung",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/onW5VNmzZuDYmkSeFhtSibt0rRq.jpg",
+    "banner": "/qph3c3QKAMsljHM7S0tI25MlQkD.jpg",
+    "trailer": null
+  },
+  "reply-1994": {
+    "titulo_original": "응답하라 1994",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 21,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Go Ara",
+      "Jung Woo",
+      "Yoo Yeon-seok",
+      "Kim Sung-kyun",
+      "Son Ho-jun"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Lee Woo-jung",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/yuSE368pNeTREW5M1duDUUnoQ8i.jpg",
+    "banner": "/2X9nNW4HzHqbPW8WyTzIQHQ2H9k.jpg",
+    "trailer": null
+  },
+  "dear-my-friends": {
+    "titulo_original": "디어 마이 프렌즈",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Go Hyun-jung",
+      "Youn Yuh-jung",
+      "Na Moon-hee",
+      "Goh Doo-shim",
+      "Kim Hye-ja"
+    ],
+    "diretor": "",
+    "roteirista": "Noh Hee-kyung",
+    "plataformas": [
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/bTQk4YZMESbHs3NlhBPBpcQp1Tn.jpg",
+    "banner": "/YV4J9zwuaFsGVMp7nGDL43MUFO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=cR0BIjnW68E"
+  },
+  "prison-playbook": {
+    "titulo_original": "슬기로운 감빵생활",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "90 min",
+    "elenco": [
+      "Park Hae-soo",
+      "Jung Kyung-ho",
+      "Krystal Jung",
+      "Lee Kyoo-hyung",
+      "Choi Mu-sung"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Lee Woo-jung",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/6Z2Wrr8m8Fx9WN10Q3eqaPI9WgT.jpg",
+    "banner": "/kdsvRpXal5Xa1Ldq7m2qzQmYsBa.jpg",
+    "trailer": "https://www.youtube.com/watch?v=cxRhBctpD3E"
+  },
+  "family-by-choice": {
+    "titulo_original": "조립식 가족",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Hwang In-youp",
+      "Jung Chae-yeon",
+      "Bae Hyeon-seong",
+      "Choi Won-young",
+      "Choi Mu-sung"
+    ],
+    "diretor": "Kim Seung-ho",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": null,
+    "poster": "/drQh6tu7OupGBtE5zqVJB1AAGoa.jpg",
+    "banner": "/26hCPlTtSqxnW6HMSzvir9umFCW.jpg",
+    "trailer": null
+  },
+  "doubt": {
+    "titulo_original": "이토록 친밀한 배신자",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Han Suk-kyu",
+      "Chae Won-bin",
+      "Han Ye-ri",
+      "Oh Yeon-soo",
+      "Roh Jae-won"
+    ],
+    "diretor": "",
+    "roteirista": "Song Yeon-hwa",
+    "plataformas": [
+      "MBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/ycnP2oadrvklza0pbBR8D7Q4oqj.jpg",
+    "banner": "/xSs58WRt6NTBa2dTZ4UFufr9ai5.jpg",
+    "trailer": null
+  },
+  "the-trauma-code-heroes-on-call": {
+    "titulo_original": "중증외상센터",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Ju Ji-hoon",
+      "Choo Young-woo",
+      "Ahn Ha-young",
+      "Yoon Kyung-ho",
+      "Jeong Jae-kwang"
+    ],
+    "diretor": "Lee Do-yoon",
+    "roteirista": "",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/y8h2RwUZM5chv9tuaKVwSPoo3KE.jpg",
+    "banner": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=pdDXO-dMjAc"
+  }
+}
