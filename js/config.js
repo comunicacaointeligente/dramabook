@@ -46,6 +46,7 @@ export const CATEGORY_MENU = [
   { facet: "Red Flag", icon: "🚩", label: "Red Flags" },
   { facet: "Comédia", icon: "😂", label: "Comédia" },
   { facet: "Emocionantes", icon: "😭", label: "Emocionantes" },
+  { facet: "Ação", icon: "🥊", label: "Ação" },
   { facet: "Médicos", icon: "🩺", label: "Médicos" },
   { facet: "Advogados", icon: "⚖️", label: "Advogados" },
   { facet: "Históricos", icon: "👑", label: "Históricos" },

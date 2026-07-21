@@ -5,7 +5,7 @@ import { $, $$, STATE, itemsInList, itemsDaLista, toast, resolvePoster, flag } f
 import { LIST_MENU, CATEGORY_MENU, QUICK_FILTERS, MOODS, PAGE_SIZE, EXPERIENCIAS, CONTEUDO } from "./config.js";
 import { inList, listaIds, listasPersonalizadas, getLista } from "./user.js";
 import { renderBiblioteca } from "../components/biblioteca.js";
-import { byFacet, search, topRated, latest, masterpieces, pickRandom, byExperiencia } from "./filters.js";
+import { byFacet, search, topRated, latest, masterpieces, pickRandom, byExperiencia, contarPlataformas } from "./filters.js";
 import { renderCards, hydrateImages, statusHTML } from "../components/card.js";
 import { renderRail } from "../components/rail.js";
 import { renderHero } from "../components/hero.js";
@@ -40,6 +40,25 @@ export function showExperiencia(key) {
   const e = EXPERIENCIAS.find(x => x.key === key);
   if (!e) return;
   showResults(`${e.icon} ${e.label}`, byExperiencia(key, e.selo));
+}
+
+/* ---------- rodapé de plataformas (só streamings BR) ---------- */
+const PLAT_ICONE = {
+  "netflix": "🅽", "prime video": "🅿️", "disney+": "🇩", "max": "Ⓜ️", "hbo max": "Ⓜ️",
+  "apple tv+": "🍎", "apple tv": "🍎", "paramount+": "🅿", "viki": "🅅", "rakuten viki": "🅅",
+  "kocowa": "🅺", "globoplay": "🇬", "iqiyi": "🅸", "wetv": "🅆", "crunchyroll": "🍥",
+};
+export function renderPlataformasFooter() {
+  const el = $("#platChips"); if (!el) return;
+  el.innerHTML = contarPlataformas().map(([nome, n]) => {
+    const key = nome.toLowerCase();
+    const ico = PLAT_ICONE[key] || "📺";
+    return `<button class="plat-chip" data-facet="plat:${nome}">
+      <span class="plat-ico">${ico}</span>
+      <span class="plat-nome">${nome}</span>
+      <span class="plat-n">${n}</span>
+    </button>`;
+  }).join("");
 }
 
 /* ---------- chips + humor ---------- */
@@ -196,7 +215,10 @@ export function showSearch(q) {
 }
 export function showFacet(facet, label) {
   if (facet === "all") { showHome(); return; }
-  showResults(label || facet, byFacet(facet));
+  const title = facet?.startsWith("plat:") ? `📺 ${facet.slice(5)}`
+              : facet?.startsWith("conteudo:") ? label || facet
+              : (label || facet);
+  showResults(title, byFacet(facet));
 }
 export function showList(list) {
   const labels = { favoritos: "❤️ Favoritos", assistindo: "▶️ Assistindo", assisti: "✅ Já assisti", quero: "🔖 Quero assistir" };

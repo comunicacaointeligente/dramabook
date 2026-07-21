@@ -12,6 +12,13 @@ const NUM_FACETS = {
   "Red Flag": [(d) => getFlag(d, "red"), 7],
   "Química Inesquecível": [(d) => sensacao(d, "quimica"), 9],
 };
+/* Facetas que casam por conjunto de tags/tropos. Ação, por exemplo, não
+   é uma categoria oficial nas fichas — deduz por tropos + tags. */
+const FACET_SINONIMOS = {
+  "Ação": ["ação", "acao", "máfia", "mafia", "vingança", "vinganca", "justiceiro",
+           "ex-militar", "guarda-costas", "assassino", "boxeador", "conspiração",
+           "conspiracao", "serial killer", "sobrevivência", "sobrevivencia", "zumbis"],
+};
 /* Normaliza p/ casar plural/singular e maiúsculas ("Green Flags" ≈ "green flag"). */
 const norm = (s) => String(s || "").toLowerCase().trim().replace(/s$/, "");
 
@@ -29,6 +36,10 @@ export function matchFacet(d, facet) {
     return COUNTRY_FACETS[facet].some(k => p.includes(k));
   }
   if (NUM_FACETS[facet] && (NUM_FACETS[facet][0](d) ?? 0) >= NUM_FACETS[facet][1]) return true;
+  if (FACET_SINONIMOS[facet]) {
+    const tags = tagsOf(d).map(norm);
+    return FACET_SINONIMOS[facet].some(s => tags.some(t => t === norm(s)));
+  }
   const f = norm(facet);
   return tagsOf(d).some(x => norm(x) === f);
 }
@@ -38,7 +49,28 @@ export function byFacet(facet) {
     const nv = facet.slice(9);
     return STATE.all.filter(d => nivelConteudo(d) === nv).sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
   }
+  if (facet?.startsWith("plat:")) {
+    const p = norm(facet.slice(5));
+    return STATE.all.filter(d => streamingList(d).some(x => norm(x) === p))
+      .sort((a, b) => (getNota(b) || 0) - (getNota(a) || 0));
+  }
   return STATE.all.filter(d => matchFacet(d, facet));
+}
+
+/* Conta doramas por STREAMING BR — usado pelo rodapé.
+   Canais coreanos (tvN, JTBC, MBC, SBS, KBS2, OCN, ENA, wavve, Kakao TV) ficam de fora. */
+const CANAIS_KR = new Set(["tvn","jtbc","mbc","sbs","kbs2","ocn","ena","wavve","kakao tv","tving"]);
+export function contarPlataformas() {
+  const c = {};
+  for (const d of STATE.all) {
+    for (const p of streamingList(d)) {
+      const key = String(p).trim();
+      if (!key) continue;
+      if (CANAIS_KR.has(key.toLowerCase())) continue;   // pula canais coreanos
+      c[key] = (c[key] || 0) + 1;
+    }
+  }
+  return Object.entries(c).sort((a, b) => b[1] - a[1]);
 }
 
 /* Busca textual em título, título original, país, plataforma, categorias e tropos. */

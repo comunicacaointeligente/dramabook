@@ -9,7 +9,7 @@ import {
   listasPersonalizadas, getLista, exportar, importar,
 } from "./js/user.js";
 import {
-  renderSidebar, renderQuickfilters, renderMood, renderHome, showHome,
+  renderSidebar, renderQuickfilters, renderMood, renderHome, showHome, renderPlataformasFooter,
   showSearch, showFacet, showList, updateBadges, refreshListUI, setActiveMenu,
   bindLoadMore, toggleMood, indicarPorHumor, showBiblioteca, showListaPersonalizada,
   showResults, renderSugestoes, fecharSugestoes, filtrarPorStatus, showExperiencia,
@@ -246,7 +246,7 @@ async function init() {
 
   const ok = await loadCatalog();
   ok ? renderHome() : showLoadError();
-  if (ok) aplicarHash();
+  if (ok) { renderPlataformasFooter(); aplicarHash(); }
 
   if (PWA_ENABLED && "serviceWorker" in navigator && location.protocol.startsWith("http")) {
     navigator.serviceWorker.register("service-worker.js").catch(() => {});
