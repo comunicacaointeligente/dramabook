@@ -1,0 +1,82 @@
+{
+  "secret": {
+    "titulo_original": "비밀",
+    "titulo_br": "Secret Love",
+    "pais": "Coreia do Sul",
+    "ano": 2013,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Sung",
+      "Hwang Jung-eum",
+      "Bae Soo-bin",
+      "Lee Da-hee"
+    ],
+    "diretor": "Lee Eung-bok",
+    "roteirista": "Choi Ho-chul, Yoo Bo-ra",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/zeL1acoA8ygEOJn7kUI1FItsYl0.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "adamas": {
+    "titulo_original": "아다마스",
+    "titulo_br": "Adamas: O Diamante",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Sung",
+      "Seo Ji-hye",
+      "Lee Soo-kyung",
+      "Heo Sung-tae",
+      "Park Seong-woong"
+    ],
+    "diretor": "Park Seung-woo",
+    "roteirista": "Choi Tae-kang",
+    "plataformas": [
+      "tvN",
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/xJY84jYMHwPCdk20XlhsETCTri3.jpg",
+    "banner": "/dJJ9dH80HwWGERo5U59tw9JzYBQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=QLobZQH3wEs"
+  },
+  "protect-the-boss": {
+    "titulo_original": "보스를 지켜라",
+    "pais": "Coreia do Sul",
+    "ano": 2011,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Sung",
+      "Choi Kang-hee",
+      "Kim Jae-joong",
+      "Wang Ji-hye",
+      "Park Yeong-gyu"
+    ],
+    "diretor": "So Jung-hyun",
+    "roteirista": "Kwon Ki-young",
+    "plataformas": [
+      "SBS",
+      "Viki",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": 12,
+    "poster": "/u1lUFn17F8WV8Sh2FiVzCymS3Un.jpg",
+    "banner": "/w2V7q6RGzdA1112IGxmczXQnOCm.jpg",
+    "trailer": null
+  }
+}
