@@ -1,0 +1,251 @@
+{
+  "pachinko": {
+    "titulo_original": "Pachinko",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Min-ho",
+      "Youn Yuh-jung",
+      "Kim Min-ha",
+      "Jin Ha"
+    ],
+    "diretor": "Kogonada",
+    "roteirista": "Soo Hugh",
+    "plataformas": [
+      "Apple TV+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg",
+    "banner": "/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=riunEGnG1fM"
+  },
+  "little-women": {
+    "titulo_original": "작은 아씨들",
+    "titulo_br": "As Três Irmãs",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Kim Go-eun",
+      "Nam Ji-hyun",
+      "Park Ji-hu",
+      "Wi Ha-joon",
+      "Uhm Ji-won"
+    ],
+    "diretor": "Kim Hee-won",
+    "roteirista": "Chung Seo-kyung",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/gjWCBpkbbE7eCe7au2mT3MhK6Uq.jpg",
+    "banner": "/qdbuTm6cHRNKnLZarfsUg6acqvB.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eau9dwsNqhI"
+  },
+  "miss-night-and-day": {
+    "titulo_original": "낮과 밤이 다른 그녀",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Jung-eun",
+      "Jung Eun-ji",
+      "Choi Jin-hyuk",
+      "Baek Seo-hoo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/qoMMZewrhU2TWMswpsNGEFpm7C4.jpg",
+    "banner": "/r2yUQj5vGHLyo7KCjCJLG78CExc.jpg",
+    "trailer": null
+  },
+  "crash-course-in-romance": {
+    "titulo_original": "일타 스캔들",
+    "titulo_br": "Intensivão de Amor",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "elenco": [
+      "Jeon Do-yeon",
+      "Jung Kyung-ho",
+      "Roh Yoon-seo",
+      "Oh Eui-sik"
+    ],
+    "diretor": "Yoo Je-won",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/aNPCGqweuLBfaaN0r802fq1v3TG.jpg",
+    "banner": "/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
+    "trailer": null
+  },
+  "cinderella-at-2am": {
+    "titulo_original": "새벽 2시의 신데렐라",
+    "titulo_br": "Sonhando com um Maldito Conto de Fadas",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Pyo Ye-jin",
+      "Moon Sang-min",
+      "Shin Hyun-been",
+      "Lee Jun-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Prime Video",
+      "Paramount+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/zJbzcKvxabHGzy7alQLXSc3TDIe.jpg",
+    "banner": "/1dOnZRIvxcTU8yesBLApjktIyeE.jpg",
+    "trailer": null
+  },
+  "mask-girl": {
+    "titulo_original": "마스크걸",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 7,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Go Hyun-jung",
+      "Nana",
+      "Lee Han-byeol",
+      "Ahn Jae-hong"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+    "banner": "/sfagVOgXVONyDAOI4BjnofLcYpv.jpg",
+    "trailer": "https://www.youtube.com/watch?v=muUK6Ky0Ais"
+  },
+  "queenmaker": {
+    "titulo_original": "퀸메이커",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 11,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Kim Hee-ae",
+      "Moon So-ri",
+      "Ryu Soo-young",
+      "Seo Yi-sook"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/4PLY6WSRgBKMY9Wc7npJA5f28lc.jpg",
+    "banner": "/edZxEXpVvb3A7w2Tc7layhX8Frc.jpg",
+    "trailer": null
+  },
+  "the-trunk": {
+    "titulo_original": "트렁크",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Gong Yoo",
+      "Seo Hyun-jin",
+      "Jung Yun-ha",
+      "Kim Dong-won"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/d4RSgEVbISGhgPpxfZQg5chpAZ9.jpg",
+    "banner": "/79DCyZhUcFsiGfyjNlFH1lS1t4c.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8j3N982PQ58"
+  },
+  "melo-movie": {
+    "titulo_original": "멜로무비",
+    "titulo_br": "Um Amor de Cinema",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Choi Woo-shik",
+      "Park Bo-young",
+      "Lee Jun-young",
+      "Jeon So-nee"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+    "banner": "/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vYUXmZYv6kY"
+  },
+  "nine-puzzles": {
+    "titulo_original": "나인 퍼즐",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 11,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "elenco": [
+      "Kim Da-mi",
+      "Son Suk-ku",
+      "Park Gyu-young",
+      "Park Ji-hwan"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/jKSoFgdScObjsZ7l6z8TrSl2o4r.jpg",
+    "banner": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "trailer": null
+  }
+}

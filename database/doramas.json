@@ -104,7 +104,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -368,7 +368,7 @@
       "SBS",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -3238,49 +3238,50 @@
     "dublado": true,
     "categorias": [
       "Romance",
-      "Romance Maduro",
-      "Comédia"
+      "Comédia",
+      "Emocionantes",
+      "Romance Maduro"
     ],
     "tropos": [
-      "Workplace",
-      "Comida"
+      "Slow Burn",
+      "Rivais",
+      "Colegial"
     ],
     "temas": [
       "Educação",
-      "Família",
-      "Maternidade",
-      "Comida"
+      "Amor",
+      "Pressão",
+      "Família"
     ],
     "profissoes": [
-      "Professor de Cursinho",
-      "Comerciante",
-      "Ex-Atleta"
+      "Vendedora",
+      "Professor"
     ],
     "elenco": [
       "Jeon Do-yeon",
       "Jung Kyung-ho",
-      "Shin Jae-ha",
-      "Roh Yoon-seo"
+      "Roh Yoon-seo",
+      "Oh Eui-sik"
     ],
-    "diretor": "Yu Je-won",
-    "roteirista": "Yang Hee-seung",
+    "diretor": "Yoo Je-won",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9,
-      "mdl": 8.3,
-      "imdb": 7.7
+      "chatgpt": 9.1,
+      "mdl": 8.6,
+      "imdb": 8.4
     },
     "sensacoes": {
-      "romance": 7,
+      "romance": 8,
       "quimica": 8,
-      "emocao": 7,
+      "emocao": 8,
       "humor": 8,
-      "beijos": 5
+      "beijos": 6
     },
     "flags": {
       "green": 8,
-      "red": 2
+      "red": 4
     },
     "triangulo_amoroso": false,
     "perfil": {
@@ -3290,20 +3291,24 @@
     "ost": [],
     "premios": [],
     "banner": "/o3tS28maAJTDt9Zmnn4JvNv2Hix.jpg",
-    "poster": "/88rQREli2xtoDV6HToJysp71ZL7.jpg",
-    "trailer": "https://www.youtube.com/watch?v=M0roNIisQ5w",
-    "sinopse": "Nam Haeng-seon já foi estrela do handebol nacional; hoje comanda uma quentinharia e cria a filha adolescente com a energia de quem joga uma final por dia. Sua vida vira de cabeça pra baixo quando entra no universo paralelo dos cursinhos de elite de Seul — onde professores são celebridades e mães disputam vagas como ingressos de show. No topo dessa pirâmide está Choi Chi-yeol, o astro da matemática: milionário, esgotado e incapaz de comer qualquer coisa... exceto, misteriosamente, a comida dela.",
-    "porque_assistir": "Jeon Do-yeon — premiada em Cannes! — numa comédia romântica é acontecimento raro, e a dupla com Jung Kyung-ho tem ternura de sobra. Entre a sátira afiada da pressão escolar coreana e um romance adulto que cresce no fogo baixo da comida boa, o final passou de 17% de audiência. Pra quem gosta de romance maduro com cheiro de cozinha.",
+    "poster": "/aNPCGqweuLBfaaN0r802fq1v3TG.jpg",
+    "trailer": "",
+    "sinopse": "Nam Haeng-seon é ex-atleta profissional de handebol que virou dona de banca de BANCHAN (acompanhamentos coreanos) num bairro obcecado por vestibular. Choi Chi-yeol é ESTRELA-PROFESSOR de matemática de um cursinho, ganha milhões e não come nada além do banchan dela. Comédia romântica que SATIRIZA a obsessão coreana com vestibular — mundo dos hagwons, mães competitivas, pressão insana. E entre banchan, amor.",
+    "porque_assistir": "JEON DO-YEON (Oscar coreana por Secret Sunshine, ícone do cinema autoral!) num rom-com — evento raríssimo. Jung Kyung-ho (Prison Playbook!) como o professor. Sátira aguda + comédia doce + drama social. Netflix com dublagem PT-BR. 16 episódios. Um dos maiores fenômenos de audiência de 2023 na tvN.",
     "curiosidades": [
-      "Jeon Do-yeon, vencedora de Melhor Atriz em Cannes (2007), voltou à comédia romântica após anos de papéis dramáticos.",
-      "Satiriza o competitivo mercado de hagwons (cursinhos) do bairro de Daechi-dong, em Seul.",
-      "A audiência do final ultrapassou 17%, entre as maiores da tvN em 2023.",
-      "O 'professor-celebridade de matemática' é um fenômeno real na Coreia."
+      "Estreou em janeiro de 2023 na tvN, com 16 episódios.",
+      "Jeon Do-yeon em rom-com pela primeira vez na carreira — ela é ícone do cinema autoral coreano.",
+      "Jung Kyung-ho emenda depois de Prison Playbook.",
+      "Netflix BR com dublagem PT-BR completa. Ambientado no bairro real de Daechi-dong, epicentro dos hagwons de Seul."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda pressão de vestibular, bullying entre mães, transtorno alimentar do professor e assassinato subtrama."
+    },
     "recomendacoes": [
-      "hospital-playlist",
-      "when-the-camellia-blooms",
-      "because-this-is-my-first-life"
+      "sky-castle",
+      "doctor-slump",
+      "love-next-door"
     ]
   },
   {
@@ -19855,6 +19860,845 @@
       "extraordinary-attorney-woo",
       "miss-hammurabi",
       "my-mister"
+    ]
+  },
+  {
+    "id": "pachinko",
+    "titulo": "Pachinko",
+    "titulo_original": "Pachinko",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "Apple TV+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Históricos",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Sagueko",
+      "Época",
+      "Amor Impossível",
+      "Família Encontrada"
+    ],
+    "temas": [
+      "Colonialismo",
+      "Identidade",
+      "Família",
+      "Amor"
+    ],
+    "profissoes": [
+      "Pescadora",
+      "Comerciante",
+      "Banqueiro"
+    ],
+    "elenco": [
+      "Lee Min-ho",
+      "Youn Yuh-jung",
+      "Kim Min-ha",
+      "Jin Ha"
+    ],
+    "diretor": "Kogonada",
+    "roteirista": "Soo Hugh",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.7,
+      "mdl": 8.8,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 10,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/mcbz1LgtErU9p4UdbZ0rG6RTWHX.jpg",
+    "poster": "/wUTXdmL6oNjhiStGveOaPeuFOYQ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=riunEGnG1fM",
+    "sinopse": "Sunja nasce numa aldeia de pescadores da Coreia sob ocupação japonesa no começo do séc XX. Se apaixona pelo homem errado e vai pro Japão pra recomeçar. A saga de QUATRO GERAÇÕES da sua família atravessa décadas: Coreia colonizada, Osaka pós-guerra, Tóquio moderna, Nova York dos anos 80. Amor proibido, sobrevivência, identidade coreano-japonesa. Cada geração carrega o silêncio da anterior.",
+    "porque_assistir": "Baseado no romance BEST-SELLER de Min Jin Lee (National Book Award finalist). Apple TV+ 2022, 2 temporadas, dublagem PT-BR em Dolby Atmos. Youn Yuh-jung (Oscar por Minari!) como Sunja idosa. Lee Min-ho num papel completamente novo. Fotografia cinematográfica, três idiomas (coreano, japonês, inglês). Épico, contemplativo, devastador. Um dos melhores dramas coreanos da década — não é rom-com, é literatura.",
+    "curiosidades": [
+      "Baseado no romance homônimo de Min Jin Lee, finalista do National Book Award nos EUA.",
+      "Youn Yuh-jung interpreta Sunja idosa, dois anos depois de vencer o Oscar por Minari.",
+      "Falado em coreano, japonês e inglês com legendas incorporadas ao design visual.",
+      "Segunda temporada estreou em 2024 no Apple TV+."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Colonialismo, guerra, morte, racismo estrutural, gravidez fora do casamento e trauma geracional."
+    },
+    "recomendacoes": [
+      "mr-sunshine",
+      "when-life-gives-you-tangerines",
+      "my-mister"
+    ]
+  },
+  {
+    "id": "little-women",
+    "titulo": "Little Women",
+    "titulo_original": "작은 아씨들",
+    "titulo_br": "As Três Irmãs",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Advogados",
+      "Romance"
+    ],
+    "tropos": [
+      "Amizade",
+      "Mistério",
+      "Vingança"
+    ],
+    "temas": [
+      "Família",
+      "Poder",
+      "Verdade",
+      "Dinheiro"
+    ],
+    "profissoes": [
+      "Contadora",
+      "Jornalista",
+      "Artista"
+    ],
+    "elenco": [
+      "Kim Go-eun",
+      "Nam Ji-hyun",
+      "Park Ji-hu",
+      "Wi Ha-joon",
+      "Uhm Ji-won"
+    ],
+    "diretor": "Kim Hee-won",
+    "roteirista": "Chung Seo-kyung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.4,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/qdbuTm6cHRNKnLZarfsUg6acqvB.jpg",
+    "poster": "/gjWCBpkbbE7eCe7au2mT3MhK6Uq.jpg",
+    "trailer": "https://www.youtube.com/watch?v=eau9dwsNqhI",
+    "sinopse": "Inspirado NO CLÁSSICO de Louisa May Alcott, transportado pra Coreia contemporânea. Três irmãs pobres — Oh In-ju (a mais velha, contadora), In-kyung (jornalista) e In-hye (a caçula, artista) — se veem enredadas num escândalo POLÍTICO-FINANCEIRO de bilhões. Uma trama se abre. Cada uma pega um lado diferente. E o que separa 3 irmãs pode ser uma conta bancária escondida.",
+    "porque_assistir": "Kim Go-eun (Goblin, Yumi's Cells!) + Nam Ji-hyun (Suspicious Partner!) + Park Ji-hu (All of Us Are Dead) — trio raro. Roteiro de Chung Seo-kyung (co-roteirista de Old Boy e The Handmaiden) — literatura pra TV. Direção sofisticada, cenografia impecável. Netflix com dublagem PT-BR. Suspense com veias de conto de fadas sombrio. Um dos melhores de 2022.",
+    "curiosidades": [
+      "Roteiro de Chung Seo-kyung, co-roteirista dos filmes Old Boy e The Handmaiden.",
+      "Netflix com dublagem PT-BR completa.",
+      "Foi TEMPORARIAMENTE banido no Vietnã por interpretação da Guerra do Vietnã.",
+      "Baseado em premissa livre do clássico Little Women de Louisa May Alcott."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Conspiração política com mortes, corrupção, chantagem e violência contra família."
+    },
+    "recomendacoes": [
+      "the-glory",
+      "sky-castle",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "miss-night-and-day",
+    "titulo": "Miss Night and Day",
+    "titulo_original": "낮과 밤이 다른 그녀",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Fantasia",
+      "Advogados"
+    ],
+    "tropos": [
+      "Fantasia Romântica",
+      "Identidade Secreta",
+      "Workplace"
+    ],
+    "temas": [
+      "Idade",
+      "Aparência",
+      "Oportunidade",
+      "Amor"
+    ],
+    "profissoes": [
+      "Estagiária",
+      "Promotor"
+    ],
+    "elenco": [
+      "Lee Jung-eun",
+      "Jung Eun-ji",
+      "Choi Jin-hyuk",
+      "Baek Seo-hoo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 8,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/r2yUQj5vGHLyo7KCjCJLG78CExc.jpg",
+    "poster": "/qoMMZewrhU2TWMswpsNGEFpm7C4.jpg",
+    "trailer": "",
+    "sinopse": "Lee Mi-jin é mulher desempregada de 50 anos — vida difícil, currículo cheio. Depois de uma MALDIÇÃO estranha, se transforma numa jovem de 20 durante O DIA. À NOITE volta ao corpo idoso. Consegue um estágio no MINISTÉRIO PÚBLICO usando a nova aparência e vive dilemas entre as duas idades — quando o chefe dela conhece as duas versões e não sabe quem é quem.",
+    "porque_assistir": "Comédia romântica com premissa deliciosa. Lee Jung-eun (Parasita!) como Mi-jin idosa. Jung Eun-ji (Reply 1997) como jovem. Choi Jin-hyuk como o promotor. Netflix 2024 com dublagem PT-BR. Fofa, ácida, com peso emocional real — sobre idade, oportunidade e o preço de ser vista.",
+    "curiosidades": [
+      "Estreou em junho de 2024 na JTBC, 16 episódios.",
+      "Lee Jung-eun (Parasita) em papel dramático cômico.",
+      "Netflix BR com dublagem PT-BR completa.",
+      "Choi Jin-hyuk emenda depois de Positively Yours em rom-com."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "doctor-cha",
+      "because-this-is-my-first-life",
+      "miss-hammurabi"
+    ]
+  },
+  {
+    "id": "cinderella-at-2am",
+    "titulo": "Cinderella at 2AM",
+    "titulo_original": "새벽 2시의 신데렐라",
+    "titulo_br": "Sonhando com um Maldito Conto de Fadas",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "Prime Video",
+      "Paramount+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Casamento por contrato",
+      "Comédia",
+      "Fantasia"
+    ],
+    "tropos": [
+      "Casamento por contrato",
+      "Namoro de mentira",
+      "Rivais que se apaixonam"
+    ],
+    "temas": [
+      "Amor",
+      "Dinheiro",
+      "Aparências",
+      "Escolhas"
+    ],
+    "profissoes": [
+      "Herdeiro",
+      "Aspirante"
+    ],
+    "elenco": [
+      "Pyo Ye-jin",
+      "Moon Sang-min",
+      "Shin Hyun-been",
+      "Lee Jun-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 7.8,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 6,
+      "humor": 7,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/1dOnZRIvxcTU8yesBLApjktIyeE.jpg",
+    "poster": "/zJbzcKvxabHGzy7alQLXSc3TDIe.jpg",
+    "trailer": "",
+    "sinopse": "Kang Ji-woon quer se cassar por interesse — precisa de dinheiro pra família. Ha Woo-joo é herdeiro rico entediado com casamentos arranjados. Fecham UM ACORDO: ela finge ser noiva perfeita até MEIA-NOITE, ele paga o valor combinado. Só que ele começa a se apegar. E ela também. E o CONTRATO tem cláusulas que nem sabem. Releitura moderna de Cinderela com prazo e conta bancária.",
+    "porque_assistir": "Pyo Ye-jin (Taxi Driver!) + Moon Sang-min (Under the Queen's Umbrella) num rom-com fantasia. Prime Video + Paramount+ 2024 com dublagem PT-BR — raro ter em dois streamings. Curtinho (10 episódios) pra maratona. Enemies-to-lovers com pegada de conto de fadas.",
+    "curiosidades": [
+      "Estreou em novembro de 2024, 10 episódios curtos.",
+      "Disponível simultaneamente no Prime Video BR e Paramount+ BR com dublagem PT-BR — raro.",
+      "Pyo Ye-jin emenda depois do sucesso de Taxi Driver em papel cômico romântico.",
+      "Releitura moderna do conto Cinderela em chave de rom-com contratual."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "cinderella-and-four-knights",
+      "perfect-crown",
+      "business-proposal"
+    ]
+  },
+  {
+    "id": "mask-girl",
+    "titulo": "Mask Girl",
+    "titulo_original": "마스크걸",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 7,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Agridoce",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Vingança",
+      "Identidade Secreta"
+    ],
+    "temas": [
+      "Aparência",
+      "Obsessão",
+      "Sistema",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Funcionária",
+      "Streamer"
+    ],
+    "elenco": [
+      "Go Hyun-jung",
+      "Nana",
+      "Lee Han-byeol",
+      "Ahn Jae-hong"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 7.9,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 4,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/sfagVOgXVONyDAOI4BjnofLcYpv.jpg",
+    "poster": "/3O8uTUpt76ShtEtNNrOJpcwQROH.jpg",
+    "trailer": "https://www.youtube.com/watch?v=muUK6Ky0Ais",
+    "sinopse": "Kim Mo-mi é funcionária de escritório INSEGURA com a própria aparência. Vida cinza durante o dia, invisível pra todos. À NOITE vira ESTRELA MASCARADA na internet — anonimato, câmera, curtidas. Uma cadeia de tragédias ligadas ao seu perfil virtual transforma a vida dela num THRILLER SÓRDIDO que atravessa 3 corpos, 3 fases da vida, 3 versões da mesma mulher.",
+    "porque_assistir": "Netflix 2023 com dublagem PT-BR. Estrutura de 3 fases interpretadas por 3 atrizes diferentes (Lee Han-byeol, Nana, Go Hyun-jung) — proeza de atuação e direção. Ahn Jae-hong num papel obsessivo perturbador. AVISO: é INTENSO. Ambição, obsessão, aparência, violência. Não é entretenimento leve.",
+    "curiosidades": [
+      "7 episódios, estreou em agosto de 2023 na Netflix.",
+      "Adaptação do webtoon homônimo de Mae-mae.",
+      "3 atrizes diferentes interpretam a protagonista em fases distintas da vida.",
+      "Netflix BR com dublagem PT-BR completa. Ahn Jae-hong em papel completamente contra o tipo dele."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, homicídio, obsessão, pressão estética, cárcere e humilhação sexualizada online."
+    },
+    "recomendacoes": [
+      "the-glory",
+      "extracurricular",
+      "mouse"
+    ]
+  },
+  {
+    "id": "queenmaker",
+    "titulo": "Queenmaker",
+    "titulo_original": "퀸메이커",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 11,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Advogados"
+    ],
+    "tropos": [
+      "Amizade Feminina",
+      "Anti-Herói",
+      "Vingança"
+    ],
+    "temas": [
+      "Política",
+      "Poder",
+      "Sistema",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Estrategista",
+      "Advogada"
+    ],
+    "elenco": [
+      "Kim Hee-ae",
+      "Moon So-ri",
+      "Ryu Soo-young",
+      "Seo Yi-sook"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.2,
+      "mdl": 7.6,
+      "imdb": 7.2
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 5,
+      "emocao": 6,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/edZxEXpVvb3A7w2Tc7layhX8Frc.jpg",
+    "poster": "/4PLY6WSRgBKMY9Wc7npJA5f28lc.jpg",
+    "trailer": "",
+    "sinopse": "Hwang Do-hee é ESTRATEGISTA IMPLACÁVEL de conglomerado — carreira construída limpando escândalos da família chaebol. Cansa. Se une a Oh Kyung-sook, advogada ATIVISTA que ninguém leva a sério. Pra fazer dela a próxima PREFEITA de Seul. Duas mulheres, mundos opostos, um objetivo. Guerra política feminina — SEM dó, SEM romance. Só estratégia.",
+    "porque_assistir": "KIM HEE-AE (The World of the Married!) + MOON SO-RI (dois monstros do cinema coreano) juntas — evento. 11 episódios densos. Netflix 2023 com dublagem PT-BR. Sobre política real, sistema patriarcal, coragem feminina. Sem coração, mas com propósito.",
+    "curiosidades": [
+      "11 episódios, estreou em abril de 2023 na Netflix.",
+      "Reunião de duas gigantes do cinema coreano: Kim Hee-ae e Moon So-ri.",
+      "Netflix BR com dublagem PT-BR completa.",
+      "Kim Hee-ae emenda depois do fenômeno The World of the Married."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Manipulação política, chantagem, corrupção e violência contra mulheres em contexto político."
+    },
+    "recomendacoes": [
+      "wonderful-world",
+      "juvenile-justice",
+      "little-women"
+    ]
+  },
+  {
+    "id": "the-trunk",
+    "titulo": "The Trunk",
+    "titulo_original": "트렁크",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Casamento por contrato",
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Casamento por contrato",
+      "Slow Burn",
+      "Mistério"
+    ],
+    "temas": [
+      "Amor",
+      "Trauma",
+      "Segredos",
+      "Escolhas"
+    ],
+    "profissoes": [
+      "Executivo",
+      "Corretora"
+    ],
+    "elenco": [
+      "Gong Yoo",
+      "Seo Hyun-jin",
+      "Jung Yun-ha",
+      "Kim Dong-won"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.5,
+      "imdb": 7.1
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/79DCyZhUcFsiGfyjNlFH1lS1t4c.jpg",
+    "poster": "/d4RSgEVbISGhgPpxfZQg5chpAZ9.jpg",
+    "trailer": "https://www.youtube.com/watch?v=8j3N982PQ58",
+    "sinopse": "Han Jung-won vive em melancolia crônica desde um trauma antigo — passa os dias esperando algo que nunca chega. Serviço de casamento por CONTRATO de UM ANO o conecta a Noh In-ji, mulher misteriosa que aceitou o mesmo esquema. Convivência estranhamente confortável. Aí aparece um BAÚ TRANCADO num lago — dentro dele, um segredo que UNE os dois de um jeito que nenhum sabia.",
+    "porque_assistir": "GONG YOO (Goblin! Round 6!) num papel adulto e melancólico. Seo Hyun-jin (Beauty Inside, Temperature of Love) em papel misterioso. Só 8 episódios. Netflix 2024 com dublagem PT-BR. Fotografia deslumbrante, tom lento e íntimo — tipo de dorama que ganha mais quando você para pra respirar entre episódios.",
+    "curiosidades": [
+      "Baseado no romance homônimo de Kim Ryeo-ryeong.",
+      "Só 8 episódios densos — formato mini-série da Netflix.",
+      "Gong Yoo em papel completamente diferente do galã habitual.",
+      "Netflix BR com dublagem PT-BR."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Trauma, ideação suicida, casamento por contrato controverso e temas de abuso passado."
+    },
+    "recomendacoes": [
+      "perfect-crown",
+      "the-interest-of-love",
+      "when-the-phone-rings"
+    ]
+  },
+  {
+    "id": "melo-movie",
+    "titulo": "Melo Movie",
+    "titulo_original": "멜로무비",
+    "titulo_br": "Um Amor de Cinema",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Amor de Infância",
+      "Slow Burn",
+      "Second Chance"
+    ],
+    "temas": [
+      "Amor",
+      "Cinema",
+      "Tempo",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Crítico",
+      "Diretora"
+    ],
+    "elenco": [
+      "Choi Woo-shik",
+      "Park Bo-young",
+      "Lee Jun-young",
+      "Jeon So-nee"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 7.8,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/9QjIFAVFN7Pe4MbF2O7oHvLkFsI.jpg",
+    "poster": "/r89dQ1SAKRuBZMmp2YL4Yekfwxn.jpg",
+    "trailer": "https://www.youtube.com/watch?v=vYUXmZYv6kY",
+    "sinopse": "Kim Moo-yeong é CINÉFILO apaixonado — trabalha ligado a cinema, respira filme. Ko Gyeom é aspirante a DIRETORA que ainda não sabe se quer o sonho. Se apaixonam. O romance derrete cedo demais — nenhum dos dois soube segurar. Anos depois, se reencontram e REVISITAM o filme que era o amor deles. E descobrem o que ficou.",
+    "porque_assistir": "Choi Woo-shik (Parasita! Our Beloved Summer!) + Park Bo-young (Doom at Your Service, Strong Woman Do Bong-soon) — dois queridos juntos. Netflix 2025 com dublagem PT-BR. 10 episódios. Sobre amor, tempo, cinema. Nostálgico, delicado.",
+    "curiosidades": [
+      "10 episódios, estreou em fevereiro de 2025 na Netflix.",
+      "Choi Woo-shik em rom-com romântico depois de Our Beloved Summer.",
+      "Reunião de dois queridos do público coreano: Park Bo-young e Choi Woo-shik.",
+      "Netflix BR com dublagem PT-BR completa."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "our-beloved-summer",
+      "doom-at-your-service",
+      "see-you-in-my-19th-life"
+    ]
+  },
+  {
+    "id": "nine-puzzles",
+    "titulo": "Nine Puzzles",
+    "titulo_original": "나인 퍼즐",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 11,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Advogados"
+    ],
+    "tropos": [
+      "Serial Killer",
+      "Mistério",
+      "Dupla Improvável"
+    ],
+    "temas": [
+      "Justiça",
+      "Verdade",
+      "Trauma",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Perfiladora",
+      "Detetive"
+    ],
+    "elenco": [
+      "Kim Da-mi",
+      "Son Suk-ku",
+      "Park Gyu-young",
+      "Park Ji-hwan"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 8,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "poster": "/jKSoFgdScObjsZ7l6z8TrSl2o4r.jpg",
+    "trailer": "",
+    "sinopse": "Perfiladora criminal E detetive precisam COOPERAR depois que uma série de assassinatos é ligada por PEÇAS DE QUEBRA-CABEÇA enviadas às cenas de crime. Cada assassinato deixa uma peça. Nove peças formam a imagem. E a pessoa que os desafia sabe demais sobre a perfiladora — como se conhecesse a família dela desde antes.",
+    "porque_assistir": "KIM DA-MI (Itaewon Class! Our Beloved Summer!) num thriller policial denso. Son Suk-ku (Killer Paradox, Extraordinary Attorney Woo) como parceiro. Park Gyu-young (It's Okay to Not Be Okay) no elenco. Disney+ 2025 com dublagem PT-BR. Thriller psicológico frio, formato curto (11 eps). Novo hit de fim de 2025.",
+    "curiosidades": [
+      "11 episódios, estreou em 2025 no Disney+ BR.",
+      "Kim Da-mi em thriller pesado depois de Our Beloved Summer.",
+      "Son Suk-ku emenda depois do sucesso mundial de A Killer Paradox.",
+      "Disney+ com dublagem PT-BR completa."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Serial killer, cenas de crime detalhadas, manipulação psicológica e temas de infância traumática."
+    },
+    "recomendacoes": [
+      "signal",
+      "beyond-evil",
+      "mouse"
     ]
   }
 ]
