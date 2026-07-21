@@ -53,9 +53,10 @@ export const CATEGORY_MENU = [
   { facet: "Fantasia", icon: "✨", label: "Fantasia" },
   { facet: "Sobrenatural", icon: "👻", label: "Sobrenatural" },
   { facet: "Investigação", icon: "🕵️", label: "Investigação" },
-  { facet: "Coreia", icon: "🇰🇷", label: "Coreia" },
-  { facet: "Japão", icon: "🇯🇵", label: "Japão" },
-  { facet: "China", icon: "🇨🇳", label: "China" },
+  // Japão e China escondidos até o acervo crescer nessas frentes. Foco: Coreia.
+  // { facet: "Coreia", icon: "🇰🇷", label: "Coreia" },   // óbvio no acervo hoje
+  // { facet: "Japão", icon: "🇯🇵", label: "Japão" },
+  // { facet: "China", icon: "🇨🇳", label: "China" },
   { facet: "obra_prima", icon: "⭐", label: "Obras-primas" },
 ];
 
