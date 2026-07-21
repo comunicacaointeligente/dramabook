@@ -6904,7 +6904,7 @@
     "id": "love-in-contract",
     "titulo": "Love in Contract",
     "titulo_original": "월수금화목토",
-    "titulo_br": "",
+    "titulo_br": "Amor em Contrato",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2022,
@@ -6915,7 +6915,8 @@
     "classificacao": 15,
     "final": "Feliz",
     "plataformas": [
-      "tvN"
+      "tvN",
+      "Apple TV+"
     ],
     "dublado": false,
     "categorias": [
@@ -9616,6 +9617,1128 @@
       "reply-1988",
       "when-life-gives-you-tangerines",
       "our-blues"
+    ]
+  },
+  {
+    "id": "doutor-a-beira-do-amor",
+    "titulo": "Doutor à Beira do Amor",
+    "titulo_original": "닥터 섬보이",
+    "titulo_br": "Doutor à Beira do Amor",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "final": "Feliz",
+    "plataformas": [
+      "ENA",
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Médicos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Healing",
+      "Slow Burn",
+      "Slice of Life",
+      "Ilha Remota"
+    ],
+    "temas": [
+      "Cura",
+      "Trauma",
+      "Comunidade",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Cirurgião",
+      "Enfermeira"
+    ],
+    "elenco": [
+      "Lee Jae-wook",
+      "Shin Ye-eun",
+      "Hong Min-ki",
+      "Lee Soo-kyung",
+      "Kim Yoon-woo",
+      "Joo In-young"
+    ],
+    "diretor": "",
+    "roteirista": "Kim Ji-soo",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.2,
+      "mdl": 7.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 5,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 8,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/vllHmrJ2pKSjRlqOVY9SYWXcbeo.jpg",
+    "poster": "/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "trailer": "",
+    "sinopse": "Do Ji-ui é um cirurgião talentoso, com dedos precisos e um pavor absoluto do mar — herança de um trauma que a vida insiste em não deixar cicatrizar. Quando é enviado como médico de saúde pública para Pyeondongdo, uma ilha remota que todos evitam, sua rotina de hospital chique vira poeira. Lá encontra Yook Ha-ri, enfermeira misteriosa com sorriso gentil e segredos guardados, que aparece sempre no momento certo do pânico dele. Sem ter nada em comum, os dois não param de se cruzar.",
+    "porque_assistir": "A estreia mais fofa do Disney+ em 2026: Lee Jae-wook no primeiro papel pós-serviço militar, Shin Ye-eun (a Sohee jovem de A Lição) em romance healing perfeito. Ilha remota, cura emocional, mar como cenário e antagonista. Slice of life romântico do jeitinho que a gente pede pra Deus.",
+    "curiosidades": [
+      "Baseado no webtoon 'Endurance Doctor' de Kim Tae-poong.",
+      "Primeiro papel de Lee Jae-wook após concluir o serviço militar.",
+      "Reencontro de Shin Ye-eun com o gênero rom-com após 'A História do Casamento por Contrato do Sr. Park'.",
+      "Gravado majoritariamente em Yeongjongdo e ilhas de Incheon para reforçar o isolamento visual da Pyeondongdo ficcional."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "when-life-gives-you-tangerines",
+      "hospital-playlist",
+      "um-amor-que-ilumina"
+    ]
+  },
+  {
+    "id": "love-next-door",
+    "titulo": "Love Next Door",
+    "titulo_original": "엄마친구아들",
+    "titulo_br": "O Amor Mora ao Lado",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Amor de Infância",
+      "Vizinhos",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Recomeço",
+      "Família",
+      "Amizade",
+      "Cura"
+    ],
+    "profissoes": [
+      "Executiva",
+      "Arquiteto"
+    ],
+    "elenco": [
+      "Jung Hae-in",
+      "Jung So-min",
+      "Kim Ji-eun",
+      "Yoon Ji-on"
+    ],
+    "diretor": "Yoo Je-won",
+    "roteirista": "Shin Ha-eun",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.3,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+    "poster": "/lHSnzui4skTidHkAwQ2Qaccdokr.jpg",
+    "trailer": "https://www.youtube.com/watch?v=igovXqQsA7U",
+    "sinopse": "Bae Seok-ryu foi a filha perfeita: notas altas, MBA, emprego dos sonhos numa gigante americana. Um dia larga tudo, cancela o casamento e volta pra casa dos pais em Seul sem explicação. Do outro lado do muro mora Choi Seung-hyo, o menino que ela cresceu sendo comparada — o famoso 'filho da amiga da mãe'. Agora arquiteto renomado, ele nunca esqueceu a menina que sempre o vencia em tudo. O reencontro reacende afetos que nenhum dos dois soube nomear na época certa.",
+    "porque_assistir": "Jung Hae-in e Jung So-min em química tão gostosa que se percebe do outro lado da tela. Do mesmo diretor de Hospital Playlist — essa estética 'quentinha' de bairro coreano é marca dele. Trilha OST maravilhosa. Rom-com de amigo de infância que virou romance, do jeito clássico e reconfortante.",
+    "curiosidades": [
+      "Diretor Yoo Je-won, o mesmo de Hospital Playlist — daí a estética 'quentinha' de bairro coreano.",
+      "Roteirista Shin Ha-eun ('Mr. Queen', 'The Crowned Clown') voltando ao romance contemporâneo.",
+      "Jung So-min voltou à tvN depois de 5 anos longe de rom-com.",
+      "A subtrama de saúde da protagonista é inspirada em livros reais sobre sobreviventes de câncer."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda diagnóstico de câncer e recuperação da protagonista — pode ser gatilho pra quem viveu experiência similar."
+    },
+    "recomendacoes": [
+      "hometown-cha-cha-cha",
+      "when-the-weather-is-fine",
+      "our-blues"
+    ]
+  },
+  {
+    "id": "a-shop-for-killers",
+    "titulo": "A Shop for Killers",
+    "titulo_original": "킬러들의 쇼핑몰",
+    "titulo_br": "Uma Loja Para Assassinos",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 2,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Ação",
+      "Mistério",
+      "Família Encontrada",
+      "Vingança"
+    ],
+    "temas": [
+      "Segredos",
+      "Sobrevivência",
+      "Passado",
+      "Confiança"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Empresário"
+    ],
+    "elenco": [
+      "Lee Dong-wook",
+      "Kim Hye-jun",
+      "Geum Han-na",
+      "Kim Min",
+      "Jo Han-sun"
+    ],
+    "diretor": "",
+    "roteirista": "E.oni, Lee Kwon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.7,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/mWVeYmtCfA3zvSeZtW5bN2Khe01.jpg",
+    "poster": "/hx84Fg4I35nkxtH69e9aOmUVtdR.jpg",
+    "trailer": "",
+    "sinopse": "Jeong Ji-an cresceu sob a tutela do tio Jeong Jin-man, dono de um estranho shopping online chamado 'Murthehelp' — nome sem graça pra quem não sabe o que ele realmente vende. Quando o tio aparece morto por suposto suicídio, ela volta pra casa da infância e descobre em uma noite: o tio era muito mais do que dizia, o shopping era muito mais do que parecia, e agora um exército de assassinos está a caminho.",
+    "porque_assistir": "Um dos maiores sucessos do Disney+ Coreia em 2024 — nota 8.7 no MDL e considerada pela crítica O K-drama de ação mais bem coreografado do ano. Lee Dong-wook treinou 5 meses com equipe de John Wick e fez a maioria das cenas sem dublê. Estrutura de flashback por episódio, cada um focando em um personagem. Renovada pra 2ª temporada.",
+    "curiosidades": [
+      "Baseado no romance 'The Killer's Shopping Mall' (2020) de Kang Ji-young.",
+      "Cada episódio foca em um personagem diferente, revelando o passado do tio por camadas.",
+      "Lee Dong-wook treinou 5 meses com a equipe de stunts de John Wick.",
+      "A cena do supermercado no ep. 6 foi comparada por críticos ocidentais à cena da boate de Atomic Blonde."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica constante, tiroteios, tortura, suicídio no ep. 1 e temas de tráfico humano. Não é uma série pra qualquer noite."
+    },
+    "recomendacoes": [
+      "bloodhounds",
+      "vincenzo",
+      "moving"
+    ]
+  },
+  {
+    "id": "wonderful-world",
+    "titulo": "Wonderful World",
+    "titulo_original": "원더풀 월드",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 14,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "MBC",
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Vingança",
+      "Luto",
+      "Second Chance"
+    ],
+    "temas": [
+      "Maternidade",
+      "Luto",
+      "Justiça",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Professora",
+      "Escritora"
+    ],
+    "elenco": [
+      "Kim Nam-joo",
+      "Cha Eun-woo",
+      "Kim Kang-woo",
+      "Lim Se-mi",
+      "Cha Soo-yeon"
+    ],
+    "diretor": "",
+    "roteirista": "Kim Eun-ji",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.3,
+      "mdl": 8.3,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 10,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/9MoVZ6nkBJv45TlYnw3RWnxbzJk.jpg",
+    "poster": "/h6sUmEotEp3gw2j0ThpTL6CdwJd.jpg",
+    "trailer": "",
+    "sinopse": "Eun Soo-hyun é professora universitária de psicologia e escritora best-seller — vida cheia, respeitada, feliz. Até o filho pequeno morrer num atropelamento e o culpado escapar da justiça por brechas legais. Ela toma a decisão irreversível de fazer justiça com as próprias mãos. Anos depois, ao sair da prisão, cruza com Kwon Sun-yul, um jovem misterioso ligado de forma inesperada ao seu passado.",
+    "porque_assistir": "Um dos dramas emocionalmente mais devastadores de 2024. Kim Nam-joo levou o Daesang da MBC pelo papel — a cena de luto no ep. 2 (take único de 12 minutos) é apontada pela crítica coreana como uma das melhores atuações do ano. Cha Eun-woo (ASTRO) fugindo do rótulo de galã e provando ser ator. Audiência dobrou ao longo dos 14 episódios.",
+    "curiosidades": [
+      "Retorno de Kim Nam-joo aos protagonistas depois de 'The World of the Married' (2020).",
+      "Primeiro papel adulto 'sério' de Cha Eun-woo (ASTRO), fugindo do rótulo de galã de rom-com.",
+      "A cena do luto no ep. 2 foi gravada em um take único de 12 minutos.",
+      "Kim Nam-joo levou o Grande Prêmio (Daesang) do MBC Drama Awards 2024."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Morte violenta de criança (atropelamento), luto materno pesado, vingança e prisão. Cenas de forte carga emocional."
+    },
+    "recomendacoes": [
+      "the-glory",
+      "marry-my-husband",
+      "my-mister"
+    ]
+  },
+  {
+    "id": "when-the-phone-rings",
+    "titulo": "When the Phone Rings",
+    "titulo_original": "지금 거신 전화는",
+    "titulo_br": "Se o Telefone Tocar",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Feliz",
+    "plataformas": [
+      "MBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Casamento por contrato",
+      "Mistério",
+      "Sequestro"
+    ],
+    "temas": [
+      "Segredos",
+      "Poder",
+      "Amor",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Porta-Voz",
+      "Tradutora"
+    ],
+    "elenco": [
+      "Yoo Yeon-seok",
+      "Chae Soo-bin",
+      "Heo Nam-jun",
+      "Jang Gyu-ri"
+    ],
+    "diretor": "",
+    "roteirista": "Kim Ji-woon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.9,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/2vtI9xzD6qpDzY9m8kV67QY0qfM.jpg",
+    "poster": "/jF0jc4GiLoA2UxTurcCh1ED3akU.jpg",
+    "trailer": "",
+    "sinopse": "Baek Sa-eon é o porta-voz presidencial mais jovem da história da Coreia. Casou por interesse político com Hong Hui-ju, filha de um poderoso magnata dos jornais, e vive um casamento de fachada — ela é muda por escolha, ele mal a olha. Até que Hui-ju é sequestrada. E recebe uma ligação que muda absolutamente tudo entre eles.",
+    "porque_assistir": "6 semanas seguidas no Top 10 global da Netflix e a série coreana romântica-thriller mais viciante do fim de 2024. Chae Soo-bin treinou 4 meses com intérpretes de língua de sinais coreana pra fazer o papel. Química elétrica com Yoo Yeon-seok, ambientação estilizada, viradas de dar nó. A trilha 'Would You Marry Me' virou hit no Melon.",
+    "curiosidades": [
+      "Baseado no web novel homônimo de Geon Eomul-nyeon, sucesso de vendas na Kakao Page.",
+      "Chae Soo-bin usa língua de sinais coreana durante toda a série — treinou 4 meses com intérpretes profissionais.",
+      "6 semanas seguidas no Top 10 global do Netflix no fim de 2024.",
+      "Trilha original 'Would You Marry Me' virou hit no Melon e Spotify Korea logo após o ep. 6."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Sequestro, cativeiro, violência doméstica no passado dos personagens, tortura psicológica e ameaças à vida. Romance com dinâmica de posse."
+    },
+    "recomendacoes": [
+      "perfect-crown",
+      "marry-my-husband",
+      "queen-of-tears"
+    ]
+  },
+  {
+    "id": "blood-free",
+    "titulo": "Blood Free",
+    "titulo_original": "지배종",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Fantasia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Distopia",
+      "CEO",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Bioética",
+      "Poder",
+      "Tecnologia",
+      "Ambição"
+    ],
+    "profissoes": [
+      "CEO",
+      "Ex-Militar"
+    ],
+    "elenco": [
+      "Ju Ji-hoon",
+      "Han Hyo-joo",
+      "Lee Hee-jun",
+      "Lee Mu-saeng",
+      "Park Ji-yeon"
+    ],
+    "diretor": "",
+    "roteirista": "Lee Su-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 8,
+      "imdb": 7.1
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 5,
+      "humor": 2,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/nDphlckJoHxkEoxFPillTrdNC3M.jpg",
+    "poster": "/8uaGPYAWVhDqdn5SNRCypsrt1nG.jpg",
+    "trailer": "",
+    "sinopse": "Num futuro próximo, a BF (Blood Free) domina o mercado global de carne cultivada em laboratório — a matança de animais virou coisa do passado. Yoon Ja-yoo, CEO enigmática da empresa, contrata o ex-capitão da guarda presidencial Woo Chae-woon como novo chefe de segurança depois que uma série de ataques revela que alguém quer destruí-la, e junto com ela a tecnologia que ela representa.",
+    "porque_assistir": "Da mesma roteirista de Stranger (Lee Su-yeon) — um dos K-dramas mais premiados da década. Ficção científica coreana com um dos maiores orçamentos por episódio já feitos. Ju Ji-hoon (o mesmo do Trauma Code!) e Han Hyo-joo em duelo de contenção. Distopia elegante pra quem gosta de cerebral.",
+    "curiosidades": [
+      "Roteirista Lee Soo-yeon é a mesma de Stranger — um dos K-dramas mais premiados da década.",
+      "Produção da Studio Dragon com um dos maiores orçamentos por episódio de um K-drama de sci-fi.",
+      "Ju Ji-hoon e Han Hyo-joo já haviam trabalhado juntos em 'Golden Slumber' (2018).",
+      "A pesquisa sobre carne cultivada foi consultada com cientistas coreanos reais do setor de foodtech."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência de ação com armas de fogo, sangue, tortura corporativa e discussões de bioética pesadas."
+    },
+    "recomendacoes": [
+      "the-trauma-code-heroes-on-call",
+      "vincenzo",
+      "moving"
+    ]
+  },
+  {
+    "id": "karma",
+    "titulo": "Karma",
+    "titulo_original": "악연",
+    "titulo_br": "Carma",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Antologia",
+      "Anti-Herói",
+      "Destino"
+    ],
+    "temas": [
+      "Culpa",
+      "Vingança",
+      "Passado",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Diversos"
+    ],
+    "elenco": [
+      "Park Hae-soo",
+      "Shin Min-a",
+      "Lee Hee-jun",
+      "Kim Sung-kyun",
+      "Lee Kwang-soo",
+      "Gong Seung-yeon"
+    ],
+    "diretor": "Lee Il-hyung",
+    "roteirista": "Lee Il-hyung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 8,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 2,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/66X23qG4RPk7XPDQCFFHHCage3M.jpg",
+    "poster": "/tdJhm2csXLPZk7MLxb4GeJCbguj.jpg",
+    "trailer": "https://www.youtube.com/watch?v=MMX4KPwlyc0",
+    "sinopse": "Seis desconhecidos veem suas vidas se cruzarem por causa de um único acidente. Cada um carrega uma versão do que aconteceu, cada um tem algo a esconder, e o passado tem uma forma incômoda de cobrar sua conta. À medida que os segredos vêm à tona, todos descobrem que ninguém escapa impune — e que carma não é castigo, é geometria.",
+    "porque_assistir": "Antologia de apenas 6 episódios, lançados de uma vez — perfeita pra maratonar numa tarde. Park Hae-soo (Round 6), Shin Min-a em raro papel dramático, Lee Kwang-soo em faceta que ninguém esperava. Do diretor de 'A Violent Prosecutor'. Sombrio, coeso, ritmo enxuto.",
+    "curiosidades": [
+      "Adaptado do webtoon homônimo de Choi Hee-sun publicado no KakaoPage.",
+      "Dirigido por Lee Il-hyung, do filme 'A Violent Prosecutor'.",
+      "Estreou na Netflix em abril de 2025 com os 6 episódios lançados de uma vez.",
+      "Reúne Park Hae-soo (Round 6) e Shin Min-a em raro papel dramático da atriz."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, morte e temas pesados de culpa e vingança."
+    },
+    "recomendacoes": [
+      "the-glory",
+      "mouse",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "the-impossible-heir",
+    "titulo": "The Impossible Heir",
+    "titulo_original": "로얄로더",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Advogados"
+    ],
+    "tropos": [
+      "Chaebol",
+      "Amizade",
+      "Ambição",
+      "Underdog"
+    ],
+    "temas": [
+      "Poder",
+      "Classe",
+      "Ambição",
+      "Lealdade"
+    ],
+    "profissoes": [
+      "Herdeiro",
+      "Advogado"
+    ],
+    "elenco": [
+      "Lee Jae-wook",
+      "Lee Jun-young",
+      "Hong Su-zu",
+      "Choi Hee-jin",
+      "Han Sang-jin"
+    ],
+    "diretor": "Min Yeon-hong",
+    "roteirista": "Choi Won",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/sXT9JVUznUwwVy3LsYeD4kCwGgv.jpg",
+    "poster": "/7pkDg7fTMbdemdDHGdFTlh2a3P2.jpg",
+    "trailer": "",
+    "sinopse": "Han Tae-oh é filho da empregada de uma poderosa família chaebol — bolsista brilhante, discreto, colega de escola do herdeiro ilegítimo Kang In-ha. Os dois selam um pacto no colégio: juntos vão tomar o império. Anos depois, o plano começa a se mover peça a peça, e a ambição compartilhada testa lealdade, amizade e cada limite moral. Nem toda coroa cabe em duas cabeças.",
+    "porque_assistir": "Lee Jae-wook consolidando a versatilidade pós-Alchemy of Souls, ao lado de Lee Jun-young numa química intensa que carrega a série. Suspense corporativo no universo chaebol, ritmo de estreia forte, direção elegante. Trágico e ambicioso.",
+    "curiosidades": [
+      "Lee Jae-wook interpreta o filho da empregada da família chaebol, papel que consolidou sua imagem de ator versátil após Alchemy of Souls.",
+      "Estreou no Disney+ em fevereiro de 2024 com 12 episódios.",
+      "Dirigido por Min Yeon-hong, roteiro de Choi Won.",
+      "A intensidade da parceria entre os protagonistas gerou grande discussão entre fãs internacionais."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Violência, manipulação psicológica e temas de abuso familiar."
+    },
+    "recomendacoes": [
+      "reborn-rich",
+      "itaewon-class",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "chief-detective-1958",
+    "titulo": "Chief Detective 1958",
+    "titulo_original": "수사반장 1958",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "MBC",
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Históricos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Época",
+      "Dupla Improvável",
+      "Justiça"
+    ],
+    "temas": [
+      "Justiça",
+      "Corrupção",
+      "Anos 50",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Detetive"
+    ],
+    "elenco": [
+      "Lee Je-hoon",
+      "Lee Dong-hwi",
+      "Seo Eun-soo",
+      "Choi Woo-sung",
+      "Yoon Hyun-soo"
+    ],
+    "diretor": "Kim Sung-hoon",
+    "roteirista": "Park Jae-beom",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 3,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/teJVPef30lrI3zzC96BPoTYkwMo.jpg",
+    "poster": "/3iJPQbGF9MzZQXb5HiUZP43LPz8.jpg",
+    "trailer": "",
+    "sinopse": "Coreia, 1958, pós-guerra e pré-milagre econômico. Park Yeong-han é jovem detetive de uma cidadezinha rural — competente, teimoso e ingênuo. Transferido para a delegacia de Jongnam em Seul, encontra um mundo de corrupção enraizada, brechas legais para os poderosos e polícia que trabalha pro lado errado. Junto a um trio de aliados improváveis, decide enfrentar o sistema pra defender os cidadãos comuns.",
+    "porque_assistir": "Prequela vibrante da série clássica 'Chief Inspector' (que rodou de 1971 a 1989 na MBC). Lee Je-hoon (Taxi Driver, Signal) retomando parceria com o diretor Kim Sung-hoon. Reconstituição de época impecável, humor com peso social. Um dos melhores dramas policiais de 2024.",
+    "curiosidades": [
+      "Prequela da série clássica Chief Inspector (Suri banjang), transmitida pela MBC entre 1971 e 1989.",
+      "Lee Je-hoon retoma parceria com o diretor Kim Sung-hoon após Taxi Driver.",
+      "Ambientado na conturbada Coreia do pós-Guerra, aborda corrupção policial e injustiças reais da era Rhee Syng-man.",
+      "Estreou em abril de 2024 pela MBC com distribuição internacional no Disney+."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência policial, tortura e corrupção institucional."
+    },
+    "recomendacoes": [
+      "signal",
+      "stranger",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "head-over-heels",
+    "titulo": "Head Over Heels",
+    "titulo_original": "견우와 선녀",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Agridoce",
+    "plataformas": [
+      "tvN",
+      "Prime Video"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Sobrenatural",
+      "Comédia"
+    ],
+    "tropos": [
+      "Colegial",
+      "Amor Impossível",
+      "Destino"
+    ],
+    "temas": [
+      "Destino",
+      "Amor",
+      "Sacrifício",
+      "Xamanismo"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Xamã"
+    ],
+    "elenco": [
+      "Cho Yi-hyun",
+      "Choo Young-woo",
+      "Cha Kang-yoon",
+      "Choo Ja-hyun",
+      "Kim Mi-kyeong"
+    ],
+    "diretor": "",
+    "roteirista": "Kim Yong-wan",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/jpxN1QHRSG660Ql62EHZvZzeaCA.jpg",
+    "poster": "/rksnG5F19305j4zAyhlcdGhqHvh.jpg",
+    "trailer": "",
+    "sinopse": "Seong-a é xamã adolescente — o que ninguém na escola pode saber. Vive escondendo os poderes até se apaixonar por Gyeon-woo, colega marcado por um destino sombrio (a série tá no meio do 'ele vai morrer jovem, mas ela não deixa'). Pra salvá-lo, ela decide usar seus dons sabendo que tem preço. Xamanismo coreano com fofura de romance escolar.",
+    "porque_assistir": "Cho Yi-hyun, revelada em All of Us Are Dead, num romance escolar delicioso. Vibe Goblin em versão adolescente, com xamãs reais consultados na produção pra retratar rituais. Doce, mágico, com toque melancólico. Perfeito pra quem gosta de sobrenatural leve.",
+    "curiosidades": [
+      "Estreou na tvN em junho de 2025, com transmissão global via Prime Video.",
+      "Cho Yi-hyun, revelada em All of Us Are Dead, retorna ao romance escolar em um papel de xamã adolescente.",
+      "A produção consultou xamãs reais (mudang) para retratar rituais tradicionais coreanos.",
+      "Dinâmica dos protagonistas remete a Goblin em tom estudantil."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "goblin",
+      "doom-at-your-service",
+      "lovely-runner"
+    ]
+  },
+  {
+    "id": "resident-playbook",
+    "titulo": "Resident Playbook",
+    "titulo_original": "언젠가는 슬기로울 전공의생활",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Médicos",
+      "Emocionantes",
+      "Comédia"
+    ],
+    "tropos": [
+      "Slice of Life",
+      "Amizade",
+      "Workplace"
+    ],
+    "temas": [
+      "Medicina",
+      "Amizade",
+      "Amadurecimento",
+      "Vidas"
+    ],
+    "profissoes": [
+      "Médica",
+      "Residente"
+    ],
+    "elenco": [
+      "Go Youn-jung",
+      "Shin Si-ah",
+      "Kang You-seok",
+      "Han Ye-ji",
+      "Jung Jun-won"
+    ],
+    "diretor": "Shin Won-ho",
+    "roteirista": "Lee Woo-jung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.3,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/A4X2JVnABZeZpMAWcI0eBHvLYAl.jpg",
+    "poster": "/bB5Tu1Rzq6guKsMhV59aszN9c0a.jpg",
+    "trailer": "https://www.youtube.com/watch?v=bHQrRHjTPVk",
+    "sinopse": "Quatro residentes de primeiro ano da ginecologia e obstetrícia do Yulje Medical Center — o mesmo hospital do Hospital Playlist — enfrentam a rotina exaustiva do plantão, dilemas éticos e o próprio amadurecimento. Entre partos, perdas, alegrias e amizades novas, aprendem o peso e a beleza de cuidar do início da vida.",
+    "porque_assistir": "Spin-off oficial de Hospital Playlist com Shin Won-ho e Lee Woo-jung — a mesma dupla das séries Reply — no comando. Foco em obstetrícia dá densidade e delicadeza específica: partos, perdas gestacionais, dilemas éticos. Participações especiais do elenco original. Se você amou Hospital Playlist, essa aqui é o abraço quentinho.",
+    "curiosidades": [
+      "Spin-off oficial de Hospital Playlist, dirigido por Shin Won-ho e escrito por Lee Woo-jung — mesma dupla das séries Reply.",
+      "Ambientado no fictício Yulje Medical Center, o mesmo hospital da série-mãe.",
+      "Estreou em abril de 2025 na tvN e Netflix após adiamentos por causa da greve médica na Coreia.",
+      "Traz participações especiais do elenco original, incluindo Jeon Mi-do como Chae Song-hwa."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Cenas médicas realistas, perdas gestacionais e luto — tratados com o mesmo carinho da série original."
+    },
+    "recomendacoes": [
+      "hospital-playlist",
+      "reply-1988",
+      "doctor-slump"
+    ]
+  },
+  {
+    "id": "the-divorce-insurance",
+    "titulo": "The Divorce Insurance",
+    "titulo_original": "이혼보험",
+    "titulo_br": "Seguro de Divórcio",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Prime Video"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Workplace",
+      "Second Chance",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Casamento",
+      "Divórcio",
+      "Trabalho",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Atuário",
+      "CEO"
+    ],
+    "elenco": [
+      "Lee Dong-wook",
+      "Lee Kwang-soo",
+      "Lee Ju-bin",
+      "Lee Da-hee",
+      "Yoo Hyun-soo"
+    ],
+    "diretor": "Lee Won-suk",
+    "roteirista": "Lee Hyun",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 8.1,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 7,
+      "emocao": 5,
+      "humor": 7,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
+    "poster": "/2xXA6B4EcTIUZ0GzX2ApaFjWyP2.jpg",
+    "trailer": "",
+    "sinopse": "Um atuário três vezes divorciado (a vida cobra caro por decisões impulsivas) transforma a desilusão pessoal em produto e cria o primeiro seguro contra divórcio da Coreia. Ao lançar o produto, se envolve profissional e pessoalmente com colegas que também carregam feridas do amor. Prova de que romance pode nascer da estatística mais deprimente do mundo.",
+    "porque_assistir": "Retorno de Lee Dong-wook a um papel leve depois de vários dramas sombrios — e ele arrasa em comédia. Premissa deliciosamente absurda que se inspira no aumento real de divórcios na Coreia. Química ácida, humor de gente adulta, um dos melhores rom-coms de 2025. Perfeito pra rir com inteligência.",
+    "curiosidades": [
+      "Escrito por Lee Hyun, com direção de Lee Won-suk.",
+      "Lee Dong-wook interpreta um atuário que decide criar o primeiro seguro contra divórcio da Coreia.",
+      "A premissa se inspira no aumento real de divórcios na Coreia do Sul entre casais recém-casados.",
+      "Segundo trabalho de Lee Ju-bin com a tvN após Marry My Husband."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "love-in-contract",
+      "what-s-wrong-with-secretary-kim",
+      "perfect-crown"
     ]
   }
 ]

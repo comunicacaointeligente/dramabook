@@ -350,6 +350,32 @@ a { color: inherit; text-decoration: none; }
 .aviso-conteudo.n-sensivel  { border-left-color: #E8862C; }
 .aviso-conteudo.n-intenso   { border-left-color: #E0453C; }
 .card-cont { font-size: 9px; vertical-align: middle; }
+
+/* 🔮 Diagnóstico da dorameira */
+.diagnostico { position: relative; margin: 8px 0 28px; padding: 24px 26px; border-radius: 18px;
+  background: linear-gradient(135deg,
+    color-mix(in srgb, var(--dg-cor, var(--laranja-ci)) 18%, transparent),
+    color-mix(in srgb, var(--roxo-suave, #6A5ACD) 12%, transparent));
+  border: 1px solid color-mix(in srgb, var(--dg-cor, var(--laranja-ci)) 34%, transparent);
+  overflow: hidden; }
+.diagnostico.vazio { text-align: center; color: var(--text-dim); font-size: 14px; padding: 22px; }
+.dg-titulinho { margin: 0 0 12px; font-size: 11px; font-weight: 700; letter-spacing: 1.2px;
+  color: var(--text-dim); text-transform: uppercase; }
+.dg-hero { display: flex; align-items: center; gap: 14px; margin-bottom: 6px; }
+.dg-emoji { font-size: 44px; line-height: 1; filter: drop-shadow(0 2px 6px rgba(0,0,0,.25)); }
+.dg-titulo { margin: 0; font-size: 26px; font-weight: 800; color: var(--text); line-height: 1.15; }
+.dg-sub { margin: 4px 0 16px; font-size: 15px; color: var(--text-dim); line-height: 1.45; max-width: 640px; }
+.dg-selos { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 18px; }
+.dg-selo { display: inline-block; padding: 5px 11px; border-radius: 999px; font-size: 12px; font-weight: 600;
+  background: color-mix(in srgb, var(--dg-cor, var(--laranja-ci)) 22%, transparent);
+  border: 1px solid color-mix(in srgb, var(--dg-cor, var(--laranja-ci)) 44%, transparent);
+  color: var(--text); }
+.dg-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 12px; }
+.dg-stat { text-align: center; padding: 10px; border-radius: 12px;
+  background: color-mix(in srgb, var(--bg-elev) 60%, transparent); }
+.dg-stat b { display: block; font-size: 22px; font-weight: 800; color: var(--text); }
+.dg-stat i { display: block; margin-top: 2px; font-size: 11px; font-style: normal; color: var(--text-dim);
+  text-transform: uppercase; letter-spacing: .5px; }
 .sg-br { font-style: normal; color: var(--laranja-ci-2); font-weight: 600; font-size: 12.5px; }
 .modal-chips { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
 .mchip { font-size: 12.5px; padding: 5px 11px; border-radius: 999px; background: var(--surface-2); border: 1px solid var(--line); color: var(--text-dim); }

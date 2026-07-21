@@ -6,6 +6,7 @@
 import { STATE, itemsInList, recentes } from "../js/store.js";
 import { estatisticas, listasPersonalizadas } from "../js/user.js";
 import { renderCards, hydrateImages } from "./card.js";
+import { diagnosticoHTML } from "../js/diagnostico.js";
 
 const tile = (valor, rotulo, extra = "") =>
   `<div class="stat-tile"><b>${valor}</b><span>${rotulo}</span>${extra ? `<i>${extra}</i>` : ""}</div>`;
@@ -33,6 +34,8 @@ export function renderBiblioteca() {
       <h1>📚 Minha Biblioteca</h1>
       <p>Sua jornada como dorameira — tudo salvo só no seu navegador.</p>
     </div>
+
+    ${diagnosticoHTML()}
 
     <div class="stat-grid">
       ${tile(STATE.all.length, "no catálogo")}
