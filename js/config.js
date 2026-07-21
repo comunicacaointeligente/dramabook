@@ -78,7 +78,7 @@ export const EXPERIENCIAS = [
   { key: "primeiro",   icon: "👶", label: "Meu primeiro dorama",             selo: "👶 Ótimo pra começar" },
   { key: "nota95",     icon: "🏆", label: "Nota acima de 9,5",               selo: "🏆 Imperdível" },
   { key: "joias",      icon: "💎", label: "Joias escondidas",                selo: "💎 Joia escondida" },
-  { key: "lancamentos",icon: "🆕", label: "Lançamentos",                     selo: "🆕 Lançamento" },
+  { key: "lancamentos",icon: "🆕", label: "Lançamentos 2026",                selo: "🆕 Lançamento 2026" },
 ];
 
 /* 🚦 Semáforo de conteúdo — avisa antes, em vez de excluir o título.

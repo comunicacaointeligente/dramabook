@@ -105,7 +105,7 @@ const REGRAS_EXP = {
   nota95:        d => (getNota(d) ?? 0) >= 9.5,
   /* joia escondida: nota alta que o público de massa não descobriu (sem Netflix). */
   joias:         d => (getNota(d) ?? 0) >= 9 && !streamingList(d).some(p => /netflix/i.test(p)),
-  lancamentos:   d => (d.ano ?? 0) >= 2025,
+  lancamentos:   d => (d.ano ?? 0) >= 2026,   // vira 2027 no fim do ano
 };
 
 /* O dorama tem esta experiência? (regra derivada OU curadoria manual) */
