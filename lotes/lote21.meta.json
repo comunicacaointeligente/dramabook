@@ -1,0 +1,54 @@
+{
+  "the-dream-life-of-mr-kim": {
+    "titulo_original": "서울 자가에 대기업 다니는 김 부장 이야기",
+    "titulo_br": "A Vida dos Sonhos do Sr. Kim",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ryu Seung-ryong",
+      "Myung Se-bin",
+      "Cha Kang-yoon",
+      "Yoo Seung-mok"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/5F7txZIBIDVOl3LIV7Ss9dF3Nc1.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-apartment-job": {
+    "titulo_original": "아파트",
+    "titulo_br": "The Apartment Job",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Sung",
+      "Ha Yoon-kyung",
+      "Moon So-ri",
+      "Park Byung-eun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "status": "Em exibição",
+    "classificacao": 15,
+    "poster": "/k9kr6D791PFWasa9GLL8UTZokkw.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}

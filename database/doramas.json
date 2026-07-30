@@ -21834,5 +21834,182 @@
       "one-spring-night",
       "something-in-the-rain"
     ]
+  },
+  {
+    "id": "a-vida-dos-sonhos-do-sr-kim",
+    "titulo": "A Vida dos Sonhos do Sr. Kim",
+    "titulo_original": "",
+    "titulo_br": "A Vida dos Sonhos do Sr. Kim",
+    "tipo": "",
+    "pais": "",
+    "ano": 2025,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Feliz",
+    "plataformas": [],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Romance Maduro",
+      "Comédia"
+    ],
+    "tropos": [
+      "Meia-Idade",
+      "Workplace",
+      "Slice of Life"
+    ],
+    "temas": [
+      "Trabalho",
+      "Família",
+      "Felicidade",
+      "Meia-Idade",
+      "Saúde Mental"
+    ],
+    "profissoes": [
+      "Executivo"
+    ],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "Kim Nak-su é GERENTE SÊNIOR de meia-idade numa grande telco coreana — tem tudo o que os manuais coreanos prometem: apartamento próprio em Seul, família bonita, promoção iminente. Aos poucos perde o equilíbrio no trabalho e em casa. Uma pequena crise vira grande crise. E ele embarca numa jornada de AUTODESCOBERTA que redefine o que era 'felicidade' pra ele.",
+    "porque_assistir": "Ryu Seung-ryong (Kingdom! Move to Heaven!) num papel adulto e profundo. Título original enorme (traduz mais ou menos como 'A História do Manager Kim que Trabalha numa Grande Empresa e Mora em Casa Própria em Seul') — é sobre O sonho coreano de classe média por dentro. Fãs BR chamam também de 'O Agente Kim'. JTBC/Netflix 2025. 12 episódios. Reflexivo, humano.",
+    "curiosidades": [
+      "Título original em coreano é enorme: 'A História do Manager Kim que Trabalha numa Grande Empresa e Mora em Casa Própria em Seul'.",
+      "Fãs brasileiros no Threads chamam de 'O Agente Kim' (apelido informal).",
+      "Ryu Seung-ryong em papel adulto depois de Kingdom e Moving.",
+      "Estreou 25/10/2025 no JTBC, com 12 episódios."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda burnout adulto, crise de meia-idade e questões de saúde mental corporativa."
+    },
+    "recomendacoes": [
+      "my-mister",
+      "misaeng",
+      "doctor-cha"
+    ]
+  },
+  {
+    "id": "the-apartment-job",
+    "titulo": "The Apartment Job",
+    "titulo_original": "아파트",
+    "titulo_br": "The Apartment Job",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Em exibição",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Comédia",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Vingança",
+      "Workplace"
+    ],
+    "temas": [
+      "Corrupção",
+      "Comunidade",
+      "Justiça",
+      "Redenção"
+    ],
+    "profissoes": [
+      "Ex-Gângster",
+      "Síndico"
+    ],
+    "elenco": [
+      "Ji Sung",
+      "Ha Yoon-kyung",
+      "Moon So-ri",
+      "Park Byung-eun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": null,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/k9kr6D791PFWasa9GLL8UTZokkw.jpg",
+    "trailer": "",
+    "sinopse": "Park Hae-gang era o CHEFÃO da gangue Oasis. Falido, sem lugar pra fugir, se infiltra num CONDOMÍNIO recém-construído candidatando-se a SÍNDICO. O plano: roubar o fundo de reserva de longo prazo. O que ele não esperava: acaba, sem querer, virando HERÓI LOCAL ao expor um esquema de corrupção enraizado no prédio. Ex-máfia e conselho de moradores — combinação de sonho.",
+    "porque_assistir": "JI SUNG! Depois de Kill Me Heal Me, Innocent Defendant, Doctor John, Familiar Wife e Adamas — mais um papel bem escolhido dele. Ha Yoon-kyung (Extraordinary Attorney Woo!) + Moon So-ri (Queenmaker) no elenco. JTBC/Netflix 2026, estreou 11/07/2026. Comédia criminal com peso social — sobre corrupção em condomínio, tema deliciosamente coreano. Em exibição semanal!",
+    "curiosidades": [
+      "Estreou em 11/07/2026 no JTBC, sábados 22h40 e domingos 22h30 KST.",
+      "Ji Sung em mais um papel bem escolhido depois de Adamas (2022).",
+      "Ha Yoon-kyung emenda depois de Extraordinary Attorney Woo.",
+      "Ainda em exibição — Netflix BR libera episódios simultâneos ao Coreia."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ex-gângster, corrupção em condomínio, brigas pontuais e chantagem."
+    },
+    "recomendacoes": [
+      "vincenzo",
+      "good-manager",
+      "chief-detective-1958"
+    ]
   }
 ]
