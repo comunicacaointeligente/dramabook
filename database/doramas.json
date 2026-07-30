@@ -2607,9 +2607,9 @@
     "ano": 2023,
     "episodios": 16,
     "temporadas": 1,
-    "duracao": "67 min",
+    "duracao": "70 min",
     "status": "Finalizado",
-    "classificacao": 12,
+    "classificacao": 15,
     "final": "Feliz",
     "plataformas": [
       "JTBC",
@@ -2618,48 +2618,50 @@
     "dublado": true,
     "categorias": [
       "Romance",
-      "Comédia"
+      "Comédia",
+      "CEO"
     ],
     "tropos": [
+      "Rivais que se apaixonam",
       "CEO",
       "Workplace",
-      "Herdeiro"
+      "Rich Boy Poor Girl"
     ],
     "temas": [
-      "Hotelaria",
-      "Aparências",
-      "Trabalho"
+      "Amor",
+      "Classe",
+      "Trabalho",
+      "Aparências"
     ],
     "profissoes": [
-      "CEO",
-      "Concierge de Hotel"
+      "Funcionária",
+      "Herdeiro"
     ],
     "elenco": [
+      "Im Yoon-ah",
       "Lee Jun-ho",
-      "Yoona",
       "Go Won-hee",
-      "Kim Ga-eun",
-      "Ahn Se-ha"
+      "Kim Ga-eun"
     ],
-    "diretor": "Im Hyeon-wook",
-    "roteirista": "Choi Rom",
+    "diretor": "",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 8.8,
-      "mdl": 8.3,
-      "imdb": 5.8
+      "chatgpt": 9,
+      "mdl": 8.1,
+      "imdb": 8
     },
     "sensacoes": {
       "romance": 8,
       "quimica": 9,
       "emocao": 5,
-      "humor": 8,
-      "beijos": 8
+      "humor": 7,
+      "beijos": 7
     },
     "flags": {
-      "green": 9,
-      "red": 1
+      "green": 8,
+      "red": 3
     },
     "triangulo_amoroso": false,
     "perfil": {
@@ -2669,20 +2671,24 @@
     "ost": [],
     "premios": [],
     "banner": "/rHiz6GHA2bUPEtTDZvhbTmzlNm6.jpg",
-    "poster": "/tW8BMRCYSe6nySvZ749pzc31x2m.jpg",
-    "trailer": "https://www.youtube.com/watch?v=AGF16szMOmo",
-    "sinopse": "Cheon Sa-rang venceu a vida com um sorriso: é a funcionária símbolo do hotel King, treinada para encantar qualquer hóspede. Gu Won, herdeiro do grupo, tem alergia ao que considera 'sorrisos falsos' — e volta do exterior justamente para disputar a sucessão do império. Quando os dois passam a conviver no exclusivíssimo salão VVIP King the Land, o choque entre a profissional do encanto e o herdeiro do gelo derrete exatamente como você espera: devagarinho e com faísca.",
-    "porque_assistir": "Rom-com clássica no melhor estilo: dois idols lindíssimos (Junho do 2PM e Yoona do Girls' Generation), hotel de luxo, mal-entendidos deliciosos e beijos de cinema. Passou semanas como a série mais vista da Netflix no mundo. É o dorama-pipoca perfeito pra maratonar sem culpa.",
+    "poster": "/bvUvdwfeDBlyb9sg85FulzGZs0P.jpg",
+    "trailer": "",
+    "sinopse": "Cheon Sa-rang é funcionária SORRIDENTE e dedicada de um hotel de luxo. Gu Won é HERDEIRO rebelde do grupo hoteleiro — que ODEIA sorrisos falsos. Quando são forçados a trabalhar juntos, o antagonismo se transforma em atração. Rom-com corporativa clássica embalada em resort de sonho.",
+    "porque_assistir": "Sucesso GLOBAL na Netflix (top 10 em dezenas de países por semanas). Lee Jun-ho (2PM) levou o DAESANG do Baeksang 2024 pelo papel. YoonA (Girls' Generation) em rom-com deliciosa. Locações em Bangkok e Dubai. Escapista, brilhante, romântica.",
     "curiosidades": [
-      "Protagonizado por dois idols de peso: Lee Jun-ho (2PM) e Im Yoona (Girls' Generation).",
-      "Passou semanas como a série de língua não inglesa mais vista da Netflix no mundo em 2023.",
-      "A nota baixa no IMDb vem de um review-bombing após polêmica cultural com um personagem — a produção pediu desculpas e reeditou as cenas; entre fãs de rom-com, a recepção foi calorosa.",
-      "A audiência na JTBC saltou de ~5% para picos acima de 13%."
+      "YoonA (Girls' Generation) + Lee Jun-ho (2PM) juntos — dois ídolos K-pop de segunda geração.",
+      "Locações incluíram Bangkok e Dubai.",
+      "Lee Jun-ho ganhou o Grand Prize (Daesang) no Baeksang Arts Awards 2024 pelo papel.",
+      "Cenografia do hotel fictício 'The King' foi montada em estúdio replicando resorts reais."
     ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Contém representação criticada de personagens árabes no ep. 6 (equipe pediu desculpas)."
+    },
     "recomendacoes": [
+      "what-s-wrong-with-secretary-kim",
       "business-proposal",
-      "her-private-life",
-      "touch-your-heart"
+      "her-private-life"
     ]
   },
   {
@@ -4579,65 +4585,67 @@
     "id": "weightlifting-fairy-kim-bok-joo",
     "titulo": "Weightlifting Fairy Kim Bok-joo",
     "titulo_original": "역도요정 김복주",
-    "titulo_br": "Fada do Levantamento de Peso, Kim Bok-joo",
+    "titulo_br": "A Fada do Levantamento de Peso",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2016,
     "episodios": 16,
     "temporadas": 1,
-    "duracao": "61 min",
+    "duracao": "60 min",
     "status": "Finalizado",
-    "classificacao": 16,
+    "classificacao": 15,
     "final": "Feliz",
     "plataformas": [
       "MBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
-      "Comédia"
+      "Comédia",
+      "Emocionantes"
     ],
     "tropos": [
-      "Amigos para Namorados",
-      "Esporte",
-      "Universidade"
+      "Colegial",
+      "Amor de Infância",
+      "Underdog",
+      "Slow Burn"
     ],
     "temas": [
-      "Autoaceitação",
-      "Esporte",
-      "Juventude",
+      "Sonhos",
+      "Autoestima",
+      "Amor",
       "Amizade"
     ],
     "profissoes": [
-      "Atleta de Levantamento de Peso",
+      "Halterofilista",
       "Nadador"
     ],
     "elenco": [
       "Lee Sung-kyung",
       "Nam Joo-hyuk",
-      "Lee Jae-yoon",
-      "Kyung Soo-jin"
+      "Kyung Soo-jin",
+      "Lee Jae-yoon"
     ],
-    "diretor": "Oh Hyun-jong",
-    "roteirista": "Yang Hui-seung",
+    "diretor": "",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9.2,
+      "chatgpt": 9.3,
       "mdl": 8.7,
-      "imdb": 8.3
+      "imdb": 8.5
     },
     "sensacoes": {
       "romance": 8,
       "quimica": 9,
       "emocao": 6,
-      "humor": 8,
+      "humor": 7,
       "beijos": 5
     },
     "flags": {
-      "green": 10,
-      "red": 1
+      "green": 9,
+      "red": 2
     },
     "triangulo_amoroso": true,
     "perfil": {
@@ -4648,19 +4656,23 @@
     "premios": [],
     "banner": "/ktlhFbvJaOvsQJCBtVLMaGDZKjW.jpg",
     "poster": "/j6ZvCPj6bNIVbR3r6xJMRVZqsVF.jpg",
-    "trailer": "https://www.youtube.com/watch?v=FKpPKqEg2Pc",
-    "sinopse": "Kim Bok-joo levanta o dobro do próprio peso sem piscar, mas não sabe o que fazer com um coração apaixonado. Atleta universitária de levantamento de peso, ela reencontra Jung Joon-hyung, nadador zoeiro e amigo de infância que adora tirá-la do sério. Entre treinos, dietas quebradas com frango frito e crises sobre quem ela quer ser, Bok-joo descobre que crescer é isso: errar de paixão, acertar de amizade e aprender a torcer por si mesma.",
-    "porque_assistir": "O comfort dorama definitivo da categoria juvenil: o casal 'Swag' de Lee Sung-kyung e Nam Joo-hyuk (que namoraram na vida real!) é pura fofura, e a jornada de autoaceitação da Bok-joo abraça qualquer pessoa que já se sentiu 'demais' ou 'de menos'. Audiência baixa na época, status de clássico eterno hoje.",
+    "trailer": "",
+    "sinopse": "Kim Bok-joo é UNIVERSITÁRIA de halterofilismo com músculos e sonho olímpico. Reencontra Joon-hyung, NADADOR de elite amigo de infância. Cada um lida com a própria pressão — ela com transtorno alimentar, ele com o peso do talento. E entre treino e treino, aprendem juntos amor, medo e coragem.",
+    "porque_assistir": "CULT ABSOLUTO entre fãs internacionais — um dos coming-of-age mais queridos do gênero. Nam Joo-hyuk + Lee Sung-kyung (que namoraram na vida real depois!). Ela ganhou 5-7 kg de músculo pro papel. Inspirado na trajetória REAL da olímpica Jang Mi-ran. Fofo, leve, acolhedor — comfort drama de esporte com peso emocional.",
     "curiosidades": [
-      "Inspirado na trajetória da halterofilista olímpica Jang Mi-ran.",
-      "Lee Sung-kyung e Nam Joo-hyuk namoraram na vida real após as gravações.",
-      "Está entre os 10 doramas mais populares do MyDramaList.",
-      "O casal 'Swag' virou referência de friends-to-lovers."
+      "Inspirado livremente na trajetória da halterofilista olímpica sul-coreana Jang Mi-ran.",
+      "Nam Joo-hyuk e Lee Sung-kyung namoraram na vida real após a série (2017).",
+      "Lee Sung-kyung ganhou cerca de 5-7 kg de músculo para o papel.",
+      "Trilha 'Dream' de Suzy & Baekhyun virou hit associado ao drama."
     ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Aborda transtorno alimentar (bulimia) e pressão estética de forma sensível."
+    },
     "recomendacoes": [
       "twenty-five-twenty-one",
-      "fight-for-my-way",
-      "true-beauty"
+      "reply-1988",
+      "because-this-is-my-first-life"
     ]
   },
   {
@@ -20699,6 +20711,1128 @@
       "signal",
       "beyond-evil",
       "mouse"
+    ]
+  },
+  {
+    "id": "legend-of-the-blue-sea",
+    "titulo": "Legend of the Blue Sea",
+    "titulo_original": "푸른 바다의 전설",
+    "titulo_br": "A Lenda do Mar Azul",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Comédia"
+    ],
+    "tropos": [
+      "Imortal",
+      "Reencarnação",
+      "Fish Out of Water"
+    ],
+    "temas": [
+      "Amor",
+      "Destino",
+      "Passado",
+      "Fantasia"
+    ],
+    "profissoes": [
+      "Sereia",
+      "Vigarista"
+    ],
+    "elenco": [
+      "Jun Ji-hyun",
+      "Lee Min-ho",
+      "Lee Hee-joon",
+      "Shin Hye-sun",
+      "Sung Dong-il"
+    ],
+    "diretor": "Jin Hyuk",
+    "roteirista": "Park Ji-eun",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/AndNIZzaDAcLlk11KjZy2TZS07Y.jpg",
+    "poster": "/p6T9QeT1HzzFX8dVclaqh7FZvjc.jpg",
+    "trailer": "",
+    "sinopse": "No Joseon, um pescador captura uma SEREIA e a solta em segredo. Anos depois, em Seul contemporânea, ela reaparece — não sabe falar, não entende o mundo humano, mas SENTE tudo. Cruza o caminho de Heo Joon-jae, DESCENDENTE do oficial que a salvou séculos atrás. Ele é vigarista carismático que passa a se envolver com essa mulher misteriosa. E o destino tem paciência de mar.",
+    "porque_assistir": "Reencontro do roteirista de My Love from the Star (Park Ji-eun) com Jun Ji-hyun (a mesma!) — a dupla que definiu a hallyu moderna. Lee Min-ho no auge. Sucesso pan-asiático com filmagens em Palau e A Coruña. Cameos de Ahn Jae-hyun, Lee Min-jung. Romantico, fantasioso, cômico.",
+    "curiosidades": [
+      "Inspirado em conto do Joseon sobre um pescador que captura uma sereia.",
+      "Reencontro do roteirista Park Ji-eun com Jun Ji-hyun após My Love from the Star.",
+      "Cenas subaquáticas rodadas em Palau e A Coruña (Espanha).",
+      "Teve cameos de Ahn Jae-hyun, Lee Min-jung, Lee Hee-joon e Cha Tae-hyun."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Violência pontual de trama criminosa, sem cenas gráficas."
+    },
+    "recomendacoes": [
+      "my-love-from-the-star",
+      "goblin",
+      "doom-at-your-service"
+    ]
+  },
+  {
+    "id": "under-the-queen-s-umbrella",
+    "titulo": "Under the Queen's Umbrella",
+    "titulo_original": "슈룹",
+    "titulo_br": "Papel de Rainha",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Históricos",
+      "Emocionantes",
+      "Investigação"
+    ],
+    "tropos": [
+      "Realeza",
+      "Sageuk",
+      "Família"
+    ],
+    "temas": [
+      "Maternidade",
+      "Poder",
+      "Política",
+      "Aceitação"
+    ],
+    "profissoes": [
+      "Rainha",
+      "Princesa",
+      "Príncipe"
+    ],
+    "elenco": [
+      "Kim Hye-soo",
+      "Kim Hae-sook",
+      "Choi Won-young",
+      "Kim Eui-sung"
+    ],
+    "diretor": "Kim Hyung-sik",
+    "roteirista": "Park Ba-ra",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.2,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 4,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/uj8DokshBfXWiM64iEXrEldyr39.jpg",
+    "poster": "/wmLeuQSSBNTBoWSTJZteeFbzSaX.jpg",
+    "trailer": "",
+    "sinopse": "Numa dinastia Joseon fictícia, a RAINHA Hwaryeong precisa transformar seus filhos INDISCIPLINADOS em candidatos viáveis ao trono após o adoecimento do rei. Enfrenta rivais na corte, concubinas ambiciosas e conspirações constantes — enquanto luta pra proteger cada príncipe individualmente. Cada um tem um segredo. Ela conhece cada um.",
+    "porque_assistir": "Kim Hye-soo em atuação de ATRIZ MADURA absoluta — levou o Baeksang 2023 de Melhor Atriz de TV. Título alude à expressão coreana da rainha como GUARDA-CHUVA que protege os príncipes. Sageuk raro com protagonismo feminino maduro. Sensível, corajoso, com humor afiado dentro da rigidez palaciana.",
+    "curiosidades": [
+      "Rendeu a Kim Hye-soo o prêmio de Melhor Atriz de TV no Baeksang 2023.",
+      "Título alude à expressão coreana sobre a rainha como 'guarda-chuva' que protege os príncipes.",
+      "É trabalho da roteirista Park Ba-ra e do diretor Kim Hyung-sik, também de Miss Hammurabi.",
+      "Sucesso raro para sageuk em audiência de TV a cabo (média 10-16%)."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda personagem príncipe queer com sensibilidade, intrigas palacianas, mortes de crianças e envenenamentos."
+    },
+    "recomendacoes": [
+      "the-red-sleeve",
+      "the-king-s-affection",
+      "alchemy-of-souls"
+    ]
+  },
+  {
+    "id": "the-silent-sea",
+    "titulo": "The Silent Sea",
+    "titulo_original": "고요의 바다",
+    "titulo_br": "O Mar da Tranquilidade",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "55 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Fantasia",
+      "Investigação",
+      "Emocionantes",
+      "Sobrenatural",
+      "Ação"
+    ],
+    "tropos": [
+      "Sci-Fi",
+      "Sobrevivência",
+      "Distopia"
+    ],
+    "temas": [
+      "Meio Ambiente",
+      "Ganância",
+      "Ciência",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Cientista",
+      "Astronauta"
+    ],
+    "elenco": [
+      "Bae Doona",
+      "Gong Yoo",
+      "Lee Joon",
+      "Kim Sun-young"
+    ],
+    "diretor": "Choi Hang-yong",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7.9,
+      "mdl": 7.3,
+      "imdb": 6.7
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 2,
+      "emocao": 6,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/9hNJ3fvIVd4WE3rU1Us2awoTpgM.jpg",
+    "poster": "/tF4dl94nLabniP1TDeGa61OZTQI.jpg",
+    "trailer": "",
+    "sinopse": "Futuro em que a Terra sofre ESCASSEZ EXTREMA de água. Uma equipe é enviada a uma ESTAÇÃO LUNAR abandonada pra recuperar uma AMOSTRA misteriosa que pode salvar a humanidade. Chegando lá, encontram vestígios de uma TRAGÉDIA encoberta pelo governo. E o silêncio da lua não é silêncio de vazio.",
+    "porque_assistir": "Primeiro SCI-FI LUNAR coreano de peso — Bae Doona (Kingdom, Sense8) + Gong Yoo (Goblin!). Produzido por Jung Woo-sung. Expansão do curta 'The Sea of Tranquility' (2014). Sombrio, claustrofóbico, contemplativo. Netflix 2021 com dublagem PT-BR.",
+    "curiosidades": [
+      "Expansão do curta-metragem 'The Sea of Tranquility' (2014) do diretor Choi Hang-yong.",
+      "Produzido por Jung Woo-sung, ator veterano.",
+      "Cenários da estação lunar Balhae foram construídos em set fechado durante a pandemia.",
+      "Bae Doona já vinha do universo Netflix asiático com Kingdom e Sense8."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Mortes gráficas, experimentos com crianças, corpos em decomposição e claustrofobia."
+    },
+    "recomendacoes": [
+      "sweet-home",
+      "kingdom",
+      "blood-free"
+    ]
+  },
+  {
+    "id": "behind-your-touch",
+    "titulo": "Behind Your Touch",
+    "titulo_original": "힙하게",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Comédia",
+      "Romance",
+      "Sobrenatural"
+    ],
+    "tropos": [
+      "Fantasia Romântica",
+      "Serial Killer",
+      "Fish Out of Water"
+    ],
+    "temas": [
+      "Justiça",
+      "Verdade",
+      "Amor",
+      "Comunidade"
+    ],
+    "profissoes": [
+      "Veterinária",
+      "Detetive"
+    ],
+    "elenco": [
+      "Han Ji-min",
+      "Suho",
+      "Kim Ji-hoon",
+      "Ji Yoo-min"
+    ],
+    "diretor": "Kim Suk-yoon",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 8.3,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 5,
+      "emocao": 6,
+      "humor": 8,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/sZvkElBCWiYNpVk3PsFlW64xkBh.jpg",
+    "poster": "/rmGfPwRBOr8i8zxS0P0XCFJE21W.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aF_yZOItfKI",
+    "sinopse": "Bong Ye-bun é VETERINÁRIA de uma cidadezinha do interior — vive tranquila até acidente estranho lhe dar o poder de VER MEMÓRIAS de humanos e animais ao tocá-los. Ela acaba envolvida com um DETETIVE rebaixado de Seul na caçada a um SERIAL KILLER que ronda a região. Comédia rural + investigação — combinação inesperada que dá certo.",
+    "porque_assistir": "Retorno de Han Ji-min à comédia depois de anos em melodramas. Suho (EXO) como detetive taciturno. Dirigido por Kim Suk-yoon (Dr. Romantic). Netflix com dublagem PT-BR. Estreia mais alta de um drama JTBC de sexta-sábado em anos. Excêntrico, cômico, sombrio nos últimos episódios.",
+    "curiosidades": [
+      "Retorno de Han Ji-min à comédia após anos em melodramas.",
+      "Dirigido por Kim Suk-yoon, do sucesso Romantic Doctor Teacher Kim.",
+      "Suho (EXO) faz o par romântico, num papel de detetive taciturno.",
+      "Locações filmadas na área rural de Muju, província de Jeolla do Norte."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Cenas de investigação de assassino em série, corpos e violência policial no arco final."
+    },
+    "recomendacoes": [
+      "hometown-cha-cha-cha",
+      "the-master-s-sun",
+      "mouse"
+    ]
+  },
+  {
+    "id": "cafe-minamdang",
+    "titulo": "Cafe Minamdang",
+    "titulo_original": "미남당",
+    "titulo_br": "Café Minamdang",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Comédia",
+      "Sobrenatural",
+      "Romance"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Dupla Improvável",
+      "Xamanismo"
+    ],
+    "temas": [
+      "Justiça",
+      "Vingança",
+      "Verdade",
+      "Família"
+    ],
+    "profissoes": [
+      "Ex-Perfilador",
+      "Detetive"
+    ],
+    "elenco": [
+      "Seo In-guk",
+      "Oh Yeon-seo",
+      "Kwak Si-yang",
+      "Kang Mi-na"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 8.3,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 5,
+      "humor": 8,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/uCVlzFFtHbsL9Hf5e1ivvmlOZZA.jpg",
+    "poster": "/idXCJIuVg5dhjiaCXOAJNMyCD0c.jpg",
+    "trailer": "",
+    "sinopse": "Nam Han-jun é ex-perfilador CRIMINAL brilhante que virou XAMÃ CHARLATÃO — invertendo o próprio talento pra sobreviver e investigar por conta própria a morte da irmã. Uma detetive TEIMOSA cruza seu caminho e ameaça expor tudo. Acabam formando uma dupla improvável pra desvendar um caso muito maior. Rituais falsos, memórias reais.",
+    "porque_assistir": "Marcou o retorno de Seo In-guk à comédia depois de Doom at Your Service. Oh Yeon-seo como detetive combativa. Baseado no webtoon de Jung Jae-han. Netflix BR com dublagem PT-BR. O 'café-santuário' do título é cenário kitsch proposital. Carismático, cômico, misterioso.",
+    "curiosidades": [
+      "Baseado no webtoon homônimo de Jung Jae-han.",
+      "Marcou o retorno de Seo In-guk à comédia após Doom at Your Service.",
+      "Oh Yeon-seo faz par romântico como detetive teimosa.",
+      "O 'café-santuário' do título é cenário construído em estúdio com estética kitsch proposital."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Assassinatos, cenas de crime e violência típica de policial, sem gore extremo."
+    },
+    "recomendacoes": [
+      "vincenzo",
+      "the-fiery-priest",
+      "phantom-lawyer"
+    ]
+  },
+  {
+    "id": "ghost-doctor",
+    "titulo": "Ghost Doctor",
+    "titulo_original": "고스트 닥터",
+    "titulo_br": "Médico Fantasma",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Médicos",
+      "Sobrenatural",
+      "Comédia",
+      "Fantasia",
+      "Romance"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Fantasmas",
+      "Cura Emocional"
+    ],
+    "temas": [
+      "Vida e Morte",
+      "Ética",
+      "Amizade",
+      "Redenção"
+    ],
+    "profissoes": [
+      "Cirurgião",
+      "Residente"
+    ],
+    "elenco": [
+      "Rain",
+      "Kim Bum",
+      "Uee",
+      "Son Na-eun"
+    ],
+    "diretor": "Boo Sung-chul",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 7.9,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 4,
+      "emocao": 6,
+      "humor": 6,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/suTqAJACZ1XwUNhOBnKtytKLjSR.jpg",
+    "poster": "/1TWwuZR398ytSZX0RdsOyECu9sC.jpg",
+    "trailer": "",
+    "sinopse": "Cha Young-min é CIRURGIÃO cardíaco arrogante e brilhante — o tipo que salva vidas mas coleciona inimigos. Fica em COMA. Como FANTASMA, descobre que só consegue interagir com um jovem residente inexperiente, Go Seung-tak. Passam a COMPARTILHAR o corpo pra continuar salvando pacientes. Ele opera pelas mãos dele. Ele aprende pelo génio dele.",
+    "porque_assistir": "Rain (o cantor + Full House!) num papel maduro. Kim Bum (Boys Over Flowers!) voltando à TV depois de anos. Netflix BR com dublagem PT-BR. Body-swap sobrenatural + procedural médico — mistura incomum. Leve, dramático, com humor.",
+    "curiosidades": [
+      "Retorno de Kim Bum à televisão coreana após anos.",
+      "Rain treinou movimentos cirúrgicos com médicos-consultores reais.",
+      "Dirigido por Boo Sung-chul, também de Vagabond.",
+      "Um dos poucos K-dramas médicos com premissa sobrenatural declarada."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Cenas cirúrgicas, sangue e procedimentos médicos gráficos típicos do gênero."
+    },
+    "recomendacoes": [
+      "hospital-playlist",
+      "doctor-john",
+      "tale-of-the-nine-tailed"
+    ]
+  },
+  {
+    "id": "numbers",
+    "titulo": "Numbers",
+    "titulo_original": "넘버스: 빌딩숲의 감시자들",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "65 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "MBC"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Advogados"
+    ],
+    "tropos": [
+      "Underdog",
+      "Workplace",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Classe",
+      "Justiça",
+      "Corrupção",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Contador",
+      "Auditor"
+    ],
+    "elenco": [
+      "Kim Myung-soo (L)",
+      "Yeon Woo-jin",
+      "Choi Min-soo",
+      "Choi Jin-hyuk"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 3,
+      "emocao": 6,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/idLBpSgf5SI1ztmV5XSAreO3NVT.jpg",
+    "trailer": "",
+    "sinopse": "Jang Ho-woo é CONTADOR (CPA) brilhante mas de origem humilde — sem diploma de universidade de elite. Entra numa das maiores firmas de AUDITORIA da Coreia. Descobre esquemas contábeis usados por CHAEBOLS pra esconder fortunas. E decide expor a hipocrisia elitista da indústria a partir de dentro. Números são frios. Elites são frias. Mas ele tem paciência.",
+    "porque_assistir": "Sucesso SURPRESA da MBC em 2023. Kim Myung-soo (L do Infinite) na estreia solo como protagonista depois do serviço militar. Baseado no webtoon 'Sacheonwang'. Contabilidade forense — gênero raro em K-drama. Consultoria de contadores reais. Cerebral, tenso, corporativo, com pegada de vingança.",
+    "curiosidades": [
+      "O protagonista é CONTADOR CPA sem diploma de universidade de elite — a série denuncia justamente isso.",
+      "Baseado no webtoon 'Sacheonwang' de Hong Sung-soo e Lee Sang-ki.",
+      "Marcou a estreia solo de Kim Myung-soo (L) como protagonista em drama de canal aberto.",
+      "Consultoria de contadores reais foi usada para as cenas de auditoria."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda discriminação de classe, assédio corporativo e violência pontual; sem cenas gráficas."
+    },
+    "recomendacoes": [
+      "misaeng",
+      "good-manager",
+      "reborn-rich"
+    ]
+  },
+  {
+    "id": "age-of-youth",
+    "titulo": "Age of Youth",
+    "titulo_original": "청춘시대",
+    "titulo_br": "Olá, Meus 20 Anos!",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 12,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Romance Maduro",
+      "Comédia"
+    ],
+    "tropos": [
+      "Amizade",
+      "Slice of Life",
+      "Cohabitação"
+    ],
+    "temas": [
+      "Amizade",
+      "Trauma",
+      "Universidade",
+      "Feminismo"
+    ],
+    "profissoes": [
+      "Estudante"
+    ],
+    "elenco": [
+      "Han Ye-ri",
+      "Han Seung-yeon",
+      "Park Eun-bin",
+      "Ryu Hwa-young",
+      "Park Hye-soo"
+    ],
+    "diretor": "",
+    "roteirista": "Park Yeon-seon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.4,
+      "mdl": 8.5,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/vu5F4wLOBPFWYcBkJ3at2XKJgGa.jpg",
+    "poster": "/4MdSbKFGAzgFhF407e9fcZreqvm.jpg",
+    "trailer": "",
+    "sinopse": "CINCO UNIVERSITÁRIAS com personalidades e passados MUITO distintos dividem a república Belle Époque em Seul. Entre estágios, dívidas, decepções amorosas, traumas silenciosos e planos que nem sempre dão certo, elas aprendem a construir uma FAMÍLIA ESCOLHIDA. Cada uma vira o abrigo da outra em silêncio.",
+    "porque_assistir": "CULT ABSOLUTO entre fãs de slice-of-life feminino — considerado MARCO na representação de universitárias coreanas. Elogiado por tratar temas TABU (aborto, assédio, trauma) com naturalidade. Trouxe visibilidade a Han Ye-ri, Park Eun-bin, Ryu Hwa-young. Ganhou 2ª temporada. Roteirista Park Yeon-seon (Nine, Melancholia). Íntimo, feminino, curativo.",
+    "curiosidades": [
+      "Cada temporada tem 12 episódios; cada moradora da Belle Époque tem arco individual.",
+      "Trouxe visibilidade a Han Ye-ri, Park Eun-bin, Ryu Hwa-young, Park Hye-soo.",
+      "Roteirista Park Yeon-seon também fez Nine e Melancholia.",
+      "Considerado marco na representação de universitárias coreanas."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda assédio sexual, aborto, violência doméstica e trauma psicológico com franqueza."
+    },
+    "recomendacoes": [
+      "reply-1988",
+      "twenty-five-twenty-one",
+      "because-this-is-my-first-life"
+    ]
+  },
+  {
+    "id": "melancholia",
+    "titulo": "Melancholia",
+    "titulo_original": "멜랑꼴리아",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Rivais que se apaixonam",
+      "Second Chance",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Ensino",
+      "Trauma",
+      "Conspiração"
+    ],
+    "profissoes": [
+      "Professora",
+      "Gênio"
+    ],
+    "elenco": [
+      "Im Soo-jung",
+      "Lee Do-hyun",
+      "Jin Kyung",
+      "Choi Dae-hoon"
+    ],
+    "diretor": "Kim Sang-hyub",
+    "roteirista": "Kim Ji-woon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 7.5,
+      "imdb": 7.2
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/zkcNnlj6CxNF7384PNzjuYhzhLD.jpg",
+    "poster": "/cn3CIR5LaKubPmzOv5jsxcQQwkZ.jpg",
+    "trailer": "",
+    "sinopse": "Ji Yoon-soo é professora de MATEMÁTICA apaixonada por ensinar em escola de elite. Descobre o talento raro de Baek Seung-yoo — aluno TRAUMATIZADO tratado como fraudulento pelos rivais. Anos depois, timeskip de 4 anos, os dois se reencontram como IGUAIS: ele adulto, formado no exterior. Um romance costurado por conspirações escolares. Não é rom-com — é sobre matemática como linguagem emocional.",
+    "porque_assistir": "Da mesma roteirista e diretor de Just Between Lovers (Kim Ji-woon + Kim Sang-hyub). Im Soo-jung + Lee Do-hyun na direção fria de escola de elite. CONTROVERSA por parte da audiência coreana desconfortável com o setup professora-aluno (embora efetivo com timeskip). Melancólico, artístico. Aviso: gerou desconforto por causa da premissa, mesmo com o timeskip.",
+    "curiosidades": [
+      "Da mesma roteirista (Kim Ji-woon) e diretor (Kim Sang-hyub) de Just Between Lovers.",
+      "O romance efetivo acontece com o aluno já adulto e formado no exterior.",
+      "Sofreu backlash antes da estreia por parte da audiência coreana.",
+      "Título e mote 'melancolia da matemática' referenciam a beleza dos números como linguagem emocional."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Premissa professora-aluno gera desconforto, mesmo com timeskip; bullying escolar e manipulação institucional."
+    },
+    "recomendacoes": [
+      "just-between-lovers",
+      "sky-castle",
+      "crash-course-in-romance"
+    ]
+  },
+  {
+    "id": "chief-of-staff",
+    "titulo": "Chief of Staff",
+    "titulo_original": "보좌관",
+    "titulo_br": "Chefe de Gabinete",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 10,
+    "temporadas": 2,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Aberto",
+    "plataformas": [
+      "JTBC",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Advogados",
+      "Romance"
+    ],
+    "tropos": [
+      "Anti-Herói",
+      "Workplace",
+      "Ambição"
+    ],
+    "temas": [
+      "Política",
+      "Poder",
+      "Ambição",
+      "Segredos"
+    ],
+    "profissoes": [
+      "Assessor",
+      "Deputada"
+    ],
+    "elenco": [
+      "Lee Jung-jae",
+      "Shin Min-a",
+      "Lee Elijah",
+      "Kim Kap-soo"
+    ],
+    "diretor": "",
+    "roteirista": "Lee Dae-il",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.3,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 5,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/tcBsVtp3xcOwvEGIKr4tbeo4HbU.jpg",
+    "poster": "/95U7TJGxDP6OHeAF5HP78as7eff.jpg",
+    "trailer": "",
+    "sinopse": "Jang Tae-joon é o principal ASSESSOR de um deputado veterano — jogador político brilhante que sonha entrar na Assembleia Nacional. Enquanto manobra alianças e CHANTAGENS nos bastidores do poder, mantém em segredo um relacionamento com Kang Seon-yeong, deputada de primeiro mandato em ascensão. Sem heróis. Só peças de xadrez.",
+    "porque_assistir": "ÚLTIMA série de Lee Jung-jae ANTES de Round 6 explodir mundialmente em 2021. Shin Min-a como deputada. Comparado a House of Cards em tom. Roteirista Lee Dae-il consultou ex-assessores da Assembleia Nacional. Duas temporadas. Cerebral, cínico, sombrio.",
+    "curiosidades": [
+      "Última série de TV de Lee Jung-jae antes de Squid Game explodir mundialmente em 2021.",
+      "Roteirista Lee Dae-il consultou ex-assessores da Assembleia Nacional.",
+      "Shin Min-a marca retorno à TV após Tomorrow, With You.",
+      "Título coreano '보좌관' significa literalmente 'assessor parlamentar'."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Corrupção, chantagem, suicídio, abuso de poder e violência política."
+    },
+    "recomendacoes": [
+      "queenmaker",
+      "the-devil-judge",
+      "trolley"
+    ]
+  },
+  {
+    "id": "my-golden-life",
+    "titulo": "My Golden Life",
+    "titulo_original": "황금빛 내 인생",
+    "titulo_br": "Minha Vida de Ouro",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 52,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Identidade Trocada",
+      "Rich Boy Poor Girl",
+      "Família"
+    ],
+    "temas": [
+      "Família",
+      "Identidade",
+      "Amor",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Trabalhadora",
+      "Herdeiro"
+    ],
+    "elenco": [
+      "Shin Hye-sun",
+      "Park Si-hoo",
+      "Lee Tae-hwan",
+      "Seo Eun-soo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.1,
+      "mdl": 8.4,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/9KxL293xuasA6Uv34voOyzPFhVp.jpg",
+    "poster": "/dxseoIiZ2HiGJb7LOAg9Uh78qO5.jpg",
+    "trailer": "",
+    "sinopse": "Seo Ji-an é jovem que sustenta a família com MÚLTIPLOS empregos — três, quatro, o que aparecer. Um dia descobre que PODE ser a filha PERDIDA de um conglomerado chaebol. O que parece salvação abre uma cadeia de MENTIRAS familiares, novas identidades e um romance improvável com o herdeiro do grupo. 52 episódios — quase uma novela clássica de família coreana.",
+    "porque_assistir": "UM DOS MAIORES hits da KBS2 dos últimos 10 anos: PICO DE 45,1% no episódio final. Consolidou Shin Hye-sun (Welcome to Samdal-ri!) como protagonista. Formato clássico weekend family drama coreano — sem pressa, com detalhes. Trilha 'It's You' de Henry (Super Junior-M) virou hit. Melodramático, esperançoso, familiar.",
+    "curiosidades": [
+      "52 episódios, formato clássico de weekend family drama coreano.",
+      "Pico de 45,1% de audiência no episódio final — hall dos family drama mais assistidos.",
+      "Consolidou Shin Hye-sun como protagonista antes de Mr. Queen e See You In My 19th Life.",
+      "Trilha 'It's You' de Henry (Super Junior-M) virou hit associado ao casal."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Aborda troca de identidade, doença terminal e conflitos familiares intensos; sem violência gráfica."
+    },
+    "recomendacoes": [
+      "reply-1988",
+      "because-this-is-my-first-life",
+      "marry-my-husband"
+    ]
+  },
+  {
+    "id": "when-my-love-blooms",
+    "titulo": "When My Love Blooms",
+    "titulo_original": "화양연화",
+    "titulo_br": "Quando Meu Amor Floresce",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "75 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "tvN",
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes",
+      "Históricos"
+    ],
+    "tropos": [
+      "Amor de Infância",
+      "Second Chance",
+      "Slow Burn"
+    ],
+    "temas": [
+      "Amor",
+      "Escolhas",
+      "Tempo",
+      "Democracia"
+    ],
+    "profissoes": [
+      "Executivo",
+      "Editora"
+    ],
+    "elenco": [
+      "Yoo Ji-tae",
+      "Lee Bo-young",
+      "Jinyoung",
+      "Jeon So-nee"
+    ],
+    "diretor": "Son Jung-hyun",
+    "roteirista": "Noh Ji-seol",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.1,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/21M5CpiOYGOhHj2sVPXqwt6yeTO.jpg",
+    "poster": "/5BKSGbCRFuelgKq0O7Tdhwe1b6S.jpg",
+    "trailer": "",
+    "sinopse": "Han Jae-hyun e Yoon Ji-soo se apaixonaram INTENSAMENTE nos anos 1990 — estudantes idealistas em plena era de movimento pró-democracia. Décadas depois, ambos CASADOS e desiludidos, se REENCONTRAM. E precisam decidir o que fazer com o amor que NUNCA morreu, encarando as escolhas que os afastaram. Duas linhas de tempo, uma ferida.",
+    "porque_assistir": "Baseado no romance 'Number You Cannot Add or Subtract' de Lee Jung-myung. Yoo Ji-tae (Round 6!) + Lee Bo-young (I Hear Your Voice!) — dois monstros da atuação madura. Jinyoung (GOT7) e Jeon So-nee como jovens nos flashbacks universitários. Ambientação universitária referencia o movimento estudantil pró-democracia da década de 1990. Nostálgico, íntimo, poético.",
+    "curiosidades": [
+      "Baseado no romance 'Number You Cannot Add or Subtract' de Lee Jung-myung.",
+      "Jinyoung (GOT7) e Jeon So-nee interpretam os protagonistas jovens nos flashbacks dos anos 1990.",
+      "Ambientação universitária referencia o movimento estudantil pró-democracia da década de 1990.",
+      "Roteirista Noh Ji-seol e diretor Son Jung-hyun apostaram em ritmo lento e cinematográfico."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Adultério emocional, casamento infeliz, violência doméstica pontual, ativismo estudantil e repressão política."
+    },
+    "recomendacoes": [
+      "my-mister",
+      "one-spring-night",
+      "something-in-the-rain"
     ]
   }
 ]

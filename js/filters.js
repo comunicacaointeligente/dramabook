@@ -18,6 +18,12 @@ const FACET_SINONIMOS = {
   "Ação": ["ação", "acao", "máfia", "mafia", "vingança", "vinganca", "justiceiro",
            "ex-militar", "guarda-costas", "assassino", "boxeador", "conspiração",
            "conspiracao", "serial killer", "sobrevivência", "sobrevivencia", "zumbis"],
+  "Psicologia": ["saúde mental", "saude mental", "trauma", "depressão", "depressao",
+                 "ansiedade", "transtorno", "psicologia", "psiquiatra", "psicanálise",
+                 "psicanalise", "cura emocional", "healing", "burnout", "luto",
+                 "autismo", "múltiplas personalidades", "multiplas personalidades",
+                 "identidade", "memória", "memoria", "amnésia", "amnesia",
+                 "reencarnação", "reencarnacao"],
 };
 /* Normaliza p/ casar plural/singular e maiúsculas ("Green Flags" ≈ "green flag"). */
 const norm = (s) => String(s || "").toLowerCase().trim().replace(/s$/, "");
