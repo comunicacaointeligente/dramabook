@@ -366,7 +366,8 @@
     "final": "Feliz",
     "plataformas": [
       "SBS",
-      "Netflix"
+      "Netflix",
+      "Viki"
     ],
     "dublado": true,
     "categorias": [
@@ -1891,65 +1892,68 @@
     "id": "my-liberation-notes",
     "titulo": "My Liberation Notes",
     "titulo_original": "나의 해방일지",
+    "titulo_br": "Meu Diário para a Liberdade",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2022,
     "episodios": 16,
     "temporadas": 1,
-    "duracao": "65 min",
+    "duracao": "80 min",
     "status": "Finalizado",
     "classificacao": 15,
     "final": "Aberto",
     "plataformas": [
       "JTBC",
-      "Netflix"
+      "Netflix",
+      "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
-      "Romance",
+      "Emocionantes",
       "Romance Maduro",
-      "Emocionantes"
+      "Romance"
     ],
     "tropos": [
+      "Slice of Life",
       "Slow Burn",
-      "Healing"
+      "Cura Emocional"
     ],
     "temas": [
-      "Solidão",
-      "Libertação",
-      "Família",
-      "Vida Adulta",
-      "Autoconhecimento"
+      "Trabalho",
+      "Liberdade",
+      "Depressão",
+      "Amor",
+      "Saúde Mental"
     ],
     "profissoes": [
-      "Trabalhadora de Escritório"
+      "Designer",
+      "Escritor",
+      "Empregada"
     ],
     "elenco": [
-      "Lee Min-ki",
       "Kim Ji-won",
+      "Lee Min-ki",
       "Son Suk-ku",
-      "Lee El",
-      "Cheon Ho-jin",
-      "Lee Ki-woo"
+      "Lee El"
     ],
-    "diretor": "Kim Sok-yun",
-    "roteirista": "Park Hae-young",
+    "diretor": "",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9.8,
-      "mdl": 8.5,
-      "imdb": 8.2
+      "chatgpt": 9.6,
+      "mdl": 8.9,
+      "imdb": 8.4
     },
     "sensacoes": {
-      "romance": 7,
-      "quimica": 9,
-      "emocao": 9,
-      "humor": 4,
-      "beijos": 4
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 10,
+      "humor": 3,
+      "beijos": 5
     },
     "flags": {
-      "green": 7,
+      "green": 8,
       "red": 4
     },
     "triangulo_amoroso": false,
@@ -1961,21 +1965,24 @@
     "premios": [],
     "banner": "/2gXm6JK2r0KYEaInX3sWr5WwD6H.jpg",
     "poster": "/4uwWzrkkMOzx1KEc6jgGiManXkP.jpg",
-    "trailer": "https://www.youtube.com/watch?v=FQEm4dPZsNo",
-    "sinopse": "Os três irmãos Yeom moram no vilarejo de Sanpo e gastam horas de trem para trabalhar em empregos que não amam em Seul. Gi-jeong quer ser amada, Chang-hee quer ser alguém, e a caçula Mi-jeong só quer, um dia, se sentir livre da vida pequena que parece tê-la escolhido. Quando um forasteiro calado — conhecido apenas como Sr. Gu — se instala na vizinhança, Mi-jeong lhe faz a proposta mais estranha e mais bonita já dita em um dorama: 'Me venere'. E os dois, devagar, começam a se libertar.",
-    "porque_assistir": "A crítica chamou de melhor drama da TV no ano, e o Baeksang deu o prêmio de Melhor Roteiro. My Liberation Notes é para assistir devagar, como quem lê um livro que entende exatamente como você se sente numa quarta-feira à noite. A química contida entre Kim Ji-won e Son Suk-ku é das mais elétricas já filmadas sem quase nenhum toque. Um dorama que muda o humor da semana.",
+    "trailer": "",
+    "sinopse": "TRÊS IRMÃOS exaustos do trajeto Seul-subúrbio criam um 'CLUBE DA LIBERTAÇÃO' — reuniões silenciosas onde tentam definir o que os LIBERTARIA da monotonia asfixiante do capitalismo coreano. Uma estranha figura aparece na propriedade da família: um homem misterioso chamado Gu. Um dos irmãos, Mi-jeong, olha pra ele e diz: 'me venere'. E a série toma um rumo que ninguém esperava.",
+    "porque_assistir": "HAN PURO em formato dorama — sobre a MELANCOLIA COREANA da vida no subúrbio, do trajeto trem-trabalho-trem, do peso silencioso de existir. Kim Ji-won (Queen of Tears!) + Son Suk-ku (Killer Paradox, Nine Puzzles!) + Lee Min-ki (Because This Is My First Life). Uma das produções coreanas MAIS ELOGIADAS de 2022. Netflix + Viki BR. Contemplativo, lento, curativo. Se você quer sentir sem apressar.",
     "curiosidades": [
-      "A fala 'Me venere' (날 추앙해요) virou bordão nacional em 2022 e transformou Son Suk-ku em estrela da noite para o dia.",
-      "Escrito por Park Hae-young, de My Mister — ela venceu o Baeksang de Melhor Roteiro pelas duas obras.",
-      "O 'Clube da Libertação' criado pelos personagens inspirou clubes de escrita reais entre fãs coreanos.",
-      "O protagonista masculino é creditado apenas como 'Sr. Gu' — seu nome completo é mantido em mistério por quase toda a série."
+      "Escrito por Park Hae-young, também de My Mister — outra obra sobre 'han' coreano.",
+      "Kim Ji-won e Son Suk-ku ficaram famosos internacionalmente por conta desta série.",
+      "Um dos dramas coreanos mais elogiados pela crítica em 2022.",
+      "Netflix + Viki BR — Netflix já vem com dublagem PT-BR."
     ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Depressão, alcoolismo, exaustão emocional e temas existenciais pesados."
+    },
     "recomendacoes": [
-      "summer-strike",
-      "one-spring-night",
-      "the-interest-of-love"
-    ],
-    "titulo_br": "Meu Diário para a Liberdade"
+      "my-mister",
+      "when-life-gives-you-tangerines",
+      "our-blues"
+    ]
   },
   {
     "id": "summer-strike",
@@ -1991,7 +1998,8 @@
     "classificacao": 14,
     "final": "Feliz",
     "plataformas": [
-      "ENA"
+      "ENA",
+      "Viki"
     ],
     "dublado": false,
     "categorias": [
@@ -4597,7 +4605,8 @@
     "final": "Feliz",
     "plataformas": [
       "MBC",
-      "Netflix"
+      "Netflix",
+      "Viki"
     ],
     "dublado": true,
     "categorias": [
@@ -5325,63 +5334,66 @@
     "id": "fight-for-my-way",
     "titulo": "Fight for My Way",
     "titulo_original": "쌈 마이웨이",
-    "titulo_br": "",
+    "titulo_br": "Lute pelo Meu Caminho",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2017,
     "episodios": 16,
     "temporadas": 1,
-    "duracao": "70 min",
+    "duracao": "60 min",
     "status": "Finalizado",
-    "classificacao": 12,
+    "classificacao": 15,
     "final": "Feliz",
     "plataformas": [
       "KBS2",
-      "Netflix"
+      "Viki"
     ],
     "dublado": false,
     "categorias": [
       "Romance",
-      "Comédia"
+      "Comédia",
+      "Emocionantes"
     ],
     "tropos": [
-      "Amigos para Namorados",
-      "Esporte"
+      "Amor de Infância",
+      "Amizade",
+      "Underdog",
+      "Slow Burn"
     ],
     "temas": [
       "Sonhos",
+      "Amor",
       "Amizade",
-      "Perseverança",
-      "Classe Trabalhadora"
+      "Classe"
     ],
     "profissoes": [
-      "Lutador de MMA",
+      "Lutador",
       "Recepcionista"
     ],
     "elenco": [
-      "Park Seo-jun",
+      "Park Seo-joon",
       "Kim Ji-won",
       "Ahn Jae-hong",
       "Song Ha-yoon"
     ],
-    "diretor": "Lee Na-jeong",
-    "roteirista": "Lim Sang-choon",
+    "diretor": "",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9.1,
-      "mdl": 8.4,
-      "imdb": 8
+      "chatgpt": 9.2,
+      "mdl": 8.7,
+      "imdb": 8.3
     },
     "sensacoes": {
-      "romance": 8,
+      "romance": 9,
       "quimica": 10,
-      "emocao": 7,
+      "emocao": 8,
       "humor": 8,
-      "beijos": 8
+      "beijos": 7
     },
     "flags": {
-      "green": 8,
+      "green": 9,
       "red": 2
     },
     "triangulo_amoroso": false,
@@ -5391,20 +5403,25 @@
     },
     "ost": [],
     "premios": [],
-    "banner": "/AvphOpbh7yoBfIROpNjlu2plIEn.jpg",
-    "poster": "/55w33JzFKBkz1evjBjqeF0enDd1.jpg",
+    "banner": "",
+    "poster": "/t9iM1gssLMrad9htxbziAuWd3ZT.jpg",
     "trailer": "",
-    "sinopse": "Ko Dong-man foi promessa do taekwondo; hoje dedetiza prédios. Choi Ae-ra treinou a vida toda pra ser âncora de TV; hoje atende no balcão de informações. Amigos desde crianças, os dois se protegem, se zoam e se empurram — até decidirem, já adultos e 'atrasados' segundo o mundo, correr atrás dos sonhos que engavetaram. E descobrir que a linha entre melhor amigo e amor da vida sempre foi fininha demais.",
-    "porque_assistir": "O friends-to-lovers mais realista e eletrizante do gênero — Park Seo-joon e Kim Ji-won ganharam o prêmio de Melhor Casal por voto popular, e a química dos dois beira o documentário. Sobre sonhar 'fora do prazo' e lutar do seu jeito. Motivacional, engraçado e quente na medida.",
+    "sinopse": "Quatro MELHORES AMIGOS aos 20 e poucos anos, sem grana e sem carreira, decidem lutar pelos SONHOS RIDÍCULOS que tinham quando crianças. Ko Dong-man era boxeador — vira lutador do MMA em ginásio de subúrbio. Choi Ae-ra era locutora — trabalha como recepcionista. Ele quer competir. Ela quer o microfone. E os dois amam sem saber que amam.",
+    "porque_assistir": "PARK SEO-JOON (Itaewon Class, Fight My Way!) + KIM JI-WON (My Liberation Notes!) — química que virou clichê pelo tanto que a gente lembra. Ahn Jae-hong e Song Ha-yoon como o outro casal amigo. KBS2 2017, 16 episódios. Cura pela amizade de bairro. Viki BR. Divertido, esperançoso.",
     "curiosidades": [
-      "Park Seo-joon e Kim Ji-won venceram o Best Couple Award do KBS Drama Awards 2017 por voto popular.",
-      "Líder absoluto do horário durante toda a exibição.",
-      "'Ssam' do título coreano é trocadilho com 'luta'."
+      "Park Seo-joon antes de Itaewon Class e Vincenzo.",
+      "Kim Ji-won antes de Queen of Tears e My Liberation Notes.",
+      "Química elogiadíssima entre o casal principal.",
+      "Viki BR com legendas em português."
     ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
     "recomendacoes": [
-      "weightlifting-fairy-kim-bok-joo",
-      "what-s-wrong-with-secretary-kim",
-      "twenty-five-twenty-one"
+      "reply-1988",
+      "hometown-cha-cha-cha",
+      "because-this-is-my-first-life"
     ]
   },
   {
@@ -5761,19 +5778,19 @@
     "id": "coffee-prince",
     "titulo": "Coffee Prince",
     "titulo_original": "커피프린스 1호점",
-    "titulo_br": "",
+    "titulo_br": "Coffee Prince",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2007,
     "episodios": 17,
     "temporadas": 1,
-    "duracao": "65 min",
+    "duracao": "70 min",
     "status": "Finalizado",
+    "classificacao": 14,
     "final": "Feliz",
     "plataformas": [
       "MBC",
-      "Netflix",
-      "Kocowa"
+      "Viki"
     ],
     "dublado": false,
     "categorias": [
@@ -5781,68 +5798,73 @@
       "Comédia"
     ],
     "tropos": [
-      "Identidade Trocada",
+      "Identidade Secreta",
       "Workplace",
-      "Diferença de Classe"
+      "Slow Burn"
     ],
     "temas": [
+      "Amor",
       "Identidade",
-      "Trabalho",
-      "Coragem"
+      "Sonhos",
+      "Amizade"
     ],
     "profissoes": [
       "Barista",
       "Herdeiro"
     ],
     "elenco": [
-      "Gong Yoo",
       "Yoon Eun-hye",
+      "Gong Yoo",
       "Lee Sun-kyun",
-      "Chae Jung-an",
-      "Kim Dong-wook"
+      "Kim Jae-wook",
+      "Chae Jung-an"
     ],
-    "diretor": "Lee Yoon-jung",
-    "roteirista": "Jang Hyun-joo, Lee Jung-ah",
+    "diretor": "",
+    "roteirista": "",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
-      "chatgpt": 9.3,
-      "mdl": 8.3,
-      "imdb": 8.1
+      "chatgpt": 9.5,
+      "mdl": 8.4,
+      "imdb": 8.3
     },
     "sensacoes": {
       "romance": 9,
-      "quimica": 10,
-      "emocao": 8,
-      "humor": 7,
-      "beijos": 8
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 6
     },
     "flags": {
       "green": 8,
-      "red": 2
+      "red": 3
     },
     "triangulo_amoroso": true,
     "perfil": {
-      "iniciante": false,
+      "iniciante": true,
       "dorameiro_veterano": true
     },
     "ost": [],
     "premios": [],
-    "banner": "/3Ujyp6wzwcfPp76K7XqP5CYYxPE.jpg",
-    "poster": "/6tKNlAXwKfRzLeuBOomr1N9gRsU.jpg",
-    "trailer": "",
-    "sinopse": "Go Eun-chan sustenta a família desde os 16 e é confundida com rapaz tantas vezes que parou de corrigir. A confusão vira emprego: o herdeiro Choi Han-kyul a contrata — acreditando que ela é homem — para a cafeteria Coffee Prince, onde só trabalham atendentes bonitos. O plano funciona até demais: Han-kyul começa a se afeiçoar ao 'funcionário' e mergulha na maior crise da vida ao se apaixonar por alguém que acredita ser um homem. Ela, apaixonada e endividada, não pode contar a verdade.",
-    "porque_assistir": "O clássico dos clássicos: 32% de audiência em Seul, Baeksang de Melhor Atriz pra Yoon Eun-hye e a direção naturalista que envelheceu melhor que muita coisa de hoje. Gong Yoo pré-Goblin no papel que o eternizou, num gender-bender corajoso pra 2007 e ainda comovente em 2026. História dos doramas em forma de café.",
+    "banner": "",
+    "poster": "/cwkw3P2o2gwEuvZswDd6DK1YmFI.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tBZTYtQT6OU",
+    "sinopse": "Go Eun-chan é jovem trabalhadora que sustenta a família — e é constantemente confundida com garoto pelo cabelo curto e roupas soltas. É contratada numa CAFETERIA SÓ DE RAPAZES bonitos. O gerente, Han-kyul, se APAIXONA por ela achando que é HOMEM — e entra em crise existencial. Ela aceita a mentira porque precisa do dinheiro. E as duas vidas colidem numa das rom-coms mais amadas da década.",
+    "porque_assistir": "UM DOS CLÁSSICOS ABSOLUTOS de todos os tempos — inspiração pra dezenas de outros doramas. GONG YOO (Goblin, Round 6!) no papel que o consagrou. Yoon Eun-hye no auge. Elenco secundário com Lee Sun-kyun (Parasita!) e KIM JAE-WOOK. Só 17 episódios. Viki BR. Se você tá começando ou já é veterana, é obrigatório.",
     "curiosidades": [
-      "Yoon Eun-hye venceu o Baeksang de Melhor Atriz 2008 — a mais jovem da categoria até então.",
-      "A cafeteria cenográfica em Hongdae virou ponto turístico real.",
-      "Em 2020 o elenco se reuniu em documentário da MBC sobre os bastidores.",
-      "32,1% de audiência em Seul no auge."
+      "Gong Yoo no papel que o consagrou antes de Goblin e Round 6.",
+      "Elenco secundário com Lee Sun-kyun (Parasita) e Kim Jae-wook.",
+      "Baseado no romance 'The First Shop of Coffee Prince' de Lee Sun-mi.",
+      "Inspirou uma geração inteira de rom-coms coreanas."
     ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
     "recomendacoes": [
-      "her-private-life",
-      "goblin",
-      "she-was-pretty"
+      "you-re-beautiful",
+      "boys-over-flowers",
+      "what-s-wrong-with-secretary-kim"
     ]
   },
   {
@@ -22010,6 +22032,846 @@
       "vincenzo",
       "good-manager",
       "chief-detective-1958"
+    ]
+  },
+  {
+    "id": "sungkyunkwan-scandal",
+    "titulo": "Sungkyunkwan Scandal",
+    "titulo_original": "성균관 스캔들",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2010,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Históricos",
+      "Comédia"
+    ],
+    "tropos": [
+      "Identidade Secreta",
+      "Colegial",
+      "Sageuk",
+      "Triângulo"
+    ],
+    "temas": [
+      "Amor",
+      "Feminismo",
+      "Amizade",
+      "Deveres"
+    ],
+    "profissoes": [
+      "Estudante"
+    ],
+    "elenco": [
+      "Park Min-young",
+      "Park Yoo-chun",
+      "Song Joong-ki",
+      "Yoo Ah-in"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.2,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 7,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/mqLN4yMXldMYcZTVhw06q94XXya.jpg",
+    "poster": "/ybx2GDBkbzV2P8NUIj6r3U7ht3A.jpg",
+    "trailer": "",
+    "sinopse": "Kim Yoon-hee é jovem talentosa da era Joseon — mas MULHER, o que barra qualquer sonho. Se disfarça de RAPAZ pra entrar em Sungkyunkwan (a universidade REAL do rei) e sustentar a família. Vira crush inesperado dos três rapazes mais brilhantes da instituição: um perfeccionista, um playboy e um rebelde. Cada um começa a suspeitar. Cada um se apaixona.",
+    "porque_assistir": "Sageuk universitário que virou CLÁSSICO cult. Elenco de sonho de gerações que estourariam depois: PARK MIN-YOUNG, Park Yoo-chun (JYJ), SONG JOONG-KI (!) e YOO AH-IN. Todos no início da carreira. Viki BR. 20 episódios. Divertido, romântico, com peso histórico. Você vai ver o quão cedo esses ícones eram bons.",
+    "curiosidades": [
+      "Elenco de sonho: Park Min-young, Park Yoo-chun (JYJ), Song Joong-ki e Yoo Ah-in — todos ainda em início de carreira.",
+      "Baseado no romance 'The Lives of Sungkyunkwan Confucian Scholars' de Jung Eun-gwol.",
+      "Song Joong-ki explodiria mundialmente depois com Descendants of the Sun.",
+      "Viki BR com legendas em português."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "the-red-sleeve",
+      "rooftop-prince",
+      "love-in-the-moonlight"
+    ]
+  },
+  {
+    "id": "queen-for-seven-days",
+    "titulo": "Queen for Seven Days",
+    "titulo_original": "7일의 왕비",
+    "titulo_br": "Rainha por Sete Dias",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Triste",
+    "plataformas": [
+      "KBS2",
+      "Viki",
+      "Prime Video",
+      "Netflix"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Históricos",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Realeza",
+      "Sageuk",
+      "Amor Impossível"
+    ],
+    "temas": [
+      "Amor",
+      "Poder",
+      "Sacrifício",
+      "Destino"
+    ],
+    "profissoes": [
+      "Rainha",
+      "Rei"
+    ],
+    "elenco": [
+      "Park Min-young",
+      "Yeon Woo-jin",
+      "Lee Dong-gun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.9,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/xpHwnBt9L27JekP1UhBqTH5nU6L.jpg",
+    "poster": "/80MeoIEoKNptFBowYNZiUXAUI28.jpg",
+    "trailer": "",
+    "sinopse": "Baseado na história REAL da rainha Dangyeong (dinastia Joseon), deposta após APENAS SETE DIAS no trono. Um triângulo trágico entre a rainha, o IRMÃO-TIRANO que a colocou no trono e o marido apaixonado que ela precisa proteger. Cada dia é um risco de vida. Sete dias que a história registrou. E que este drama expande em melô devastador.",
+    "porque_assistir": "Park Min-young num sageuk trágico. Yeon Woo-jin (Marriage Contract!) como o marido rei. Melô histórico baseado em fato real absurdo — sete dias de reinado. Viki + Prime Video + Netflix BR. 20 episódios. Trágico, romântico, épico.",
+    "curiosidades": [
+      "Baseado na história real da rainha Dangyeong, deposta após apenas sete dias no trono na dinastia Joseon.",
+      "Park Min-young num raro papel de sageuk trágico.",
+      "Disponível em múltiplas plataformas BR: Viki + Prime Video + Netflix.",
+      "20 episódios de melô histórico."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Baseado em fato histórico trágico. Execuções, tirania, morte e traição familiar."
+    },
+    "recomendacoes": [
+      "the-red-sleeve",
+      "love-in-the-moonlight",
+      "empress-ki"
+    ]
+  },
+  {
+    "id": "city-hunter",
+    "titulo": "City Hunter",
+    "titulo_original": "시티헌터",
+    "titulo_br": "",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2011,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Agridoce",
+    "plataformas": [
+      "SBS",
+      "Viki",
+      "Prime Video"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Ação",
+      "Investigação",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Vingança",
+      "Anti-Herói",
+      "Justiceiro",
+      "Identidade Secreta"
+    ],
+    "temas": [
+      "Vingança",
+      "Amor",
+      "Justiça",
+      "Sistema"
+    ],
+    "profissoes": [
+      "Programador",
+      "Guarda-Costas"
+    ],
+    "elenco": [
+      "Lee Min-ho",
+      "Park Min-young",
+      "Lee Joon-hyuk",
+      "Kim Sang-joong"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 4,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/gBjn4m2ERf76kcd8YorUbgxacDV.jpg",
+    "poster": "/dbvXhmKr18oHdY7kwkeRXAbfDvD.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jDqjiclFLK8",
+    "sinopse": "Criado por um MERCENÁRIO na Tailândia depois que o pai foi TRAÍDO por cinco políticos da Casa Azul, Lee Yoon-sung volta a Seul disfarçado de programador da Casa Azul. Missão: se vingar UM A UM. Se apaixona pela Kim Na-na, guarda-costas da equipe — que não pode saber quem ele é. Ação estilosa, romance impossível, vingança fria.",
+    "porque_assistir": "LEE MIN-HO + PARK MIN-YOUNG — a dupla que definiu uma geração de fãs. Baseado no mangá 'City Hunter' de Tsukasa Hojo (mesmo do anime famoso). Viki + Prime Video BR. Um dos maiores hits SBS de 2011. Cenas de luta impressionantes. Estiloso, romântico, com vingança de fundo.",
+    "curiosidades": [
+      "Baseado no mangá 'City Hunter' de Tsukasa Hojo, mesmo do anime clássico.",
+      "Lee Min-ho e Park Min-young formam uma das duplas mais icônicas da hallyu inicial.",
+      "Um dos maiores hits SBS de 2011 na faixa quarta-quinta.",
+      "Viki + Prime Video BR."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Cenas de ação, tortura, corrupção política e vingança violenta."
+    },
+    "recomendacoes": [
+      "healer",
+      "vagabond",
+      "vincenzo"
+    ]
+  },
+  {
+    "id": "crazy-love",
+    "titulo": "Crazy Love",
+    "titulo_original": "크레이지 러브",
+    "titulo_br": "Crazy Love",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Casamento por contrato"
+    ],
+    "tropos": [
+      "Amnésia",
+      "Vingança",
+      "Casamento por contrato",
+      "Rivais que se apaixonam"
+    ],
+    "temas": [
+      "Amor",
+      "Vingança",
+      "Segunda Chance",
+      "Identidade"
+    ],
+    "profissoes": [
+      "CEO",
+      "Secretária"
+    ],
+    "elenco": [
+      "Kim Jae-wook",
+      "Krystal Jung",
+      "Ha Jun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.9,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 6,
+      "humor": 6,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/6SgRSLPs8hE2mqGuEJ6I0f6fbo0.jpg",
+    "trailer": "",
+    "sinopse": "Noh Go-jin é CEO tirano de uma escola de matemática — brilhante, insuportável, sujeito preferido a ódio. Recebe uma ameaça de morte e finge AMNÉSIA após uma tentativa. Se casa por FALSAS CIRCUNSTÂNCIAS com Lee Shin-a — a secretária que ele torturou por anos. Ela aceita porque planeja VINGANÇA. O plano descarrilha quando ele começa a se comportar como outra pessoa.",
+    "porque_assistir": "Kim Jae-wook (Bad and Crazy, Temperature of Love, Filing for Love) num rom-com escuro. Krystal Jung (f(x)) como a secretária vingadora. Viki BR. 16 episódios. Rom-com com pegada de vingança + amnésia + casamento por interesse — combinação absurda que dá certo.",
+    "curiosidades": [
+      "Kim Jae-wook mais uma vez em papel de CEO complicado.",
+      "Krystal Jung (f(x)) em rom-com adulta.",
+      "Baseado no drama britânico 'Crazy Love' — remake não oficial.",
+      "Viki BR com legendas em português."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Assédio no trabalho no início da série, tentativa de assassinato e chantagem."
+    },
+    "recomendacoes": [
+      "her-private-life",
+      "what-s-wrong-with-secretary-kim",
+      "filing-for-love"
+    ]
+  },
+  {
+    "id": "new-heart",
+    "titulo": "New Heart",
+    "titulo_original": "뉴하트",
+    "titulo_br": "New Heart",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2007,
+    "episodios": 23,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "MBC",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Médicos",
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Mestre e Aprendiz",
+      "Workplace",
+      "Underdog"
+    ],
+    "temas": [
+      "Medicina",
+      "Sacrifício",
+      "Ambição",
+      "Amor"
+    ],
+    "profissoes": [
+      "Cirurgião",
+      "Residente"
+    ],
+    "elenco": [
+      "Ji Sung",
+      "Kim Min-jung",
+      "Cho Jae-hyun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.6,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/aH6OZRJCk2dmhbNAAxltMmjP1hE.jpg",
+    "poster": "/fw3u0HxRVtNu4VlCk42XQbDmBlj.jpg",
+    "trailer": "",
+    "sinopse": "Dois RESIDENTES improváveis de cirurgia CARDIOTORÁCICA lutam pra virar cirurgiões sob a tutela CRUEL de Choi Kang-guk — um dos maiores nomes da medicina coreana, temido por todos os hospitais. Grey's Anatomy versão coreana, mas com hierarquia asiática opressora. Cada operação é uma prova. Cada erro custa mais do que uma vida.",
+    "porque_assistir": "JI SUNG jovem, ANTES de Kill Me Heal Me e Doctor John — o papel médico que o preparou. Kim Min-jung como a residente dividida. MBC 2007, 23 episódios. Um dos primeiros dramas médicos coreanos de peso, referência do gênero. Viki BR. Denso, técnico, humano.",
+    "curiosidades": [
+      "Ji Sung jovem, no papel médico que o preparou para Kill Me Heal Me e Doctor John.",
+      "Um dos primeiros dramas médicos coreanos de peso — referência do gênero.",
+      "23 episódios exibidos na MBC entre 2007-2008.",
+      "Viki BR com legendas em português."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Cenas cirúrgicas realistas, sangue, morte de pacientes, hierarquia hospitalar opressora."
+    },
+    "recomendacoes": [
+      "dr-romantic",
+      "doctor-john",
+      "hospital-playlist"
+    ]
+  },
+  {
+    "id": "entertainer",
+    "titulo": "Entertainer",
+    "titulo_original": "딴따라",
+    "titulo_br": "Entertainer",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "SBS",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Redenção",
+      "Anti-Herói",
+      "Second Chance",
+      "Underdog"
+    ],
+    "temas": [
+      "Música",
+      "Sonhos",
+      "Recomeço",
+      "Família"
+    ],
+    "profissoes": [
+      "Empresário",
+      "Músico"
+    ],
+    "elenco": [
+      "Ji Sung",
+      "Hyeri",
+      "Kang Min-hyuk",
+      "Chae Jung-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.4,
+      "mdl": 7.9,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 5,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/qGYWbU9PnyFT2ke1HBXk9UqlDlI.jpg",
+    "trailer": "",
+    "sinopse": "Sin Suk é EMPRESÁRIO caído em desgraça na indústria musical — perdeu tudo depois de um escândalo público. Monta uma BANDA improvável com adolescentes talentosos e SEM SORTE: um guitarrista rejeitado, um vocalista tímido, um baterista rebelde. Cada um carrega sua dor. Juntos, tentam se reerguer pelo rock — e o empresário aprende a acreditar em música de novo.",
+    "porque_assistir": "JI SUNG entre Kill Me Heal Me e Doctor John. HYERI (Reply 1988!) como uma das adolescentes. Kang Min-hyuk (CNBLUE). SBS 2016. 18 episódios. Sobre redenção pela música — inspirador, leve, com peso emocional. Viki BR.",
+    "curiosidades": [
+      "Ji Sung entre Kill Me Heal Me (2015) e Doctor John (2019).",
+      "Hyeri (Reply 1988) e Kang Min-hyuk (CNBLUE) formam a banda fictícia.",
+      "Sobre a indústria musical coreana por dentro.",
+      "Viki BR com legendas em português."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": ""
+    },
+    "recomendacoes": [
+      "reply-1988",
+      "twinkling-watermelon",
+      "the-sound-of-magic"
+    ]
+  },
+  {
+    "id": "at-a-distance-spring-is-green",
+    "titulo": "At a Distance, Spring Is Green",
+    "titulo_original": "멀리서 보면 푸른 봄",
+    "titulo_br": "À Distância, a Primavera é Verde",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Feliz",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Romance"
+    ],
+    "tropos": [
+      "Colegial",
+      "Amizade",
+      "Cura Emocional"
+    ],
+    "temas": [
+      "Depressão",
+      "Amizade",
+      "Universidade",
+      "Saúde Mental",
+      "Trauma"
+    ],
+    "profissoes": [
+      "Estudante"
+    ],
+    "elenco": [
+      "Park Ji-hoon",
+      "Kang Min-ah",
+      "Bae In-hyuk"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.8,
+      "mdl": 8.1,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/s4IPlsWjQ8OZoujBcKK50DcTgbA.jpg",
+    "poster": "/lbscLogJhqoRSJcVK6PvGtDz3sA.jpg",
+    "trailer": "",
+    "sinopse": "TRÊS UNIVERSITÁRIOS que parecem opostos aprendem a se aproximar: Yeo Jun é o queridinho da turma — bonito, popular, sorridente — mas esconde DEPRESSÃO profunda. Nam Soo-hyun é o solitário rabugento com passado familiar traumático. So Bin é a garota sem sorte que trabalha o tempo todo. Cada um vive numa camada diferente da mesma dor invisível.",
+    "porque_assistir": "Estudo DELICADO sobre saúde mental da geração Z coreana — depressão silenciosa, pressão universitária, amizade que salva. Park Ji-hoon (Weak Hero!) + Kang Min-ah + Bae In-hyuk (Story of Park's Marriage Contract, Cheer Up!). KBS2 2021. 12 episódios curtos. Viki BR.",
+    "curiosidades": [
+      "Park Ji-hoon antes de Weak Hero Class 1 explodir na Netflix.",
+      "Bae In-hyuk antes de Story of Park's Marriage Contract e Cheer Up.",
+      "Estudo delicado sobre saúde mental da geração Z coreana.",
+      "12 episódios curtos exibidos na KBS2 em 2021, disponível no Viki BR."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Depressão, ideação suicida, ansiedade e trauma familiar tratados com delicadeza."
+    },
+    "recomendacoes": [
+      "twenty-five-twenty-one",
+      "weak-hero-class-1",
+      "my-mister"
+    ]
+  },
+  {
+    "id": "uncontrollably-fond",
+    "titulo": "Uncontrollably Fond",
+    "titulo_original": "함부로 애틋하게",
+    "titulo_br": "Loucamente Apaixonado",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 15,
+    "final": "Triste",
+    "plataformas": [
+      "KBS2",
+      "Netflix",
+      "Viki"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Amor de Infância",
+      "Doença",
+      "Second Chance"
+    ],
+    "temas": [
+      "Amor",
+      "Morte",
+      "Perdão",
+      "Passado"
+    ],
+    "profissoes": [
+      "Cineasta",
+      "Astro"
+    ],
+    "elenco": [
+      "Kim Woo-bin",
+      "Bae Suzy",
+      "Im Ju-hwan"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 7.8,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 2,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "/xeDuEXvNRkcyB4ANTpLObPOa8g3.jpg",
+    "poster": "/oFi7YZuLWRE2K5ggkfBjVb60jrb.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uNAYTrZiTmc",
+    "sinopse": "Noh Eul é diretora de DOCUMENTÁRIOS obcecada em não sentir mais nada. Precisa filmar o astro TOP do país — Shin Joon-young. Só que ele é o PRIMEIRO AMOR dela. E, mais devastador, está MORRENDO. O reencontro depois de anos separados é uma corrida contra o relógio contra o passado. Melô ULTRA-devastador — han cravado no osso.",
+    "porque_assistir": "KIM WOO-BIN (Vagabond, The Heirs) + BAE SUZY em melô puro. Sofrível, chorável, das antigas. Netflix + Viki BR. KBS2 2016, 20 episódios. Aviso: NÃO É ROM-COM. É melodrama coreano do tipo que faz você repensar o que dá conta de assistir. Se você aguenta chorar por 20 episódios seguidos, é lindo.",
+    "curiosidades": [
+      "Kim Woo-bin em papel devastador antes do próprio hiato médico da vida real.",
+      "Bae Suzy no seu registro dramático mais adulto até então.",
+      "Melodrama sofrível clássico dos anos 2010.",
+      "Netflix BR com dublagem PT-BR + Viki como alternativa."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Doença terminal, luto, vingança e trauma pesado. Melô devastador."
+    },
+    "recomendacoes": [
+      "that-winter-the-wind-blows",
+      "chocolate",
+      "when-my-love-blooms"
+    ]
+  },
+  {
+    "id": "the-guest",
+    "titulo": "The Guest",
+    "titulo_original": "손: The Guest",
+    "titulo_br": "O Hóspede",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 18,
+    "final": "Aberto",
+    "plataformas": [
+      "OCN",
+      "Netflix",
+      "Viki"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Demônios",
+      "Trio Improvável",
+      "Vingança"
+    ],
+    "temas": [
+      "Fé",
+      "Vingança",
+      "Trauma",
+      "Bem vs Mal"
+    ],
+    "profissoes": [
+      "Médium",
+      "Padre",
+      "Detetive"
+    ],
+    "elenco": [
+      "Kim Dong-wook",
+      "Kim Jae-wook",
+      "Jung Eun-chae"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.7,
+      "mdl": 8.6,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 5,
+      "red": 8
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/5Y0apzo2oc0dBjDKQRZR7vjGRC7.jpg",
+    "trailer": "",
+    "sinopse": "Três pessoas marcadas pela mesma tragédia da infância se reencontram: Yoon Hwa-pyeong é MÉDIUM com dom de premonição, Park Il-do era o DEMÔNIO que assombrava a região, Choi Yoon é PADRE EXORCISTA e Kang Kil-yeong é DETETIVE cética. Juntos, caçam o demônio ancestral que possui pessoas e provoca massacres. Terror pastoral coreano — sem alívio.",
+    "porque_assistir": "KIM JAE-WOOK como o padre exorcista atormentado — atuação sombria e memorável. OCN 2018 (canal de suspense por excelência da Coreia). Netflix + Viki BR. 16 episódios. Terror sério, sem humor. Só pra quem gosta do gênero de verdade.",
+    "curiosidades": [
+      "Kim Jae-wook num papel dramático e sombrio de padre exorcista.",
+      "OCN é canal de suspense por excelência da TV coreana.",
+      "Netflix + Viki BR com dublagem PT-BR pela Netflix.",
+      "16 episódios exibidos em 2018."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Terror com possessão, massacres, morte de crianças e violência sobrenatural gráfica."
+    },
+    "recomendacoes": [
+      "hellbound",
+      "kingdom",
+      "mystic-pop-up-bar"
     ]
   }
 ]

@@ -1,0 +1,313 @@
+{
+  "sungkyunkwan-scandal": {
+    "titulo_original": "성균관 스캔들",
+    "pais": "Coreia do Sul",
+    "ano": 2010,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Min-young",
+      "Park Yoo-chun",
+      "Song Joong-ki",
+      "Yoo Ah-in"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/ybx2GDBkbzV2P8NUIj6r3U7ht3A.jpg",
+    "banner": "/mqLN4yMXldMYcZTVhw06q94XXya.jpg",
+    "trailer": null
+  },
+  "queen-for-seven-days": {
+    "titulo_original": "7일의 왕비",
+    "titulo_br": "Rainha por Sete Dias",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Min-young",
+      "Yeon Woo-jin",
+      "Lee Dong-gun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki",
+      "Prime Video",
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/80MeoIEoKNptFBowYNZiUXAUI28.jpg",
+    "banner": "/xpHwnBt9L27JekP1UhBqTH5nU6L.jpg",
+    "trailer": null
+  },
+  "city-hunter": {
+    "titulo_original": "시티헌터",
+    "pais": "Coreia do Sul",
+    "ano": 2011,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Min-ho",
+      "Park Min-young",
+      "Lee Joon-hyuk",
+      "Kim Sang-joong"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "SBS",
+      "Viki",
+      "Prime Video"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/dbvXhmKr18oHdY7kwkeRXAbfDvD.jpg",
+    "banner": "/gBjn4m2ERf76kcd8YorUbgxacDV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jDqjiclFLK8"
+  },
+  "coffee-prince": {
+    "titulo_original": "커피프린스 1호점",
+    "titulo_br": "Coffee Prince",
+    "pais": "Coreia do Sul",
+    "ano": 2007,
+    "episodios": 17,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Yoon Eun-hye",
+      "Gong Yoo",
+      "Lee Sun-kyun",
+      "Kim Jae-wook",
+      "Chae Jung-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "MBC",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/cwkw3P2o2gwEuvZswDd6DK1YmFI.jpg",
+    "banner": "",
+    "trailer": "https://www.youtube.com/watch?v=tBZTYtQT6OU"
+  },
+  "crazy-love": {
+    "titulo_original": "크레이지 러브",
+    "titulo_br": "Crazy Love",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kim Jae-wook",
+      "Krystal Jung",
+      "Ha Jun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/6SgRSLPs8hE2mqGuEJ6I0f6fbo0.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "new-heart": {
+    "titulo_original": "뉴하트",
+    "titulo_br": "New Heart",
+    "pais": "Coreia do Sul",
+    "ano": 2007,
+    "episodios": 23,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Sung",
+      "Kim Min-jung",
+      "Cho Jae-hyun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "MBC",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/fw3u0HxRVtNu4VlCk42XQbDmBlj.jpg",
+    "banner": "/aH6OZRJCk2dmhbNAAxltMmjP1hE.jpg",
+    "trailer": null
+  },
+  "entertainer": {
+    "titulo_original": "딴따라",
+    "titulo_br": "Entertainer",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 18,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Sung",
+      "Hyeri",
+      "Kang Min-hyuk",
+      "Chae Jung-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "SBS",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/qGYWbU9PnyFT2ke1HBXk9UqlDlI.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "my-liberation-notes": {
+    "titulo_original": "나의 해방일지",
+    "titulo_br": "Meu Diário para a Liberdade",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "80 min",
+    "elenco": [
+      "Kim Ji-won",
+      "Lee Min-ki",
+      "Son Suk-ku",
+      "Lee El"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "JTBC",
+      "Netflix",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/4uwWzrkkMOzx1KEc6jgGiManXkP.jpg",
+    "banner": "/2gXm6JK2r0KYEaInX3sWr5WwD6H.jpg",
+    "trailer": null
+  },
+  "at-a-distance-spring-is-green": {
+    "titulo_original": "멀리서 보면 푸른 봄",
+    "titulo_br": "À Distância, a Primavera é Verde",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Ji-hoon",
+      "Kang Min-ah",
+      "Bae In-hyuk"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/lbscLogJhqoRSJcVK6PvGtDz3sA.jpg",
+    "banner": "/s4IPlsWjQ8OZoujBcKK50DcTgbA.jpg",
+    "trailer": null
+  },
+  "uncontrollably-fond": {
+    "titulo_original": "함부로 애틋하게",
+    "titulo_br": "Loucamente Apaixonado",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 20,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Woo-bin",
+      "Bae Suzy",
+      "Im Ju-hwan"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Netflix",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/oFi7YZuLWRE2K5ggkfBjVb60jrb.jpg",
+    "banner": "/xeDuEXvNRkcyB4ANTpLObPOa8g3.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uNAYTrZiTmc"
+  },
+  "fight-for-my-way": {
+    "titulo_original": "쌈 마이웨이",
+    "titulo_br": "Lute pelo Meu Caminho",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Seo-joon",
+      "Kim Ji-won",
+      "Ahn Jae-hong",
+      "Song Ha-yoon"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "KBS2",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/t9iM1gssLMrad9htxbziAuWd3ZT.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-guest": {
+    "titulo_original": "손: The Guest",
+    "titulo_br": "O Hóspede",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Dong-wook",
+      "Kim Jae-wook",
+      "Jung Eun-chae"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "OCN",
+      "Netflix",
+      "Viki"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/5Y0apzo2oc0dBjDKQRZR7vjGRC7.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}
