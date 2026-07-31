@@ -30,7 +30,6 @@ export function renderCard(d) {
       <div class="poster-fallback"><b>${d.titulo}</b><span>${d.ano || ""}</span></div>
       <div class="rating-badge">★ ${fmtNota(getNota(d))}</div>
       ${(d.obra_prima === true || (getNota(d) ?? 0) >= 9) ? '<div class="mp-badge" title="Obra-prima">⭐</div>' : ""}
-      ${d.dublado ? '<div class="dub-badge">DUB</div>' : ""}
       <div class="card-status">${statusHTML(d.id)}</div>
       <div class="quick-actions">
         ${qaButton(d.id, "favoritos", "❤️")}
