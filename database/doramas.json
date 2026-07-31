@@ -104,7 +104,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -369,7 +369,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -458,7 +458,7 @@
       "Netflix",
       "Prime Video"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Romance Maduro"
@@ -1907,7 +1907,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Romance Maduro",
@@ -4064,7 +4064,7 @@
       "Viki",
       "Kocowa"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Médicos",
       "Emocionantes"
@@ -4608,7 +4608,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia",
@@ -10594,7 +10594,7 @@
       "tvN",
       "Prime Video"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -11987,7 +11987,7 @@
     "classificacao": 16,
     "final": "Aberto",
     "plataformas": [],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Sobrenatural",
@@ -13658,7 +13658,7 @@
       "KBS2",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia"
@@ -16549,7 +16549,7 @@
       "tvN",
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Emocionantes",
@@ -16738,7 +16738,7 @@
       "SBS",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -16835,7 +16835,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Sobrenatural",
       "Fantasia",
@@ -16929,7 +16929,7 @@
       "MBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia",
@@ -17023,7 +17023,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -17117,7 +17117,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Históricos",
       "Emocionantes",
@@ -17392,7 +17392,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia",
@@ -18233,7 +18233,7 @@
       "KBS2",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Investigação",
@@ -18614,7 +18614,7 @@
       "tvN",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia",
@@ -19269,7 +19269,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -20104,7 +20104,7 @@
       "Prime Video",
       "Paramount+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Casamento por contrato",
@@ -21128,7 +21128,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Médicos",
       "Sobrenatural",
@@ -21315,7 +21315,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Romance Maduro",
@@ -21500,7 +21500,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Investigação",
@@ -21594,7 +21594,7 @@
       "KBS2",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -21687,7 +21687,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -22612,7 +22612,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Emocionantes",
@@ -22705,7 +22705,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Sobrenatural",
       "Investigação",
