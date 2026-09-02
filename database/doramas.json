@@ -25955,5 +25955,1478 @@
       "search-www",
       "melo-is-my-nature"
     ]
+  },
+  {
+    "id": "the-good-bad-mother",
+    "titulo": "The Good Bad Mother",
+    "titulo_original": "나쁜엄마",
+    "titulo_br": "Uma Mãe de Verdade",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 14,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Agridoce",
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Emocionantes",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Mãe e Filho",
+      "Recomeço",
+      "Perda de Memória"
+    ],
+    "temas": [
+      "Maternidade",
+      "Trauma",
+      "Perdão",
+      "Família",
+      "Cura"
+    ],
+    "profissoes": [
+      "Fazendeira",
+      "Promotor",
+      "Veterinária"
+    ],
+    "elenco": [
+      "Lee Do-hyun",
+      "Ra Mi-ran",
+      "Ahn Eun-jin",
+      "Yoo In-soo"
+    ],
+    "diretor": "Shim Na-yeon",
+    "roteirista": "Bae Se-young",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 9.1,
+      "imdb": 8.7
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 10,
+      "humor": 6,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 9,
+      "red": 4
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/x3xEvR4JTtBlbHXq3k9qRcsIB9h.jpg",
+    "trailer": "",
+    "sinopse": "Young-soon é uma MÃE severa que sacrificou TUDO pela carreira do filho promotor. Quando ele sofre um ACIDENTE e sua mente regride à de uma CRIANÇA de 7 anos, ela precisa refazer TUDO — recomeçar do zero a vida dele e, no processo, encarar as escolhas que a fizeram ser a 'má mãe' que sempre foi.",
+    "porque_assistir": "Ra Mi-ran + Lee Do-hyun (The Glory!) num dos dramas mais LACRIMEJANTES de 2023. 9.1 no MDL — uma das notas mais altas do ano. Slice of life rural, comédia agridoce, choro coletivo garantido. Netflix BR dublado.",
+    "curiosidades": [
+      "Ra Mi-ran ganhou Baeksang de Melhor Atriz 2024.",
+      "Considerado por muitos o melhor drama JTBC do ano.",
+      "Roteirista Bae Se-young estreou aqui — sucesso imediato."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Câncer terminal, morte, trauma familiar profundo, violência esporádica."
+    },
+    "recomendacoes": [
+      "move-to-heaven",
+      "my-mister",
+      "when-life-gives-you-tangerines"
+    ]
+  },
+  {
+    "id": "racket-boys",
+    "titulo": "Racket Boys",
+    "titulo_original": "라켓소년단",
+    "titulo_br": "Meninos do Badminton",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 12,
+    "final": "Feliz",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Esporte",
+      "Cidade Pequena",
+      "Coming of Age"
+    ],
+    "temas": [
+      "Esporte",
+      "Família",
+      "Amizade",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Treinador",
+      "Estudantes",
+      "Fazendeiros"
+    ],
+    "elenco": [
+      "Kim Sang-kyung",
+      "Oh Na-ra",
+      "Tang Joon-sang",
+      "Lee Jae-in"
+    ],
+    "diretor": "Cho Young-kwang",
+    "roteirista": "Jung Bo-hoon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.7,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 9,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 10,
+      "red": 1
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/3hvwtIPfNzMVb5xVfBaTYuxXFM2.jpg",
+    "trailer": "",
+    "sinopse": "Um EX-JOGADOR falido e o filho ADOLESCENTE se mudam para uma cidadezinha RURAL para salvar um time de BADMINTON escolar prestes a ser extinto. Slice-of-life esportivo com uma quadra desatualizada, três meninos desengonçados e uma comunidade que aprende a torcer junto.",
+    "porque_assistir": "Da criadora Kim Eun-hee (Signal, Kingdom, Jirisan) num registro TOTALMENTE diferente: comfort drama esportivo. Tang Joon-sang (Reply 1988) super carismático. Ninguém morre, ninguém sofre demais — só fofura pura.",
+    "curiosidades": [
+      "Escrito por Jung Bo-hoon (Prison Playbook, Hospital Playlist).",
+      "Filmado em Haenam, extremo sul da Coreia.",
+      "Personagem principal jogadora de badminton na vida real."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "recomendacoes": [
+      "reply-1988",
+      "prison-playbook",
+      "hospital-playlist"
+    ]
+  },
+  {
+    "id": "jirisan",
+    "titulo": "Jirisan",
+    "titulo_original": "지리산",
+    "titulo_br": "Jirisan",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "80 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "Disney+",
+      "tvN"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Investigação",
+      "Sobrenatural",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Ranger",
+      "Montanha",
+      "Serial Killer",
+      "Fantasma"
+    ],
+    "temas": [
+      "Natureza",
+      "Morte",
+      "Redenção",
+      "Mistério"
+    ],
+    "profissoes": [
+      "Ranger",
+      "Botânico",
+      "Xamã"
+    ],
+    "elenco": [
+      "Jun Ji-hyun",
+      "Joo Ji-hoon",
+      "Sung Dong-il",
+      "Oh Jung-se"
+    ],
+    "diretor": "Lee Eung-bok",
+    "roteirista": "Kim Eun-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8,
+      "mdl": 8,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/7oAKJBoeMICBkyaANQHFPU9fDFD.jpg",
+    "trailer": "",
+    "sinopse": "A RANGER mais experiente do PARQUE NACIONAL de JIRISAN e um novato com um SEGREDO enfrentam mortes misteriosas na montanha sagrada da Coreia. Os corpos aparecem em pontos específicos — e algo (ou alguém) parece estar ORIENTANDO os culpados.",
+    "porque_assistir": "Jun Ji-hyun (My Love from the Star!) + Joo Ji-hoon num thriller sobrenatural da Kim Eun-hee (Kingdom, Signal). Ambientação de tirar o fôlego, mistério em camadas. Disney+ BR dublado.",
+    "curiosidades": [
+      "Filmagem em locação real no Parque Nacional de Jirisan.",
+      "Uma das produções mais caras da história da tvN.",
+      "Kim Eun-hee escreveu personagens baseados em rangers reais."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Mortes gráficas em cenários naturais, temas de suicídio, violência."
+    },
+    "recomendacoes": [
+      "signal",
+      "kingdom",
+      "sweet-home"
+    ]
+  },
+  {
+    "id": "queen-in-hyun-s-man",
+    "titulo": "Queen In-hyun's Man",
+    "titulo_original": "",
+    "titulo_br": "O Homem da Rainha In-hyun",
+    "tipo": "",
+    "pais": "",
+    "ano": 2012,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Feliz",
+    "plataformas": [],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Históricos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Amor Impossível",
+      "Destino"
+    ],
+    "temas": [
+      "Tempo",
+      "Amor",
+      "Destino",
+      "Escolha"
+    ],
+    "profissoes": [
+      "Erudito",
+      "Atriz",
+      "Guarda-Costas"
+    ],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 9.2,
+      "imdb": 8.9
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 10,
+      "emocao": 9,
+      "humor": 6,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "Um ERUDITO da era JOSEON é transportado 300 ANOS para o futuro por um TALISMÃ e se apaixona por uma ATRIZ que vai interpretar a rainha que ele jurou proteger no passado. Cada volta ao passado é uma missão — e cada retorno ao presente, uma escolha entre destino e amor.",
+    "porque_assistir": "CULTO absoluto do gênero viagem no tempo. Química ELETRIZANTE entre Ji Hyun-woo + Yoo In-na (o casal se apaixonou de verdade nas gravações e namorou anos!). 9.2 no MDL — nota rara. Só 16 eps redondinhos.",
+    "curiosidades": [
+      "Ji Hyun-woo + Yoo In-na namoraram anos depois das gravações.",
+      "Roteiro de Song Jae-jung (W: Two Worlds, Nine).",
+      "Considerado até hoje o melhor time-travel kdrama."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "recomendacoes": [
+      "nine-nine-time-travels",
+      "w-two-worlds",
+      "splash-splash-love"
+    ]
+  },
+  {
+    "id": "doctor-prisoner",
+    "titulo": "Doctor Prisoner",
+    "titulo_original": "닥터 프리즈너",
+    "titulo_br": "Doutor Prisioneiro",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 32,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Médicos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Infiltrado",
+      "Chefe Manipulador"
+    ],
+    "temas": [
+      "Justiça",
+      "Poder",
+      "Corrupção",
+      "Medicina"
+    ],
+    "profissoes": [
+      "Médico",
+      "Prisioneiro",
+      "Chaebol"
+    ],
+    "elenco": [
+      "Namgoong Min",
+      "Kwon Nara",
+      "Kim Byung-chul",
+      "Choi Won-young"
+    ],
+    "diretor": "Hwang In-hyuk",
+    "roteirista": "Park Kye-ok",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.6,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 2,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/nnm5FyRBhUG1wC5m447zkiPFCuT.jpg",
+    "trailer": "",
+    "sinopse": "Um MÉDICO brilhante INJUSTAMENTE demitido de um hospital universitário monta um plano de VINGANÇA se tornando o MÉDICO-CHEFE da PRISÃO — onde encontra os figurões que pode manipular, um por um.",
+    "porque_assistir": "Namgoong Min (Good Manager, The Husband!) num papel de vingador cerebral e cirúrgico. 8.6 no MDL. Suspense denso, plotting brilhante, uma manipulação por episódio. Ótimo se você curte Vincenzo.",
+    "curiosidades": [
+      "Namgoong Min ganhou Melhor Ator KBS 2019.",
+      "Baseado em incidente real de médico prisional coreano.",
+      "Consagrou Namgoong Min como especialista em anti-heróis."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência médica, tortura psicológica, corrupção sistêmica."
+    },
+    "recomendacoes": [
+      "good-manager",
+      "vincenzo",
+      "the-husband"
+    ]
+  },
+  {
+    "id": "wok-of-love",
+    "titulo": "Wok of Love",
+    "titulo_original": "기름진 멜로",
+    "titulo_br": "Melô Gorduroso",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 38,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Chef",
+      "Recomeço",
+      "Restaurante",
+      "Rivais"
+    ],
+    "temas": [
+      "Culinária",
+      "Recomeço",
+      "Amor",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Chef",
+      "Herdeira",
+      "Ex-Gangster"
+    ],
+    "elenco": [
+      "Lee Jun-ho",
+      "Jung Ryeo-won",
+      "Jang Hyuk",
+      "Jun Kwang-ryul"
+    ],
+    "diretor": "Park Sun-ho",
+    "roteirista": "Seo Sook-hyang",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 6,
+      "humor": 9,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/wLrC45iBklVXzjE1JBB6K36RgaT.jpg",
+    "trailer": "",
+    "sinopse": "Um CHEF RENOMADO que perdeu tudo, um EX-PRESIDIÁRIO dono de um restaurante chinês DECADENTE e uma HERDEIRA falida se juntam para reerguer a cozinha e o coração. Da fritura ao amor, todo mundo vai se lambuzar.",
+    "porque_assistir": "Lee Jun-ho (King the Land, The Red Sleeve!) + Jung Ryeo-won + Jang Hyuk (Chuno!) numa rom-com gastronômica DELICIOSA. Comida, comédia, química inesquecível. Comfort drama.",
+    "curiosidades": [
+      "Roteiro de Seo Sook-hyang (Pasta, Baker King Kim Tak-goo).",
+      "Lee Jun-ho aprendeu a cozinhar de verdade pro papel.",
+      "Jang Hyuk brilha em papel cômico raro."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência esporádica de gangue, alguns temas adultos."
+    },
+    "recomendacoes": [
+      "king-the-land",
+      "because-this-is-my-first-life",
+      "bon-appetit-your-majesty"
+    ]
+  },
+  {
+    "id": "the-golden-spoon",
+    "titulo": "The Golden Spoon",
+    "titulo_original": "금수저",
+    "titulo_br": "Colher de Ouro",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Agridoce",
+    "plataformas": [
+      "Viki",
+      "MBC"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Troca de Corpos",
+      "Rico vs Pobre",
+      "Amizade Complicada"
+    ],
+    "temas": [
+      "Classe",
+      "Família",
+      "Escolha",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Herdeiro",
+      "Chef"
+    ],
+    "elenco": [
+      "Yook Sung-jae",
+      "Lee Jong-won",
+      "Jung Chae-yeon",
+      "Yeonwoo"
+    ],
+    "diretor": "Song Hyun-wook",
+    "roteirista": "Kim Eun-hee",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8,
+      "mdl": 8,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/dKdn89hiA3j8OHSXNejUZEnpBsq.jpg",
+    "trailer": "",
+    "sinopse": "Um adolescente POBRE compra uma COLHER DE OURO MÁGICA que permite TROCAR DE VIDA com um amigo RICO — mas o preço da riqueza é maior do que ele imaginava. Cada dia como o outro tem um custo emocional que se acumula.",
+    "porque_assistir": "Yook Sung-jae (Goblin!) num drama de fantasia adaptado de webtoon SUPER popular. Reflexão sobre classe, família e ambição. Ótimo pra quem curtiu Reborn Rich mas quer algo mais jovem.",
+    "curiosidades": [
+      "Adaptação do webtoon 'Golden Spoon' — sucesso na Coreia.",
+      "Yook Sung-jae voltou à TV depois do serviço militar.",
+      "Roteiro cheio de reviravoltas — pra maratonar."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Suicídio, tensão familiar, abuso emocional em família rica."
+    },
+    "recomendacoes": [
+      "reborn-rich",
+      "extraordinary-you",
+      "alchemy-of-souls"
+    ]
+  },
+  {
+    "id": "pandora-beneath-the-paradise",
+    "titulo": "Pandora: Beneath the Paradise",
+    "titulo_original": "",
+    "titulo_br": "Pandora: Sob o Paraíso",
+    "tipo": "",
+    "pais": "",
+    "ano": 2023,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Amargo",
+    "plataformas": [],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Segredos",
+      "Política",
+      "Amnésia"
+    ],
+    "temas": [
+      "Poder",
+      "Segredos",
+      "Vingança",
+      "Trauma"
+    ],
+    "profissoes": [
+      "Esposa Política",
+      "Político",
+      "Empresária"
+    ],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7.5,
+      "mdl": 7.9,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 2,
+      "red": 9
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "HONG TAE-RA tem a VIDA PERFEITA de esposa de político até que MEMÓRIAS reprimidas explodem e ela vira uma PANDORA MODERNA atrás de vingança. Cada mentira revelada é uma caixa que se abre — e nenhuma delas quer se fechar.",
+    "porque_assistir": "Lee Ji-ah (a Shim Su-ryeon de Penthouse!) volta em MAKJANG DE LUXO estilo Sky Castle + Penthouse. Vinganças em cascata, roupas absurdas, plot twists por episódio. Perfeito pra guilty pleasure.",
+    "curiosidades": [
+      "Lee Ji-ah reencontra o registro de Penthouse.",
+      "Roteiro trabalha com 3 identidades da protagonista.",
+      "tvN apostou alto — orçamento comparável a Netflix."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência, agressão, temas políticos densos, memórias traumáticas."
+    },
+    "recomendacoes": [
+      "the-penthouse",
+      "sky-castle",
+      "mine"
+    ]
+  },
+  {
+    "id": "what-comes-after-love",
+    "titulo": "What Comes After Love",
+    "titulo_original": "사랑 후에 오는 것들",
+    "titulo_br": "O Que Vem Depois do Amor",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Agridoce",
+    "plataformas": [
+      "Prime Video"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Amor Perdido",
+      "Reencontro",
+      "Amor Impossível",
+      "Distância"
+    ],
+    "temas": [
+      "Saudade",
+      "Segunda Chance",
+      "Cultura",
+      "Amor"
+    ],
+    "profissoes": [
+      "Escritora",
+      "Editor",
+      "Tradutora"
+    ],
+    "elenco": [
+      "Lee Se-young",
+      "Sakaguchi Kentaro",
+      "Hong Jong-hyun",
+      "Nakamura Anne"
+    ],
+    "diretor": "Moon Hyun-sung",
+    "roteirista": "Yoo Young-ah",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.3,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 2,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/9HWWepbHybNANLXgL5iJtxWB5Ye.jpg",
+    "trailer": "",
+    "sinopse": "Uma ESTUDANTE coreana no Japão vive um romance DEVASTADOR com um jovem japonês. CINCO ANOS depois de se separarem em pedaços, se REENCONTRAM por acaso em Seul — cada um remontando o que sobrou.",
+    "porque_assistir": "Lee Se-young + Sakaguchi Kentaro (grande ator japonês!) num romance BILÍNGUE lindíssimo. Adaptação de romance escrito por dois autores (coreana + japonês). Poesia visual, saudade em cada frame. Só 6 eps.",
+    "curiosidades": [
+      "Baseado em romance de Gong Ji-young (Coreia) + Tsuji Hitonari (Japão).",
+      "Coprodução Coreia + Japão inédita pra Disney+.",
+      "Sakaguchi Kentaro é um dos maiores atores do Japão atual."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Alguns temas emocionais densos, cenas românticas sensuais mas não explícitas."
+    },
+    "recomendacoes": [
+      "encounter",
+      "one-spring-night",
+      "chocolate"
+    ]
+  },
+  {
+    "id": "the-escape-of-the-seven",
+    "titulo": "The Escape of the Seven",
+    "titulo_original": "",
+    "titulo_br": "A Fuga dos Sete",
+    "tipo": "",
+    "pais": "",
+    "ano": 2023,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Amargo",
+    "plataformas": [],
+    "dublado": false,
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Segredo Coletivo",
+      "Vingança",
+      "Grupo de Suspeitos",
+      "Falsa Morte"
+    ],
+    "temas": [
+      "Culpa",
+      "Vingança",
+      "Segredos",
+      "Poder"
+    ],
+    "profissoes": [
+      "Cantora",
+      "Empresário",
+      "Político"
+    ],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 7,
+      "mdl": 7.8,
+      "imdb": 7.2
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 1,
+      "red": 10
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "Uma GAROTA desaparece e SETE PESSOAS conectadas por mentiras, desejos e crimes precisam ENCOBRIR o que fizeram. À medida que uma das sete começa a se voltar contra as outras, o passado insiste em vir à tona.",
+    "porque_assistir": "Kim Soon-ok, a rainha do MAKJANG (Penthouse!), num plot ALUCINADO com dois arcos: Race + Resurrection. 33 episódios pra maratonar. Uhm Ki-joon volta em papel de vilão histriônico.",
+    "curiosidades": [
+      "Kim Soon-ok escreveu Penthouse (fenômeno 2020-2021).",
+      "2 temporadas: Race (17 eps) + Resurrection (16 eps).",
+      "Uhm Ki-joon é o vilão-fetiche de Kim Soon-ok."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, assassinato, drogas, temas sexuais, chantagem, muito makjang."
+    },
+    "recomendacoes": [
+      "the-penthouse",
+      "mine",
+      "reborn-rich"
+    ]
+  },
+  {
+    "id": "han-river-police",
+    "titulo": "Han River Police",
+    "titulo_original": "한강",
+    "titulo_br": "Patrulha do Rio Han",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Ação",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Polícia",
+      "Casos por Episódio",
+      "Corrupção"
+    ],
+    "temas": [
+      "Justiça",
+      "Trabalho em Equipe",
+      "Rio",
+      "Cidade"
+    ],
+    "profissoes": [
+      "Policial",
+      "Detetive",
+      "Ranger Fluvial"
+    ],
+    "elenco": [
+      "Kwon Sang-woo",
+      "Kim Hie-won",
+      "Lee Sang-yi",
+      "Shin Jae-ha"
+    ],
+    "diretor": "Kim Sang-hun",
+    "roteirista": "Yoo Sung-yeol",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8,
+      "mdl": 7.9,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 5,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/jMzeqFvhaqZMCwuVuDSMI6wwOcG.jpg",
+    "trailer": "",
+    "sinopse": "A unidade da POLÍCIA FLUVIAL do RIO HAN investiga um caso de APARENTE SUICÍDIO num cruzeiro encalhado que rapidamente se desdobra em CONSPIRAÇÃO CRIMINOSA envolvendo tráfico, corrupção e algumas vidas em jogo.",
+    "porque_assistir": "Kwon Sang-woo em drama procedural CURTO (só 8 eps!) e afiado. Perfeito pra maratonar num sábado. Disney+ BR dublado. Ação e mistério real.",
+    "curiosidades": [
+      "Filmado com cooperação real da Polícia Fluvial do Han.",
+      "Só 8 episódios — formato binge-friendly.",
+      "Kwon Sang-woo produziu junto."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Cenas de resgate aquático intensas, violência policial, mortes."
+    },
+    "recomendacoes": [
+      "the-first-responders",
+      "live",
+      "taxi-driver"
+    ]
+  },
+  {
+    "id": "my-perfect-stranger",
+    "titulo": "My Perfect Stranger",
+    "titulo_original": "어쩌다 마주친, 그대",
+    "titulo_br": "Meu Estranho Perfeito",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "Viki",
+      "KBS2"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Investigação",
+      "Fantasia",
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Serial Killer",
+      "Anos 80",
+      "Destino"
+    ],
+    "temas": [
+      "Tempo",
+      "Família",
+      "Escolha",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Repórter",
+      "Empresária",
+      "Detetive"
+    ],
+    "elenco": [
+      "Kim Dong-wook",
+      "Jin Ki-joo",
+      "Seo Ji-hye",
+      "Kim Won-hae"
+    ],
+    "diretor": "Kang Su-yeon",
+    "roteirista": "Baek So-yeon",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 9,
+      "mdl": 8.7,
+      "imdb": 8.5
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/d16BNCSmrxV0Nkso5aIKw0NqFLp.jpg",
+    "trailer": "",
+    "sinopse": "Um REPÓRTER dos anos 2020 é JOGADO nos anos 1980 e conhece uma mulher que voltou no tempo para IMPEDIR o próprio nascimento. As investigações deles se cruzam num SERIAL KILLER que ainda não matou — e cada mudança no passado altera o presente deles.",
+    "porque_assistir": "Viagem no tempo com peso emocional real, roteiro precisão de relógio. Kim Dong-wook (King the Land!) + Jin Ki-joo química ótima. Trilha nostálgica anos 80. 8.7 no MDL.",
+    "curiosidades": [
+      "Roteiro de Baek So-yeon — estreia de destaque.",
+      "Filmagens replicaram Seul dos anos 80 fielmente.",
+      "OST cheia de referências synth-pop coreano vintage."
+    ],
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Serial killer, temas de suicídio, violência doméstica anos 80."
+    },
+    "recomendacoes": [
+      "signal",
+      "reply-1988",
+      "queen-in-hyun-s-man"
+    ]
+  },
+  {
+    "id": "the-judge-from-hell",
+    "titulo": "The Judge from Hell",
+    "titulo_original": "지옥에서 온 판사",
+    "titulo_br": "A Juíza do Inferno",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 14,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Prime Video",
+      "Viki",
+      "SBS"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Sobrenatural",
+      "Emocionantes",
+      "Advogados",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Demônio",
+      "Juíza",
+      "Vingança",
+      "Anti-Herói"
+    ],
+    "temas": [
+      "Pecado",
+      "Redenção",
+      "Justiça",
+      "Amor"
+    ],
+    "profissoes": [
+      "Juíza",
+      "Detetive",
+      "Demônio"
+    ],
+    "elenco": [
+      "Park Shin-hye",
+      "Kim Jae-young",
+      "Kim In-kwon",
+      "Lee Kyu-han"
+    ],
+    "diretor": "Park Jin-pyo",
+    "roteirista": "Cho Yi-soo",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.4,
+      "imdb": 8
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/iRbJ9bPnoLDgvmsVJcp4cpPzWIJ.jpg",
+    "trailer": "",
+    "sinopse": "Uma JUÍZA gélida na verdade é uma DEMÔNIA disfarçada em corpo humano, CONDENANDO pecadores sem redenção ao inferno na cara. Quando cruza com um DETETIVE obcecado pela verdade, o julgamento vira dela mesma.",
+    "porque_assistir": "Park Shin-hye (Pinocchio, Doctor Slump!) volta em papel MUITO diferente: fria, cortante, sobrenatural. Fantasia dark com moral ambígua. 8.4 no MDL. Prime Video + Viki BR.",
+    "curiosidades": [
+      "Park Shin-hye em papel mais dark da carreira.",
+      "Kim Jae-young ganhou destaque como par romântico.",
+      "Roteiro original — não é adaptação."
+    ],
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência sobrenatural gráfica, execuções, crimes visualmente perturbadores."
+    },
+    "recomendacoes": [
+      "hotel-del-luna",
+      "the-devil-judge",
+      "my-demon"
+    ]
+  },
+  {
+    "id": "serendipity-s-embrace",
+    "titulo": "Serendipity's Embrace",
+    "titulo_original": "",
+    "titulo_br": "Outra Chance Para Amar",
+    "tipo": "",
+    "pais": "",
+    "ano": 2024,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Feliz",
+    "plataformas": [],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Primeiro Amor",
+      "Segunda Chance",
+      "Reencontro"
+    ],
+    "temas": [
+      "Memória",
+      "Amor",
+      "Recomeço",
+      "Saudade"
+    ],
+    "profissoes": [
+      "Produtora de Animação",
+      "Planejador Financeiro"
+    ],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "triangulo_amoroso": true,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "DEZ ANOS depois de um PRIMEIRO AMOR de colégio terminar em cacos, uma PRODUTORA de animação REENCONTRA o rapaz — agora um planejador financeiro que voltou dos EUA. Todas as feridas ainda estão lá, e todas as saudades também.",
+    "porque_assistir": "Kim So-hyun (Love Alarm!) + Chae Jong-hyeop num rom-com melancólico e maduro adaptado do webtoon 'Coincidence?'. Vibe outono, café e memória. Netflix + Viki BR.",
+    "curiosidades": [
+      "Adaptação do webtoon 'Uyeon-inga?' (Coincidência?).",
+      "Kim So-hyun voltou à TV depois de 2 anos.",
+      "Fotografia inspirada em animação — muitos frames viraram GIF."
+    ],
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "recomendacoes": [
+      "our-beloved-summer",
+      "love-alarm",
+      "twenty-five-twenty-one"
+    ]
+  },
+  {
+    "id": "bad-prosecutor",
+    "titulo": "Bad Prosecutor",
+    "titulo_original": "진검승부",
+    "titulo_br": "O Promotor Rebelde",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "status": "Finalizado",
+    "classificacao": 14,
+    "final": "Feliz",
+    "plataformas": [
+      "Viki",
+      "KBS2"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Advogados",
+      "Ação",
+      "Comédia",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Promotor Fora da Lei",
+      "Justiça pelas Próprias Mãos",
+      "Casos Semanais"
+    ],
+    "temas": [
+      "Justiça",
+      "Corrupção",
+      "Sistema",
+      "Rebeldia"
+    ],
+    "profissoes": [
+      "Promotor",
+      "Detetive",
+      "Chaebol"
+    ],
+    "elenco": [
+      "Doh Kyung-soo",
+      "Lee Se-hee",
+      "Ha Jun",
+      "Joo Bo-bi"
+    ],
+    "diretor": "Oh Kyung-hoon",
+    "roteirista": "Park Sang-gyu",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.4,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 5,
+      "emocao": 6,
+      "humor": 8,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/zFH9Ze9RbviL3NcAfhi9DH3nH3W.jpg",
+    "trailer": "",
+    "sinopse": "Um PROMOTOR REBELDE com senso de justiça EXTREMO pune criminosos poderosos além do que a LEI permite — e vira um espinho no Ministério Público. Enquanto o sistema tenta enquadrá-lo, ele derruba os figurões um por um.",
+    "porque_assistir": "D.O. do EXO na primeira PROTAGONISTA de kdrama — carismático e engraçado. Ação legal LEVE e divertida, cases-per-episode. 12 eps que passam rápido. 8.4 no MDL.",
+    "curiosidades": [
+      "D.O. do EXO em primeiro papel principal.",
+      "Comparado a Vincenzo em tom, mas mais leve.",
+      "Filmado durante hiato militar do D.O."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência esporádica, cenas de justiça extralegal."
+    },
+    "recomendacoes": [
+      "vincenzo",
+      "the-fiery-priest",
+      "chief-detective-1958"
+    ]
+  },
+  {
+    "id": "delightfully-deceitful",
+    "titulo": "Delightfully Deceitful",
+    "titulo_original": "이로운 사기",
+    "titulo_br": "Doce Engano",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Feliz",
+    "plataformas": [
+      "Viki",
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Advogados",
+      "Emocionantes",
+      "Investigação",
+      "Comédia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Golpista",
+      "Empática",
+      "Dupla Improvável",
+      "Vingança"
+    ],
+    "temas": [
+      "Empatia",
+      "Verdade",
+      "Vingança",
+      "Confiança"
+    ],
+    "profissoes": [
+      "Golpista",
+      "Advogado",
+      "Vítima"
+    ],
+    "elenco": [
+      "Chun Woo-hee",
+      "Kim Dong-wook",
+      "Yoon Park",
+      "Kim Jung-nan"
+    ],
+    "diretor": "Lee Soo-hyun",
+    "roteirista": "Han Bo-kyung",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": 8,
+      "mdl": 8,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/tZH2jty1MaWQFBJihThJxB1lm6H.jpg",
+    "trailer": "",
+    "sinopse": "Uma GOLPISTA brilhante e sem EMPATIA, injustamente presa por assassinato, é solta DEZ ANOS depois com a ajuda de um ADVOGADO HIPEREMPÁTICO. Juntos, viram uma dupla improvável de VINGANÇA contra os verdadeiros vilões.",
+    "porque_assistir": "Chun Woo-hee (The 8 Show!) + Kim Dong-wook (My Perfect Stranger, King the Land!). Química curiosíssima: golpista fria x advogado que sente TUDO dos outros. Original, engraçado, com peso.",
+    "curiosidades": [
+      "Chun Woo-hee tem talento raro pra frieza — usada aqui em cheio.",
+      "Roteiro original de Han Bo-kyung.",
+      "tvN aposta em duplas improváveis desde Vincenzo."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Golpes, temas de trauma, violência psicológica."
+    },
+    "recomendacoes": [
+      "vincenzo",
+      "extraordinary-attorney-woo",
+      "divorce-attorney-shin"
+    ]
   }
 ]
