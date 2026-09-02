@@ -1,0 +1,1537 @@
+[
+  {
+    "titulo": "The 8 Show",
+    "ano": 2024,
+    "titulo_br": "O Show dos 8",
+    "sinopse": "Oito estranhos ENDIVIDADOS aceitam entrar num PRÉDIO de oito andares onde ganham dinheiro conforme o tempo passa — cada andar tem regras e privilégios diferentes. O jogo aparentemente inofensivo ESCALA em crueldade quando eles descobrem que podem estender o tempo… às custas dos outros.",
+    "porque_assistir": "Ryu Jun-yeol + Chun Woo-hee num survival game brutal do diretor de The Face Reader. Comparações com Squid Game são inevitáveis, mas o formato é mais claustrofóbico e a crítica de classe muito mais afiada. 8 episódios.",
+    "categorias": [
+      "Emocionantes",
+      "Ação"
+    ],
+    "tropos": [
+      "Sobrevivência",
+      "Jogo Mortal",
+      "Classe Social"
+    ],
+    "temas": [
+      "Dinheiro",
+      "Ganância",
+      "Desigualdade",
+      "Moral"
+    ],
+    "profissoes": [
+      "Devedor",
+      "Palhaço",
+      "Estudante"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 0,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 2,
+      "red": 9
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, tortura psicológica, humilhação."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Escrito e dirigido por Han Jae-rim (The Face Reader, Emergency Declaration).",
+      "Inspirado num webtoon do autor de Money Game.",
+      "Estreou 17/05/2024 na Netflix, viralizou globalmente."
+    ],
+    "recomendacoes": [
+      "Squid Game",
+      "Money Game",
+      "The Bequeathed"
+    ],
+    "_id_hint": "the-8-show"
+  },
+  {
+    "titulo": "Money Heist: Korea - Joint Economic Area",
+    "ano": 2022,
+    "titulo_br": "La Casa de Papel: Coreia",
+    "sinopse": "Numa Coreia PRÓXIMA da REUNIFICAÇÃO, um gênio criminoso conhecido como PROFESSOR reúne um time de ladrões talentosos para invadir a Casa da Moeda unificada. O plano ambicioso vira uma crise de reféns TRANSMITIDA ao vivo, com a polícia dos dois lados da fronteira envolvida.",
+    "porque_assistir": "Refilmagem coreana do fenômeno espanhol. Yoo Ji-tae como Professor + Park Hae-soo (Squid Game) como Berlin. Adiciona camada geopolítica única: unificação Coreia do Norte + Sul.",
+    "categorias": [
+      "Ação",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Assalto",
+      "Reféns",
+      "Máscaras"
+    ],
+    "temas": [
+      "Reunificação",
+      "Capitalismo",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Ladrão",
+      "Negociador",
+      "Policial"
+    ],
+    "avaliacao": {
+      "chatgpt": 7.5,
+      "mdl": 7.8,
+      "imdb": 6.4
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 3,
+      "red": 7
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência armada, reféns, tortura leve."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Remake oficial de La Casa de Papel (Netflix Espanha).",
+      "Dividido em 2 partes: 6+6 episódios.",
+      "Máscaras Hahoetal (tradicionais coreanas) substituem as de Dalí."
+    ],
+    "recomendacoes": [
+      "La Casa de Papel",
+      "Vagabond",
+      "The Worst of Evil"
+    ],
+    "_id_hint": "money-heist-korea"
+  },
+  {
+    "titulo": "Goodbye Earth",
+    "ano": 2024,
+    "titulo_br": "Adeus, Terra",
+    "sinopse": "Com um ASTEROIDE a caminho e 200 DIAS até o impacto, uma PROFESSORA dedicada faz de tudo para proteger seus antigos alunos numa cidade em COLAPSO. Roubos, cultos, milícias improvisadas — e ela, tentando lembrar que ainda vale a pena ser humana.",
+    "porque_assistir": "Ahn Eun-jin (Hospital Playlist!) + Yoo Ah-in num drama apocalíptico contemplativo. Adaptação do romance japonês 'The Fool of the End'. Foco nas pessoas, não na catástrofe — cristão de fundo, ótimo pra quem gosta de dilemas morais.",
+    "categorias": [
+      "Emocionantes",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Fim do Mundo",
+      "Contagem Regressiva",
+      "Fé"
+    ],
+    "temas": [
+      "Morte",
+      "Esperança",
+      "Fé",
+      "Família"
+    ],
+    "profissoes": [
+      "Professora",
+      "Padre",
+      "Militar"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.6,
+      "imdb": 7.3
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 10,
+      "humor": 1,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Morte iminente, colapso social, violência esporádica, temas religiosos densos."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Baseado em romance japonês de Kotaro Isaka.",
+      "Última série de Yoo Ah-in antes das polêmicas legais.",
+      "Ahn Eun-jin brilha — muitos consideram sua melhor atuação."
+    ],
+    "recomendacoes": [
+      "Move to Heaven",
+      "My Mister",
+      "When Life Gives You Tangerines"
+    ],
+    "_id_hint": "goodbye-earth"
+  },
+  {
+    "titulo": "The Worst of Evil",
+    "ano": 2023,
+    "titulo_br": "O Pior do Mal",
+    "sinopse": "Nos ANOS 1990, um policial DISFARÇADO se infiltra numa gangue que controla o tráfico de drogas entre Coreia, Japão e China. A missão fica tortuosa quando o CHEFE do bando e a PRÓPRIA ESPOSA dele têm uma ligação do passado.",
+    "porque_assistir": "Ji Chang-wook + Wi Ha-joon (Squid Game) num neo-noir violentíssimo. Direção estilizada, cenas de luta antológicas. Um dos melhores k-noirs recentes. Disney+ BR completo dublado.",
+    "categorias": [
+      "Ação",
+      "Investigação",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Infiltrado",
+      "Máfia",
+      "Triângulo Amoroso",
+      "Anos 90"
+    ],
+    "temas": [
+      "Vingança",
+      "Lealdade",
+      "Traição",
+      "Drogas"
+    ],
+    "profissoes": [
+      "Policial",
+      "Gangster",
+      "Chefão"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.7,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 2,
+      "red": 10
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica extrema, torturas, drogas, cenas sexuais explícitas."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Ji Chang-wook produziu junto — projeto pessoal.",
+      "Filmado em locações reais na Coreia, Japão e China.",
+      "Wi Ha-joon foi indicado a Melhor Ator nos Baeksang 2024."
+    ],
+    "recomendacoes": [
+      "Vincenzo",
+      "My Name",
+      "D.P."
+    ],
+    "_id_hint": "the-worst-of-evil"
+  },
+  {
+    "titulo": "Bitter Sweet Hell",
+    "ano": 2024,
+    "titulo_br": "Amargo e Doce Inferno",
+    "sinopse": "Uma renomada CONSELHEIRA PSICOLÓGICA e apresentadora vê a vida perfeita da família IMPLODIR quando segredos do passado ameaçam vir à tona. Ao lado da SOGRA (ex-ministra), ela precisa proteger a filha e o marido de forças que querem destruí-los.",
+    "porque_assistir": "Kim Ha-neul volta em thriller psicológico intenso. Ver duas mulheres FORTES (nora + sogra) protegendo a família contra ameaça externa é raro em drama coreano. Elenco de peso, ritmo tenso.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Segredos do Passado",
+      "Chantagem",
+      "Família"
+    ],
+    "temas": [
+      "Saúde Mental",
+      "Trauma",
+      "Vingança",
+      "Família"
+    ],
+    "profissoes": [
+      "Psicóloga",
+      "Ex-Ministra",
+      "Apresentadora"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.8,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Chantagem, assédio online, referências a trauma sexual, violência psicológica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Título literal: 'Não sou herói, mas...'",
+      "Kim Hae-sook (sogra) rouba a cena em quase todo episódio.",
+      "Ideia original — não é adaptação."
+    ],
+    "recomendacoes": [
+      "Sky Castle",
+      "The World of the Married",
+      "Hellbound"
+    ],
+    "_id_hint": "bitter-sweet-hell"
+  },
+  {
+    "titulo": "LTNS",
+    "ano": 2024,
+    "titulo_br": "LTNS: Faz Tempo",
+    "sinopse": "Um CASAL JOVEM em crise no CASAMENTO sobrevive financeiramente flagrando AMANTES INFIÉIS e CHANTAGEANDO-OS. A rotina bizarra reacende conflitos entre os dois enquanto expõem a hipocrisia dos relacionamentos ao redor.",
+    "porque_assistir": "Esom + Ahn Jae-hong (Reply 1988!) numa dark comedy adulta pra caramba. Discussões sobre sexo, dinheiro e casamento com honestidade rara em drama coreano. Roteiro da Jeon Go-woon (Microhabitat).",
+    "categorias": [
+      "Romance Maduro",
+      "Comédia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Casamento em Crise",
+      "Chantagem",
+      "Vida a Dois"
+    ],
+    "temas": [
+      "Sexo",
+      "Dinheiro",
+      "Traição",
+      "Casamento"
+    ],
+    "profissoes": [
+      "Detetives Amadores"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.7,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Cenas sexuais explícitas, palavrão, temas adultos (só 8 episódios, mas densos)."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "LTNS = 'Long Time No Sex'.",
+      "Roteiro assinado por Jeon Go-woon (indicada ao Oscar por Microhabitat).",
+      "Só 8 episódios — formato curto raro em kdrama."
+    ],
+    "recomendacoes": [
+      "My Liberation Notes",
+      "Nothing Serious",
+      "Because This Is My First Life"
+    ],
+    "_id_hint": "ltns"
+  },
+  {
+    "titulo": "Autumn in My Heart",
+    "ano": 2000,
+    "titulo_br": "Outono em Meu Coração",
+    "sinopse": "Dois IRMÃOS crescem juntos até descobrirem que Eun-suh foi TROCADA na maternidade e é de outra família. Anos depois, o REENCONTRO traz um AMOR IMPOSSÍVEL marcado por uma doença terminal.",
+    "porque_assistir": "Primeiro capítulo da lendária 'Endless Love' de Yoon Seok-ho — o drama que INICIOU a Hallyu no Japão e na Ásia. Song Hye-kyo + Song Seung-heon + Won Bin. Clássico absoluto. Lencinhos garantidos.",
+    "categorias": [
+      "Romance",
+      "Emocionantes"
+    ],
+    "tropos": [
+      "Amor Impossível",
+      "Doença Terminal",
+      "Trocados na Maternidade",
+      "Triângulo Amoroso"
+    ],
+    "temas": [
+      "Destino",
+      "Família",
+      "Amor",
+      "Morte"
+    ],
+    "profissoes": [
+      "Artista",
+      "Enfermeira",
+      "Herdeiro"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.7,
+      "imdb": 7.4
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 2,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Doença terminal, morte, amor entre pessoas criadas como irmãos."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Iniciou a onda Hallyu no Japão.",
+      "Song Hye-kyo consagrada como estrela nacional.",
+      "Won Bin em papel jovem — hoje ícone do cinema coreano."
+    ],
+    "recomendacoes": [
+      "Winter Sonata",
+      "Stairway to Heaven",
+      "Summer Scent"
+    ],
+    "_id_hint": "autumn-in-my-heart"
+  },
+  {
+    "titulo": "Winter Sonata",
+    "ano": 2002,
+    "titulo_br": "Sonata de Inverno",
+    "sinopse": "Yu-jin se APAIXONA pelo colega Joon-sang, que DESAPARECE misteriosamente após um acidente. DEZ anos depois, ela reencontra um homem IDÊNTICO a ele — mas sem nenhuma memória do passado que compartilharam.",
+    "porque_assistir": "Segundo capítulo da 'Endless Love' de Yoon Seok-ho. O drama que fez Bae Yong-joon virar 'Yon-sama' no Japão e destravou o mercado kdrama fora da Coreia. Melancolia, neve e OST icônica.",
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Amnésia",
+      "Amor Reencontrado",
+      "Sósia",
+      "Triângulo Amoroso"
+    ],
+    "temas": [
+      "Memória",
+      "Destino",
+      "Amor",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Arquiteto",
+      "Designer"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Fez Bae Yong-joon virar fenômeno no Japão ('Yon-sama').",
+      "OST 'From the Beginning Until Now' tocada em toda a Ásia.",
+      "Turismo pra Nami Island explodiu por causa da série."
+    ],
+    "recomendacoes": [
+      "Autumn in My Heart",
+      "Summer Scent",
+      "Goblin"
+    ],
+    "_id_hint": "winter-sonata"
+  },
+  {
+    "titulo": "My Lovely Sam Soon",
+    "ano": 2005,
+    "titulo_br": "Meu Nome é Kim Sam-soon",
+    "sinopse": "Kim Sam-soon é uma CONFEITEIRA talentosa de 30 anos que acaba de FLAGRAR a traição do namorado. Ao ser contratada por um restaurante chique, ela entra numa relação turbulenta com o DONO ARROGANTE e mais novo que ela.",
+    "porque_assistir": "Clássico do rom-com coreano dos anos 2000. Kim Sun-a + Hyun Bin (esse é o Hyun Bin novinho!). Personagem feminina real: gordinha, 30+, engraçada, sem filtro. Revolucionou o gênero. 50%+ share nacional na estreia.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro"
+    ],
+    "tropos": [
+      "Older Woman Younger Man",
+      "Chefe x Funcionária",
+      "Ex Volta"
+    ],
+    "temas": [
+      "Autoestima",
+      "Idade",
+      "Amor Maduro",
+      "Trabalho"
+    ],
+    "profissoes": [
+      "Confeiteira",
+      "CEO",
+      "Médica"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 8,
+      "humor": 9,
+      "beijos": 8
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado em romance de Ji Soo-hyun.",
+      "Fez Hyun Bin virar estrela (tinha 23 anos).",
+      "Kim Sun-a ganhou 8kg pro papel."
+    ],
+    "recomendacoes": [
+      "Something in the Rain",
+      "Because This Is My First Life",
+      "Fight for My Way"
+    ],
+    "_id_hint": "my-lovely-sam-soon"
+  },
+  {
+    "titulo": "The Moon Embracing the Sun",
+    "ano": 2012,
+    "titulo_br": "A Lua Abraça o Sol",
+    "sinopse": "Uma jovem nobre escolhida para ser RAINHA morre em CONSPIRAÇÃO da corte, mas é resgatada por uma XAMÃ e sobrevive sem memória. Anos depois, o jovem REI que a amou reencontra alguém que se parece assustadoramente com sua amada perdida.",
+    "porque_assistir": "Kim Soo-hyun (Queen of Tears!) num dos maiores fenômenos históricos da Coreia. 42% de audiência! Romance real de tirar o fôlego, política de palácio + fantasia xamânica. Estética linda.",
+    "categorias": [
+      "Romance",
+      "Históricos",
+      "Fantasia",
+      "Sobrenatural",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Amor Reencontrado",
+      "Amnésia",
+      "Realeza",
+      "Conspiração"
+    ],
+    "temas": [
+      "Memória",
+      "Destino",
+      "Poder",
+      "Xamanismo"
+    ],
+    "profissoes": [
+      "Rei",
+      "Rainha",
+      "Xamã"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.2,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 10,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Conspiração política, envenenamento, violência de palácio."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado em romance de Jung Eun-gwol.",
+      "Consagrou Kim Soo-hyun (antes de The Sun and Moon virar sua marca).",
+      "Média de 33% de audiência, pico de 42% no final."
+    ],
+    "recomendacoes": [
+      "Rooftop Prince",
+      "Splash Splash Love",
+      "Mr. Sunshine"
+    ],
+    "_id_hint": "moon-embracing-sun"
+  },
+  {
+    "titulo": "Jewel in the Palace",
+    "ano": 2003,
+    "titulo_br": "Joia do Palácio",
+    "sinopse": "ÓRFÃ aos oito anos, JANG-GEUM entra no palácio como aprendiz na COZINHA REAL e enfrenta as intrigas da corte para se tornar a PRIMEIRA MÉDICA MULHER da dinastia Joseon. Baseada em fatos reais.",
+    "porque_assistir": "O drama histórico coreano MAIS EXPORTADO da história — passou em mais de 90 países. 54 episódios que cobrem culinária, medicina tradicional e resistência feminina no séc. XVI. Lee Young-ae ETERNIZADA no papel.",
+    "categorias": [
+      "Históricos",
+      "Médicos",
+      "Romance",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Ascensão Social",
+      "Baseado em Fatos",
+      "Feminismo Histórico"
+    ],
+    "temas": [
+      "Resistência",
+      "Medicina",
+      "Culinária",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Cozinheira Real",
+      "Médica",
+      "Aprendiz"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 9,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado em figura histórica real: Jang-geum (1500s).",
+      "Exportado pra 90+ países — recorde absoluto.",
+      "Fez a KBS lucrar o equivalente a US$ 100 milhões."
+    ],
+    "recomendacoes": [
+      "Empress Ki",
+      "Rookie Historian Goo Hae-ryung",
+      "Mr. Queen"
+    ],
+    "_id_hint": "jewel-in-the-palace"
+  },
+  {
+    "titulo": "The First Responders",
+    "ano": 2022,
+    "titulo_br": "Equipe de Emergência",
+    "sinopse": "Uma FORÇA-TAREFA formada pelos melhores POLICIAIS, BOMBEIROS e PARAMÉDICOS responde a emergências, crimes e desastres em ritmo frenético. As diferenças de método entre os três serviços viram atrito e, aos poucos, parceria.",
+    "porque_assistir": "Kim Rae-won lidera drama de ação com procedimento realista. Cenas de resgate impressionantes, química ótima entre trio. 2 temporadas (24 eps). Disney+ BR dublado.",
+    "categorias": [
+      "Ação",
+      "Investigação",
+      "Médicos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Trio de Profissões",
+      "Casos Semanais",
+      "Resgate"
+    ],
+    "temas": [
+      "Salvamento",
+      "Trabalho em Equipe",
+      "Dever"
+    ],
+    "profissoes": [
+      "Policial",
+      "Bombeiro",
+      "Paramédica"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.3,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 8,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Acidentes, incêndios, ferimentos graves em cena, crimes violentos."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Aprovada pela polícia, bombeiros e SAMU coreanos — assessoria técnica real.",
+      "Renovada pra 2ª temporada por popularidade.",
+      "Cenas de incêndio filmadas com fogo controlado, sem CGI."
+    ],
+    "recomendacoes": [
+      "Live",
+      "Hospital Playlist",
+      "Signal"
+    ],
+    "_id_hint": "first-responders"
+  },
+  {
+    "titulo": "Chuno",
+    "ano": 2010,
+    "titulo_br": "Os Caçadores de Escravos",
+    "sinopse": "Lee Dae-gil é um CAÇADOR de escravos foragidos que persegue o antigo general SONG TAE-HA, hoje escravo por conspiração política. Entre os dois está UN-NYUN, filha de nobre e antigo amor de Dae-gil, agora com outra identidade.",
+    "porque_assistir": "Um dos históricos mais IMPRESSIONANTES já feitos. Cinematografia de cinema, Jang Hyuk numa das melhores atuações da carreira. Cenas de luta ANTOLÓGICAS. Baeksang de Melhor Drama.",
+    "categorias": [
+      "Históricos",
+      "Ação",
+      "Romance",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Amor Perdido",
+      "Escravidão",
+      "Triângulo Amoroso"
+    ],
+    "temas": [
+      "Casta",
+      "Vingança",
+      "Amor",
+      "Liberdade"
+    ],
+    "profissoes": [
+      "Caçador",
+      "General",
+      "Escrava"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.7,
+      "imdb": 8.5
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 10,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, tortura, escravidão."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Ganhou Baeksang de Melhor Drama 2010.",
+      "Jang Hyuk fez o próprio corpo — treinou meses.",
+      "Cinematografia comparada a produções cinematográficas."
+    ],
+    "recomendacoes": [
+      "Six Flying Dragons",
+      "Tree with Deep Roots",
+      "Mr. Sunshine"
+    ],
+    "_id_hint": "chuno"
+  },
+  {
+    "titulo": "Rookie Historian Goo Hae-ryung",
+    "ano": 2019,
+    "titulo_br": "Hae-Ryung, A Historiadora",
+    "sinopse": "No início do SÉCULO XIX, Goo Hae-ryung entra para o palácio como uma das PRIMEIRAS HISTORIADORAS mulheres da Coreia. Ela cruza com um PRÍNCIPE misterioso que escreve romances em segredo e desafia as convenções da corte.",
+    "porque_assistir": "Cha Eun-woo (ASTRO) + Shin Se-kyung numa fábula histórica leve e feminista. Cena palaciana bonita, romance fofinho, protagonista curiosa e teimosa. 20 eps redondinhos.",
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Amor Improvável",
+      "Corte",
+      "Feminismo Histórico"
+    ],
+    "temas": [
+      "História",
+      "Conhecimento",
+      "Amor",
+      "Igualdade"
+    ],
+    "profissoes": [
+      "Historiadora",
+      "Príncipe",
+      "Escritor"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Cha Eun-woo em papel principal — consagrou seu status de galã.",
+      "Roteiro original, não é adaptação de webtoon.",
+      "Contém referências reais às historiadoras Sagwan de Joseon."
+    ],
+    "recomendacoes": [
+      "Moonlight Drawn by Clouds",
+      "100 Days My Prince",
+      "Under the Queen's Umbrella"
+    ],
+    "_id_hint": "rookie-historian"
+  },
+  {
+    "titulo": "Bulgasal: Immortal Souls",
+    "ano": 2021,
+    "titulo_br": "Bulgasal: Almas Imortais",
+    "sinopse": "Um IMORTAL amaldiçoado há 600 ANOS caça a mulher que carrega a alma que causou sua maldição. Ao encontrá-la REENCARNADA e sem memória, os dois descobrem um passado bem mais complexo do que a vingança que ele planejou.",
+    "porque_assistir": "Lee Jin-uk num papel sombrio e absorvente. Mitologia coreana pura (Bulgasal = criatura folclórica). Ritmo lento e denso, quase gótico. Pra quem gosta de Goblin mas quer algo MAIS pesado.",
+    "categorias": [
+      "Fantasia",
+      "Sobrenatural",
+      "Ação",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Imortalidade",
+      "Reencarnação",
+      "Vingança",
+      "Maldição"
+    ],
+    "temas": [
+      "Karma",
+      "Memória",
+      "Amor",
+      "Perdão"
+    ],
+    "profissoes": [
+      "Imortal",
+      "Ex-Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.4,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência sobrenatural, assassinatos, temas de trauma e reencarnação."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Bulgasal = criatura folclórica coreana imortal.",
+      "Direção de Jang Young-woo (Sweet Home).",
+      "Kwon Nara ganhou muitos elogios pela versatilidade."
+    ],
+    "recomendacoes": [
+      "Goblin",
+      "Arthdal Chronicles",
+      "The Cursed"
+    ],
+    "_id_hint": "bulgasal"
+  },
+  {
+    "titulo": "Hwarang",
+    "ano": 2016,
+    "titulo_br": "Hwarang: Os Guerreiros Poetas",
+    "sinopse": "No reino de SILLA, um grupo de JOVENS ELITE treinados como GUERREIROS e ARTISTAS conhecidos como HWARANG se envolve em disputas de amor e poder ao redor do rei escondido. Ambição, amizade e romances proibidos redesenham o destino do reino.",
+    "porque_assistir": "Park Seo-joon + Park Hyung-sik + Minho (SHINee) + V (BTS!) — elenco de sonho de idols e futuros galãs. Bromance histórico icônico. Se você é fã de BTS, este é O drama.",
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Bromance",
+      "Rivais",
+      "Amor Proibido",
+      "Reino Perdido"
+    ],
+    "temas": [
+      "Amizade",
+      "Poder",
+      "Amor",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Guerreiros",
+      "Príncipes",
+      "Nobres"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.9,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 6,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Batalhas, ferimentos, política de corte."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Marcou a estreia de V (BTS) como ator.",
+      "Amizade real Park Seo-joon + Park Hyung-sik + V nasceu aqui — grupo Wooga Squad.",
+      "Baseado nos Hwarang reais do reino de Silla."
+    ],
+    "recomendacoes": [
+      "Moon Lovers",
+      "Six Flying Dragons",
+      "The King's Affection"
+    ],
+    "_id_hint": "hwarang"
+  },
+  {
+    "titulo": "The Killing Vote",
+    "ano": 2023,
+    "titulo_br": "O Voto de Morte",
+    "sinopse": "Uma figura MASCARADA chamada GAETAL lança um APLICATIVO em que a POPULAÇÃO vota se criminosos que escaparam da justiça devem MORRER. A polícia corre contra o tempo para identificar quem está por trás enquanto o país se divide entre apoio e revolta.",
+    "porque_assistir": "Park Hae-jin + Lim Ji-yeon (The Glory) num thriller que provoca. E se VOCÊ pudesse votar? Debate ético + suspense policial. Adaptação de webtoon, ritmo alucinante.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vigilante",
+      "Máscaras",
+      "Justiça pelas Próprias Mãos"
+    ],
+    "temas": [
+      "Justiça",
+      "Democracia",
+      "Vingança",
+      "Mídia"
+    ],
+    "profissoes": [
+      "Policial",
+      "Vigilante",
+      "Perfiladora"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, execuções, temas morais duros."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Adaptação do webtoon 'Kukmin Sahyung Tupyo'.",
+      "Discussão nacional sobre pena de morte quando estreou.",
+      "Park Hae-jin + Lim Ji-yeon química forte."
+    ],
+    "recomendacoes": [
+      "The Glory",
+      "Vigilante",
+      "Bad and Crazy"
+    ],
+    "_id_hint": "the-killing-vote"
+  },
+  {
+    "titulo": "The Bequeathed",
+    "ano": 2024,
+    "titulo_br": "A Herdeira",
+    "sinopse": "Uma PROFESSORA universitária herda um CEMITÉRIO FAMILIAR depois da morte de um tio que ela nem sabia que existia. A herança expõe segredos SOMBRIOS da linhagem e uma sequência de ASSASSINATOS ligados ao terreno.",
+    "porque_assistir": "Kim Hyun-joo lidera thriller pequeno e denso (só 6 eps!). Produção de Yeon Sang-ho (Train to Busan, Hellbound). Atmosfera folclórica coreana + serial killer. Perfeito pra maratonar numa tarde.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Sobrenatural",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Herança",
+      "Segredos de Família",
+      "Serial Killer",
+      "Vilarejo"
+    ],
+    "temas": [
+      "Sangue",
+      "Ancestralidade",
+      "Identidade",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Professora",
+      "Detetive",
+      "Coveiro"
+    ],
+    "avaliacao": {
+      "chatgpt": 7.5,
+      "mdl": 7.4,
+      "imdb": 6.5
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 4,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Assassinatos gráficos, esquartejamento, temas ancestrais sombrios."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Produção de Yeon Sang-ho (Hellbound, Train to Busan).",
+      "Só 6 episódios — formato curto raro.",
+      "Baseado em contos populares sobre 'terrenos amaldiçoados' coreanos."
+    ],
+    "recomendacoes": [
+      "Hellbound",
+      "Kingdom",
+      "The Cursed"
+    ],
+    "_id_hint": "the-bequeathed"
+  },
+  {
+    "titulo": "Faith",
+    "ano": 2012,
+    "titulo_br": "A Grande Doutora",
+    "sinopse": "Uma CIRURGIÃ PLÁSTICA moderna é SEQUESTRADA e levada 700 ANOS ao passado, para o reino de GORYEO. Contratada por um GENERAL guerreiro para salvar a princesa ferida, ela precisa escolher entre voltar para casa ou ficar e transformar a monarquia.",
+    "porque_assistir": "Lee Min-ho no auge, em drama histórico com viagem no tempo + medicina moderna vs medieval. Química ótima com Kim Hee-sun (personagem mais velha, autoconfiante, sem infantilizar). Fantasia romântica.",
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Fantasia",
+      "Médicos",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Older Woman Younger Man",
+      "General"
+    ],
+    "temas": [
+      "Destino",
+      "Poder",
+      "Medicina",
+      "Ciência vs Fé"
+    ],
+    "profissoes": [
+      "Cirurgiã",
+      "General",
+      "Rei"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 8.0,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Batalhas, feridos, conspiração."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Roteiro de Song Ji-na (Sandglass, lendária da TV coreana).",
+      "Lee Min-ho fez logo depois de Boys Over Flowers.",
+      "Kim Hee-sun voltou à TV depois de 6 anos afastada."
+    ],
+    "recomendacoes": [
+      "Moon Lovers",
+      "Splash Splash Love",
+      "Live Up to Your Name"
+    ],
+    "_id_hint": "faith"
+  },
+  {
+    "titulo": "Playful Kiss",
+    "ano": 2010,
+    "titulo_br": "Beijo Travesso",
+    "sinopse": "Oh Ha-ni, aluna MEDIANA e alegre, se DECLARA para o gênio arrogante Baek Seung-jo e leva um FORA. Quando sua casa DESABA, o pai dela vai morar com um amigo antigo e Ha-ni descobre que o filho da família anfitriã é justamente Seung-jo.",
+    "porque_assistir": "Kim Hyun-joong + Jung So-min no rom-com colegial mais fofinho da era 2010. Adaptação do mangá japonês 'Itazura na Kiss'. Fofo, bobinho, delicioso. Comfort drama absoluto.",
+    "categorias": [
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [
+      "Coabitação",
+      "Rivais Que Se Apaixonam",
+      "Amor Não Correspondido",
+      "Genial vs Comum"
+    ],
+    "temas": [
+      "Persistência",
+      "Amor",
+      "Amizade",
+      "Escola"
+    ],
+    "profissoes": [
+      "Estudantes",
+      "Enfermeira",
+      "Cientista"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.9,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 6,
+      "humor": 8,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Adaptação do mangá 'Itazura na Kiss'.",
+      "Ganhou 7 episódios extras online — 'YouTube version'.",
+      "Fez Jung So-min virar rainha do rom-com."
+    ],
+    "recomendacoes": [
+      "Boys Over Flowers",
+      "Cinderella and Four Knights",
+      "True Beauty"
+    ],
+    "_id_hint": "playful-kiss"
+  },
+  {
+    "titulo": "Tree with Deep Roots",
+    "ano": 2011,
+    "titulo_br": "A Árvore de Raízes Profundas",
+    "sinopse": "Nos SETE DIAS que antecedem o anúncio do ALFABETO COREANO criado pelo REI SEJONG, uma sequência de assassinatos abala o palácio. O investigador KANG CHAE-YOON persegue um serial killer e descobre uma grande conspiração por trás do plano de alfabetização.",
+    "porque_assistir": "Talvez o MELHOR histórico coreano já feito. Han Suk-kyu como Sejong, Jang Hyuk como investigador. Debate sobre democracia, linguagem e poder que ecoa até hoje. Baeksang de Melhor Drama.",
+    "categorias": [
+      "Históricos",
+      "Investigação",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Serial Killer",
+      "Conspiração",
+      "Rei Sábio",
+      "Contagem Regressiva"
+    ],
+    "temas": [
+      "Linguagem",
+      "Poder",
+      "Democracia",
+      "Conhecimento"
+    ],
+    "profissoes": [
+      "Rei",
+      "Investigador",
+      "Estudioso"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.9,
+      "imdb": 8.5
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 7,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Assassinatos, tortura política, conspiração."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Roteiro de Kim Young-hyun (Jewel in the Palace, Six Flying Dragons).",
+      "Baeksang de Melhor Drama 2012.",
+      "Song Joong-ki fez Sejong jovem — antes de virar galã."
+    ],
+    "recomendacoes": [
+      "Six Flying Dragons",
+      "Chuno",
+      "The Kingdom of the Winds"
+    ],
+    "_id_hint": "tree-deep-roots"
+  },
+  {
+    "titulo": "Six Flying Dragons",
+    "ano": 2015,
+    "titulo_br": "Seis Dragões Voadores",
+    "sinopse": "A história ficcional da AMBIÇÃO, ASCENSÃO e QUEDA de personagens reais e imaginários em torno de YI BANG-WON, que se torna o TERCEIRO REI de Joseon. Seis figuras cruzam destinos para fundar a dinastia — e depois se dilaceram por causa dela.",
+    "porque_assistir": "PREQUEL de Tree with Deep Roots. 50 episódios de puro poder narrativo. Yoo Ah-in monumental como Yi Bang-won. Considerado por muitos O MELHOR sageuk já feito.",
+    "categorias": [
+      "Históricos",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Ascensão ao Poder",
+      "Traição",
+      "Amizade",
+      "Fundação de Dinastia"
+    ],
+    "temas": [
+      "Poder",
+      "Ideologia",
+      "Ambição",
+      "Traição"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Militar",
+      "Estrategista"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 9.1,
+      "imdb": 9.2
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 10,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 8
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Batalhas gráficas, execuções, traição política pesada."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Prequel oficial de Tree with Deep Roots.",
+      "Yoo Ah-in ganhou Baeksang de Melhor Ator.",
+      "50 episódios com 92 personagens principais mapeados."
+    ],
+    "recomendacoes": [
+      "Tree with Deep Roots",
+      "Chuno",
+      "Mr. Sunshine"
+    ],
+    "_id_hint": "six-flying-dragons"
+  },
+  {
+    "titulo": "Behind Every Star",
+    "ano": 2022,
+    "titulo_br": "Agência de Celebridades",
+    "sinopse": "Uma AGÊNCIA DE TALENTOS disputa a atenção de ESTRELAS de temperamento difícil enquanto lida com INTRIGAS INTERNAS e crises de imagem. Os agentes precisam garantir a fama (e a satisfação) dos clientes sem perder a sanidade.",
+    "porque_assistir": "Remake coreano do francês 'Call My Agent!'. Meta-comédia sobre a indústria do entretenimento, com CAMEOS reais de idols e atores coreanos. Lee Seo-jin brilha. Fácil de assistir, engraçadíssimo.",
+    "categorias": [
+      "Comédia",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Bastidores",
+      "Cameos Reais",
+      "Workplace"
+    ],
+    "temas": [
+      "Fama",
+      "Trabalho",
+      "Ambição",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Agente",
+      "Ator",
+      "CEO"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.9,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 9,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 6,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Remake do francês 'Call My Agent!' (Dix Pour Cent).",
+      "Cameos: Lee Byung-hun, Song Hye-kyo, IU, Yoo Yeon-seok e outros.",
+      "Netflix Corea produção original."
+    ],
+    "recomendacoes": [
+      "Start-Up",
+      "Search: WWW",
+      "Melo Is My Nature"
+    ],
+    "_id_hint": "behind-every-star"
+  }
+]
