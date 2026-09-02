@@ -1,0 +1,83 @@
+{
+  "marriage-not-dating": {
+    "titulo_original": "연애 말고 결혼",
+    "titulo_br": "Casamento sem Namoro",
+    "pais": "Coreia do Sul",
+    "ano": 2014,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Yeon Woo-jin",
+      "Han Groo",
+      "Jung Jin-woon",
+      "Han Sunhwa"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Viki",
+      "Kocowa"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/7bIzHopjSReKacLt3OaU22UEwf7.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "100-days-my-prince": {
+    "titulo_original": "백일의 낭군님",
+    "titulo_br": "Meu Príncipe por 100 Dias",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Do Kyung-soo",
+      "Nam Ji-hyun",
+      "Jo Sung-ha",
+      "Kim Seon-ho"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "tvN",
+      "Viki",
+      "Kocowa"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/vqDqC0f8mn7lkD73aBY0dlFEvaZ.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "personal-taste": {
+    "titulo_original": "개인의 취향",
+    "titulo_br": "Gosto Pessoal",
+    "pais": "Coreia do Sul",
+    "ano": 2010,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Lee Min-ho",
+      "Son Ye-jin",
+      "Kim Ji-suk",
+      "Chae Jung-an"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "plataformas": [
+      "MBC",
+      "Viki",
+      "Kocowa"
+    ],
+    "status": "Finalizado",
+    "classificacao": 15,
+    "poster": "/qNzJSdeNcPZCT3FSMe439hZXaY9.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}
