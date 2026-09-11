@@ -1,0 +1,773 @@
+{
+  "hierarchy": {
+    "titulo_original": "하이라키",
+    "titulo_br": "Hierarchy",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 7,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Roh Jeong-eui",
+      "Kim Jae-won",
+      "Lee Chae-min",
+      "Ji Hye-won"
+    ],
+    "diretor": "Bae Hyun-jin",
+    "roteirista": "Chu Hye-mi",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/szr7QFNnuspcyhW0rsoDMDN73pP.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "my-name": {
+    "titulo_original": "마이 네임",
+    "titulo_br": "My Name: Perseguindo a Verdade",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "50 min",
+    "elenco": [
+      "Han So-hee",
+      "Park Hee-soon",
+      "Ahn Bo-hyun",
+      "Kim Sang-ho"
+    ],
+    "diretor": "Kim Jin-min",
+    "roteirista": "Kim Ba-da",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "black-knight": {
+    "titulo_original": "택배기사",
+    "titulo_br": "Cavaleiro Negro",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Woo-bin",
+      "Song Seung-heon",
+      "Kang You-seok",
+      "Esom"
+    ],
+    "diretor": "Cho Ui-seok",
+    "roteirista": "Cho Ui-seok",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/u7uMGI5snUDMOzaHC3J59wFPSqW.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-fabulous": {
+    "titulo_original": "더 패뷸러스",
+    "titulo_br": "The Fabulous",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Chae Soo-bin",
+      "Choi Min-ho",
+      "Lee Sang-woon",
+      "Park Hee-jung"
+    ],
+    "diretor": "Kim Jung-hyun",
+    "roteirista": "Kim Ji-hee",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/1LnPNXQ8upwUT1dYX2ZopQXjmt8.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "tomorrow-kdrama": {
+    "titulo_original": "내일",
+    "titulo_br": "Amanhã",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kim Hee-sun",
+      "Rowoon",
+      "Lee Soo-hyuk",
+      "Yoon Ji-on"
+    ],
+    "diretor": "Kim Tae-yoon",
+    "roteirista": "Park Ran",
+    "plataformas": [
+      "Netflix",
+      "MBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/zMTpB0cx3egwDU0MjUBIykUDnXm.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "persona-iu": {
+    "titulo_original": "페르소나",
+    "titulo_br": "Persona",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 4,
+    "temporadas": 1,
+    "duracao": "25 min",
+    "elenco": [
+      "IU",
+      "Bae Doo-na",
+      "Park Hae-soo",
+      "Jung Joon-won"
+    ],
+    "diretor": "Lee Kyoung-mi",
+    "roteirista": "Various",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/hV7VMjl1vI9oHRFKLdycobzYOKB.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-whirlwind": {
+    "titulo_original": "돌풍",
+    "titulo_br": "Redemoinho",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Sol Kyung-gu",
+      "Kim Hee-ae",
+      "Kim Mi-sook",
+      "Lee Hae-young"
+    ],
+    "diretor": "Kim Yong-wan",
+    "roteirista": "Park Kyung-soo",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/v3iEteXVi1SJmzOLMacVr2IzNoD.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-frog": {
+    "titulo_original": "아무도 없는 숲속에서",
+    "titulo_br": "O Sapo",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Yoon-seok",
+      "Yoon Kye-sang",
+      "Go Min-si",
+      "Lee Jung-eun"
+    ],
+    "diretor": "Mo Wan-il",
+    "roteirista": "Mo Wan-il",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/lCCtzB3MvzyiOw3bWNC5PslI3le.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "trigger": {
+    "titulo_original": "트리거",
+    "titulo_br": "Gatilho",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Nam-gil",
+      "Kim Young-kwang",
+      "Kim Sung-kyun",
+      "Gil Hae-yeon"
+    ],
+    "diretor": "Kwon Oh-seung",
+    "roteirista": "Kwon Oh-seung",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/9eDF8Z4iFFCmQROiuej54rSK9LT.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "memories-alhambra": {
+    "titulo_original": "알함브라 궁전의 추억",
+    "titulo_br": "Memórias de Alhambra",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Hyun Bin",
+      "Park Shin-hye",
+      "Park Hoon",
+      "Chanyeol"
+    ],
+    "diretor": "Ahn Gil-ho",
+    "roteirista": "Song Jae-jung",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/luPdT1cPz02ArvuvwiGe3LaFl91.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "nobody-knows": {
+    "titulo_original": "아무도 모른다",
+    "titulo_br": "Ninguém Sabe",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Kim Seo-hyung",
+      "Ryu Deok-hwan",
+      "Park Hoon",
+      "Ahn Ji-ho"
+    ],
+    "diretor": "Lee Jung-heum",
+    "roteirista": "Kim Eun-hyang",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/e9OuMHRH3TwtCn1Da9UV3VWhjh5.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "backstreet-rookie": {
+    "titulo_original": "편의점 샛별이",
+    "titulo_br": "A Estrela da Loja de Conveniência",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Kim Yoo-jung",
+      "Han Sun-hwa",
+      "Do Sang-woo"
+    ],
+    "diretor": "Lee Myung-woo",
+    "roteirista": "Son Geun-joo",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/jHoNkQhhYFXSAG0RPRnyDdGi0jy.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "rugal": {
+    "titulo_original": "루갈",
+    "titulo_br": "Rugal",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Choi Jin-hyuk",
+      "Park Sung-woong",
+      "Jo Dong-hyuk",
+      "Jung Hye-in"
+    ],
+    "diretor": "Kang Chul-woo",
+    "roteirista": "Do Hyun",
+    "plataformas": [
+      "Netflix",
+      "OCN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/lLXeqmvJ6KnWz1ifLMBPHYOovCt.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "hi-bye-mama": {
+    "titulo_original": "하이바이, 마마!",
+    "titulo_br": "Olá, Adeus, Mamãe!",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kim Tae-hee",
+      "Lee Kyu-hyung",
+      "Go Bo-gyeol",
+      "Seo Woo-jin"
+    ],
+    "diretor": "Yoo Je-won",
+    "roteirista": "Kwon Hye-joo",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/1LnYFzCitgbDkkapc1tRILK8FbQ.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-king-eternal-monarch": {
+    "titulo_original": "더 킹 : 영원의 군주",
+    "titulo_br": "The King: Monarca Eterno",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Min-ho",
+      "Kim Go-eun",
+      "Woo Do-hwan",
+      "Kim Kyung-nam"
+    ],
+    "diretor": "Baek Sang-hoon",
+    "roteirista": "Kim Eun-sook",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/blA5XvYThXDLoSYYKUKrxgtEFYD.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "do-do-sol-sol": {
+    "titulo_original": "도도솔솔라라솔",
+    "titulo_br": "Do Do Sol Sol La La Sol",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Go Ara",
+      "Lee Jae-wook",
+      "Kim Joo-hun",
+      "Ye Ji-won"
+    ],
+    "diretor": "Kim Min-kyung",
+    "roteirista": "Oh Ji-young",
+    "plataformas": [
+      "Netflix",
+      "KBS2"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/13tT4EwltM3WefjkaBDmAvHIz5W.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "longing-for-you": {
+    "titulo_original": "오랫동안 당신을 기다렸습니다",
+    "titulo_br": "Saudade de Você",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Na In-woo",
+      "Kim Ji-eun",
+      "Kim Jae-young",
+      "Kim Jong-tae"
+    ],
+    "diretor": "Kim Ga-ram",
+    "roteirista": "Lee Sae-in",
+    "plataformas": [
+      "Netflix"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/b8J69EjpArzYSZ80Oo9D4Gu4Iyt.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "angels-last-mission": {
+    "titulo_original": "단, 하나의 사랑",
+    "titulo_br": "A Última Missão de um Anjo: Amor",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 32,
+    "temporadas": 1,
+    "duracao": "35 min",
+    "elenco": [
+      "Shin Hye-sun",
+      "Kim Myung-soo",
+      "Lee Dong-gun",
+      "Kim Bo-mi"
+    ],
+    "diretor": "Lee Jung-sub",
+    "roteirista": "Choi Yoon-gyo",
+    "plataformas": [
+      "Netflix",
+      "KBS2"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/pS0YFZ4MC3PL91FtXNPnl6jqLQf.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "was-it-love": {
+    "titulo_original": "우리, 사랑했을까",
+    "titulo_br": "Foi Amor?",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Song Ji-hyo",
+      "Son Ho-jun",
+      "Son Ho-young",
+      "Koo Ja-sung"
+    ],
+    "diretor": "Kim Do-hyung",
+    "roteirista": "Lee Seung-jin",
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/yKnzIJ92GbWXRpIsHPhxWPiyF50.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "she-would-never-know": {
+    "titulo_original": "선배, 그 립스틱 바르지 마요",
+    "titulo_br": "Ela Nunca Saberia",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Won Jin-ah",
+      "Rowoon",
+      "Lee Hyun-wook",
+      "Lee Joo-bin"
+    ],
+    "diretor": "Lee Dong-hyun",
+    "roteirista": "Chae Yoon",
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/28bAyZrTpy2HNWifSGr0qV31Ehm.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "one-the-woman": {
+    "titulo_original": "원 더 우먼",
+    "titulo_br": "One the Woman",
+    "pais": "Coreia do Sul",
+    "ano": 2021,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Ha-nee",
+      "Lee Sang-yoon",
+      "Jin Seo-yeon",
+      "Lee Won-geun"
+    ],
+    "diretor": "Choi Young-hoon",
+    "roteirista": "Kim Yoon",
+    "plataformas": [
+      "Netflix",
+      "SBS"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/eL0hVIFqlcIDyKFfNvp67eHNxTU.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "lawless-lawyer": {
+    "titulo_original": "무법 변호사",
+    "titulo_br": "Advogado Fora da Lei",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Joon-gi",
+      "Seo Yea-ji",
+      "Lee Hye-young",
+      "Choi Min-soo"
+    ],
+    "diretor": "Kim Jin-min",
+    "roteirista": "Yoon Hyun-ho",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/u2uKfd1pXtAUzZaSepMFauUpFTy.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "bride-of-habaek": {
+    "titulo_original": "하백의 신부",
+    "titulo_br": "A Noiva de Habaek",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Nam Joo-hyuk",
+      "Shin Se-kyung",
+      "Krystal Jung",
+      "Lim Ju-hwan"
+    ],
+    "diretor": "Kim Byung-soo",
+    "roteirista": "Jung Yoon-jung",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/u6cE32AzBbhG3ESRSzf8pkAA42p.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "world-of-the-married": {
+    "titulo_original": "부부의 세계",
+    "titulo_br": "O Mundo dos Casados",
+    "pais": "Coreia do Sul",
+    "ano": 2020,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kim Hee-ae",
+      "Park Hae-joon",
+      "Han So-hee",
+      "Park Sun-young"
+    ],
+    "diretor": "Mo Wan-il",
+    "roteirista": "Joo Hyun",
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/6JcBPXNsEwAkiiZM9ch1kHBVAxz.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "shooting-stars": {
+    "titulo_original": "별똥별",
+    "titulo_br": "Estrela Cadente",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Sung-kyung",
+      "Kim Young-dae",
+      "Yoon Jong-hoon",
+      "Kim Yoon-hye"
+    ],
+    "diretor": "Lee Soo-hyun",
+    "roteirista": "Choi Yi-rang",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/nTHcRqkhWvek7T3aEsd7HOKoMP0.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "cheese-in-the-trap": {
+    "titulo_original": "치즈인더트랩",
+    "titulo_br": "Queijo na Armadilha",
+    "pais": "Coreia do Sul",
+    "ano": 2016,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Hae-jin",
+      "Kim Go-eun",
+      "Seo Kang-joon",
+      "Lee Sung-kyung"
+    ],
+    "diretor": "Lee Yoon-jung",
+    "roteirista": "Kim Nam-hee",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/8ZzzgBh20L5Uh6i0JzY8K8m75Sf.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "duty-after-school": {
+    "titulo_original": "방과 후 전쟁활동",
+    "titulo_br": "Dever Após a Escola",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Shin Hyun-soo",
+      "Lim Se-mi",
+      "Kim Ki-hae",
+      "Kwon Da-ham"
+    ],
+    "diretor": "Sung Yong-il",
+    "roteirista": "Cheon Sung-il",
+    "plataformas": [
+      "Netflix",
+      "TVING"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/tzUnymf8ZsMRmD9FTcNoAqq2iFu.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "cross": {
+    "titulo_original": "크로스",
+    "titulo_br": "Cross",
+    "pais": "Coreia do Sul",
+    "ano": 2018,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Go Kyung-pyo",
+      "Cho Jae-hyun",
+      "Jeon So-min",
+      "Kim Jung-hyun"
+    ],
+    "diretor": "Kim Jung-min",
+    "roteirista": "Choi Min-suk",
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/o0npp1E1tOUQz5oaLce1UHEJoHl.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "save-me": {
+    "titulo_original": "구해줘",
+    "titulo_br": "Salve-me",
+    "pais": "Coreia do Sul",
+    "ano": 2017,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ok Taec-yeon",
+      "Seo Yea-ji",
+      "Jo Sung-ha",
+      "Woo Do-hwan"
+    ],
+    "diretor": "Kim Sung-soo",
+    "roteirista": "Jung Shin-kyu",
+    "plataformas": [
+      "Netflix",
+      "OCN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/fjob8szo1EAZDFyGtwneoA5sIZb.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "watcher": {
+    "titulo_original": "왓쳐",
+    "titulo_br": "Watcher: Os Vigilantes",
+    "pais": "Coreia do Sul",
+    "ano": 2019,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Han Suk-kyu",
+      "Seo Kang-joon",
+      "Kim Hyun-joo",
+      "Joo Jin-mo"
+    ],
+    "diretor": "Ahn Gil-ho",
+    "roteirista": "Han Sang-woon",
+    "plataformas": [
+      "Netflix",
+      "OCN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/abDUQMDt8ex9PklXsKsWISyvxni.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}
