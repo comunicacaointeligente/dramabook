@@ -36396,5 +36396,2173 @@
       "weak-hero-class-2",
       "revenge-of-others"
     ]
+  },
+  {
+    "id": "dear-hongrang",
+    "titulo": "Dear Hongrang",
+    "titulo_original": "탄금",
+    "titulo_br": "Querido Hongrang",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Sageuk",
+      "Mistério",
+      "Romance"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Jae-wook",
+      "Cho Bo-ah",
+      "Jung Ga-ram",
+      "Uhm Ji-won",
+      "Park Byung-eun",
+      "Kim Jae-wook"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.2,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/mSy9bxbbimGmNwTbJGDN11dJjA6.jpg",
+    "trailer": "",
+    "sinopse": "Um herdeiro desaparecido volta à família 12 anos depois, sem memória. A meia-irmã sente um vínculo emocional inexplicável com ele — mas será mesmo o Hongrang de antes? Um sageuk-mistério de amor, dúvida e traição na Joseon.",
+    "porque_assistir": "Lançamento 2025 — Lee Jae-wook, Cho Bo-ah. Nota MDL 8.2. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "buried-hearts",
+    "titulo": "Buried Hearts",
+    "titulo_original": "苦躯 매장된 진심",
+    "titulo_br": "Corações Enterrados",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Thriller",
+      "Revenge",
+      "Mistério"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Park Hyung-sik",
+      "Hong Hwa-yeon",
+      "Heo Jun-ho",
+      "Lee Hae-young",
+      "Park Hee-soon"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.4,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/vKf5h2xEtmTSp4GcYXPOUWdocQ7.jpg",
+    "trailer": "",
+    "sinopse": "Um homem invade um fundo político bilionário para sobreviver e acaba perdendo toda a memória. Quando volta a si, precisa reconstruir quem foi — e a vingança contra quem tentou apagá-lo. Vingança política insana no melhor estilo Vincenzo.",
+    "porque_assistir": "Lançamento 2025 — Park Hyung-sik, Hong Hwa-yeon. Nota MDL 8.4. Streaming BR ativo em Disney+.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "motel-california",
+    "titulo": "Motel California",
+    "titulo_original": "모텔 캘리포니아",
+    "titulo_br": "Motel California",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Prime Video",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Slice of Life",
+      "Drama"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Na In-woo",
+      "Lee Se-young",
+      "Choi Bo-min",
+      "Cha Mi-kyung"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.9,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/sjgMhUGhZkmb1L6X37LzwJFDBMu.jpg",
+    "trailer": "",
+    "sinopse": "Ji Kang-hee cresceu no motel modesto do pai, entre bullying e sonhos. Anos depois em Seul como designer de interiores, ela volta pra cidade natal e reencontra o amigo de infância, agora veterinário, que sempre guardou sentimentos secretos por ela. Slow burn nostálgico.",
+    "porque_assistir": "Lançamento 2025 — Na In-woo, Lee Se-young. Nota MDL 7.9. Streaming BR ativo em Prime Video, Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "aema",
+    "titulo": "Aema",
+    "titulo_original": "애마",
+    "titulo_br": "Aema",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Drama de época",
+      "Slice of Life"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Ha-nee",
+      "Bang Hyo-rin",
+      "Jin Sun-kyu",
+      "Cho Hyun-chul"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/b2AdfnAUrADOZD93kcwadFcaAm4.jpg",
+    "trailer": "",
+    "sinopse": "Coreia dos anos 1980: uma estrela consagrada e uma atriz aspirante desafiam as normas machistas da indústria e a corrupção dos bastidores enquanto filmam o polêmico e escandaloso 'Aema'. Drama de época sobre poder feminino no cinema.",
+    "porque_assistir": "Lançamento 2025 — Lee Ha-nee, Bang Hyo-rin. Nota MDL 7.8. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-potato-lab",
+    "titulo": "The Potato Lab",
+    "titulo_original": "감자연구소",
+    "titulo_br": "Amor e Batatas",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Slice of Life"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Sun-bin",
+      "Kang Tae-oh",
+      "Lee Jong-hyuk",
+      "Lee Sang-hee"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/3am6e0l0TRcH4QxXIxHYbZ5OzB8.jpg",
+    "trailer": "",
+    "sinopse": "A vida de uma pesquisadora obcecada por batatas vira de cabeça pra baixo quando um novo diretor de eficiência chega ao laboratório rural. Choque de personalidades, batatas e um romance improvável. Comédia leve e fofa.",
+    "porque_assistir": "Lançamento 2025 — Lee Sun-bin, Kang Tae-oh. Nota MDL 7.7. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-winning-try",
+    "titulo": "The Winning Try",
+    "titulo_original": "트라이: 우리는 기적이 된다",
+    "titulo_br": "The Winning Try",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Prime Video"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Esporte",
+      "Comédia",
+      "Slice of Life"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Yoon Kye-sang",
+      "Im Se-mi",
+      "Chae Jong-hyeop",
+      "Kang Hoon"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.9,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/ilYn5vYyhigN6wmVBs7dH2TJ7LS.jpg",
+    "trailer": "",
+    "sinopse": "Um astro decaído do rúgbi coreano encontra propósito treinando o time desacreditado de sua antiga escola. Comédia esportiva sobre segundas chances, disciplina e a magia de virar o jogo quando tudo parece perdido.",
+    "porque_assistir": "Lançamento 2025 — Yoon Kye-sang, Im Se-mi. Nota MDL 7.9. Streaming BR ativo em Prime Video.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "ms-incognito",
+    "titulo": "Ms. Incognito",
+    "titulo_original": "착한 여자 부세미",
+    "titulo_br": "Ms. Incognito",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki",
+      "Kocowa"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Ação",
+      "Romance",
+      "Mistério"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Uee",
+      "Ha Jun",
+      "Kim Jae-young",
+      "Jung Yi-seo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/doszeGOrPOZsbPZy324EKbQw4xC.jpg",
+    "trailer": "",
+    "sinopse": "Uma guarda-costas de elite entra em um casamento contratual de três meses com o presidente terminal de um conglomerado. Precisa assumir identidade falsa pra escapar de perseguidores atrás de uma herança. Romance-crime com muita ação.",
+    "porque_assistir": "Lançamento 2025 — Uee, Ha Jun. Nota MDL 7.8. Streaming BR ativo em Viki, Kocowa.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "nice-to-not-meet-you",
+    "titulo": "Nice to Not Meet You",
+    "titulo_original": "얄미운 사랑",
+    "titulo_br": "Amor Odioso",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Choi Ji-woo",
+      "Kim Young-kwang",
+      "Ha Jung-woo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.6,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/9SWkM0d5nocTD0GOZeE7R6i8NUL.jpg",
+    "trailer": "",
+    "sinopse": "Uma repórter política é remanejada pra editoria de entretenimento e acaba se tornando fã do ator queridinho — o mesmo que ela precisa investigar. Comédia romântica sobre rivais improváveis em Seul.",
+    "porque_assistir": "Lançamento 2025 — Choi Ji-woo, Kim Young-kwang. Nota MDL 7.6. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "waiting-for-gyeongdo",
+    "titulo": "Waiting for Gyeongdo",
+    "titulo_original": "경도를 기다리며",
+    "titulo_br": "Esperando por Gyeongdo",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Melodrama"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Kim Ha-neul",
+      "Yeon Woo-jin"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/dQS44jpxFPLbVmIRBSmCk7BGfSZ.jpg",
+    "trailer": "",
+    "sinopse": "Dois ex-amantes reencontram-se uma década depois: ele agora é repórter cobrindo um escândalo de adultério; ela é casada com o homem no centro do caso. Drama adulto sobre feridas antigas e o preço de amar tarde demais.",
+    "porque_assistir": "Lançamento 2025 — Kim Ha-neul, Yeon Woo-jin. Nota MDL 7.7. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "tempest",
+    "titulo": "Tempest",
+    "titulo_original": "",
+    "titulo_br": "Tempestade",
+    "tipo": "",
+    "pais": "",
+    "ano": 2025,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Aberto",
+    "plataformas": [],
+    "dublado": true,
+    "categorias": [
+      "Thriller",
+      "Ação",
+      "Suspense"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.5,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "Uma ex-diplomata investiga o assassinato do marido e é protegida por um guarda-costas misterioso com sua própria agenda. Thriller político de peso com química adulta e conspiração internacional.",
+    "porque_assistir": "Lançamento 2025 — Jun Ji-hyun, Gang Dong-won. Nota MDL 8.5. Streaming BR ativo em Disney+.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-haunted-palace",
+    "titulo": "The Haunted Palace",
+    "titulo_original": "귀궁",
+    "titulo_br": "O Palácio Assombrado",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Sageuk",
+      "Fantasia",
+      "Mistério"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Yook Sungjae",
+      "Bona",
+      "Kim Ji-hoon",
+      "Kim Woo-seok"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.3,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/dstp4G3muuXFVr9x3McedmhMkRi.jpg",
+    "trailer": "",
+    "sinopse": "Joseon: o palácio real é infestado por espíritos e fantasmas femininos poderosos. Um oficial do governo é possuído por uma serpente mítica e precisa da ajuda da filha de uma xamã pra confrontar as forças sobrenaturais e salvar o rei reformista.",
+    "porque_assistir": "Lançamento 2025 — Yook Sungjae, Bona. Nota MDL 8.3. Streaming BR ativo em Disney+, Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-nice-guy",
+    "titulo": "The Nice Guy",
+    "titulo_original": "착한 사나이",
+    "titulo_br": "O Bom Sujeito",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Disney+"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Ação",
+      "Noir",
+      "Romance"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Dong-wook",
+      "Lee Sung-kyung",
+      "Park Hoon",
+      "Oh Na-ra"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.4,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/9LpTcNCXI0zCen36B3StAgD61Fp.jpg",
+    "trailer": "",
+    "sinopse": "Seok-cheol é o filho mais velho de uma família de gângsteres de três gerações. Pra proteger o clã, o trabalho e o amor da vida, ele mergulha em uma espiral de violência e romance. Noir coreano com humor e ternura no meio do sangue.",
+    "porque_assistir": "Lançamento 2025 — Lee Dong-wook, Lee Sung-kyung. Nota MDL 8.4. Streaming BR ativo em Disney+.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "spring-of-youth",
+    "titulo": "Spring of Youth",
+    "titulo_original": "사계의 봄",
+    "titulo_br": "Renascer da Juventude",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Slice of Life",
+      "Musical"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Park Ji-hoon",
+      "Kim Ye-rim",
+      "Byeon Seong-tae",
+      "Lee Seung-hyub"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.9,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/46ebcj6OPlye4ONF9in1MC3nvaM.jpg",
+    "trailer": "",
+    "sinopse": "Um ex-vocalista de banda K-pop se matricula na universidade em busca de recomeço. Entre estudantes de música e medicina, ele redescobre a paixão pelo palco e forma laços de amizade e amor. Drama juvenil sobre segundas chances e som.",
+    "porque_assistir": "Lançamento 2025 — Park Ji-hoon, Kim Ye-rim. Nota MDL 7.9. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "queen-mantis",
+    "titulo": "Queen Mantis",
+    "titulo_original": "사마귀: 살인자의 외출",
+    "titulo_br": "Todos os Crimes da Louva-a-Deus",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Thriller",
+      "Mistério",
+      "Suspense"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Ko Hyun-jung",
+      "Jang Dong-yoon",
+      "Kim Nam-hee",
+      "Park Gyu-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.6,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/kX0vZSMsdSibAMFkwn9EJZjXrTD.jpg",
+    "trailer": "",
+    "sinopse": "Pra impedir crimes de um imitador de serial killer, um detetive precisa recorrer à ajuda da assassina original — que por acaso é a própria mãe dele, presa perpétua. Thriller psicológico sombrio no melhor estilo Silêncio dos Inocentes.",
+    "porque_assistir": "Lançamento 2025 — Ko Hyun-jung, Jang Dong-yoon. Nota MDL 8.6. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "way-back-love",
+    "titulo": "Way Back Love",
+    "titulo_original": "내가 죽기 일주일 전",
+    "titulo_br": "Um Amor de Despedida",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Drama"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Kim Min-ha",
+      "Gong Myung",
+      "Kim Ki-hae"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/8NQYhJ1tn40bcJGS5n0QBmdHd44.jpg",
+    "trailer": "",
+    "sinopse": "Hee-wan, 24, luta contra depressão. Seu amigo de infância morto há seis anos volta como ceifador de almas pra avisar que ela tem uma semana de vida. Juntos, eles cumprem uma bucket list. Drama fofo e cortante sobre luto e o valor do agora.",
+    "porque_assistir": "Lançamento 2025 — Kim Min-ha, Gong Myung. Nota MDL 8.0. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "our-unwritten-seoul",
+    "titulo": "Our Unwritten Seoul",
+    "titulo_original": "그런 여름이 온다면",
+    "titulo_br": "Nossa Seul Não Escrita",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Slice of Life",
+      "Drama",
+      "Romance"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Park Bo-young",
+      "Park Jin-young",
+      "Ryu Kyung-soo"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/eK9hQBvEnje0uIY6BNSQYunfJ8p.jpg",
+    "trailer": "",
+    "sinopse": "Duas gêmeas idênticas trocam de vida pra escapar das expectativas familiares e das próprias frustrações. Slice-of-life sensível que mergulha em saúde mental, resiliência e a coragem de ser quem se é. Aclamado pela crítica.",
+    "porque_assistir": "Lançamento 2025 — Park Bo-young, Park Jin-young. Nota MDL 8.7. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "spirit-fingers",
+    "titulo": "Spirit Fingers",
+    "titulo_original": "스피릿핑거스",
+    "titulo_br": "Spirit Fingers",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Slice of Life",
+      "Coming of Age"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Chae Won-bin",
+      "Park Ji-hoon",
+      "Choi Bo-min"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.9,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/1monMMY352y34GQQ3oedMdMrx25.jpg",
+    "trailer": "",
+    "sinopse": "Song Woo-yeon é uma estudante sem autoconfiança que entra pro clube de desenho Spirit Fingers. Cercada de personagens excêntricos e criativos, ela descobre coragem pra viver a própria vida. Adaptação de webtoon amado, cheia de cor e afeto.",
+    "porque_assistir": "Lançamento 2025 — Chae Won-bin, Park Ji-hoon. Nota MDL 7.9. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "as-you-stood-by",
+    "titulo": "As You Stood By",
+    "titulo_original": "당신이 죽였다",
+    "titulo_br": "Você Matou",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Thriller",
+      "Suspense",
+      "Revenge"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Jang Nara",
+      "Kim Nam-joo",
+      "Yeon Woo-jin",
+      "Kim Sung-kyun"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.3,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/utrGFclbnCqELR7GS34B4NMQkzo.jpg",
+    "trailer": "",
+    "sinopse": "Duas melhores amigas planejam um assassinato pra encerrar um casamento abusivo. Quando uma visita inesperada ameaça o plano, tudo desmorona. Thriller doméstico sobre violência conjugal, sororidade e cumplicidade no limite.",
+    "porque_assistir": "Lançamento 2025 — Jang Nara, Kim Nam-joo. Nota MDL 8.3. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "dynamite-kiss",
+    "titulo": "Dynamite Kiss",
+    "titulo_original": "키스는 괜히 해서!",
+    "titulo_br": "Beijo Explosivo",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki",
+      "Kocowa"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Jang Ki-yong",
+      "Ahn Eun-jin",
+      "Choi Won-young"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/kdVqCFaENSuXI97oaDnFeciJG4j.jpg",
+    "trailer": "",
+    "sinopse": "Kong Ji-hyeok, CEO de uma empresa de produtos pra bebê, tem sua vida detonada quando uma colega o beija do nada. O que era pra ser um deslize vira uma bomba de sentimentos e escândalos no escritório. Rom-com office direta e divertida.",
+    "porque_assistir": "Lançamento 2025 — Jang Ki-yong, Ahn Eun-jin. Nota MDL 7.8. Streaming BR ativo em Viki, Kocowa.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "law-and-the-city",
+    "titulo": "Law and the City",
+    "titulo_original": "은중과 상연",
+    "titulo_br": "Direito e a Cidade",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Jurídico",
+      "Slice of Life",
+      "Romance"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Jong-suk",
+      "Moon Ga-young",
+      "Kang You-seok",
+      "Ryu Hye-young",
+      "Im Sung-jae"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.1,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/cVykmkPdo81mLToE2YLeZOLy7yd.jpg",
+    "trailer": "",
+    "sinopse": "Cinco advogados adoráveis crescem juntos em um escritório de Seul, entre casos difíceis, refeições compartilhadas e uma amizade que resiste. O contraponto entre o cínico e o idealista sustenta a série. Drama jurídico com coração.",
+    "porque_assistir": "Lançamento 2025 — Lee Jong-suk, Moon Ga-young. Nota MDL 8.1. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "tastefully-yours",
+    "titulo": "Tastefully Yours",
+    "titulo_original": "맛있는 그놈",
+    "titulo_br": "Sabor de Você",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Kocowa",
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Slice of Life"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Kang Ha-neul",
+      "Go Min-si",
+      "Kim Shin-rok"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.9,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/dWOEPCBqsQo3u1AhGIreOgf4vTx.jpg",
+    "trailer": "",
+    "sinopse": "Um herdeiro arrogante de um império gastronômico encontra uma chef teimosa e reservada de uma casa modesta. As receitas dela o encantam antes que ele perceba. Rom-com de cozinha com foodporn e enemies-to-lovers de tempero certeiro.",
+    "porque_assistir": "Lançamento 2025 — Kang Ha-neul, Go Min-si. Nota MDL 7.9. Streaming BR ativo em Kocowa, Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "second-shot-at-love",
+    "titulo": "Second Shot at Love",
+    "titulo_original": "금주를 부탁해",
+    "titulo_br": "Segunda Chance no Amor",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Slice of Life"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Choi Soo-young",
+      "Gong Myung",
+      "Cha Kang-yoon"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/b9x7UqVmR0voDOxvQKBHSgnf3nM.jpg",
+    "trailer": "",
+    "sinopse": "Uma mecânica que luta contra a dependência de álcool reencontra o melhor amigo do ensino médio, agora médico distante e sóbrio. O reencontro pode salvar os dois — ou destruir de vez o que restou. Drama emocional sobre vícios e afeto.",
+    "porque_assistir": "Lançamento 2025 — Choi Soo-young, Gong Myung. Nota MDL 7.7. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-first-night-with-the-duke",
+    "titulo": "The First Night with the Duke",
+    "titulo_original": "이혼하자, 대공",
+    "titulo_br": "A Primeira Noite com o Duque",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Sageuk",
+      "Romance",
+      "Fantasia"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Seohyun",
+      "Ok Taec-yeon",
+      "Kwon Han-sol"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/cUYvGwYLrGuy8Mm9wc2WYNrXKQ8.jpg",
+    "trailer": "",
+    "sinopse": "Uma universitária de Seul acorda dentro do corpo da vilã secundária do webnovel romântico favorito dela. Depois de uma noite bêbada com o príncipe frio protagonista, precisa decidir: recuperar a história original ou escrever a própria versão.",
+    "porque_assistir": "Lançamento 2025 — Seohyun, Ok Taec-yeon. Nota MDL 7.8. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "twelve",
+    "titulo": "Twelve",
+    "titulo_original": "",
+    "titulo_br": "Doze",
+    "tipo": "",
+    "pais": "",
+    "ano": 2025,
+    "episodios": 0,
+    "temporadas": 1,
+    "duracao": "",
+    "status": "",
+    "final": "Aberto",
+    "plataformas": [],
+    "dublado": false,
+    "categorias": [
+      "Fantasia",
+      "Ação",
+      "Super-herói"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.6,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "",
+    "trailer": "",
+    "sinopse": "Há milênios, 12 anjos do zodíaco lutaram contra espíritos malignos pra proteger a humanidade. Quando o mal desperta de novo, o líder Tae San (Tigre) e seus 11 companheiros precisam se reunir em Seul. Fantasia-ação com Ma Dong-seok esmurrando demônios.",
+    "porque_assistir": "Lançamento 2025 — Ma Dong-seok, Park Hyung-sik. Nota MDL 7.6. Streaming BR ativo em Disney+.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-confidence-queen",
+    "titulo": "The Confidence Queen",
+    "titulo_original": "컨피던스 맨 KR",
+    "titulo_br": "A Rainha dos Golpes",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Prime Video",
+      "tvN"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Ação",
+      "Comédia",
+      "Crime"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Park Min-young",
+      "Park Hee-soon",
+      "Joo Jong-hyuk"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/k37EEdNrXAWZzjQtT2NcS2Gm0dv.jpg",
+    "trailer": "",
+    "sinopse": "Um time de vigaristas charmosos rouba só dos maus — a líder Yi-rang, o veterano James e o ingênuo Gu-ho aplicam golpes elaborados em corruptos, chaebols e criminosos. Justiça como estratégia, crime como espetáculo. Adaptação do sucesso japonês.",
+    "porque_assistir": "Lançamento 2025 — Park Min-young, Park Hee-soon. Nota MDL 8.0. Streaming BR ativo em Prime Video, tvN.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "genie-make-a-wish",
+    "titulo": "Genie, Make a Wish",
+    "titulo_original": "지니, 소원을 말해줘",
+    "titulo_br": "Gênio, Faça um Desejo",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Comédia"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Kim Woo-bin",
+      "Bae Suzy",
+      "Noh Sang-hyun",
+      "Ahn Eun-jin"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.2,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/6y4eskvoYQ33s5QQ7GP9c96GtCt.jpg",
+    "trailer": "",
+    "sinopse": "Depois de mil anos adormecido, um gênio excêntrico volta pra realizar desejos de uma mulher que nasceu sem sentir emoções. Fantasia romântica com Kim Woo-bin e Bae Suzy — química de veterano e visual arrebatador.",
+    "porque_assistir": "Lançamento 2025 — Kim Woo-bin, Bae Suzy. Nota MDL 8.2. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "typhoon-family",
+    "titulo": "Typhoon Family",
+    "titulo_original": "태풍상사",
+    "titulo_br": "Família Tufão",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Drama de época",
+      "Slice of Life",
+      "Romance"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Lee Jun-ho",
+      "Kim Min-ha",
+      "Kim Byung-chul",
+      "Sung Dong-il"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8.4,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/wPbW5Ll3xNP1PT99Odh6kawkJSM.jpg",
+    "trailer": "",
+    "sinopse": "Em plena crise financeira asiática de 1997, um filho farrista e despreparado herda a empresa endividada do pai e é forçado a crescer no meio do caos. Drama de época sobre família, trabalho e o Milagre do Rio Han pela lente humana.",
+    "porque_assistir": "Lançamento 2025 — Lee Jun-ho, Kim Min-ha. Nota MDL 8.4. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "cashero",
+    "titulo": "Cashero",
+    "titulo_original": "캐셔로",
+    "titulo_br": "Cashero",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Netflix"
+    ],
+    "dublado": true,
+    "categorias": [
+      "Ação",
+      "Fantasia",
+      "Comédia"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Roh Sang-hyun",
+      "Kim Hye-yoon",
+      "Kang Ha-neul"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.5,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/1Z2NreNYQ0ZneDKl8egbx3F2Grp.jpg",
+    "trailer": "",
+    "sinopse": "Um cara comum herda superpoderes e vira alvo de vilões que querem roubá-los. O problema: cada poder custa caro — no bolso e na alma. Super-herói coreano com humor, ação e crítica ao custo de ser especial.",
+    "porque_assistir": "Lançamento 2025 — Roh Sang-hyun, Kim Hye-yoon. Nota MDL 7.5. Streaming BR ativo em Netflix.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "salon-de-holmes",
+    "titulo": "Salon de Holmes",
+    "titulo_original": "살롱 드 홈즈",
+    "titulo_br": "Salão de Holmes",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Mistério",
+      "Comédia",
+      "Crime"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Rain (Jung Ji-hoon)",
+      "Kim Ha-neul",
+      "Hwang Woo-seul-hye",
+      "Ahn Eun-jin"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 7.7,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/umMOqPHJaK3BGt3AlHTRiMTj3Rn.jpg",
+    "trailer": "",
+    "sinopse": "Quatro donas de casa sobrecarregadas e ignoradas por todos se juntam pra investigar casos esquecidos pela polícia. Escutam vítimas, catam pistas no dia a dia e provam que atenção invisível é a maior arma detetivesca. Mistério feminino com humor.",
+    "porque_assistir": "Lançamento 2025 — Rain (Jung Ji-hoon), Kim Ha-neul. Nota MDL 7.7. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
+  },
+  {
+    "id": "the-queen-who-crowns",
+    "titulo": "The Queen Who Crowns",
+    "titulo_original": "원경",
+    "titulo_br": "A Rainha Que Coroa",
+    "tipo": "K-Drama",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "status": "Finalizado",
+    "classificacao": 16,
+    "final": "Aberto",
+    "plataformas": [
+      "Viki"
+    ],
+    "dublado": false,
+    "categorias": [
+      "Sageuk",
+      "Drama",
+      "Political"
+    ],
+    "tropos": [],
+    "temas": [],
+    "profissoes": [],
+    "elenco": [
+      "Cha Joo-young",
+      "Lee Hyun-wook",
+      "Lee Yi-dam"
+    ],
+    "diretor": "",
+    "roteirista": "",
+    "adaptacao": "",
+    "universo": "",
+    "avaliacao": {
+      "chatgpt": null,
+      "mdl": 8,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 6,
+      "emocao": 6,
+      "humor": 4,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "triangulo_amoroso": false,
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "ost": [],
+    "premios": [],
+    "banner": "",
+    "poster": "/hoTFlJ9JY2SJAeL4wTBNZTplpa4.jpg",
+    "trailer": "",
+    "sinopse": "Won-gyeong, mulher inteligente e ambiciosa da família Min, casa-se com o quinto filho do rei Tae-jo em uma aliança estratégica. Ela se torna 'a professora do rei' e move os bastidores pra que o marido chegue ao trono. Sageuk político denso e magnético.",
+    "porque_assistir": "Lançamento 2025 — Cha Joo-young, Lee Hyun-wook. Nota MDL 8.0. Streaming BR ativo em Viki.",
+    "curiosidades": [
+      "Lançamento 2025 verificado no TMDB."
+    ],
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ver classificação etária TMDB."
+    },
+    "recomendacoes": []
   }
 ]
