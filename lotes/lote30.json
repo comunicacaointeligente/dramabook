@@ -1,0 +1,1846 @@
+[
+  {
+    "titulo": "Circle: Two Worlds Connected",
+    "ano": 2017,
+    "titulo_br": "Circle: Dois Mundos",
+    "sinopse": "Em DUAS LINHAS TEMPORAIS PARALELAS (2017 e 2037), GÊMEOS separados na infância descobrem que uma TECNOLOGIA ALIENÍGENA esconde a chave dos SUICÍDIOS em série que assolam sua faculdade. Sci-fi coreano curto, denso e viciante — 12 episódios que parecem 6.",
+    "porque_assistir": "Um dos MELHORES SCI-FI coreanos já feitos. Estrutura dupla ambiciosa: cada ep mostra 30 min de 2017 + 30 min de 2037. Yeo Jin-goo (Hotel del Luna!) em papel duplo. Viki BR.",
+    "categorias": [
+      "Fantasia",
+      "Investigação",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Gêmeos",
+      "Viagem no Tempo",
+      "Alienígenas",
+      "Distopia"
+    ],
+    "temas": [
+      "Memória",
+      "Identidade",
+      "Ciência",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Estudantes",
+      "Detetive",
+      "Cientista"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 5
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Suicídio, distopia, temas psicológicos densos."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Primeiro sci-fi da tvN.",
+      "Estrutura de 2 linhas temporais por episódio.",
+      "Yeo Jin-goo em papel duplo."
+    ],
+    "recomendacoes": [
+      "Sisyphus: The Myth",
+      "W: Two Worlds",
+      "Nine"
+    ],
+    "_id_hint": "circle-two-worlds"
+  },
+  {
+    "titulo": "Doctors",
+    "ano": 2016,
+    "titulo_br": "Médicos",
+    "sinopse": "Uma ADOLESCENTE REBELDE encontra em um PROFESSOR DE MATEMÁTICA o único adulto que enxerga além da fama de encrenqueira. Anos depois, ela reaparece como NEUROCIRURGIÃ disposta a acertar contas com o passado — e o antigo mentor virou seu colega de hospital.",
+    "porque_assistir": "Park Shin-hye + Kim Rae-won em drama médico CLÁSSICO. Older Man Younger Woman com mentor + aluna. Química elétrica. Viki BR.",
+    "categorias": [
+      "Médicos",
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Mentor",
+      "Older Man Younger Woman",
+      "Segunda Chance",
+      "Redenção"
+    ],
+    "temas": [
+      "Amor",
+      "Educação",
+      "Medicina",
+      "Recomeço"
+    ],
+    "profissoes": [
+      "Neurocirurgiã",
+      "Professor",
+      "Médico"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Park Shin-hye após Pinocchio, antes de Doctor Slump.",
+      "Roteiro de Ha Myung-hee.",
+      "Estreou junho/2016 SBS."
+    ],
+    "recomendacoes": [
+      "Doctor Slump",
+      "Doctor Cha",
+      "Hospital Playlist"
+    ],
+    "_id_hint": "doctors"
+  },
+  {
+    "titulo": "Oh My Ghost",
+    "ano": 2015,
+    "titulo_br": "Oh, Meu Fantasma",
+    "sinopse": "Uma AUXILIAR DE COZINHA tímida é POSSUÍDA pelo FANTASMA de uma virgem que morreu sem amar — e passa a SEDUZIR o chef arrogante por quem sempre teve uma queda. Rom-com sobrenatural com Park Bo-young em atuação premiada.",
+    "porque_assistir": "Park Bo-young (Strong Woman Do Bong-soon, Doom at Your Service!) + Jo Jung-suk. Rom-com CULT + comédia física + mistério de assassinato. Um dos MELHORES rom-coms coreanos. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Sobrenatural",
+      "Fantasia",
+      "Médicos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Possessão",
+      "Fantasma Virgem",
+      "Chef",
+      "Rivais que se Apaixonam"
+    ],
+    "temas": [
+      "Amor",
+      "Confiança",
+      "Identidade",
+      "Mistério"
+    ],
+    "profissoes": [
+      "Auxiliar",
+      "Chef",
+      "Fantasma"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 8,
+      "humor": 9,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Park Bo-young ganhou Melhor Atriz tvN 2015.",
+      "Adaptação de webtoon.",
+      "Estreou julho/2015 tvN + Viki."
+    ],
+    "recomendacoes": [
+      "Strong Woman Do Bong-soon",
+      "Doom at Your Service",
+      "Master's Sun"
+    ],
+    "_id_hint": "oh-my-ghost"
+  },
+  {
+    "titulo": "Oh My Venus",
+    "ano": 2015,
+    "titulo_br": "Oh, Minha Vênus",
+    "sinopse": "EX-VÊNUS do colégio virou ADVOGADA de 33 anos com SOBREPESO e um NOIVO COVARDE. Ela topa virar projeto de um PERSONAL TRAINER de Hollywood que voltou pra Coreia fugindo de escândalo — e a transformação vira coisa muito maior que estética.",
+    "porque_assistir": "So Ji-sub (Mercy for None!) + Shin Min-a (Hometown Cha-Cha-Cha!) química ESPETACULAR. Sem toxicidade — foco em auto-aceitação e amor real. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro",
+      "Advogados",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Personal Trainer",
+      "Older Woman Younger Man",
+      "Autoestima",
+      "Recomeço"
+    ],
+    "temas": [
+      "Autoestima",
+      "Amor",
+      "Trabalho",
+      "Saúde"
+    ],
+    "profissoes": [
+      "Advogada",
+      "Personal Trainer",
+      "CEO"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.0,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 10,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 7
+    },
+    "flags": {
+      "green": 9,
+      "red": 2
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "So Ji-sub emagreceu / musculou 15kg pro papel.",
+      "Adaptação de webtoon.",
+      "Estreou novembro/2015 KBS2 + Viki."
+    ],
+    "recomendacoes": [
+      "Weightlifting Fairy",
+      "My Lovely Sam Soon",
+      "Fight for My Way"
+    ],
+    "_id_hint": "oh-my-venus"
+  },
+  {
+    "titulo": "Yong-Pal",
+    "ano": 2015,
+    "titulo_br": "Yong-Pal",
+    "sinopse": "Um RESIDENTE de cirurgia endividado até o pescoço vira MÉDICO CLANDESTINO de gangsters pra pagar tratamento da irmã. Um dia ele é chamado pra manter viva a HERDEIRA de um chaebol em COMA INDUZIDO — e descobre uma conspiração familiar cruel.",
+    "porque_assistir": "Joo Won (Good Doctor, My Sassy Girl!) + Kim Tae-hee (Hi Bye Mama!). Ação médica + conspiração chaebol + romance intenso. Viki BR.",
+    "categorias": [
+      "Médicos",
+      "Ação",
+      "Romance",
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Médico Clandestino",
+      "Coma Induzido",
+      "Chaebol",
+      "Vingança"
+    ],
+    "temas": [
+      "Corrupção",
+      "Amor",
+      "Família",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Médico",
+      "Herdeira",
+      "Gangster"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.3,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência médica, tortura, chantagem chaebol."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Kim Tae-hee em coma pela maior parte da série (metade das cenas).",
+      "32% de audiência — sucesso enorme.",
+      "Estreou agosto/2015 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "Doctor John",
+      "Doctor Prisoner",
+      "Bad Guys"
+    ],
+    "_id_hint": "yong-pal"
+  },
+  {
+    "titulo": "I Remember You",
+    "ano": 2015,
+    "titulo_br": "Eu Me Lembro de Você",
+    "sinopse": "Um PROFILER CRIMINAL com MEMÓRIA FOTOGRÁFICA reencontra na Coreia o ASSASSINO que marcou sua infância — o mesmo homem que fez seu irmão desaparecer. Investigação, dor de irmão e o Park Bo-gum mais assustador da carreira.",
+    "porque_assistir": "Seo In-guk (Doom at Your Service, Café Minamdang!) + Jang Na-ra + Park Bo-gum jovem. 8.7 no MDL — nota RARA. Thriller psicológico brilhante. Viki BR.",
+    "categorias": [
+      "Investigação",
+      "Emocionantes",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Profiler",
+      "Serial Killer",
+      "Trauma de Infância",
+      "Memória Fotográfica"
+    ],
+    "temas": [
+      "Memória",
+      "Trauma",
+      "Vingança",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Profiler",
+      "Advogada",
+      "Serial Killer"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.5,
+      "mdl": 8.7,
+      "imdb": 8.4
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 8
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Serial killer, violência contra crianças (flashback), tortura psicológica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Também conhecido como 'Hello Monster'.",
+      "Park Bo-gum antes de Reply 1988 — papel de vilão.",
+      "Estreou junho/2015 KBS2 + Viki."
+    ],
+    "recomendacoes": [
+      "Signal",
+      "Beyond Evil",
+      "Mouse"
+    ],
+    "_id_hint": "i-remember-you"
+  },
+  {
+    "titulo": "Splash Splash Love",
+    "ano": 2015,
+    "titulo_br": "Chuva de Amor",
+    "sinopse": "Uma ESTUDANTE do ensino médio fugindo do VESTIBULAR pisa numa POÇA DE CHUVA e cai no palácio do JOVEM REI SEJONG, em plena SECA da dinastia Joseon. Minissérie de 2 episódios que virou culto.",
+    "porque_assistir": "Só 2 EPISÓDIOS! Kim Seul-gi (também em Oh My Ghost!) + Yoon Doo-joon (Highlight!). Perfeito pra maratonar em UMA NOITE. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Fantasia",
+      "Históricos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Palácio",
+      "Rei Sábio",
+      "Amor Rápido"
+    ],
+    "temas": [
+      "Tempo",
+      "Amor",
+      "Estudo",
+      "Sabedoria"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Rei",
+      "Xamã"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.2,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 8,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 2
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Só 2 episódios — minissérie MBC.",
+      "Ambientada no reino do Rei Sejong (criador do hangul).",
+      "Cult absoluto do gênero time-travel."
+    ],
+    "recomendacoes": [
+      "Queen In-hyun's Man",
+      "Rooftop Prince",
+      "Faith"
+    ],
+    "_id_hint": "splash-splash-love"
+  },
+  {
+    "titulo": "My Sassy Girl",
+    "ano": 2017,
+    "titulo_br": "Minha Namorada Chinelona",
+    "sinopse": "Adaptação do FILME CULT 2001 pra JOSEON: um jovem estudioso PROTEGE uma princesa EXILADA, arrogante e explosiva, e vira alvo da paixão dela. Sageuk leve com Joo Won e Oh Yeon-seo.",
+    "porque_assistir": "Joo Won (Yong-Pal, Good Doctor!) + Oh Yeon-seo (Hwayugi!). Adaptação de FILME CULT (2001) pra formato sageuk. 32 eps curtos que passam voando. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Históricos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Princesa",
+      "Estudioso",
+      "Rivais que se Apaixonam",
+      "Contract Marriage"
+    ],
+    "temas": [
+      "Amor",
+      "Realeza",
+      "Escolha",
+      "Aventura"
+    ],
+    "profissoes": [
+      "Estudioso",
+      "Princesa",
+      "Rei"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.8,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 6,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado no filme 'My Sassy Girl' (2001) — hit asiático global.",
+      "Adaptação pra era Joseon.",
+      "Estreou maio/2017 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "100 Days My Prince",
+      "Rookie Historian",
+      "Moonlight Drawn by Clouds"
+    ],
+    "_id_hint": "my-sassy-girl-drama"
+  },
+  {
+    "titulo": "Ruler: Master of the Mask",
+    "ano": 2017,
+    "titulo_br": "O Imperador: O Dono da Máscara",
+    "sinopse": "Um PRÍNCIPE HERDEIRO descobre que uma SOCIEDADE SECRETA controla toda a ÁGUA do reino — e obriga o pai-rei a manter a farsa. Pra sobreviver, ele FOGE, vira MÁSCARA e conspira. Sageuk épico.",
+    "porque_assistir": "Yoo Seung-ho (I'm Not a Robot!) + Kim So-hyun (The Tale of Nokdu!). Sageuk NÍVEL ALTO com política + máscara + romance. 8.3 no MDL. Viki BR.",
+    "categorias": [
+      "Históricos",
+      "Romance",
+      "Ação",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Príncipe",
+      "Máscara",
+      "Conspiração",
+      "Sociedade Secreta"
+    ],
+    "temas": [
+      "Poder",
+      "Identidade",
+      "Amor",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Príncipe",
+      "Estudiosa",
+      "Rei"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.3,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Conspiração política, execuções, cenas de tortura leves."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado em fato histórico da dinastia Joseon.",
+      "Kim So-hyun em papel de leadgirl histórico.",
+      "Estreou maio/2017 MBC + Viki."
+    ],
+    "recomendacoes": [
+      "Moonlight Drawn by Clouds",
+      "Rookie Historian",
+      "100 Days My Prince"
+    ],
+    "_id_hint": "ruler-master-of-mask"
+  },
+  {
+    "titulo": "The Rebel",
+    "ano": 2017,
+    "titulo_br": "O Rebelde: O Ladrão do Povo",
+    "sinopse": "Reinvenção da LENDA de HONG GIL-DONG — o ROBIN HOOD coreano. Filho de escrava, dono de força sobre-humana, ele monta um bando que enfrenta o TIRANO Rei Yeonsangun. Sageuk premiado pela crítica, 30 episódios densos.",
+    "porque_assistir": "Yoon Kyun-sang (Doctor!) + Kim Ji-seok em sageuk POLÍTICO. Se você AMOU Chuno, essa é da mesma linhagem — épico, sanguíneo, com heróis populares. Viki BR.",
+    "categorias": [
+      "Históricos",
+      "Ação",
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Herói Popular",
+      "Robin Hood",
+      "Tirano",
+      "Escravidão"
+    ],
+    "temas": [
+      "Justiça",
+      "Casta",
+      "Rebelião",
+      "Poder"
+    ],
+    "profissoes": [
+      "Rebelde",
+      "Rei",
+      "Escrava"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 6,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 3,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 5,
+      "red": 8
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência histórica, execuções, escravidão, tortura."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado na lenda coreana de Hong Gil-dong.",
+      "30 episódios de sageuk denso.",
+      "Estreou janeiro/2017 MBC + Viki."
+    ],
+    "recomendacoes": [
+      "Chuno",
+      "Six Flying Dragons",
+      "Kingdom"
+    ],
+    "_id_hint": "the-rebel"
+  },
+  {
+    "titulo": "Let's Fight Ghost",
+    "ano": 2016,
+    "titulo_br": "Vamos Lutar, Fantasma",
+    "sinopse": "Um UNIVERSITÁRIO que enxerga FANTASMAS trabalha como EXORCISTA FREELANCER — até topar com o ESPÍRITO de uma COLEGIAL que morreu antes do vestibular e não lembra por quê. Também conhecido como Bring It On Ghost.",
+    "porque_assistir": "Kim So-hyun (School 2015!) + Ok Taec-yeon (2PM, Save Me!). Rom-com sobrenatural FOFA que virou cult. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Sobrenatural",
+      "Fantasia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Exorcista",
+      "Fantasma",
+      "Estudante Morta",
+      "Missão"
+    ],
+    "temas": [
+      "Amor",
+      "Morte",
+      "Amizade",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Estudante",
+      "Fantasma",
+      "Exorcista"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 8,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Baseado em webtoon Naver.",
+      "Kim So-hyun em papel fantasma comovente.",
+      "Estreou julho/2016 tvN + Viki."
+    ],
+    "recomendacoes": [
+      "Master's Sun",
+      "Oh My Ghost",
+      "Mystic Pop-up Bar"
+    ],
+    "_id_hint": "bring-it-on-ghost"
+  },
+  {
+    "titulo": "Come Back Mister",
+    "ano": 2016,
+    "titulo_br": "Volte, Senhor",
+    "sinopse": "DOIS HOMENS morrem, se recusam a subir e VOLTAM pra Terra em CORPOS COMPLETAMENTE DIFERENTES dos seus — um vira uma MULHER JOVEM, o outro um GALÃ. A missão: resolver o que deixaram inacabado com a família.",
+    "porque_assistir": "Rain (Full House, My Lovely Girl!) + Oh Yeon-seo em comédia de troca de corpos ÁCIDA. Viki BR.",
+    "categorias": [
+      "Comédia",
+      "Fantasia",
+      "Sobrenatural",
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Troca de Corpos",
+      "Volta da Morte",
+      "Missão",
+      "Segunda Chance"
+    ],
+    "temas": [
+      "Morte",
+      "Família",
+      "Amor",
+      "Escolha"
+    ],
+    "profissoes": [
+      "Executivo",
+      "Vendedora",
+      "Herdeira"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 8,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Rain em comédia rara.",
+      "Baseado no romance japonês 'Tsubasa wo Kudasai'.",
+      "Estreou fevereiro/2016 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "Hi Bye Mama",
+      "Mr. Queen",
+      "Familiar Wife"
+    ],
+    "_id_hint": "come-back-mister"
+  },
+  {
+    "titulo": "My ID Is Gangnam Beauty",
+    "ano": 2018,
+    "titulo_br": "Meu ID é Beleza de Gangnam",
+    "sinopse": "Uma jovem BULLYADA PELA APARÊNCIA a vida inteira faz CIRURGIA PLÁSTICA antes da faculdade — e é apelidada de 'Beleza de Gangnam' pelos colegas que descobrem. O único que sempre a viu por dentro é um ex-colega frio que ela mal reconhece.",
+    "porque_assistir": "Cha Eun-woo (ASTRO, Rookie Historian!) em papel de ESTREIA. Adaptação de webtoon FENÔMENO. Debate REAL sobre padrão de beleza coreano. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Cirurgia Plástica",
+      "Bullying",
+      "Universidade",
+      "Rivais"
+    ],
+    "temas": [
+      "Beleza",
+      "Autoestima",
+      "Bullying",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Estudantes"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Bullying, dismorfia corporal, temas de padrão de beleza opressor."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Cha Eun-woo em papel principal de estreia — consagração.",
+      "Adaptação do webtoon 'My ID is Gangnam Beauty'.",
+      "Estreou julho/2018 JTBC + Viki."
+    ],
+    "recomendacoes": [
+      "True Beauty",
+      "Cinderella and Four Knights",
+      "Weightlifting Fairy"
+    ],
+    "_id_hint": "my-id-gangnam-beauty"
+  },
+  {
+    "titulo": "Are You Human Too?",
+    "ano": 2018,
+    "titulo_br": "Você Também é Humano?",
+    "sinopse": "Uma CIENTISTA, banida do filho pela família chaebol, cria um ANDROIDE IDÊNTICO ao menino pra vê-lo crescer. Vinte anos depois, o filho HUMANO cai em COMA e o ANDROIDE precisa fingir ser ele — inclusive na frente da guarda-costas que percebe algo estranho.",
+    "porque_assistir": "Seo Kang-joon (Where Stars Land, Cheese in the Trap!) em papel DUPLO — humano e androide. Sci-fi romance denso. Viki BR.",
+    "categorias": [
+      "Fantasia",
+      "Romance",
+      "Emocionantes",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Androide",
+      "Chaebol",
+      "Papel Duplo",
+      "Guarda-Costas"
+    ],
+    "temas": [
+      "Humanidade",
+      "Amor",
+      "Identidade",
+      "Família"
+    ],
+    "profissoes": [
+      "Androide",
+      "Herdeiro",
+      "Cientista"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.4,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ação com armas, chaebol violento, temas de dependência tech."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Seo Kang-joon em papel duplo premiado.",
+      "Roteiro de Cho Jung-joo.",
+      "Estreou junho/2018 KBS2 + Viki."
+    ],
+    "recomendacoes": [
+      "My Holo Love",
+      "I Am Not a Robot",
+      "Melting Me Softly"
+    ],
+    "_id_hint": "are-you-human-too"
+  },
+  {
+    "titulo": "Where Stars Land",
+    "ano": 2018,
+    "titulo_br": "Onde as Estrelas Pousam",
+    "sinopse": "Um ENGENHEIRO brilhante e ANTISSOCIAL do aeroporto de Incheon carrega um SEGREDO que faz o corpo dele reagir diferente. Uma recém-contratada extrovertida com dom pra ATRAIR CAOS cruza o caminho dele.",
+    "porque_assistir": "Lee Je-hoon (Move to Heaven, Chief Detective 1958!) + Chae Soo-bin (The Fabulous!). Rom-com com twist sobrenatural. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Comédia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Antissocial",
+      "Segredo",
+      "Aeroporto",
+      "Poderes"
+    ],
+    "temas": [
+      "Amor",
+      "Identidade",
+      "Trabalho",
+      "Diferença"
+    ],
+    "profissoes": [
+      "Engenheiro",
+      "Nova Funcionária",
+      "Chefe"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Filmado em locação real no Aeroporto de Incheon.",
+      "Roteiro de Jung Hyun-jung (Serendipity's Embrace).",
+      "Estreou outubro/2018 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "Encounter",
+      "Something in the Rain",
+      "One Spring Night"
+    ],
+    "_id_hint": "where-stars-land"
+  },
+  {
+    "titulo": "Strangers From Hell",
+    "ano": 2019,
+    "titulo_br": "Estranhos do Inferno",
+    "sinopse": "Um ASPIRANTE A ESCRITOR se muda pra Seul e aluga um QUARTO num prédio velho compartilhado com VIZINHOS que vão de bizarros a francamente PERIGOSOS. Aos poucos ele percebe que o dentista simpático do 3º andar é o mais assustador de todos.",
+    "porque_assistir": "Im Si-wan (Boyhood!) + Lee Dong-wook (Goblin, Guest!). Thriller OCN CULT — só 10 eps, atmosfera claustrofóbica. Se você AMOU Beyond Evil, essa é do mesmo nível. Viki BR.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Pensão",
+      "Vizinhos Assustadores",
+      "Serial Killer",
+      "Escritor"
+    ],
+    "temas": [
+      "Isolamento",
+      "Cidade",
+      "Vizinhança",
+      "Sanidade"
+    ],
+    "profissoes": [
+      "Escritor",
+      "Dentista",
+      "Vizinhos"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 2,
+      "red": 10
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, tortura, temas psicológicos perturbadores."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Adaptação de webtoon 'Tainaen Jiokida'.",
+      "Só 10 eps — formato binge.",
+      "Estreou agosto/2019 OCN + Viki."
+    ],
+    "recomendacoes": [
+      "Beyond Evil",
+      "Save Me",
+      "The Guest"
+    ],
+    "_id_hint": "strangers-from-hell"
+  },
+  {
+    "titulo": "My Shy Boss",
+    "ano": 2017,
+    "titulo_br": "Meu Chefe Tímido",
+    "sinopse": "O DONO de uma agência de RP é tão INTROVERTIDO que passa o dia trancado na sala — a empresa toca porque a DIRETORA EXECUTIVA assumiu tudo. Uma nova funcionária extrovertida entra achando que vai denunciar a morte da irmã, ligada à empresa.",
+    "porque_assistir": "Yeon Woo-jin (Marriage Contract, Nothing Uncovered!) + Park Hye-su. Rom-com office FOFA com um chefe TÍMIDO em vez do típico arrogante. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Chefe Tímido",
+      "Escritório",
+      "Segredos",
+      "Nova Funcionária"
+    ],
+    "temas": [
+      "Amor",
+      "Trabalho",
+      "Ansiedade",
+      "Confiança"
+    ],
+    "profissoes": [
+      "CEO",
+      "Diretora",
+      "Funcionária"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.9,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Também conhecido como 'Introverted Boss'.",
+      "Roteiro de Mo Ji-hye.",
+      "Estreou janeiro/2017 tvN + Viki."
+    ],
+    "recomendacoes": [
+      "Because This Is My First Life",
+      "Something in the Rain",
+      "Frankly Speaking"
+    ],
+    "_id_hint": "my-shy-boss"
+  },
+  {
+    "titulo": "Man to Man",
+    "ano": 2017,
+    "titulo_br": "Homem a Homem",
+    "sinopse": "Um AGENTE SECRETO de codinome K é INFILTRADO como GUARDA-COSTAS do maior astro de cinema da Coreia — na verdade uma cobertura pra recuperar um PEN DRIVE que pode derrubar o governo. Ação, comédia e química explosiva.",
+    "porque_assistir": "Park Hae-jin (Cheese in the Trap, The Killing Vote!) em papel de agente COOL. Se você AMOU City Hunter ou The K2, essa é da mesma linhagem. Viki BR.",
+    "categorias": [
+      "Ação",
+      "Comédia",
+      "Romance",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Agente Secreto",
+      "Guarda-Costas",
+      "Star",
+      "Missão"
+    ],
+    "temas": [
+      "Espionagem",
+      "Ação",
+      "Amor",
+      "Identidade"
+    ],
+    "profissoes": [
+      "Agente",
+      "Ator",
+      "Assistente"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Ação com armas, perseguições, cenas de luta."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Park Hae-jin fez as cenas de ação ele mesmo.",
+      "Estreou abril/2017 JTBC + Viki."
+    ],
+    "recomendacoes": [
+      "City Hunter",
+      "The K2",
+      "Vagabond"
+    ],
+    "_id_hint": "man-to-man"
+  },
+  {
+    "titulo": "Missing Nine",
+    "ano": 2017,
+    "titulo_br": "Missing Nine",
+    "sinopse": "Um JATO PARTICULAR com NOVE FIGURÕES do entretenimento cai numa ILHA DESERTA. Meses depois, só uma pessoa VOLTA VIVA — e ela conta o que aconteceu em FLASHBACKS perturbadores. Mistério de sobrevivência à la Lost.",
+    "porque_assistir": "Jung Kyung-ho (Hospital Playlist!) + Baek Jin-hee. Mistério + sobrevivência + crítica ao showbiz. Único no gênero em kdrama. Viki BR.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Comédia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Ilha Deserta",
+      "Sobrevivência",
+      "Showbiz",
+      "Flashback"
+    ],
+    "temas": [
+      "Sobrevivência",
+      "Verdade",
+      "Fama",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Astro",
+      "Ex-Cantora",
+      "Empresário"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 6,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência de sobrevivência, canibalismo insinuado, temas de fama tóxica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Estreou janeiro/2017 MBC + Viki.",
+      "Estrutura Lost-like adaptada pra kdrama.",
+      "Jung Kyung-ho em papel de galã caído."
+    ],
+    "recomendacoes": [
+      "The 8 Show",
+      "Squid Game",
+      "Money Game"
+    ],
+    "_id_hint": "missing-nine"
+  },
+  {
+    "titulo": "Tomorrow With You",
+    "ano": 2017,
+    "titulo_br": "Amanhã Com Você",
+    "sinopse": "Um CEO viaja no tempo pegando o METRÔ e vê o dia em que sua FUTURA ESPOSA vai morrer. Pra impedir o destino, ele CASA com a fotógrafa que mal conhece — sem contar por quê. Melodrama de viagem no tempo com Shin Min-a e Lee Je-hoon.",
+    "porque_assistir": "Shin Min-a (Hometown Cha-Cha-Cha!) + Lee Je-hoon (Move to Heaven!). Viagem no tempo + casamento por proteção + química doída. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Viagem no Tempo",
+      "Casamento por Contrato",
+      "Amor Impossível",
+      "Destino"
+    ],
+    "temas": [
+      "Tempo",
+      "Destino",
+      "Amor",
+      "Escolha"
+    ],
+    "profissoes": [
+      "CEO",
+      "Fotógrafa"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Shin Min-a + Lee Je-hoon em única série juntos.",
+      "Estreou fevereiro/2017 tvN + Viki.",
+      "Roteiro de Heo Sung-hye."
+    ],
+    "recomendacoes": [
+      "Queen In-hyun's Man",
+      "My Perfect Stranger",
+      "Sisyphus: The Myth"
+    ],
+    "_id_hint": "tomorrow-with-you"
+  },
+  {
+    "titulo": "Woman with a Suitcase",
+    "ano": 2016,
+    "titulo_br": "A Mulher da Mala",
+    "sinopse": "Uma PARALEGAL brilhante mas SEM DIPLOMA é traída, presa e reaparece anos depois disposta a DESTRUIR o escritório de advocacia que a jogou aos leões. Um EX-PROMOTOR caído em desgraça topa ser o rosto oficial do plano dela.",
+    "porque_assistir": "Choi Ji-woo (Winter Sonata, Twenty Again!) em modo VINGANÇA CEREBRAL. Advogados + escritório corrupto + duo estratégico. Viki BR.",
+    "categorias": [
+      "Advogados",
+      "Emocionantes",
+      "Investigação",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Advogada Ambiciosa",
+      "Falsa Acusação",
+      "Alianças"
+    ],
+    "temas": [
+      "Justiça",
+      "Vingança",
+      "Escala Social",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Paralegal",
+      "Ex-Promotor",
+      "Advogados"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.8,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Corrupção legal, temas de trauma, chantagem."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Choi Ji-woo em papel dramático adulto raro.",
+      "Estreou setembro/2016 MBC + Viki.",
+      "Roteiro de Kim Ji-eun."
+    ],
+    "recomendacoes": [
+      "Divorce Attorney Shin",
+      "Miss Hammurabi",
+      "Suits"
+    ],
+    "_id_hint": "woman-with-a-suitcase"
+  },
+  {
+    "titulo": "Who Are You: School 2015",
+    "ano": 2015,
+    "titulo_br": "Quem é Você: Escola 2015",
+    "sinopse": "DUAS GÊMEAS IDÊNTICAS foram SEPARADAS em bebês. Uma virou queridinha de escola de elite em Seul, a outra é BULLYADA num orfanato provinciano. Quando a primeira DESAPARECE, a segunda ASSUME O LUGAR dela sem que ninguém perceba.",
+    "porque_assistir": "Kim So-hyun (I'm Not a Robot, Serendipity!) em PAPEL DUPLO INCRÍVEL. Nam Joo-hyuk + Yook Sung-jae. Bullying + identidade + amor. Viki BR.",
+    "categorias": [
+      "Emocionantes",
+      "Romance",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Gêmeas",
+      "Troca de Identidade",
+      "Bullying",
+      "Amnésia"
+    ],
+    "temas": [
+      "Identidade",
+      "Bullying",
+      "Família",
+      "Amor"
+    ],
+    "profissoes": [
+      "Estudantes"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 6,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Bullying escolar pesado, tentativa de suicídio, temas de trauma."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Kim So-hyun em papel duplo — consagração.",
+      "Nam Joo-hyuk + Yook Sung-jae em papéis jovens antes de virarem galãs.",
+      "Estreou abril/2015 KBS2 + Viki."
+    ],
+    "recomendacoes": [
+      "Sky Castle",
+      "Cheer Up",
+      "Weak Hero Class 1"
+    ],
+    "_id_hint": "who-are-you-school-2015"
+  },
+  {
+    "titulo": "Angry Mom",
+    "ano": 2015,
+    "titulo_br": "Mãe Furiosa",
+    "sinopse": "Uma EX-ENCRENQUEIRA que virou DONA DE CASA descobre que a filha adolescente vive um INFERNO de BULLYING na escola — e volta às aulas DISFARÇADA DE ALUNA TRANSFERIDA pra proteger a menina de dentro.",
+    "porque_assistir": "Kim Hee-sun (Faith, Tomorrow!) em papel DIVERTIDO E SÉRIO ao mesmo tempo. Denúncia real de violência escolar. 8.4 no MDL. Viki BR.",
+    "categorias": [
+      "Emocionantes",
+      "Comédia",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Mãe",
+      "Disfarçada",
+      "Bullying",
+      "Vingança"
+    ],
+    "temas": [
+      "Maternidade",
+      "Bullying",
+      "Escola",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Ex-Rebelde",
+      "Mãe",
+      "Estudantes"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 7,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 6,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Bullying pesado, violência escolar, agressão sexual (não gráfica)."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Kim Hee-sun em performance premiada.",
+      "Discussão nacional sobre bullying escolar.",
+      "Estreou março/2015 MBC + Viki."
+    ],
+    "recomendacoes": [
+      "Green Mothers Club",
+      "Sky Castle",
+      "Cheer Up"
+    ],
+    "_id_hint": "angry-mom"
+  },
+  {
+    "titulo": "Should We Kiss First",
+    "ano": 2018,
+    "titulo_br": "Devemos Nos Beijar Primeiro?",
+    "sinopse": "Uma COMISSÁRIA de bordo que PERDEU A FILHA e um DIRETOR de publicidade VIÚVO com filhos crescidos tropeçam um no outro na MATURIDADE — quando o sonho de amor romântico já parecia enterrado. Melodrama adulto raro na Coreia.",
+    "porque_assistir": "Kim Sun-a (My Lovely Sam Soon!) + Kam Woo-sung (My Golden Life!) em rom-com MADURA de 40+. Rara na Coreia. Viki BR.",
+    "categorias": [
+      "Romance",
+      "Romance Maduro",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Meia-Idade",
+      "Segunda Chance",
+      "Luto",
+      "Amor Maduro"
+    ],
+    "temas": [
+      "Amor",
+      "Perda",
+      "Recomeço",
+      "Envelhecimento"
+    ],
+    "profissoes": [
+      "Comissária",
+      "Diretor de Publicidade"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 5,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Temas de luto e perda de filho."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Rom-com de 40+ raro em kdrama.",
+      "40 episódios de 35 min — formato SBS.",
+      "Estreou fevereiro/2018 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "Dear My Friends",
+      "Miss Night and Day",
+      "Something in the Rain"
+    ],
+    "_id_hint": "should-we-kiss-first"
+  },
+  {
+    "titulo": "Item",
+    "ano": 2019,
+    "titulo_br": "Item",
+    "sinopse": "Um PROMOTOR TEIMOSO e uma PROFILER ex-FBI descobrem que OBJETOS aparentemente BANAIS — um relógio, uma pulseira, uma caneta — dão SUPERPODERES a quem os toca. E há uma organização recolhendo eles um a um.",
+    "porque_assistir": "Ju Ji-hoon (Kingdom, Princess Hours!) + Jin Se-yeon. Fantasia policial com objetos mágicos. Original. Viki BR.",
+    "categorias": [
+      "Fantasia",
+      "Investigação",
+      "Ação",
+      "Advogados",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Objetos Mágicos",
+      "Superpoderes",
+      "Profiler",
+      "Organização Secreta"
+    ],
+    "temas": [
+      "Poder",
+      "Ganância",
+      "Justiça",
+      "Escolha"
+    ],
+    "profissoes": [
+      "Promotor",
+      "Profiler",
+      "Vilão"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.0,
+      "mdl": 7.9,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência, cenas de tortura, temas de morte."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Adaptação de webtoon 'Item'.",
+      "Ju Ji-hoon voltou em papel dramático.",
+      "Estreou fevereiro/2019 MBC + Viki."
+    ],
+    "recomendacoes": [
+      "Moving",
+      "The Uncanny Counter",
+      "Bulgasal"
+    ],
+    "_id_hint": "item"
+  },
+  {
+    "titulo": "Beautiful Mind",
+    "ano": 2016,
+    "titulo_br": "Mente Bonita",
+    "sinopse": "Um NEUROCIRURGIÃO PRODIGIOSO não sente EMPATIA — literalmente NÃO CONSEGUE. Uma novata DETETIVE descobre que ele pode ser o elo entre MORTES SUSPEITAS no hospital, e a investigação força o médico a aprender o que é sentir.",
+    "porque_assistir": "Jang Hyuk (Chuno!) em atuação SUBLIME. Park So-dam (Parasite!) no primeiro papel principal. Thriller médico raro. Direção de Mo Wan-il (World of the Married!). Viki BR.",
+    "categorias": [
+      "Médicos",
+      "Investigação",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Sociopata",
+      "Médico",
+      "Detetive",
+      "Mistério"
+    ],
+    "temas": [
+      "Empatia",
+      "Verdade",
+      "Medicina",
+      "Trauma"
+    ],
+    "profissoes": [
+      "Neurocirurgião",
+      "Detetive",
+      "Diretor"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.3,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 5,
+      "red": 7
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Cirurgias gráficas, morte, temas de sociopatia."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Direção de Mo Wan-il (World of the Married).",
+      "Park So-dam antes de Parasite.",
+      "Estreou junho/2016 KBS2 + Viki."
+    ],
+    "recomendacoes": [
+      "Doctor John",
+      "Doctor Prisoner",
+      "Beyond Evil"
+    ],
+    "_id_hint": "beautiful-mind-kr"
+  },
+  {
+    "titulo": "Whisper",
+    "ano": 2017,
+    "titulo_br": "Sussurro",
+    "sinopse": "Uma DETETIVE quer limpar o nome do PAI POLICIAL acusado de assassinato. O único aliado possível é o JUIZ FRIO que condenou o pai — e cujo próprio SOGRO comanda o escritório de advocacia mais corrupto da Coreia. Jogo de xadrez legal.",
+    "porque_assistir": "Lee Bo-young (Mine, Save the Day!) em VENENO controlado. Roteiro de Park Kyung-soo (Chief of Staff, The Whirlwind!). Ação legal cerebral. Viki BR.",
+    "categorias": [
+      "Advogados",
+      "Emocionantes",
+      "Investigação",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Advogada",
+      "Juiz",
+      "Corrupção Legal"
+    ],
+    "temas": [
+      "Justiça",
+      "Poder",
+      "Verdade",
+      "Casamento"
+    ],
+    "profissoes": [
+      "Detetive",
+      "Juiz",
+      "Advogada"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Corrupção legal pesada, chantagem, temas de violência doméstica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Roteiro de Park Kyung-soo.",
+      "Lee Bo-young Baeksang indicada.",
+      "Estreou março/2017 SBS + Viki."
+    ],
+    "recomendacoes": [
+      "The Whirlwind",
+      "Chief of Staff",
+      "Divorce Attorney Shin"
+    ],
+    "_id_hint": "whisper-drama"
+  }
+]

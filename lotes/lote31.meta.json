@@ -1,0 +1,481 @@
+{
+  "rookie-cops": {
+    "titulo_original": "너와 나의 경찰수업",
+    "titulo_br": "Rookie Cops: Os Novatos",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kang Daniel",
+      "Chae Soo-bin",
+      "Lee Shin-young",
+      "Park Yoo-na"
+    ],
+    "diretor": "Kim Byung-soo",
+    "roteirista": "Min Ji-eun",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/5pJDrDCIo9Y5TukkLawmYKmoXm9.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "light-shop": {
+    "titulo_original": "조명가게",
+    "titulo_br": "Light Shop: Entre a Vida e a Morte",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ju Ji-hoon",
+      "Park Bo-young",
+      "Kim Seol-hyun",
+      "Uhm Tae-goo"
+    ],
+    "diretor": "Kim Hee-won",
+    "roteirista": "Kang Full",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/eTbgHYOfjQqQF6xSvdj2KvDM64J.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "hyper-knife": {
+    "titulo_original": "하이퍼나이프",
+    "titulo_br": "Traição e Redenção",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Eun-bin",
+      "Sol Kyung-gu",
+      "Yoon Chan-young",
+      "Park Byung-eun"
+    ],
+    "diretor": "Kim Jung-hyun",
+    "roteirista": "Kim Sun-hee",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/py1HcJi82NwTAOkNPcNX6kw8DZ4.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "made-in-korea": {
+    "titulo_original": "메이드 인 코리아",
+    "titulo_br": "Made in Korea",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 7,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Hyun Bin",
+      "Jung Woo-sung",
+      "Woo Do-hwan",
+      "Won Ji-an"
+    ],
+    "diretor": "Woo Min-ho",
+    "roteirista": "Woo Min-ho",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/uJwXkGYsHoDcgjuXrq08Udne3yR.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "my-dearest-nemesis": {
+    "titulo_original": "그놈은 흑염룡",
+    "titulo_br": "Meu Querido Nêmesis",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Moon Ga-young",
+      "Choi Hyun-wook",
+      "Kwon Hyun-bin",
+      "Kim Dong-ah"
+    ],
+    "diretor": "Kim Jung-shik",
+    "roteirista": "Jo Yi-soo",
+    "plataformas": [
+      "Disney+",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/yo2Cdnk2kgzWsGeZ08bohx8FrrH.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-manipulated": {
+    "titulo_original": "조각도시",
+    "titulo_br": "O Manipulado",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 6,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Do Kyung-soo",
+      "Kim Sung-cheol",
+      "Jo Yoon-su"
+    ],
+    "diretor": "Kim Hong-sun",
+    "roteirista": "Kim Sung-min",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/oNm1NVRYDxuIDv61oTbFKR8ZKSn.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-tyrant": {
+    "titulo_original": "폭군",
+    "titulo_br": "Operação Tyrant",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 4,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Cha Seung-won",
+      "Kim Seon-ho",
+      "Kim Kang-woo",
+      "Jo Yoon-su"
+    ],
+    "diretor": "Park Hoon-jung",
+    "roteirista": "Park Hoon-jung",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/nsnHc9nQ9W1Iy9QvmGThmgYRNo.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-murky-stream": {
+    "titulo_original": "탁류",
+    "titulo_br": "Corrente Implacável",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Rowoon",
+      "Shin Ye-eun",
+      "Park Seo-ham",
+      "Park Ji-hwan"
+    ],
+    "diretor": "Park Ki-ho",
+    "roteirista": "Kim Hyun-jung",
+    "plataformas": [
+      "Disney+",
+      "MBC"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/cI3q8gqQOgLtzngyaP7n3FmuF5G.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "gangnam-b-side": {
+    "titulo_original": "강남 비-사이드",
+    "titulo_br": "Gangnam B-Side",
+    "pais": "Coreia do Sul",
+    "ano": 2024,
+    "episodios": 8,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Ji Chang-wook",
+      "Jo Woo-jin",
+      "Ha Yoon-kyung",
+      "Kim Hieora"
+    ],
+    "diretor": "Park Nu-ri",
+    "roteirista": "Park Nu-ri",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 18,
+    "poster": "/81HNvgKq9QMMudVPZXeHlgmbcTk.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "link-eat-love-kill": {
+    "titulo_original": "링크: 먹고, 사랑하라, 죽이게",
+    "titulo_br": "Conexão: Comer, Amar e Matar",
+    "pais": "Coreia do Sul",
+    "ano": 2022,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Yeo Jin-goo",
+      "Moon Ga-young",
+      "Kim Ji-young",
+      "Song Deok-ho"
+    ],
+    "diretor": "Ahn Gil-ho",
+    "roteirista": "Kwon Ki-young",
+    "plataformas": [
+      "Disney+",
+      "tvN"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/rCahu7vDhbFjWCxJNBzBiu8pHBp.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "portraits-of-delusion": {
+    "titulo_original": "현혹",
+    "titulo_br": "Ilusão",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Bae Suzy",
+      "Kim Seon-ho",
+      "Huh Joon-ho",
+      "Choi Hyun-wook"
+    ],
+    "diretor": "Kim Sang-ho",
+    "roteirista": "Kim Ji-yeon",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Em produção",
+    "classificacao": 16,
+    "poster": "/f2rsjNgROcPp5OxH0WecRQeBdAJ.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-kidnapping-day": {
+    "titulo_original": "유괴의 날",
+    "titulo_br": "O Dia do Sequestro",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Yoon Kye-sang",
+      "Yoo Na-eun",
+      "Kim Shin-rok",
+      "Park Sung-hoon"
+    ],
+    "diretor": "Park Yoo-young",
+    "roteirista": "Sin Yi-won",
+    "plataformas": [
+      "Disney+",
+      "ENA"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/giEShy1A3ZUN5LqkRSVd9otHHuH.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "not-others": {
+    "titulo_original": "남남",
+    "titulo_br": "Os Outros Não",
+    "pais": "Coreia do Sul",
+    "ano": 2023,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Choi Soo-young",
+      "Jeon Hye-jin",
+      "Park Sung-hoon",
+      "Yoon Park"
+    ],
+    "diretor": "Lee Kwang-young",
+    "roteirista": "Jung Do-yoon",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 14,
+    "poster": "/d7xA9FQWZBXEWaUQSTdC3DbokDF.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "bloody-flower": {
+    "titulo_original": "블러디 플라워",
+    "titulo_br": "Flor Sangrenta",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Joon-gi",
+      "Kim Yoo-jung",
+      "Park Hae-soo",
+      "Jin Ki-joo"
+    ],
+    "diretor": "Kang Chul-woo",
+    "roteirista": "Choi Kyung-sun",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Em produção",
+    "classificacao": 18,
+    "poster": "/bDoAdJLEAiCRj8B0QRAz2wt2xfv.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "on-your-best-days": {
+    "titulo_original": "찬란한 너의 계절에",
+    "titulo_br": "Na Sua Melhor Fase",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Lee Sung-kyung",
+      "Chae Jong-hyeop",
+      "Kim Sung-cheol",
+      "Lee Yoo-mi"
+    ],
+    "diretor": "Lee Won-suk",
+    "roteirista": "Kim Sae-bom",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Em produção",
+    "classificacao": 14,
+    "poster": "/6IQcpA44ASPdepGNifAN71zl6Kq.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "land-of-gold": {
+    "titulo_original": "골드랜드",
+    "titulo_br": "Terra do Ouro",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Park Bo-young",
+      "Lee Hyun-wook",
+      "Lee Kwang-soo",
+      "Kim Sung-cheol"
+    ],
+    "diretor": "Kim Yong-hoon",
+    "roteirista": "Jung Kyung-a",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Em produção",
+    "classificacao": 16,
+    "poster": "/stWNLnCpp6IrzApfvEvn2IDSuCp.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "the-divorced-empress": {
+    "titulo_original": "재혼 황후",
+    "titulo_br": "A Imperatriz Divorciada",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 16,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Shin Min-a",
+      "Ju Ji-hoon",
+      "Lee Jong-suk",
+      "Lee Se-young"
+    ],
+    "diretor": "Yoo Je-won",
+    "roteirista": "Chae Song-hwa",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Em produção",
+    "classificacao": 14,
+    "poster": "/lJphe6C8V0OL3jhp4QSv2sS2lkB.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "knock-off": {
+    "titulo_original": "녹오프",
+    "titulo_br": "Knock-Off: Ambição Perigosa",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Kim Soo-hyun",
+      "Jo Bo-ah",
+      "Kim Sung-cheol",
+      "Kim Do-hoon"
+    ],
+    "diretor": "Han Dong-wook",
+    "roteirista": "Han Jung-hoon",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/x2KYkZcXNxfJZyGixqPaeQ6E4dS.jpg",
+    "banner": "",
+    "trailer": null
+  },
+  "study-group": {
+    "titulo_original": "스터디그룹",
+    "titulo_br": "Grupo de Estudos",
+    "pais": "Coreia do Sul",
+    "ano": 2025,
+    "episodios": 10,
+    "temporadas": 1,
+    "duracao": "60 min",
+    "elenco": [
+      "Hwang Min-hyun",
+      "Han Ji-eun",
+      "Cha Woo-min",
+      "Shin Su-hyun"
+    ],
+    "diretor": "Yoo Hak-chan",
+    "roteirista": "Yoon Su-jung",
+    "plataformas": [
+      "Disney+"
+    ],
+    "status": "Finalizado",
+    "classificacao": 16,
+    "poster": "/nZDeIfKCzp0qhu4N3HxrcKWN59J.jpg",
+    "banner": "",
+    "trailer": null
+  }
+}

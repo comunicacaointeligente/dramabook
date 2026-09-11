@@ -1,0 +1,1301 @@
+[
+  {
+    "titulo": "Rookie Cops",
+    "ano": 2022,
+    "titulo_br": "Rookie Cops: Os Novatos",
+    "sinopse": "Na UNIVERSIDADE NACIONAL DE POLÍCIA da Coreia, dois calouros de personalidades OPOSTAS dividem dormitório, cadernos e crises. Entre provas físicas, romances proibidos e traumas geracionais, descobrem o preço de vestir a farda.",
+    "porque_assistir": "Kang Daniel (Wanna One!) em estreia como ator + Chae Soo-bin (The Fabulous, Where Stars Land!). Rom-com juvenil na academia de polícia. Disney+ BR.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Universidade",
+      "Rivais",
+      "Bromance",
+      "Coming of Age"
+    ],
+    "temas": [
+      "Amizade",
+      "Vocação",
+      "Amor",
+      "Família"
+    ],
+    "profissoes": [
+      "Cadetes",
+      "Estudantes"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.9,
+      "imdb": 7.6
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 7,
+      "humor": 7,
+      "beijos": 4
+    },
+    "flags": {
+      "green": 7,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Kang Daniel (ex-Wanna One) em estreia como ator.",
+      "Filmado na academia real de polícia coreana.",
+      "Estreou janeiro/2022 Disney+."
+    ],
+    "recomendacoes": [
+      "Cheer Up",
+      "Racket Boys",
+      "Weightlifting Fairy"
+    ],
+    "_id_hint": "rookie-cops"
+  },
+  {
+    "titulo": "Light Shop",
+    "ano": 2024,
+    "titulo_br": "Light Shop: Entre a Vida e a Morte",
+    "sinopse": "Num BECO CHUVOSO, uma LOJA DE LUMINÁRIAS fica aberta a noite toda. Cada CLIENTE que entra carrega um SEGREDO — e uma LÂMPADA ACESA que, quando apaga, decide se ele volta para casa ou fica preso entre dois mundos.",
+    "porque_assistir": "Ju Ji-hoon (Kingdom!) + Park Bo-young (Strong Woman!) em thriller sobrenatural POÉTICO. Direção de Kim Hee-won (Vincenzo, Little Women!). 8 eps densos. Disney+ BR dublado.",
+    "categorias": [
+      "Emocionantes",
+      "Sobrenatural",
+      "Fantasia",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Loja Mística",
+      "Fantasma",
+      "Escolha",
+      "Mundo Entre"
+    ],
+    "temas": [
+      "Morte",
+      "Verdade",
+      "Escolha",
+      "Redenção"
+    ],
+    "profissoes": [
+      "Dono de Loja",
+      "Enfermeira",
+      "Cliente"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.6,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 2,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Agridoce",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Morte, suicídio implícito, temas psicológicos densos."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Adaptação do webtoon de Kang Full.",
+      "Direção de Kim Hee-won (Vincenzo).",
+      "Estreou dezembro/2024 Disney+."
+    ],
+    "recomendacoes": [
+      "Hotel del Luna",
+      "Mystic Pop-up Bar",
+      "Move to Heaven"
+    ],
+    "_id_hint": "light-shop"
+  },
+  {
+    "titulo": "Hyper Knife",
+    "ano": 2025,
+    "titulo_br": "Traição e Redenção",
+    "sinopse": "JUNG SE-OK era PRODÍGIO da neurocirurgia até ter a LICENÇA CASSADA. Ela opera CLANDESTINAMENTE em porões — até o PROFESSOR que destruiu sua carreira reaparecer precisando de um CÉREBRO OPERADO. Vingança bisturi em punho.",
+    "porque_assistir": "Park Eun-bin (Extraordinary Attorney Woo!) em MODO DARK — anti-heroína cerebral. Sol Kyung-gu (The Whirlwind!) como vilão. 8 eps de thriller médico Disney+ BR dublado 2025.",
+    "categorias": [
+      "Médicos",
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Vingança",
+      "Médica",
+      "Cirurgia Ilegal",
+      "Anti-Heroína"
+    ],
+    "temas": [
+      "Vingança",
+      "Medicina",
+      "Poder",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Neurocirurgiã",
+      "Professor",
+      "Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 5,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Cirurgias gráficas, violência médica, temas de vingança."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Park Eun-bin em papel completamente oposto ao Woo Young-woo.",
+      "Estreou 2025 Disney+.",
+      "Direção de Kim Jung-hyun."
+    ],
+    "recomendacoes": [
+      "Doctor Prisoner",
+      "Beyond Evil",
+      "Doctor John"
+    ],
+    "_id_hint": "hyper-knife"
+  },
+  {
+    "titulo": "Made in Korea",
+    "ano": 2025,
+    "titulo_br": "Made in Korea",
+    "sinopse": "COREIA DO SUL dos anos 1970. De dia, BAEK KI-TAE é magnata sob controle da KCIA. De noite, comanda um IMPÉRIO DO CONTRABANDO. Um PROMOTOR TEIMOSO decide arriscar tudo para derrubá-lo antes que o poder dele engula o próprio Estado.",
+    "porque_assistir": "Hyun Bin (Crash Landing on You!) + Jung Woo-sung (LEGENDA do cinema coreano) num DUELO ÉPICO. Direção de Woo Min-ho (The Man Standing Next). Disney+ BR dublado.",
+    "categorias": [
+      "Ação",
+      "Emocionantes",
+      "Históricos",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Contrabando",
+      "Anos 70",
+      "KCIA",
+      "Duelo"
+    ],
+    "temas": [
+      "Poder",
+      "Corrupção",
+      "Ambição",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Magnata",
+      "Promotor",
+      "Agente"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.5,
+      "imdb": 8.3
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 2,
+      "red": 9
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, política dos anos 70, corrupção."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Direção de Woo Min-ho (The Man Standing Next).",
+      "Jung Woo-sung volta à TV depois de décadas.",
+      "Estreou 2025 Disney+."
+    ],
+    "recomendacoes": [
+      "The Whirlwind",
+      "Uncle Samsik",
+      "Reborn Rich"
+    ],
+    "_id_hint": "made-in-korea"
+  },
+  {
+    "titulo": "My Dearest Nemesis",
+    "ano": 2025,
+    "titulo_br": "Meu Querido Nêmesis",
+    "sinopse": "DEZESSEIS ANOS ATRÁS, Baek Su-jeong HUMILHOU publicamente o rival num MMO. Hoje, ela é a nova chefe de uma LOJA DE DEPARTAMENTOS — e descobre que o VICE-PRESIDENTE que precisa cortejar é justamente ele. O nickname humilhante volta a queimar.",
+    "porque_assistir": "Moon Ga-young (True Beauty, Link!) + Choi Hyun-wook (Twinkling Watermelon!) em rom-com office com twist GAMER. Adaptação de webnovel. Disney+ BR dublado.",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Rivais que se Apaixonam",
+      "Chefe x Funcionária",
+      "MMO",
+      "Reencontro"
+    ],
+    "temas": [
+      "Amor",
+      "Passado",
+      "Trabalho",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Gerente",
+      "Vice-Presidente",
+      "Colega"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.8
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 7,
+      "humor": 8,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 4
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Adaptação de webnovel popular.",
+      "Moon Ga-young + Choi Hyun-wook química viral.",
+      "Estreou 2025 tvN + Disney+."
+    ],
+    "recomendacoes": [
+      "Business Proposal",
+      "Wedding Impossible",
+      "King the Land"
+    ],
+    "_id_hint": "my-dearest-nemesis"
+  },
+  {
+    "titulo": "The Manipulated",
+    "ano": 2025,
+    "titulo_br": "O Manipulado",
+    "sinopse": "Um HOMEM COMUM é PRESO por um crime que não cometeu enquanto uma MÁQUINA INVISÍVEL fabrica provas contra ele. Ao entender que foi engolido por uma CONSPIRAÇÃO maior, sai da cadeia disposto a incendiar o esquema — ou morrer tentando.",
+    "porque_assistir": "Ji Chang-wook (The Worst of Evil, Healer!) + D.O. do EXO (Bad Prosecutor!). Thriller de vingança com twist tech. Disney+ BR dublado 2025.",
+    "categorias": [
+      "Ação",
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Falso Acusado",
+      "Conspiração",
+      "Vingança",
+      "Fuga"
+    ],
+    "temas": [
+      "Verdade",
+      "Justiça",
+      "Sistema",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Homem Comum",
+      "Amigo",
+      "Vilão"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 9
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, tortura, corrupção sistêmica."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Ji Chang-wook + D.O. em papéis complementares.",
+      "Direção de Kim Hong-sun.",
+      "Estreou 2025 Disney+."
+    ],
+    "recomendacoes": [
+      "The Worst of Evil",
+      "Vincenzo",
+      "Mercy for None"
+    ],
+    "_id_hint": "the-manipulated"
+  },
+  {
+    "titulo": "The Tyrant",
+    "ano": 2024,
+    "titulo_br": "Operação Tyrant",
+    "sinopse": "Uma ARMA BIOLÓGICA secreta DESAPARECE durante entrega entre inteligências sul-coreana e americana. QUATRO FACÇÕES — militares, agentes duplos, mercenários e uma cientista traumatizada — correm atrás da amostra antes que ela ative uma PANDEMIA.",
+    "porque_assistir": "Cha Seung-won (Our Blues!) + Kim Seon-ho (Hometown Cha-Cha-Cha!). Só 4 eps de thriller de espionagem BINGE-FRIENDLY. Direção de Park Hoon-jung (New World). Disney+ BR.",
+    "categorias": [
+      "Ação",
+      "Emocionantes",
+      "Investigação",
+      "Fantasia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Arma Biológica",
+      "Espionagem",
+      "Facções",
+      "Corrida contra Tempo"
+    ],
+    "temas": [
+      "Poder",
+      "Verdade",
+      "Ciência",
+      "Sobrevivência"
+    ],
+    "profissoes": [
+      "Agentes",
+      "Cientista",
+      "Militares"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.7,
+      "imdb": 7.3
+    },
+    "sensacoes": {
+      "romance": 1,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, tortura, temas de bioterrorismo."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Só 4 episódios — filme de 4 partes.",
+      "Direção de Park Hoon-jung (New World).",
+      "Estreou agosto/2024 Disney+."
+    ],
+    "recomendacoes": [
+      "The Worst of Evil",
+      "Vincenzo",
+      "D.P."
+    ],
+    "_id_hint": "the-tyrant"
+  },
+  {
+    "titulo": "The Murky Stream",
+    "ano": 2025,
+    "titulo_br": "Corrente Implacável",
+    "sinopse": "Na JOSEON CORRUPTA, o rio GYEONGGANG deixou de ser límpido. Um LUTADOR FORAGIDO, uma FILHA DE COMERCIANTE que sonha em dominar o mercado nacional e um OFICIAL IDEALISTA se cruzam num porto onde ouro, arroz e vidas trocam de dono à noite.",
+    "porque_assistir": "Rowoon (Tomorrow, Extraordinary You!) + Shin Ye-eun (The Glory!) em sageuk POLÍTICO. Disney+ BR dublado 2025.",
+    "categorias": [
+      "Históricos",
+      "Ação",
+      "Romance",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Comerciantes",
+      "Rio Corrupto",
+      "Amor Impossível",
+      "Rivais"
+    ],
+    "temas": [
+      "Ambição",
+      "Poder",
+      "Amor",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Lutador",
+      "Comerciante",
+      "Oficial"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 7,
+      "quimica": 8,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência histórica, execuções, escravidão."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Rowoon em sageuk protagonista.",
+      "Estreou 2025 MBC + Disney+.",
+      "Roteiro de Kim Hyun-jung."
+    ],
+    "recomendacoes": [
+      "Chuno",
+      "Six Flying Dragons",
+      "The Rebel"
+    ],
+    "_id_hint": "the-murky-stream"
+  },
+  {
+    "titulo": "Gangnam B-Side",
+    "ano": 2024,
+    "titulo_br": "Gangnam B-Side",
+    "sinopse": "Uma ESCORT DE LUXO some da BOATE MAIS CARA de Gangnam. O detetive marginalizado que investiga o caso, um PROMOTOR AMBICIOSO e o CAFETÃO mais famoso do bairro colidem num tabuleiro em que ninguém joga limpo.",
+    "porque_assistir": "Ji Chang-wook (segunda vez no Disney+ 2024) em thriller NOIR duríssimo. Se você AMOU The Worst of Evil, essa é do mesmo espírito. Disney+ BR dublado.",
+    "categorias": [
+      "Emocionantes",
+      "Investigação",
+      "Ação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Escort",
+      "Cafetão",
+      "Detetive Marginal",
+      "Boate"
+    ],
+    "temas": [
+      "Corrupção",
+      "Prostituição",
+      "Verdade",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Detetive",
+      "Promotor",
+      "Cafetão"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 7.8,
+      "imdb": 7.5
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 5,
+      "emocao": 7,
+      "humor": 1,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 1,
+      "red": 10
+    },
+    "final": "Amargo",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência gráfica, prostituição, drogas, temas adultos pesados."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Roteiro + direção de Park Nu-ri.",
+      "Estreou outubro/2024 Disney+.",
+      "Ambientado no lado sombrio de Gangnam."
+    ],
+    "recomendacoes": [
+      "The Worst of Evil",
+      "D.P.",
+      "Vincenzo"
+    ],
+    "_id_hint": "gangnam-b-side"
+  },
+  {
+    "titulo": "Link: Eat, Love, Kill",
+    "ano": 2022,
+    "titulo_br": "Conexão: Comer, Amar e Matar",
+    "sinopse": "Depois que a IRMÃ GÊMEA some, um CHEF perde toda a emoção. Anos depois, começa a sentir ALEGRIA, DOR e DESESPERO sem motivo — até descobrir que estão vindo de uma ESTRANHA na mesma cidade. E as dela vêm de um ASSASSINO.",
+    "porque_assistir": "Yeo Jin-goo (Hotel del Luna, My Absolute Boyfriend!) + Moon Ga-young. Romance sobrenatural COM SUSPENSE. Disney+ BR dublado.",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Sobrenatural",
+      "Investigação",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Conexão Emocional",
+      "Gêmea Perdida",
+      "Chef",
+      "Serial Killer"
+    ],
+    "temas": [
+      "Empatia",
+      "Amor",
+      "Verdade",
+      "Trauma"
+    ],
+    "profissoes": [
+      "Chef",
+      "Cliente",
+      "Detetive"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": 7.7
+    },
+    "sensacoes": {
+      "romance": 8,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 6,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Serial killer, temas de trauma familiar, gêmea desaparecida."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Direção de Ahn Gil-ho (Memories of the Alhambra, Watcher).",
+      "Moon Ga-young + Yeo Jin-goo química ótima.",
+      "Estreou junho/2022 Disney+."
+    ],
+    "recomendacoes": [
+      "Hotel del Luna",
+      "Mystic Pop-up Bar",
+      "My Perfect Stranger"
+    ],
+    "_id_hint": "link-eat-love-kill"
+  },
+  {
+    "titulo": "Portraits of Delusion",
+    "ano": 2026,
+    "titulo_br": "Ilusão",
+    "sinopse": "GYEONGSEONG, 1935. Um PINTOR é contratado para fazer o RETRATO da dona RECLUSA de um hotel isolado. À medida que o pincel avança, ele percebe que os HÓSPEDES DESAPARECEM e que a própria TELA começa a mudar sozinha à noite.",
+    "porque_assistir": "Bae Suzy (Anna, Doona!) + Kim Seon-ho (Hometown Cha-Cha-Cha, The Tyrant!). Estreia 2026 no Disney+ BR. Mistério histórico + sobrenatural. Lançamento aguardado.",
+    "categorias": [
+      "Emocionantes",
+      "Sobrenatural",
+      "Fantasia",
+      "Históricos",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Hotel Isolado",
+      "Retrato",
+      "Fantasmas",
+      "Anos 30"
+    ],
+    "temas": [
+      "Arte",
+      "Realidade",
+      "Ilusão",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Pintor",
+      "Reclusa",
+      "Hóspedes"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.4,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 2,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 4,
+      "red": 6
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Temas sobrenaturais, atmosfera perturbadora, cenas de tensão."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Bae Suzy volta ao Disney+ depois de Anna.",
+      "Ambientado na era colonial japonesa.",
+      "Lançamento 2026."
+    ],
+    "recomendacoes": [
+      "Gyeongseong Creature",
+      "Portraits of a Beauty",
+      "Anna"
+    ],
+    "_id_hint": "portraits-of-delusion"
+  },
+  {
+    "titulo": "The Kidnapping Day",
+    "ano": 2023,
+    "titulo_br": "O Dia do Sequestro",
+    "sinopse": "Um PAI DESESPERADO sequestra uma MENINA PRODÍGIO para pagar cirurgia da filha. Um ACIDENTE de carro APAGA A MEMÓRIA da vítima, que passa a chamá-lo de PAI. Quando os pais dela aparecem mortos, sequestrador e sequestrada viram a única testemunha um do outro.",
+    "porque_assistir": "Yoon Kye-sang (The Frog!) + Yoo Na-eun em premissa ÚNICA E FOFA. 8.5 no MDL. Disney+ BR dublado.",
+    "categorias": [
+      "Comédia",
+      "Emocionantes",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Sequestro",
+      "Amnésia",
+      "Paternidade Improvável",
+      "Detetive"
+    ],
+    "temas": [
+      "Família",
+      "Culpa",
+      "Amor",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Pai",
+      "Detetive",
+      "Menina Prodígio"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.5,
+      "imdb": 8.2
+    },
+    "sensacoes": {
+      "romance": 2,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 8,
+      "beijos": 0
+    },
+    "flags": {
+      "green": 7,
+      "red": 5
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "sensivel",
+      "aviso": "Sequestro (tratado com leveza), morte parental, temas de assassinato."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Adaptação do romance japonês.",
+      "Yoo Na-eun (menina) rouba a série.",
+      "Estreou setembro/2023 ENA + Disney+."
+    ],
+    "recomendacoes": [
+      "Move to Heaven",
+      "The Trauma Code",
+      "Miss Night and Day"
+    ],
+    "_id_hint": "the-kidnapping-day"
+  },
+  {
+    "titulo": "Not Others",
+    "ano": 2023,
+    "titulo_br": "Os Outros Não",
+    "sinopse": "Uma PROMOTORA AGRESSIVA de 30 anos e a MÃE IMATURA de 50 dividem apartamento e brigam por tudo — do banheiro ao passado. Quando o pai reaparece pedindo perdão e uma GRAVIDEZ INESPERADA bate à porta, o desconforto vira ternura relutante.",
+    "porque_assistir": "Choi Soo-young (Girls' Generation, Run On!) + Jeon Hye-jin. Slice of life FAMÍLIA denso e engraçado. Disney+ BR.",
+    "categorias": [
+      "Comédia",
+      "Romance Maduro",
+      "Advogados",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Mãe e Filha",
+      "Divisão de Apartamento",
+      "Coabitação",
+      "Retorno do Pai"
+    ],
+    "temas": [
+      "Família",
+      "Maternidade",
+      "Perdão",
+      "Comunicação"
+    ],
+    "profissoes": [
+      "Promotora",
+      "Mãe",
+      "Contadora"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.3,
+      "imdb": 8.0
+    },
+    "sensacoes": {
+      "romance": 5,
+      "quimica": 7,
+      "emocao": 9,
+      "humor": 8,
+      "beijos": 3
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": null
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Sooyoung (SNSD) em papel adulto premiado.",
+      "Roteiro de Jung Do-yoon.",
+      "Estreou agosto/2023 ENA + Disney+."
+    ],
+    "recomendacoes": [
+      "Miss Night and Day",
+      "Dear My Friends",
+      "Reply 1988"
+    ],
+    "_id_hint": "not-others"
+  },
+  {
+    "titulo": "Bloody Flower",
+    "ano": 2026,
+    "titulo_br": "Flor Sangrenta",
+    "sinopse": "Um SERIAL KILLER descobre que possui um DOM RARÍSSIMO: consegue CURAR qualquer doença incurável tocando a vítima. A polícia precisa decidir se prende quem mata inocentes — ou protege quem salva milhares. A ética entra em coma junto com as vítimas.",
+    "porque_assistir": "Lee Joon-gi (Moon Lovers, Flower of Evil!) + Kim Yoo-jung + Park Hae-soo (Squid Game!). Premissa ORIGINAL, dilema moral pesado. Estreia 2026 Disney+ BR.",
+    "categorias": [
+      "Emocionantes",
+      "Fantasia",
+      "Investigação",
+      "Sobrenatural",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Serial Killer",
+      "Poder de Cura",
+      "Dilema Moral",
+      "Detetive"
+    ],
+    "temas": [
+      "Ética",
+      "Vida",
+      "Morte",
+      "Justiça"
+    ],
+    "profissoes": [
+      "Serial Killer",
+      "Detetive",
+      "Vítimas"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 9,
+      "humor": 1,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 2,
+      "red": 10
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Serial killer, violência gráfica, temas éticos densos."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Lee Joon-gi em papel de anti-herói complexo.",
+      "Roteiro de Choi Kyung-sun.",
+      "Lançamento 2026 Disney+."
+    ],
+    "recomendacoes": [
+      "Flower of Evil",
+      "Mouse",
+      "Beyond Evil"
+    ],
+    "_id_hint": "bloody-flower"
+  },
+  {
+    "titulo": "On Your Best Days",
+    "ano": 2026,
+    "titulo_br": "Na Sua Melhor Fase",
+    "sinopse": "CHAN vive num VERÃO ETERNO — solar, aberto, incansável. HARAN está congelada num INVERNO que não passa desde uma tragédia da adolescência. Quando um passado esquecido entre eles reaparece, Chan promete carregá-la de volta à primavera.",
+    "porque_assistir": "Lee Sung-kyung (Weightlifting Fairy, Shooting Stars!) + Chae Jong-hyeop (Serendipity's Embrace!). Rom-com de cura emocional. Estreia 2026 Disney+ BR.",
+    "categorias": [
+      "Romance",
+      "Emocionantes",
+      "Romance Maduro",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Cura Emocional",
+      "Primeiro Amor",
+      "Trauma",
+      "Reencontro"
+    ],
+    "temas": [
+      "Trauma",
+      "Amor",
+      "Cura",
+      "Verdade"
+    ],
+    "profissoes": [
+      "Fotógrafo",
+      "Escritora",
+      "Amigo"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.0,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 8,
+      "emocao": 9,
+      "humor": 6,
+      "beijos": 5
+    },
+    "flags": {
+      "green": 8,
+      "red": 3
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "leve",
+      "aviso": "Trauma de infância, temas emocionais densos mas gentis."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Lee Sung-kyung volta em rom-com curativa.",
+      "Roteiro de Kim Sae-bom.",
+      "Lançamento 2026 Disney+."
+    ],
+    "recomendacoes": [
+      "Twenty-Five Twenty-One",
+      "Our Beloved Summer",
+      "Youth of May"
+    ],
+    "_id_hint": "on-your-best-days"
+  },
+  {
+    "titulo": "Land of Gold",
+    "ano": 2026,
+    "titulo_br": "Terra do Ouro",
+    "sinopse": "HEE-JU, funcionária da SEGURANÇA de aeroporto de Incheon, tropeça sem querer numa CARGA DE BARRAS DE OURO contrabandeadas. Em vez de entregar, ESCONDE. Da ambição de uma noite nasce uma CAÇADA em que ela vira presa dos donos originais do metal.",
+    "porque_assistir": "Park Bo-young (Doom at Your Service, Strong Woman!) + Lee Hyun-wook + Lee Kwang-soo. Thriller de vingança + suspense. Estreia 2026 Disney+ BR.",
+    "categorias": [
+      "Emocionantes",
+      "Ação",
+      "Investigação",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Ouro",
+      "Contrabando",
+      "Fuga",
+      "Caçada"
+    ],
+    "temas": [
+      "Ambição",
+      "Sobrevivência",
+      "Verdade",
+      "Amizade"
+    ],
+    "profissoes": [
+      "Segurança",
+      "Contrabandistas"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.1,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 8,
+      "humor": 4,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 4,
+      "red": 7
+    },
+    "final": "Aberto",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência armada, perseguições, temas de contrabando."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Park Bo-young em thriller raro.",
+      "Direção de Kim Yong-hoon (Beasts Clawing at Straws).",
+      "Lançamento 2026 Disney+."
+    ],
+    "recomendacoes": [
+      "Money Heist Korea",
+      "Bloodhounds",
+      "Vincenzo"
+    ],
+    "_id_hint": "land-of-gold"
+  },
+  {
+    "titulo": "The Divorced Empress",
+    "ano": 2026,
+    "titulo_br": "A Imperatriz Divorciada",
+    "sinopse": "A IMPERATRIZ NAVIER governa o IMPÉRIO DO LESTE ao lado do marido. Quando ele se apaixona por uma ESCRAVA FUGIDA e pede o DIVÓRCIO, Navier aceita — com uma condição: RECASAR com o PRÍNCIPE RIVAL do reino do Oeste. Guerra política travestida de romance.",
+    "porque_assistir": "Shin Min-a (Hometown Cha-Cha-Cha!) + Ju Ji-hoon (Kingdom!) + Lee Jong-suk (While You Were Sleeping!). Adaptação de webnovel FENÔMENO. Estreia 2026 Disney+ BR.",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Históricos",
+      "Emocionantes",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Imperatriz",
+      "Divórcio",
+      "Casamento por Contrato",
+      "Reino Rival"
+    ],
+    "temas": [
+      "Poder",
+      "Amor",
+      "Escolha",
+      "Vingança"
+    ],
+    "profissoes": [
+      "Imperatriz",
+      "Príncipe",
+      "Imperador"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.6,
+      "imdb": null
+    },
+    "sensacoes": {
+      "romance": 9,
+      "quimica": 9,
+      "emocao": 9,
+      "humor": 4,
+      "beijos": 6
+    },
+    "flags": {
+      "green": 7,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": true,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Política de palácio, conspiração, temas de divórcio real."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": false,
+    "curiosidades": [
+      "Adaptação do webnovel 'The Remarried Empress' (mega popular).",
+      "Elenco DE OURO: Shin Min-a + Ju Ji-hoon + Lee Jong-suk.",
+      "Lançamento 2026 Disney+ (aguardado)."
+    ],
+    "recomendacoes": [
+      "The Red Sleeve",
+      "Under the Queen's Umbrella",
+      "Empress Ki"
+    ],
+    "_id_hint": "the-divorced-empress"
+  },
+  {
+    "titulo": "Knock-Off",
+    "ano": 2025,
+    "titulo_br": "Knock-Off: Ambição Perigosa",
+    "sinopse": "SUNG-JUN, demitido em plena CRISE FINANCEIRA dos anos 90, aceita ajudar o pai a vender FALSIFICAÇÕES no atacado. Descobre tarde que as peças foram roubadas de NURI, a rainha do submundo do knock-off. Recuperar o estoque agora é a única forma de continuar respirando.",
+    "porque_assistir": "Kim Soo-hyun (Moon Embracing the Sun, Queen of Tears!) + Jo Bo-ah. Ação de época + crime + ambição. Disney+ BR dublado 2025.",
+    "categorias": [
+      "Ação",
+      "Emocionantes",
+      "Investigação",
+      "Históricos",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Falsificação",
+      "Anos 90",
+      "Rainha do Crime",
+      "Recuperação"
+    ],
+    "temas": [
+      "Ambição",
+      "Sobrevivência",
+      "Traição",
+      "Poder"
+    ],
+    "profissoes": [
+      "Ex-Executivo",
+      "Falsificadora",
+      "Traficante"
+    ],
+    "avaliacao": {
+      "chatgpt": 9.0,
+      "mdl": 8.4,
+      "imdb": 8.1
+    },
+    "sensacoes": {
+      "romance": 4,
+      "quimica": 7,
+      "emocao": 8,
+      "humor": 3,
+      "beijos": 2
+    },
+    "flags": {
+      "green": 3,
+      "red": 8
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "intenso",
+      "aviso": "Violência de gangue, temas econômicos densos, corrupção."
+    },
+    "perfil": {
+      "iniciante": false,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Kim Soo-hyun volta ao Disney+ depois de It's Okay to Not Be Okay.",
+      "Ambientado na crise financeira coreana de 1997.",
+      "Estreou 2025 Disney+."
+    ],
+    "recomendacoes": [
+      "Reborn Rich",
+      "Uncle Samsik",
+      "The Whirlwind"
+    ],
+    "_id_hint": "knock-off"
+  },
+  {
+    "titulo": "Study Group",
+    "ano": 2025,
+    "titulo_br": "Grupo de Estudos",
+    "sinopse": "GA-MIN é FORTE no soco e FRACO na prova. Ele sonha em passar na faculdade, mas cada tentativa de entrar num grupo de estudos termina em BRIGA. Sem alternativa, monta seu PRÓPRIO GRUPO — juntando os alunos mais violentos da escola. O reforço escolar vira ringue.",
+    "porque_assistir": "Hwang Min-hyun (Wanna One / NU'EST) em papel principal + Han Ji-eun. Comédia de ação escolar ADAPTADA de webtoon. Disney+ BR dublado 2025.",
+    "categorias": [
+      "Ação",
+      "Comédia",
+      "Psicologia"
+    ],
+    "tropos": [
+      "Escola",
+      "Nerd Lutador",
+      "Grupo",
+      "Violência Escolar"
+    ],
+    "temas": [
+      "Educação",
+      "Bullying",
+      "Amizade",
+      "Sonhos"
+    ],
+    "profissoes": [
+      "Estudantes"
+    ],
+    "avaliacao": {
+      "chatgpt": 8.5,
+      "mdl": 8.2,
+      "imdb": 7.9
+    },
+    "sensacoes": {
+      "romance": 3,
+      "quimica": 6,
+      "emocao": 7,
+      "humor": 9,
+      "beijos": 1
+    },
+    "flags": {
+      "green": 5,
+      "red": 6
+    },
+    "final": "Feliz",
+    "triangulo_amoroso": false,
+    "conteudo": {
+      "nivel": "violencia",
+      "aviso": "Violência escolar, lutas, bullying."
+    },
+    "perfil": {
+      "iniciante": true,
+      "dorameiro_veterano": true
+    },
+    "dublado": true,
+    "curiosidades": [
+      "Adaptação do webtoon 'Study Group'.",
+      "Hwang Min-hyun em papel de estreia como protagonista.",
+      "Estreou 2025 Disney+."
+    ],
+    "recomendacoes": [
+      "Weak Hero Class 1",
+      "Weak Hero Class 2",
+      "Revenge of Others"
+    ],
+    "_id_hint": "study-group"
+  }
+]
