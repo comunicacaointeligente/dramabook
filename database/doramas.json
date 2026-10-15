@@ -16,7 +16,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "Obra-prima",
@@ -104,7 +104,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -369,7 +369,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -623,7 +623,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -779,7 +779,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance Maduro",
       "K-Drama"
@@ -856,7 +856,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -1357,7 +1357,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro"
@@ -1535,7 +1535,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -1719,7 +1719,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -1907,7 +1907,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Emocionantes",
       "Romance Maduro",
@@ -2179,7 +2179,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro",
@@ -2361,7 +2361,7 @@
       "KBS2",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Médicos",
@@ -2892,7 +2892,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Emocionantes"
@@ -3522,7 +3522,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -3705,7 +3705,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Comédia",
       "Históricos",
@@ -3885,7 +3885,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Históricos",
@@ -4335,7 +4335,7 @@
       "tvN",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Emocionantes"
     ],
@@ -4608,7 +4608,7 @@
       "Netflix",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia",
@@ -5078,7 +5078,7 @@
       "Kakao TV",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia"
@@ -5441,7 +5441,7 @@
       "MBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia"
@@ -5708,7 +5708,7 @@
       "JTBC",
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Romance Maduro"
@@ -6153,7 +6153,7 @@
       "SBS",
       "Max"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -6948,7 +6948,7 @@
     "plataformas": [
       "MBC"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -10594,7 +10594,7 @@
       "tvN",
       "Prime Video"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -11156,7 +11156,7 @@
       "tvN",
       "Prime Video"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -12544,7 +12544,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Fantasia",
       "Investigação",
@@ -20079,7 +20079,7 @@
       "Prime Video",
       "Paramount+"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Casamento por contrato",
@@ -22216,7 +22216,7 @@
       "KBS2",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia",
@@ -23763,7 +23763,7 @@
       "KBS2",
       "Disney+"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Emocionantes",
       "Investigação",
@@ -24233,7 +24233,7 @@
       "Viki",
       "MBN"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Emocionantes",
       "Investigação",
@@ -24508,7 +24508,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Emocionantes",
@@ -27413,7 +27413,7 @@
       "Viki",
       "tvN"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Advogados",
       "Emocionantes",
@@ -29118,7 +29118,7 @@
       "Prime Video",
       "tvN"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia",
@@ -29309,7 +29309,7 @@
       "Prime Video",
       "JTBC"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Fantasia",
       "Romance",
@@ -36142,7 +36142,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Emocionantes",
@@ -36236,7 +36236,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Emocionantes",
       "Ação",
@@ -36943,7 +36943,7 @@
     "plataformas": [
       "Prime Video"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Esporte",
       "Comédia",
@@ -37140,7 +37140,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Drama",
@@ -37797,7 +37797,7 @@
       "Viki",
       "Kocowa"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia"
@@ -37929,7 +37929,7 @@
       "Kocowa",
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia",
@@ -38193,7 +38193,7 @@
       "Prime Video",
       "tvN"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Ação",
       "Comédia",
@@ -38585,7 +38585,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Histórico",
       "Romance",
@@ -39102,7 +39102,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia",
@@ -40803,7 +40803,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Fantasia",
       "Romance",
@@ -41595,7 +41595,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Drama",
       "Suspense",
@@ -41981,7 +41981,7 @@
     "plataformas": [
       "Prime Video"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Drama"
@@ -42041,7 +42041,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Fantasia",
       "Romance",
@@ -42223,7 +42223,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Drama",
       "Romance"
@@ -42406,7 +42406,7 @@
     "plataformas": [
       "Prime Video"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Fantasia"
@@ -42894,7 +42894,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia"
@@ -43014,7 +43014,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Drama",
       "Slice of Life",
@@ -43136,7 +43136,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia"
@@ -43196,7 +43196,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Thriller",
       "Sobrenatural",
@@ -43257,7 +43257,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Fantasia",
       "Romance",
@@ -43439,7 +43439,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Comédia",
       "Workplace"
@@ -43621,7 +43621,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Drama",
       "Escolar"
@@ -43864,7 +43864,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Drama",
       "Thriller",
@@ -44047,7 +44047,7 @@
     "plataformas": [
       "Viki"
     ],
-    "dublado": false,
+    "dublado": true,
     "categorias": [
       "Romance",
       "Comédia",
