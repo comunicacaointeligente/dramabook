@@ -98,6 +98,11 @@ export function renderHome() {
   $$("#homeView .rail").forEach(r => (r.hidden = empty));
   if (empty) return;
 
+  const embreve = STATE.all
+    .filter(d => d.status === "Em produção" || (d.ano >= 2026 && d.status !== "Finalizado"))
+    .sort((a, b) => (b.ano || 0) - (a.ano || 0))
+    .slice(0, 14);
+  renderRail($('[data-rail="embreve"]'), { title: "🔜 Em breve", sub: "lançamentos recentes e previstos", items: embreve });
   renderRail($('[data-rail="ultimos"]'), { title: "🆕 Últimos adicionados", sub: "recém-chegados ao acervo", items: latest(14) });
   renderRail($('[data-rail="melhores"]'), { title: "🏆 Mais bem avaliados", sub: "as maiores notas da curadoria", items: topRated(14) });
   renderRail($('[data-rail="obras"]'), { title: "⭐ Obras-primas", sub: "os imperdíveis", items: masterpieces() });
