@@ -107,7 +107,7 @@ export function renderHome() {
   renderRail($('[data-rail="melhores"]'), { title: "🏆 Mais bem avaliados", sub: "as maiores notas da curadoria", items: topRated(14) });
   renderRail($('[data-rail="obras"]'), { title: "⭐ Obras-primas", sub: "os imperdíveis", items: masterpieces() });
   renderRail($('[data-rail="top100"]'), { title: "🔥 Top 100", sub: "ranking geral", items: topRated(100) });
-  renderHero(pickRandom(topRated(10)));
+  renderHero(pickRandom([...topRated(10), ...embreve.slice(0, 10)]));
   hydrateImages(document);
 }
 
