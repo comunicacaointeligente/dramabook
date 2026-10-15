@@ -14530,10 +14530,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -14549,10 +14546,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63990)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -23945,17 +23938,19 @@
   {
     "id": "money-heist-korea-joint-economic-area",
     "titulo": "Money Heist: Korea - Joint Economic Area",
-    "titulo_original": "",
+    "titulo_original": "종이의 집: 공동경제구역",
     "titulo_br": "La Casa de Papel: Coreia",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2022,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": true,
     "categorias": [
       "Ação",
@@ -23977,9 +23972,18 @@
       "Negociador",
       "Policial"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Yoo Ji-tae",
+      "Park Hae-soo",
+      "Jeon Jong-seo",
+      "Lee Won-jong",
+      "Kim Ji-hoon",
+      "Park Myung-hoon",
+      "Kim Yun-jin",
+      "Kim Sung-oh"
+    ],
+    "diretor": "Kim Hong-sun",
+    "roteirista": "Ryu Yong-jae",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -24006,7 +24010,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/kIjuNTP6qYKsw0uRKc7EoBqFYbU.jpg",
     "trailer": "",
     "sinopse": "Numa Coreia PRÓXIMA da REUNIFICAÇÃO, um gênio criminoso conhecido como PROFESSOR reúne um time de ladrões talentosos para invadir a Casa da Moeda unificada. O plano ambicioso vira uma crise de reféns TRANSMITIDA ao vivo, com a polícia dos dois lados da fronteira envolvida.",
     "porque_assistir": "Refilmagem coreana do fenômeno espanhol. Yoo Ji-tae como Professor + Park Hae-soo (Squid Game) como Berlin. Adiciona camada geopolítica única: unificação Coreia do Norte + Sul.",
@@ -24023,7 +24027,8 @@
       "la-casa-de-papel",
       "vagabond",
       "the-worst-of-evil"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "goodbye-earth",
@@ -24673,17 +24678,19 @@
   {
     "id": "the-moon-embracing-the-sun",
     "titulo": "The Moon Embracing the Sun",
-    "titulo_original": "",
+    "titulo_original": "해를 품은 달",
     "titulo_br": "A Lua Abraça o Sol",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2012,
-    "episodios": 0,
+    "episodios": 20,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -24709,9 +24716,14 @@
       "Rainha",
       "Xamã"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim Soo-hyun",
+      "Han Ga-in",
+      "Jung Il-woo",
+      "Kim Min-seo"
+    ],
+    "diretor": "Kim Do-hoon",
+    "roteirista": "Jin Soo-wan",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -24738,7 +24750,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/7YLCQnA1npvUNRXK86e7gHagog1.jpg",
     "trailer": "",
     "sinopse": "Uma jovem nobre escolhida para ser RAINHA morre em CONSPIRAÇÃO da corte, mas é resgatada por uma XAMÃ e sobrevive sem memória. Anos depois, o jovem REI que a amou reencontra alguém que se parece assustadoramente com sua amada perdida.",
     "porque_assistir": "Kim Soo-hyun (Queen of Tears!) num dos maiores fenômenos históricos da Coreia. 42% de audiência! Romance real de tirar o fôlego, política de palácio + fantasia xamânica. Estética linda.",
@@ -24755,7 +24767,8 @@
       "rooftop-prince",
       "splash-splash-love",
       "mr-sunshine"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "jewel-in-the-palace",
@@ -24853,17 +24866,19 @@
   {
     "id": "the-first-responders",
     "titulo": "The First Responders",
-    "titulo_original": "",
+    "titulo_original": "소방서 옆 경찰서",
     "titulo_br": "Equipe de Emergência",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2022,
-    "episodios": 0,
+    "episodios": 24,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Disney+"
+    ],
     "dublado": true,
     "categorias": [
       "Ação",
@@ -24886,9 +24901,14 @@
       "Bombeiro",
       "Paramédica"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim Rae-won",
+      "Son Ho-jun",
+      "Gong Seung-yeon",
+      "Oh Ui-shik"
+    ],
+    "diretor": "Shin Kyung-soo",
+    "roteirista": "Min Ji-hyung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -24915,7 +24935,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/xe5Zm5Yb7YDeawSPILSqXV0A7j3.jpg",
     "trailer": "",
     "sinopse": "Uma FORÇA-TAREFA formada pelos melhores POLICIAIS, BOMBEIROS e PARAMÉDICOS responde a emergências, crimes e desastres em ritmo frenético. As diferenças de método entre os três serviços viram atrito e, aos poucos, parceria.",
     "porque_assistir": "Kim Rae-won lidera drama de ação com procedimento realista. Cenas de resgate impressionantes, química ótima entre trio. 2 temporadas (24 eps). Disney+ BR dublado.",
@@ -24932,7 +24952,8 @@
       "live",
       "hospital-playlist",
       "signal"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "chuno",
@@ -25031,17 +25052,19 @@
   {
     "id": "rookie-historian-goo-hae-ryung",
     "titulo": "Rookie Historian Goo Hae-ryung",
-    "titulo_original": "",
+    "titulo_original": "신입사관 구해령",
     "titulo_br": "Hae-Ryung, A Historiadora",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2019,
-    "episodios": 0,
+    "episodios": 20,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Históricos",
@@ -25064,9 +25087,14 @@
       "Príncipe",
       "Escritor"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Shin Se-kyung",
+      "Cha Eun-woo",
+      "Park Ki-woong",
+      "Lee Ji-hoon"
+    ],
+    "diretor": "Kang Il-soo",
+    "roteirista": "Kim Ho-soo",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -25093,7 +25121,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/fnRg2QDfeUWcRIuQfWGKCEBuP3k.jpg",
     "trailer": "",
     "sinopse": "No início do SÉCULO XIX, Goo Hae-ryung entra para o palácio como uma das PRIMEIRAS HISTORIADORAS mulheres da Coreia. Ela cruza com um PRÍNCIPE misterioso que escreve romances em segredo e desafia as convenções da corte.",
     "porque_assistir": "Cha Eun-woo (ASTRO) + Shin Se-kyung numa fábula histórica leve e feminista. Cena palaciana bonita, romance fofinho, protagonista curiosa e teimosa. 20 eps redondinhos.",
@@ -25110,22 +25138,25 @@
       "moonlight-drawn-by-clouds",
       "100-days-my-prince",
       "under-the-queen-s-umbrella"
-    ]
+    ],
+    "classificacao": 12
   },
   {
     "id": "bulgasal-immortal-souls",
     "titulo": "Bulgasal: Immortal Souls",
-    "titulo_original": "",
+    "titulo_original": "불가살",
     "titulo_br": "Bulgasal: Almas Imortais",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2021,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Agridoce",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": true,
     "categorias": [
       "Fantasia",
@@ -25150,9 +25181,14 @@
       "Imortal",
       "Ex-Detetive"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Lee Jin-uk",
+      "Kwon Nara",
+      "Kong Seung-yeon",
+      "Kim Woo-seok"
+    ],
+    "diretor": "Jang Young-woo",
+    "roteirista": "Kwon So-ra",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -25179,7 +25215,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/A5ANNzHOkVHhTXHqJWmI64Fa4E3.jpg",
     "trailer": "",
     "sinopse": "Um IMORTAL amaldiçoado há 600 ANOS caça a mulher que carrega a alma que causou sua maldição. Ao encontrá-la REENCARNADA e sem memória, os dois descobrem um passado bem mais complexo do que a vingança que ele planejou.",
     "porque_assistir": "Lee Jin-uk num papel sombrio e absorvente. Mitologia coreana pura (Bulgasal = criatura folclórica). Ritmo lento e denso, quase gótico. Pra quem gosta de Goblin mas quer algo MAIS pesado.",
@@ -25196,7 +25232,8 @@
       "goblin",
       "arthdal-chronicles",
       "the-cursed"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "hwarang",
@@ -25670,17 +25707,19 @@
   {
     "id": "tree-with-deep-roots",
     "titulo": "Tree with Deep Roots",
-    "titulo_original": "",
+    "titulo_original": "뿌리깊은 나무",
     "titulo_br": "A Árvore de Raízes Profundas",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2011,
-    "episodios": 0,
+    "episodios": 24,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Históricos",
@@ -25705,9 +25744,14 @@
       "Investigador",
       "Estudioso"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Han Suk-kyu",
+      "Jang Hyuk",
+      "Shin Se-kyung",
+      "Song Joong-ki"
+    ],
+    "diretor": "Jang Tae-yoo",
+    "roteirista": "Kim Young-hyun",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -25734,7 +25778,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/cBM4HLNMQs1UBrORf3T3tfEtuHz.jpg",
     "trailer": "",
     "sinopse": "Nos SETE DIAS que antecedem o anúncio do ALFABETO COREANO criado pelo REI SEJONG, uma sequência de assassinatos abala o palácio. O investigador KANG CHAE-YOON persegue um serial killer e descobre uma grande conspiração por trás do plano de alfabetização.",
     "porque_assistir": "Talvez o MELHOR histórico coreano já feito. Han Suk-kyu como Sejong, Jang Hyuk como investigador. Debate sobre democracia, linguagem e poder que ecoa até hoje. Baeksang de Melhor Drama.",
@@ -25751,7 +25795,8 @@
       "six-flying-dragons",
       "chuno",
       "the-kingdom-of-the-winds"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "six-flying-dragons",
@@ -26223,17 +26268,19 @@
   {
     "id": "queen-in-hyun-s-man",
     "titulo": "Queen In-hyun's Man",
-    "titulo_original": "",
+    "titulo_original": "인현왕후의 남자",
     "titulo_br": "O Homem da Rainha In-hyun",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2012,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -26257,9 +26304,14 @@
       "Atriz",
       "Guarda-Costas"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Ji Hyun-woo",
+      "Yoo In-na",
+      "Kim Jin-woo",
+      "Jin Ye-sol"
+    ],
+    "diretor": "Kim Byung-soo",
+    "roteirista": "Song Jae-jung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -26286,7 +26338,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/gajs5IzvGTuBa5tMdgokTEzQqMP.jpg",
     "trailer": "",
     "sinopse": "Um ERUDITO da era JOSEON é transportado 300 ANOS para o futuro por um TALISMÃ e se apaixona por uma ATRIZ que vai interpretar a rainha que ele jurou proteger no passado. Cada volta ao passado é uma missão — e cada retorno ao presente, uma escolha entre destino e amor.",
     "porque_assistir": "CULTO absoluto do gênero viagem no tempo. Química ELETRIZANTE entre Ji Hyun-woo + Yoo In-na (o casal se apaixonou de verdade nas gravações e namorou anos!). 9.2 no MDL — nota rara. Só 16 eps redondinhos.",
@@ -26303,7 +26355,8 @@
       "nine-nine-time-travels",
       "w-two-worlds",
       "splash-splash-love"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "doctor-prisoner",
@@ -26589,17 +26642,20 @@
   {
     "id": "pandora-beneath-the-paradise",
     "titulo": "Pandora: Beneath the Paradise",
-    "titulo_original": "",
+    "titulo_original": "판도라: 조작된 낙원",
     "titulo_br": "Pandora: Sob o Paraíso",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2023,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Amargo",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "tvN"
+    ],
     "dublado": false,
     "categorias": [
       "Emocionantes",
@@ -26624,9 +26680,14 @@
       "Político",
       "Empresária"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Lee Ji-ah",
+      "Lee Sang-yoon",
+      "Bong Tae-gyu",
+      "Jang Hee-jin"
+    ],
+    "diretor": "Kim Yong-min",
+    "roteirista": "Ma Jin-won",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -26653,7 +26714,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/qs4fDvCmqMOl12OmObUSQkNUDYL.jpg",
     "trailer": "",
     "sinopse": "HONG TAE-RA tem a VIDA PERFEITA de esposa de político até que MEMÓRIAS reprimidas explodem e ela vira uma PANDORA MODERNA atrás de vingança. Cada mentira revelada é uma caixa que se abre — e nenhuma delas quer se fechar.",
     "porque_assistir": "Lee Ji-ah (a Shim Su-ryeon de Penthouse!) volta em MAKJANG DE LUXO estilo Sky Castle + Penthouse. Vinganças em cascata, roupas absurdas, plot twists por episódio. Perfeito pra guilty pleasure.",
@@ -26670,7 +26731,8 @@
       "the-penthouse",
       "sky-castle",
       "mine"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "what-comes-after-love",
@@ -26769,17 +26831,20 @@
   {
     "id": "the-escape-of-the-seven",
     "titulo": "The Escape of the Seven",
-    "titulo_original": "",
+    "titulo_original": "7인의 탈출",
     "titulo_br": "A Fuga dos Sete",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2023,
-    "episodios": 0,
+    "episodios": 33,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Amargo",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "SBS"
+    ],
     "dublado": false,
     "categorias": [
       "Emocionantes",
@@ -26803,9 +26868,14 @@
       "Empresário",
       "Político"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Uhm Ki-joon",
+      "Hwang Jung-eum",
+      "Lee Yu-bi",
+      "Jo Yoon-hee"
+    ],
+    "diretor": "Joo Dong-min",
+    "roteirista": "Kim Soon-ok",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -26832,7 +26902,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/wjDgfFabLowVFlWY48nm7HwgNA4.jpg",
     "trailer": "",
     "sinopse": "Uma GAROTA desaparece e SETE PESSOAS conectadas por mentiras, desejos e crimes precisam ENCOBRIR o que fizeram. À medida que uma das sete começa a se voltar contra as outras, o passado insiste em vir à tona.",
     "porque_assistir": "Kim Soon-ok, a rainha do MAKJANG (Penthouse!), num plot ALUCINADO com dois arcos: Race + Resurrection. 33 episódios pra maratonar. Uhm Ki-joon volta em papel de vilão histriônico.",
@@ -26849,7 +26919,8 @@
       "the-penthouse",
       "mine",
       "reborn-rich"
-    ]
+    ],
+    "classificacao": 18
   },
   {
     "id": "han-river-police",
@@ -27139,17 +27210,20 @@
   {
     "id": "serendipity-s-embrace",
     "titulo": "Serendipity's Embrace",
-    "titulo_original": "",
+    "titulo_original": "우연일까?",
     "titulo_br": "Outra Chance Para Amar",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2024,
-    "episodios": 0,
+    "episodios": 10,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -27172,9 +27246,14 @@
       "Produtora de Animação",
       "Planejador Financeiro"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim So-hyun",
+      "Chae Jong-hyeop",
+      "Kim Yoon-hye",
+      "Nam Yoon-su"
+    ],
+    "diretor": "Nam Sung-woo",
+    "roteirista": "Jung Hyun-jung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -27201,7 +27280,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/oOitjGRuMycmgMK7QdaHgt82fyF.jpg",
     "trailer": "",
     "sinopse": "DEZ ANOS depois de um PRIMEIRO AMOR de colégio terminar em cacos, uma PRODUTORA de animação REENCONTRA o rapaz — agora um planejador financeiro que voltou dos EUA. Todas as feridas ainda estão lá, e todas as saudades também.",
     "porque_assistir": "Kim So-hyun (Love Alarm!) + Chae Jong-hyeop num rom-com melancólico e maduro adaptado do webtoon 'Coincidence?'. Vibe outono, café e memória. Netflix + Viki BR.",
@@ -27218,7 +27297,8 @@
       "our-beloved-summer",
       "love-alarm",
       "twenty-five-twenty-one"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "bad-prosecutor",
@@ -27507,17 +27587,20 @@
   {
     "id": "the-tale-of-lady-ok",
     "titulo": "The Tale of Lady Ok",
-    "titulo_original": "",
+    "titulo_original": "옥씨부인전",
     "titulo_br": "O Conto da Senhora Ok",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2024,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
     "dublado": true,
     "categorias": [
       "Históricos",
@@ -27542,9 +27625,14 @@
       "Contador",
       "Nobre"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Lim Ji-yeon",
+      "Choo Young-woo",
+      "Yeon Woo",
+      "Kim Jae-won"
+    ],
+    "diretor": "Jin Hyuk",
+    "roteirista": "Kim Ji-yeon",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -27571,7 +27659,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/1U74njkU7qunESYORuIPGfJmatf.jpg",
     "trailer": "",
     "sinopse": "Numa COREIA JOSEON rígida, uma jovem ESCRAVA assume IDENTIDADE FALSA de nobre para fugir da opressão. Um CONTADOR DE HISTÓRIAS itinerante descobre o segredo dela e se apaixona. Sageuk feminista e visualmente deslumbrante.",
     "porque_assistir": "Lim Ji-yeon (a vilã de The Glory!) num papel de PROTAGONISTA FORTE e ambiguidade moral rica. Cinematografia premiada, roupas de tirar o fôlego, roteiro com camadas. Netflix BR dublado.",
@@ -27588,7 +27676,8 @@
       "chuno",
       "mr-sunshine",
       "rookie-historian-goo-hae-ryung"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "wedding-impossible",
@@ -29676,17 +29765,20 @@
   {
     "id": "tomorrow",
     "titulo": "Tomorrow",
-    "titulo_original": "",
+    "titulo_original": "내일",
     "titulo_br": "Amanhã",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2022,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "MBC"
+    ],
     "dublado": true,
     "categorias": [
       "Fantasia",
@@ -29711,9 +29803,14 @@
       "Estagiário",
       "Fantasma"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim Hee-sun",
+      "Rowoon",
+      "Lee Soo-hyuk",
+      "Yoon Ji-on"
+    ],
+    "diretor": "Kim Tae-yoon",
+    "roteirista": "Park Ran",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -29740,7 +29837,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/zMTpB0cx3egwDU0MjUBIykUDnXm.jpg",
     "trailer": "",
     "sinopse": "Um jovem MEIO-HUMANO MEIO-FANTASMA é recrutado pela EQUIPE DE RISCO do submundo — ANJOS que salvam pessoas à beira do SUICÍDIO. Fantasia socialmente engajada com Kim Hee-sun implacável e Rowoon impagável.",
     "porque_assistir": "Kim Hee-sun (Faith!) + Rowoon (Extraordinary You, She Would Never Know!). FANTASIA COM PROPÓSITO real — cada episódio aborda um tema de saúde mental. Se você chorou em Move to Heaven, vai chorar aqui.",
@@ -29757,22 +29854,25 @@
       "move-to-heaven",
       "hi-bye-mama",
       "hotel-del-luna"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "persona",
     "titulo": "Persona",
-    "titulo_original": "",
+    "titulo_original": "페르소나",
     "titulo_br": "Persona",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2019,
-    "episodios": 0,
+    "episodios": 4,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "25 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Emocionantes",
@@ -29794,9 +29894,14 @@
       "Filha",
       "Artista"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "IU",
+      "Bae Doo-na",
+      "Park Hae-soo",
+      "Jung Joon-won"
+    ],
+    "diretor": "Lee Kyoung-mi",
+    "roteirista": "Various",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -29823,7 +29928,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/hV7VMjl1vI9oHRFKLdycobzYOKB.jpg",
     "trailer": "",
     "sinopse": "ANTOLOGIA em QUATRO CURTAS com IU em papéis radicalmente diferentes — de uma quase-tenista narcisista à filha assombrada por um pai criminoso. Cada episódio dirigido por um CINEASTA COREANO AUTORAL.",
     "porque_assistir": "IU (Hotel del Luna, My Mister!) em quatro papéis DISTINTOS, cada um assinado por um diretor autoral (Lee Kyoung-mi, Lim Pil-sung, Jeon Go-woon, Kim Jong-kwan). Curto (4 eps de 20 min), experimental, artístico.",
@@ -29840,7 +29945,8 @@
       "my-mister",
       "hotel-del-luna",
       "extracurricular"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "the-whirlwind",
@@ -30125,17 +30231,20 @@
   {
     "id": "memories-of-the-alhambra",
     "titulo": "Memories of the Alhambra",
-    "titulo_original": "",
+    "titulo_original": "알함브라 궁전의 추억",
     "titulo_br": "Memórias de Alhambra",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2018,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
     "dublado": true,
     "categorias": [
       "Fantasia",
@@ -30161,9 +30270,14 @@
       "Programador",
       "Dona de Pousada"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Hyun Bin",
+      "Park Shin-hye",
+      "Park Hoon",
+      "Chanyeol"
+    ],
+    "diretor": "Ahn Gil-ho",
+    "roteirista": "Song Jae-jung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -30190,7 +30304,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/luPdT1cPz02ArvuvwiGe3LaFl91.jpg",
     "trailer": "",
     "sinopse": "Um CEO de tecnologia viaja pra GRANADA testar um JOGO DE REALIDADE AUMENTADA revolucionário — e descobre que o mundo virtual SANGRA pro real. A dona da pousada onde ele fica é a peça-chave. Fantasia tech com Hyun Bin.",
     "porque_assistir": "Hyun Bin (Crash Landing on You!) + Park Shin-hye + Chanyeol (EXO). Sci-fi + fantasia + romance ambientado na SPAIN. Roteiro de Song Jae-jung (Queen In-hyun's Man!). Estética linda. Netflix BR dublado.",
@@ -30207,7 +30321,8 @@
       "w-two-worlds",
       "nine",
       "sisyphus-the-myth"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "nobody-knows",
@@ -30685,17 +30800,20 @@
   {
     "id": "do-do-sol-sol-la-la-sol",
     "titulo": "Do Do Sol Sol La La Sol",
-    "titulo_original": "",
+    "titulo_original": "도도솔솔라라솔",
     "titulo_br": "Do Do Sol Sol La La Sol",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2020,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "KBS2"
+    ],
     "dublado": true,
     "categorias": [
       "Romance",
@@ -30720,9 +30838,14 @@
       "Mecânico",
       "Estudante"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Go Ara",
+      "Lee Jae-wook",
+      "Kim Joo-hun",
+      "Ye Ji-won"
+    ],
+    "diretor": "Kim Min-kyung",
+    "roteirista": "Oh Ji-young",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -30749,7 +30872,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/13tT4EwltM3WefjkaBDmAvHIz5W.jpg",
     "trailer": "",
     "sinopse": "PIANISTA de família rica PERDE TUDO no dia do próprio casamento e vai parar numa CIDADE PEQUENA onde vira PROFESSORA DE PIANO. Lá conhece um mecânico que vira seu aluno improvável. Fofura em estado bruto.",
     "porque_assistir": "Go Ara + Lee Jae-wook (Alchemy of Souls!) em rom-com FOFÍSSIMA. Piano + cidade pequena + amor improvável. Estética anos 2020 aconchegante. Netflix BR dublado.",
@@ -30766,7 +30889,8 @@
       "once-upon-a-small-town",
       "hometown-cha-cha-cha",
       "when-the-camellia-blooms"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "longing-for-you",
@@ -30866,17 +30990,20 @@
   {
     "id": "angel-s-last-mission-love",
     "titulo": "Angel's Last Mission: Love",
-    "titulo_original": "",
+    "titulo_original": "단, 하나의 사랑",
     "titulo_br": "A Última Missão de um Anjo: Amor",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2019,
-    "episodios": 0,
+    "episodios": 32,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "35 min",
+    "status": "Finalizado",
     "final": "Agridoce",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "KBS2"
+    ],
     "dublado": true,
     "categorias": [
       "Fantasia",
@@ -30902,9 +31029,14 @@
       "Bailarina",
       "Empresária"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Shin Hye-sun",
+      "Kim Myung-soo",
+      "Lee Dong-gun",
+      "Kim Bo-mi"
+    ],
+    "diretor": "Lee Jung-sub",
+    "roteirista": "Choi Yoon-gyo",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -30931,7 +31063,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/pS0YFZ4MC3PL91FtXNPnl6jqLQf.jpg",
     "trailer": "",
     "sinopse": "Como PUNIÇÃO, o ANJO Dan é enviado pra achar AMOR VERDADEIRO pra uma BAILARINA CEGA, fria e milionária. Se falhar, some pra sempre. Só que ele se apaixona por ela.",
     "porque_assistir": "Shin Hye-sun (Mr. Queen!) + Kim Myung-soo (L do INFINITE). Fantasia romântica DOCE E DOLOROSA. Trilha de balé icônica. Netflix BR dublado. 8.3 no MDL.",
@@ -30948,7 +31080,8 @@
       "goblin",
       "hi-bye-mama",
       "tomorrow"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "was-it-love",
@@ -31334,17 +31467,20 @@
   {
     "id": "the-bride-of-habaek",
     "titulo": "The Bride of Habaek",
-    "titulo_original": "",
+    "titulo_original": "하백의 신부",
     "titulo_br": "A Noiva de Habaek",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2017,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "tvN"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -31370,9 +31506,14 @@
       "Psiquiatra",
       "Deusa"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Nam Joo-hyuk",
+      "Shin Se-kyung",
+      "Krystal Jung",
+      "Lim Ju-hwan"
+    ],
+    "diretor": "Kim Byung-soo",
+    "roteirista": "Jung Yoon-jung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -31399,7 +31540,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/u6cE32AzBbhG3ESRSzf8pkAA42p.jpg",
     "trailer": "",
     "sinopse": "O DEUS DA ÁGUA HABAEK desce à Terra atrás das PEDRAS SAGRADAS do seu trono — e precisa da ajuda de uma PSIQUIATRA estressada, cética e sarcástica, PREDESTINADA a servi-lo. Ele é insuportável, ela é ainda pior.",
     "porque_assistir": "Nam Joo-hyuk (Twenty-Five Twenty-One, Weightlifting Fairy!) + Shin Se-kyung. Rom-com com deuses + humor no absurdo. Netflix BR.",
@@ -31416,22 +31557,26 @@
       "goblin",
       "legend-of-the-blue-sea",
       "my-girlfriend-is-a-nine-tailed-fox"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "the-world-of-the-married",
     "titulo": "The World of the Married",
-    "titulo_original": "",
+    "titulo_original": "부부의 세계",
     "titulo_br": "O Mundo dos Casados",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2020,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Amargo",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix",
+      "JTBC"
+    ],
     "dublado": true,
     "categorias": [
       "Emocionantes",
@@ -31456,9 +31601,14 @@
       "Empresária",
       "Amante"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim Hee-ae",
+      "Park Hae-joon",
+      "Han So-hee",
+      "Park Sun-young"
+    ],
+    "diretor": "Mo Wan-il",
+    "roteirista": "Joo Hyun",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -31485,7 +31635,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/6JcBPXNsEwAkiiZM9ch1kHBVAxz.jpg",
     "trailer": "",
     "sinopse": "MÉDICA bem-sucedida descobre que o MARIDO tem uma AMANTE — e ela CONHECE. O que era casamento perfeito vira GUERRA elegante e cirúrgica. O k-drama MAIS ASSISTIDO da história do cabo coreano.",
     "porque_assistir": "Kim Hee-ae (The Whirlwind!) + Han So-hee (My Name!). Adaptação coreana de Doctor Foster (BBC). Recorde de audiência: 28% (o mais alto do cabo coreano). Netflix BR dublado.",
@@ -31502,7 +31652,8 @@
       "nothing-uncovered",
       "sky-castle",
       "green-mothers-club"
-    ]
+    ],
+    "classificacao": 18
   },
   {
     "id": "shooting-stars",
@@ -32075,17 +32226,20 @@
   {
     "id": "circle-two-worlds-connected",
     "titulo": "Circle: Two Worlds Connected",
-    "titulo_original": "",
+    "titulo_original": "써클: 이어진 두 세계",
     "titulo_br": "Circle: Dois Mundos",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2017,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "tvN"
+    ],
     "dublado": false,
     "categorias": [
       "Fantasia",
@@ -32110,9 +32264,14 @@
       "Detetive",
       "Cientista"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Yeo Jin-goo",
+      "Kim Kang-woo",
+      "Gong Seung-yeon",
+      "Lee Gi-kwang"
+    ],
+    "diretor": "Min Jin-ki",
+    "roteirista": "Kim Jin-hee",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -32139,7 +32298,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/1sINEbJKM2p47VIvZkNvK6APAzH.jpg",
     "trailer": "",
     "sinopse": "Em DUAS LINHAS TEMPORAIS PARALELAS (2017 e 2037), GÊMEOS separados na infância descobrem que uma TECNOLOGIA ALIENÍGENA esconde a chave dos SUICÍDIOS em série que assolam sua faculdade. Sci-fi coreano curto, denso e viciante — 12 episódios que parecem 6.",
     "porque_assistir": "Um dos MELHORES SCI-FI coreanos já feitos. Estrutura dupla ambiciosa: cada ep mostra 30 min de 2017 + 30 min de 2037. Yeo Jin-goo (Hotel del Luna!) em papel duplo. Viki BR.",
@@ -32156,7 +32315,8 @@
       "sisyphus-the-myth",
       "w-two-worlds",
       "nine"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "doctors",
@@ -32737,17 +32897,20 @@
   {
     "id": "my-sassy-girl",
     "titulo": "My Sassy Girl",
-    "titulo_original": "",
+    "titulo_original": "엽기적인 그녀",
     "titulo_br": "Minha Namorada Chinelona",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2017,
-    "episodios": 0,
+    "episodios": 32,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "35 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "SBS"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -32772,9 +32935,14 @@
       "Princesa",
       "Rei"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Joo Won",
+      "Oh Yeon-seo",
+      "Lee Jung-shin",
+      "Kim Yoon-hye"
+    ],
+    "diretor": "Oh Jin-seok",
+    "roteirista": "Yoon Eun-kyung",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -32801,7 +32969,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/p33WdcUrMASGPGX0yWUavOZloOX.jpg",
     "trailer": "",
     "sinopse": "Adaptação do FILME CULT 2001 pra JOSEON: um jovem estudioso PROTEGE uma princesa EXILADA, arrogante e explosiva, e vira alvo da paixão dela. Sageuk leve com Joo Won e Oh Yeon-seo.",
     "porque_assistir": "Joo Won (Yong-Pal, Good Doctor!) + Oh Yeon-seo (Hwayugi!). Adaptação de FILME CULT (2001) pra formato sageuk. 32 eps curtos que passam voando. Viki BR.",
@@ -32818,22 +32986,26 @@
       "100-days-my-prince",
       "rookie-historian",
       "moonlight-drawn-by-clouds"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "ruler-master-of-the-mask",
     "titulo": "Ruler: Master of the Mask",
-    "titulo_original": "",
+    "titulo_original": "군주 - 가면의 주인",
     "titulo_br": "O Imperador: O Dono da Máscara",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2017,
-    "episodios": 0,
+    "episodios": 40,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "35 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "MBC"
+    ],
     "dublado": false,
     "categorias": [
       "Históricos",
@@ -32859,9 +33031,14 @@
       "Estudiosa",
       "Rei"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Yoo Seung-ho",
+      "Kim So-hyun",
+      "Kim Myung-soo",
+      "Yoon So-hee"
+    ],
+    "diretor": "Noh Do-cheol",
+    "roteirista": "Jung Hae-ri",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -32888,7 +33065,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/7Qrf6HrFGnmnSDPdQZ3v55hUlac.jpg",
     "trailer": "",
     "sinopse": "Um PRÍNCIPE HERDEIRO descobre que uma SOCIEDADE SECRETA controla toda a ÁGUA do reino — e obriga o pai-rei a manter a farsa. Pra sobreviver, ele FOGE, vira MÁSCARA e conspira. Sageuk épico.",
     "porque_assistir": "Yoo Seung-ho (I'm Not a Robot!) + Kim So-hyun (The Tale of Nokdu!). Sageuk NÍVEL ALTO com política + máscara + romance. 8.3 no MDL. Viki BR.",
@@ -32905,7 +33082,8 @@
       "moonlight-drawn-by-clouds",
       "rookie-historian",
       "100-days-my-prince"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "the-rebel",
@@ -33006,17 +33184,20 @@
   {
     "id": "let-s-fight-ghost",
     "titulo": "Let's Fight Ghost",
-    "titulo_original": "",
+    "titulo_original": "싸우자 귀신아",
     "titulo_br": "Vamos Lutar, Fantasma",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2016,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "tvN"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -33042,9 +33223,14 @@
       "Fantasma",
       "Exorcista"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Kim So-hyun",
+      "Ok Taec-yeon",
+      "Kwon Yul",
+      "Kim Sang-ho"
+    ],
+    "diretor": "Park Joon-hwa",
+    "roteirista": "Lee Dae-il",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -33071,7 +33257,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/6tPDqJOnOPDwYv2CN7OPE29UoS.jpg",
     "trailer": "",
     "sinopse": "Um UNIVERSITÁRIO que enxerga FANTASMAS trabalha como EXORCISTA FREELANCER — até topar com o ESPÍRITO de uma COLEGIAL que morreu antes do vestibular e não lembra por quê. Também conhecido como Bring It On Ghost.",
     "porque_assistir": "Kim So-hyun (School 2015!) + Ok Taec-yeon (2PM, Save Me!). Rom-com sobrenatural FOFA que virou cult. Viki BR.",
@@ -33088,7 +33274,8 @@
       "master-s-sun",
       "oh-my-ghost",
       "mystic-pop-up-bar"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "come-back-mister",
@@ -33190,17 +33377,20 @@
   {
     "id": "my-id-is-gangnam-beauty",
     "titulo": "My ID Is Gangnam Beauty",
-    "titulo_original": "",
+    "titulo_original": "내 아이디는 강남미인",
     "titulo_br": "Meu ID é Beleza de Gangnam",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2018,
-    "episodios": 0,
+    "episodios": 16,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "JTBC"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -33222,9 +33412,14 @@
     "profissoes": [
       "Estudantes"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Im Soo-hyang",
+      "Cha Eun-woo",
+      "Jo Woo-ri",
+      "Kwak Dong-yeon"
+    ],
+    "diretor": "Choi Sung-bum",
+    "roteirista": "Choi Soo-young",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -33251,7 +33446,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/hmAwB0N87LxL0M0QWJJLtNRGlOW.jpg",
     "trailer": "",
     "sinopse": "Uma jovem BULLYADA PELA APARÊNCIA a vida inteira faz CIRURGIA PLÁSTICA antes da faculdade — e é apelidada de 'Beleza de Gangnam' pelos colegas que descobrem. O único que sempre a viu por dentro é um ex-colega frio que ela mal reconhece.",
     "porque_assistir": "Cha Eun-woo (ASTRO, Rookie Historian!) em papel de ESTREIA. Adaptação de webtoon FENÔMENO. Debate REAL sobre padrão de beleza coreano. Viki BR.",
@@ -33268,7 +33463,8 @@
       "true-beauty",
       "cinderella-and-four-knights",
       "weightlifting-fairy"
-    ]
+    ],
+    "classificacao": 14
   },
   {
     "id": "are-you-human-too",
@@ -34412,17 +34608,20 @@
   {
     "id": "beautiful-mind",
     "titulo": "Beautiful Mind",
-    "titulo_original": "",
+    "titulo_original": "뷰티풀 마인드",
     "titulo_br": "Mente Bonita",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2016,
-    "episodios": 0,
+    "episodios": 14,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "KBS2"
+    ],
     "dublado": false,
     "categorias": [
       "Médicos",
@@ -34447,9 +34646,14 @@
       "Detetive",
       "Diretor"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Jang Hyuk",
+      "Park So-dam",
+      "Yoon Hyun-min",
+      "Park Se-young"
+    ],
+    "diretor": "Mo Wan-il",
+    "roteirista": "Kim Tae-hee",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -34476,7 +34680,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/vNtzc6d2vJ4FkRaSQukfDtq7eSk.jpg",
     "trailer": "",
     "sinopse": "Um NEUROCIRURGIÃO PRODIGIOSO não sente EMPATIA — literalmente NÃO CONSEGUE. Uma novata DETETIVE descobre que ele pode ser o elo entre MORTES SUSPEITAS no hospital, e a investigação força o médico a aprender o que é sentir.",
     "porque_assistir": "Jang Hyuk (Chuno!) em atuação SUBLIME. Park So-dam (Parasite!) no primeiro papel principal. Thriller médico raro. Direção de Mo Wan-il (World of the Married!). Viki BR.",
@@ -34493,22 +34697,26 @@
       "doctor-john",
       "doctor-prisoner",
       "beyond-evil"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "whisper",
     "titulo": "Whisper",
-    "titulo_original": "",
+    "titulo_original": "귓속말",
     "titulo_br": "Sussurro",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2017,
-    "episodios": 0,
+    "episodios": 17,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "60 min",
+    "status": "Finalizado",
     "final": "Feliz",
-    "plataformas": [],
+    "plataformas": [
+      "Viki",
+      "SBS"
+    ],
     "dublado": false,
     "categorias": [
       "Advogados",
@@ -34534,9 +34742,14 @@
       "Juiz",
       "Advogada"
     ],
-    "elenco": [],
-    "diretor": "",
-    "roteirista": "",
+    "elenco": [
+      "Lee Bo-young",
+      "Lee Sang-yun",
+      "Kwon Yul",
+      "Park Se-young"
+    ],
+    "diretor": "Lee Myung-woo",
+    "roteirista": "Park Kyung-soo",
     "adaptacao": "",
     "universo": "",
     "avaliacao": {
@@ -34563,7 +34776,7 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/8Mk0ieNInDXGJXbACZWwsQtcicP.jpg",
     "trailer": "",
     "sinopse": "Uma DETETIVE quer limpar o nome do PAI POLICIAL acusado de assassinato. O único aliado possível é o JUIZ FRIO que condenou o pai — e cujo próprio SOGRO comanda o escritório de advocacia mais corrupto da Coreia. Jogo de xadrez legal.",
     "porque_assistir": "Lee Bo-young (Mine, Save the Day!) em VENENO controlado. Roteiro de Park Kyung-soo (Chief of Staff, The Whirlwind!). Ação legal cerebral. Viki BR.",
@@ -34580,7 +34793,8 @@
       "the-whirlwind",
       "chief-of-staff",
       "divorce-attorney-shin"
-    ]
+    ],
+    "classificacao": 16
   },
   {
     "id": "rookie-cops",
@@ -36429,10 +36643,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36448,10 +36659,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36503,10 +36710,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36522,10 +36726,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36577,10 +36777,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36596,10 +36793,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36649,10 +36842,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36668,10 +36858,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36722,10 +36908,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36741,10 +36924,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36795,10 +36974,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36814,10 +36990,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36869,10 +37041,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36888,10 +37057,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -36940,10 +37105,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -36959,10 +37121,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37011,10 +37169,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37030,26 +37185,24 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "tempest",
     "titulo": "Tempest",
-    "titulo_original": "",
+    "titulo_original": "폭풍우",
     "titulo_br": "Tempestade",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2025,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Disney+"
+    ],
     "dublado": true,
     "categorias": [
       "Thriller",
@@ -37059,7 +37212,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Jun Ji-hyun",
+      "Gang Dong-won",
+      "John Cho",
+      "Michael Peña"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -37076,10 +37234,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37088,18 +37243,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/o9jmLOQ9K5H9W0hiSmMNzzLqnVJ.jpg",
     "trailer": "",
     "sinopse": "Uma ex-diplomata investiga o assassinato do marido e é protegida por um guarda-costas misterioso com sua própria agenda. Thriller político de peso com química adulta e conspiração internacional.",
     "porque_assistir": "Lançamento 2025 — Jun Ji-hyun, Gang Dong-won. Nota MDL 8.5. Streaming BR ativo em Disney+.",
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "the-haunted-palace",
@@ -37150,10 +37302,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37169,10 +37318,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37223,10 +37368,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37242,10 +37384,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37296,10 +37434,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37315,10 +37450,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37369,10 +37500,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37388,10 +37516,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37441,10 +37565,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37460,10 +37581,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37513,10 +37630,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37532,10 +37646,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37585,10 +37695,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37604,10 +37711,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37658,10 +37761,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37677,10 +37777,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37730,10 +37826,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37749,10 +37842,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37804,10 +37893,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37823,10 +37909,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37877,10 +37959,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37896,10 +37975,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -37949,10 +38024,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -37968,10 +38040,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38021,10 +38089,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38040,26 +38105,24 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "twelve",
     "titulo": "Twelve",
-    "titulo_original": "",
+    "titulo_original": "트웰브",
     "titulo_br": "Doze",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2025,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Disney+"
+    ],
     "dublado": false,
     "categorias": [
       "Fantasia",
@@ -38069,7 +38132,14 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Ma Dong-seok",
+      "Park Hyung-sik",
+      "Seo In-guk",
+      "Sung Dong-il",
+      "Lee Joo-bin",
+      "Ko Kyu-pil"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38086,10 +38156,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38098,18 +38165,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/cN5txCwSu4Efc91SigPSBqRU7xf.jpg",
     "trailer": "",
     "sinopse": "Há milênios, 12 anjos do zodíaco lutaram contra espíritos malignos pra proteger a humanidade. Quando o mal desperta de novo, o líder Tae San (Tigre) e seus 11 companheiros precisam se reunir em Seul. Fantasia-ação com Ma Dong-seok esmurrando demônios.",
     "porque_assistir": "Lançamento 2025 — Ma Dong-seok, Park Hyung-sik. Nota MDL 7.6. Streaming BR ativo em Disney+.",
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "the-confidence-queen",
@@ -38159,10 +38223,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38178,10 +38239,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38232,10 +38289,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38251,10 +38305,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38305,10 +38355,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38324,10 +38371,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38377,10 +38420,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38396,10 +38436,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38450,10 +38486,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38469,10 +38502,6 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -38522,10 +38551,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38541,26 +38567,24 @@
     "curiosidades": [
       "Lançamento 2025 verificado no TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "the-scandal",
     "titulo": "The Scandal",
-    "titulo_original": "",
+    "titulo_original": "스캔들",
     "titulo_br": "Escândalo e Intriga",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Histórico",
@@ -38570,7 +38594,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Son Ye-jin",
+      "Ji Chang-wook",
+      "Nana",
+      "Han Sun-hwa"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38587,10 +38616,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38599,33 +38625,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/fPXgwURa9dRRJDA8JzYT4K2aAaI.jpg",
     "trailer": "",
     "sinopse": "Adaptação sageuk de 'Ligações Perigosas' no fim da dinastia Joseon. Lady Cho, esposa devota mas inquieta com os limites impostos às mulheres, e Jo Won, um erudito mestre em artes marciais famoso por seduzir mulheres (seu primeiro amor), entram num jogo perigoso de sedução e manipulação envolvendo a jovem So Ok.",
     "porque_assistir": "Lançamento 2026 — Son Ye-jin, Ji Chang-wook. Streaming BR: Netflix. Nota MDL 8.3.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "the-ordinary-jackpot",
     "titulo": "The Ordinary Jackpot",
-    "titulo_original": "",
+    "titulo_original": "로또 1등도 출근합니다",
     "titulo_br": "Uma Fortuna Qualquer",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Comédia",
@@ -38635,7 +38660,11 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Lee Jun-hyuk",
+      "Seo Hyun-woo",
+      "Oh Dae-hwan"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38652,10 +38681,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38664,33 +38690,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/eEAJyAO5sBfVeL84G8NUqXocK8H.jpg",
     "trailer": "",
     "sinopse": "Gong Eun-tae, um vendedor comum, ganha o prêmio máximo da loteria de 1,3 bilhão de wones. O dinheiro não transforma a vida dele da noite para o dia, mas força chefes e colegas de trabalho a enxergá-lo com outros olhos — e o empurra a mudar a si mesmo.",
     "porque_assistir": "Lançamento 2026 — Lee Jun-hyuk, Seo Hyun-woo. Streaming BR: Viki. Nota MDL 7.6.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "a-love-other-than-yours",
     "titulo": "A Love Other Than Yours",
-    "titulo_original": "",
+    "titulo_original": "너 말고 다른 연애",
     "titulo_br": "Um Amor Diferente do Seu",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Prime Video"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -38699,7 +38724,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Seo Kang-joon",
+      "Ahn Eun-jin",
+      "Lee Joo-ahn",
+      "Jo A-ram"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38716,10 +38746,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38728,33 +38755,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/vvywxGVcFihxOWxXoAxECOQ20pi.jpg",
     "trailer": "",
     "sinopse": "Romance realista de fim de semana sobre Namgoong Ho e Lee Mi-do, um casal no décimo ano de relacionamento que, acomodados, veem a vida balançar quando novos interesses amorosos aparecem — inclusive um diretor de cinema que entra na história.",
     "porque_assistir": "Lançamento 2026 — Seo Kang-joon, Ahn Eun-jin. Streaming BR: Prime Video. Nota MDL 7.9.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "dive-into-you",
     "titulo": "Dive Into You",
-    "titulo_original": "",
+    "titulo_original": "너에게 다이브",
     "titulo_br": "De Volta Para Você",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Fantasia",
@@ -38764,7 +38790,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Bona (Kim Ji-yeon)",
+      "Park Seo-ham",
+      "Jang Se-hyuk",
+      "Moon Seung-you"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38781,10 +38812,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38793,33 +38821,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/dgV65oFNPlJXsWfKFwvx7e0uIsG.jpg",
     "trailer": "",
     "sinopse": "Fantasia romântica com viagem no tempo. Depois de um acidente, a atriz Yun Ha-na acorda no passado, no corpo do irmão gêmeo Yun Ha-ru, e tenta mudar a tragédia que atingiu seu primeiro amor.",
     "porque_assistir": "Lançamento 2026 — Bona (Kim Ji-yeon), Park Seo-ham. Streaming BR: Viki. Nota MDL 7.7.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "mission-mompossible",
     "titulo": "Mission: Mompossible",
-    "titulo_original": "",
+    "titulo_original": "엄마가 미쳤어요",
     "titulo_br": "Missão: Mãepossível",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Família",
@@ -38828,7 +38855,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Jung Min-ah",
+      "Dong Ha",
+      "Kim Hee-jung",
+      "Kang Kyung-hun"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38845,10 +38877,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38857,33 +38886,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/hEYZKBYnacGDUUtE2Rs0Z5uyQWi.jpg",
     "trailer": "",
     "sinopse": "Daily drama da KBS1. Duas mães com visões opostas de família — uma que sacrificou tudo pelos filhos, outra que viveu só pra si — veem os filhos adultos se cruzarem e precisarem lidar com o legado emocional das mães.",
     "porque_assistir": "Lançamento 2026 — Jung Min-ah, Dong Ha. Streaming BR: Viki. Nota MDL 7.3.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "your-personal-taxi",
     "titulo": "Your Personal Taxi",
-    "titulo_original": "",
+    "titulo_original": "개인적인 택시",
     "titulo_br": "Seu Táxi Particular",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Música",
@@ -38893,7 +38921,11 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Cha Tae-hyun",
+      "Im Se-mi",
+      "Joo Jong-hyuk"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38910,10 +38942,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38922,33 +38951,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/600463FEirm57sAsFcD55iGbVrE.jpg",
     "trailer": "",
     "sinopse": "Drama musical healing. Um taxista carrega passageiros com vidas comuns e histórias extraordinárias — cada corrida vem com uma trilha sonora escolhida pelo passageiro.",
     "porque_assistir": "Lançamento 2026 — Cha Tae-hyun, Im Se-mi. Streaming BR: Netflix. Nota MDL 7.8.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "between-steps",
     "titulo": "Between Steps",
-    "titulo_original": "",
+    "titulo_original": "연애박사",
     "titulo_br": "Entre os Nossos Passos",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Disney+"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -38957,7 +38985,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Choo Young-woo",
+      "Kim So-hyun"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -38974,10 +39005,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -38986,33 +39014,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/pGqcErS76y8bcvZZSFUefdZOg2x.jpg",
     "trailer": "",
     "sinopse": "Romance entre uma ex-nadadora que perdeu uma perna por doença e um estudante de pós-graduação que ainda busca o próprio rumo. Ambos reaprendem o que significa recomeçar.",
     "porque_assistir": "Lançamento 2026 — Choo Young-woo, Kim So-hyun. Streaming BR: Disney+. Nota MDL 7.9.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "merry-berry-love",
     "titulo": "Merry Berry Love",
-    "titulo_original": "",
+    "titulo_original": "メリーベリーラブ",
     "titulo_br": "Amor Doce Amor",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Disney+"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39021,7 +39048,9 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Elenco Coreia-Japão a confirmar"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39038,10 +39067,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39050,33 +39076,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
     "trailer": "",
     "sinopse": "Coprodução Coreia-Japão. Uma designer de interiores coreana vai parar numa ilha japonesa e, entre choques culturais e passado não resolvido, começa um romance delicado com um morador local.",
     "porque_assistir": "Lançamento 2026 — Elenco Coreia-Japão a confirmar. Streaming BR: Disney+. Nota MDL 7.5.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "take-charge-of-my-heart",
     "titulo": "Take Charge of My Heart",
-    "titulo_original": "",
+    "titulo_original": "나를 충전해줘",
     "titulo_br": "Um Choque de Amor",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39086,7 +39111,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Kim Young-kwang",
+      "Chae Soo-bin",
+      "Cha Woo-min",
+      "Jung Jae-kwang"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39103,10 +39133,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39115,33 +39142,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/ncqFauZ8eT5jq6E7jNxsopMwd8m.jpg",
     "trailer": "",
     "sinopse": "Rom-com fantástica em 12 episódios. Baek Ho-rang vive com um coração artificial cuja bateria está acabando; No Bo-bae é uma mulher capaz de gerar eletricidade e recarregar o coração dele. O que começa como salvação vira amor.",
     "porque_assistir": "Lançamento 2026 — Kim Young-kwang, Chae Soo-bin. Streaming BR: Netflix. Nota MDL 8.0.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "doctor-x-mafia-in-white",
     "titulo": "Doctor X: Mafia in White",
-    "titulo_original": "",
+    "titulo_original": "닥터X: 하얀 마피아의 시대",
     "titulo_br": "Doctor X: A Máfia do Jaleco Branco",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Prime Video"
+    ],
     "dublado": false,
     "categorias": [
       "Médico",
@@ -39151,7 +39177,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Kim Ji-won",
+      "Lee Jung-eun",
+      "Son Hyun-joo",
+      "Kim Woo-seok"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39168,10 +39199,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39180,33 +39208,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/xFnT1WFf4y9durKpIFiwrI0lvxq.jpg",
     "trailer": "",
     "sinopse": "Remake coreano do noir médico japonês. Kye Su-jeong, cirurgiã brilhante encaixada no hospital universitário Guseo por uma agência de colocação, usa a técnica pura para expor as podridões do sistema — e se enreda com o diretor do hospital.",
     "porque_assistir": "Lançamento 2026 — Kim Ji-won, Lee Jung-eun. Streaming BR: Prime Video. Nota MDL 8.1.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "100-days-of-deception",
     "titulo": "100 Days of Deception",
-    "titulo_original": "",
+    "titulo_original": "100일의 거짓말",
     "titulo_br": "100 Dias de Mentiras",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Histórico",
@@ -39216,7 +39243,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Kim Yoo-jung",
+      "Park Jinyoung",
+      "Kim Hyun-joo",
+      "Lee Mu-saeng"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39233,10 +39265,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39245,33 +39274,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/yUdCm0T0Ot6gbf6ti2hnD6oCAPC.jpg",
     "trailer": "",
     "sinopse": "Romance de espionagem no período da ocupação japonesa. Uma batedora de carteiras talentosa vira espiã infiltrada no Governo-Geral Japonês enquanto repassa informações cruciais para o exército pela independência — e se envolve com um intérprete de identidade secreta.",
     "porque_assistir": "Lançamento 2026 — Kim Yoo-jung, Park Jinyoung. Streaming BR: Viki. Nota MDL 8.2.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "make-me-tingle",
     "titulo": "Make Me Tingle",
-    "titulo_original": "",
+    "titulo_original": "내가 떨릴 수 있게",
     "titulo_br": "Que Me Faça Tremer",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39280,7 +39308,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Nam Ji-hyun",
+      "Kim Jae-yeong"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39297,10 +39328,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39309,33 +39337,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/e4MlbtE02So4D5DJy197DbiAxqs.jpg",
     "trailer": "",
     "sinopse": "Rom-com. Uma mulher que acredita no amor mas não entende como ele funciona é empurrada para um mundo novo quando conhece o CEO de uma startup de brinquedos sexuais — e precisa, de repente, encarar os próprios desejos.",
     "porque_assistir": "Lançamento 2026 — Nam Ji-hyun, Kim Jae-yeong. Streaming BR: Viki. Nota MDL 7.6.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "love-in-disguise",
     "titulo": "Love in Disguise",
-    "titulo_original": "",
+    "titulo_original": "나의 유죄인간",
     "titulo_br": "Amor Disfarçado",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39345,7 +39372,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Yim Si-wan",
+      "Seol In-ah"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39362,10 +39392,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39374,33 +39401,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
     "trailer": "",
     "sinopse": "Suspense romântico. Um herdeiro chaebol vira suspeito de assassinato e uma ex-oficial das Forças Especiais se infiltra como secretária dele para investigar — descobrindo que a verdade é mais perigosa que o crime.",
     "porque_assistir": "Lançamento 2026 — Yim Si-wan, Seol In-ah. Streaming BR: Viki. Nota MDL 8.0.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "final-table",
     "titulo": "Final Table",
-    "titulo_original": "",
+    "titulo_original": "파이널 테이블",
     "titulo_br": "Mesa Final",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Culinária",
@@ -39410,7 +39436,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Ahn Hyo-seop",
+      "Hong Hwa-yeon"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39427,10 +39456,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39439,33 +39465,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
     "trailer": "",
     "sinopse": "Drama de competição culinária. Chefs coreanos espalhados pelo mundo entram numa disputa de alto risco em formato survival para descobrir qual é o melhor chef da cozinha coreana da sua geração.",
     "porque_assistir": "Lançamento 2026 — Ahn Hyo-seop, Hong Hwa-yeon. Streaming BR: Netflix. Nota MDL 7.9.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "oh-my-guard",
     "titulo": "Oh! My Guard",
-    "titulo_original": "",
+    "titulo_original": "밑도 끝도 없이, 너다",
     "titulo_br": "Sem Começo Nem Fim, É Você",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39475,7 +39500,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Jung Yong-hwa",
+      "Hong Seung-hee"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39492,10 +39520,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39504,33 +39529,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/dg4IIruyBEtSgjW5fdXi46xrSzC.jpg",
     "trailer": "",
     "sinopse": "Romance com clima misterioso. Um ator famoso com um defeito fatal vive um envolvimento imprevisível com uma mulher misteriosa, convencida de que é a protagonista feminina do drama em que ele atua.",
     "porque_assistir": "Lançamento 2026 — Jung Yong-hwa, Hong Seung-hee. Streaming BR: Viki. Nota MDL 7.5.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "summer-vacation",
     "titulo": "Summer Vacation",
-    "titulo_original": "",
+    "titulo_original": "여름방학",
     "titulo_br": "Férias de Verão",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Mistério",
@@ -39540,7 +39564,10 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Cho Yi-hyun",
+      "Jin Young"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39557,10 +39584,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39569,33 +39593,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/ru4oyTVoPVQZPUE5rI3YPMgLHBY.jpg",
     "trailer": "",
     "sinopse": "Uma colegial vive um verão misterioso na Vila Upo, onde conhece o filho do dono das terras. Mistério, amadurecimento e segredos de uma vila que parece guardar mais do que diz.",
     "porque_assistir": "Lançamento 2026 — Cho Yi-hyun, Jin Young. Streaming BR: Viki. Nota MDL 7.6.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "dead-end-job",
     "titulo": "Dead-End Job",
-    "titulo_original": "",
+    "titulo_original": "꿀알바",
     "titulo_br": "Um Trabalho do Inferno",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Netflix"
+    ],
     "dublado": false,
     "categorias": [
       "Terror",
@@ -39605,7 +39628,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Lee Jae-wook",
+      "Go Min-si",
+      "Kim Min-ha",
+      "Lee Hee-joon"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39622,10 +39650,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39634,33 +39659,32 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
     "trailer": "",
     "sinopse": "Mistério-terror fantástico. Hyuk-jun aceita um bico 'perfeito' que paga 50 vezes a hora comum, através de uma agência misteriosa, e descobre que o preço real do trabalho é confrontar eventos sobrenaturais aterrorizantes dentro do próprio expediente.",
     "porque_assistir": "Lançamento 2026 — Lee Jae-wook, Go Min-si. Streaming BR: Netflix. Nota MDL 8.1.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação etária TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 16
   },
   {
     "id": "dal-ja-s-spring",
     "titulo": "Dal Ja's Spring",
-    "titulo_original": "",
+    "titulo_original": "달자의 봄",
     "titulo_br": "",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2007,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -39669,7 +39693,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Chae Rim",
+      "Lee Min-ki",
+      "Lee Hyun-jin",
+      "Gong Hyun-joo"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -39686,10 +39715,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39698,18 +39724,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/vTrbBEJjEg0PEVxKw5rgY4vM7ac.jpg",
     "trailer": "",
     "sinopse": "Dal Ja, de 33 anos, está pressionada a casar quando contrata um rapaz mais novo para fingir ser seu namorado. O arranjo de faz-de-conta vira autoconhecimento, carreira e um romance surpreendente.",
     "porque_assistir": "Chae Rim, Lee Min-ki. Streaming BR: Viki. MDL 7.9.",
     "curiosidades": [
       "Verificado TMDB (id=1390)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "pasta",
@@ -39759,10 +39782,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39778,10 +39798,6 @@
     "curiosidades": [
       "Verificado TMDB (id=32220)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -39832,10 +39848,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39851,10 +39864,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61048)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -39905,10 +39914,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39924,10 +39930,6 @@
     "curiosidades": [
       "Verificado TMDB (id=46550)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -39978,10 +39980,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -39997,10 +39996,6 @@
     "curiosidades": [
       "Verificado TMDB (id=249523)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40051,10 +40046,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40070,26 +40062,24 @@
     "curiosidades": [
       "Verificado TMDB (id=61218)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "witch-s-romance",
     "titulo": "Witch's Romance",
-    "titulo_original": "",
+    "titulo_original": "마녀의 연애",
     "titulo_br": "",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2014,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -40098,7 +40088,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Uhm Jung-hwa",
+      "Park Seo-joon",
+      "Han Jae-suk",
+      "Yoon Hyun-min"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -40115,10 +40110,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40127,18 +40119,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/88aq7A2VhM6dR5YB4TxVgi9h4sT.jpg",
     "trailer": "",
     "sinopse": "Uma repórter mandona de 39 anos, apelidada de bruxa no trabalho, se envolve por engano com um rapaz de 25 que trabalha em uma central de biscates. Noona romance de química absurda.",
     "porque_assistir": "Uhm Jung-hwa, Park Seo-joon. Streaming BR: Viki. MDL 8.3.",
     "curiosidades": [
       "Verificado TMDB (id=63022)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "hyde-jekyll-me",
@@ -40188,10 +40177,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40207,10 +40193,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61890)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40261,10 +40243,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40280,10 +40259,6 @@
     "curiosidades": [
       "Verificado TMDB (id=62301)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40333,10 +40308,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40352,10 +40324,6 @@
     "curiosidades": [
       "Verificado TMDB (id=62838)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40406,10 +40374,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40425,10 +40390,6 @@
     "curiosidades": [
       "Verificado TMDB (id=62925)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40478,10 +40439,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40497,10 +40455,6 @@
     "curiosidades": [
       "Verificado TMDB (id=67802)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40551,10 +40505,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40570,10 +40521,6 @@
     "curiosidades": [
       "Verificado TMDB (id=66082)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40623,10 +40570,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40642,10 +40586,6 @@
     "curiosidades": [
       "Verificado TMDB (id=66560)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40696,10 +40636,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40715,10 +40652,6 @@
     "curiosidades": [
       "Verificado TMDB (id=70744)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40769,10 +40702,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40788,10 +40718,6 @@
     "curiosidades": [
       "Verificado TMDB (id=70191)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40842,10 +40768,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40861,10 +40784,6 @@
     "curiosidades": [
       "Verificado TMDB (id=71497)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40915,10 +40834,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -40934,10 +40850,6 @@
     "curiosidades": [
       "Verificado TMDB (id=75123)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -40988,10 +40900,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41007,10 +40916,6 @@
     "curiosidades": [
       "Verificado TMDB (id=80919)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41060,10 +40965,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41079,10 +40981,6 @@
     "curiosidades": [
       "Verificado TMDB (id=78869)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41133,10 +41031,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41152,10 +41047,6 @@
     "curiosidades": [
       "Verificado TMDB (id=83140)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41207,10 +41098,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41226,10 +41114,6 @@
     "curiosidades": [
       "Verificado TMDB (id=100941)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41280,10 +41164,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41299,10 +41180,6 @@
     "curiosidades": [
       "Verificado TMDB (id=111292)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41353,10 +41230,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41372,10 +41246,6 @@
     "curiosidades": [
       "Verificado TMDB (id=108285)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41426,10 +41296,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41445,10 +41312,6 @@
     "curiosidades": [
       "Verificado TMDB (id=99478)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41499,10 +41362,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41518,26 +41378,24 @@
     "curiosidades": [
       "Verificado TMDB (id=114149)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "l-u-c-a-the-beginning",
     "titulo": "L.U.C.A.: The Beginning",
-    "titulo_original": "",
+    "titulo_original": "루카: 더 비기닝",
     "titulo_br": "",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2021,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Suspense",
@@ -41547,7 +41405,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Kim Rae-won",
+      "Lee Da-hee",
+      "Kim Sung-oh",
+      "Lee Kyoung-young"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -41564,10 +41427,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41576,18 +41436,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/jcEikoCQsdKueYT20ekzhx6C6HY.jpg",
     "trailer": "",
     "sinopse": "Um homem com habilidades sobre-humanas foge de uma organização que quer dissecá-lo. Uma detetive marcada por um trauma de infância reconhece nele o estranho que a salvou anos atrás.",
     "porque_assistir": "Kim Rae-won, Lee Da-hee. Streaming BR: Viki. MDL 8.1.",
     "curiosidades": [
       "Verificado TMDB (id=116043)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "sell-your-haunted-house",
@@ -41637,10 +41494,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41656,10 +41510,6 @@
     "curiosidades": [
       "Verificado TMDB (id=121695)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41710,10 +41560,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41729,10 +41576,6 @@
     "curiosidades": [
       "Verificado TMDB (id=117896)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41783,10 +41626,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41802,10 +41642,6 @@
     "curiosidades": [
       "Verificado TMDB (id=112834)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41856,10 +41692,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41875,10 +41708,6 @@
     "curiosidades": [
       "Verificado TMDB (id=127358)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -41929,10 +41758,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -41948,26 +41774,24 @@
     "curiosidades": [
       "Verificado TMDB (id=152512)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "woman-of-9-9-billion",
     "titulo": "Woman of 9.9 Billion",
-    "titulo_original": "",
+    "titulo_original": "99억의 여자",
     "titulo_br": "A Mulher dos 9,9 Bilhões",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2019,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Thriller",
@@ -41977,7 +41801,12 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Jo Yeo-jeong",
+      "Kim Kang-woo",
+      "Oh Na-ra",
+      "Jung Woong-in"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -41994,10 +41823,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42006,18 +41832,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/xT1OCyawUURKH4oMfZezDIBHxte.jpg",
     "trailer": "",
     "sinopse": "Uma dona de casa sufocada por dívidas encontra uma bolsa com 9,9 bilhões de wones e decide fugir com o dinheiro para começar do zero. Thriller moral com protagonista feminina madura que escolhe o próprio destino, custe o que custar.",
     "porque_assistir": "Jo Yeo-jeong, Kim Kang-woo. Streaming BR: Viki. MDL 8.1.",
     "curiosidades": [
       "Verificado TMDB (id=95111)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "the-judge-returns",
@@ -42062,10 +41885,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42081,10 +41901,6 @@
     "curiosidades": [
       "Verificado TMDB (id=282810)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42130,10 +41946,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42149,10 +41962,6 @@
     "curiosidades": [
       "Verificado TMDB (id=301886)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42197,10 +42006,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42216,10 +42022,6 @@
     "curiosidades": [
       "Verificado TMDB (id=280948)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42265,10 +42067,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42284,10 +42083,6 @@
     "curiosidades": [
       "Verificado TMDB (id=270420)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42333,10 +42128,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42352,10 +42144,6 @@
     "curiosidades": [
       "Verificado TMDB (id=307602)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42400,10 +42188,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42419,10 +42204,6 @@
     "curiosidades": [
       "Verificado TMDB (id=287346)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42467,10 +42248,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42486,10 +42264,6 @@
     "curiosidades": [
       "Verificado TMDB (id=273977)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42534,10 +42308,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42553,10 +42324,6 @@
     "curiosidades": [
       "Verificado TMDB (id=289690)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42605,10 +42372,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42624,26 +42388,24 @@
     "curiosidades": [
       "Verificado TMDB (id=287344)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "siren-s-kiss",
     "titulo": "Siren's Kiss",
-    "titulo_original": "",
+    "titulo_original": "세이렌",
     "titulo_br": "O Beijo da Sereia",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Prime Video"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -42669,10 +42431,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42681,18 +42440,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/rParsARU91lw009qNKkgKFEEYAP.jpg",
     "trailer": "",
     "sinopse": "Uma sereia que aprendeu a viver em terra firme precisa escolher entre o mar e o homem que insiste em segurá-la aqui. Fantasia romântica com estética aquática e dilemas de identidade.",
     "porque_assistir": "K-drama. Streaming BR: Prime Video.",
     "curiosidades": [
       "Verificado TMDB (id=310800)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "always-meet-again",
@@ -42736,10 +42492,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42755,10 +42508,6 @@
     "curiosidades": [
       "Verificado TMDB (id=313138)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42803,10 +42552,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42822,10 +42568,6 @@
     "curiosidades": [
       "Verificado TMDB (id=314669)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42870,10 +42612,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42889,10 +42628,6 @@
     "curiosidades": [
       "Verificado TMDB (id=281965)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -42937,10 +42672,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -42956,10 +42688,6 @@
     "curiosidades": [
       "Verificado TMDB (id=311650)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43004,10 +42732,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43023,10 +42748,6 @@
     "curiosidades": [
       "Verificado TMDB (id=313735)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43075,10 +42796,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43094,26 +42812,24 @@
     "curiosidades": [
       "Verificado TMDB (id=127529)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "yumi-s-cells-3",
     "titulo": "Yumi's Cells 3",
-    "titulo_original": "",
+    "titulo_original": "유미의 세포들 3",
     "titulo_br": "As Células de Yumi 3",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -43123,7 +42839,9 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Kim Go-eun"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -43140,10 +42858,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43152,18 +42867,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/wb0ysW1H4bjceY551Dh4VW2jOzF.jpg",
     "trailer": "",
     "sinopse": "Yumi volta com suas células internas em nova fase da vida: carreira em alta, amor em dúvida e um novo capítulo esperando ser escrito. Comédia romântica com animação híbrida e protagonismo adulto.",
     "porque_assistir": "Kim Go-eun. Streaming BR: Viki.",
     "curiosidades": [
       "Verificado TMDB (id=128995)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "absolute-value-of-romance",
@@ -43207,10 +42919,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43226,10 +42935,6 @@
     "curiosidades": [
       "Verificado TMDB (id=314784)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43274,10 +42979,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43293,10 +42995,6 @@
     "curiosidades": [
       "Verificado TMDB (id=284000)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43342,10 +43040,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43361,10 +43056,6 @@
     "curiosidades": [
       "Verificado TMDB (id=289424)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43410,10 +43101,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43429,10 +43117,6 @@
     "curiosidades": [
       "Verificado TMDB (id=292121)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43477,10 +43161,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43496,10 +43177,6 @@
     "curiosidades": [
       "Verificado TMDB (id=287011)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43545,10 +43222,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43564,10 +43238,6 @@
     "curiosidades": [
       "Verificado TMDB (id=285838)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43613,10 +43283,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43632,10 +43299,6 @@
     "curiosidades": [
       "Verificado TMDB (id=303143)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43680,10 +43343,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43699,10 +43359,6 @@
     "curiosidades": [
       "Verificado TMDB (id=319600)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43748,10 +43404,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43767,10 +43420,6 @@
     "curiosidades": [
       "Verificado TMDB (id=295509)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43815,10 +43464,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43834,10 +43480,6 @@
     "curiosidades": [
       "Verificado TMDB (id=259837)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43883,10 +43525,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43902,10 +43541,6 @@
     "curiosidades": [
       "Verificado TMDB (id=297712)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -43951,10 +43586,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -43970,10 +43602,6 @@
     "curiosidades": [
       "Verificado TMDB (id=330769)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44018,10 +43646,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44037,10 +43662,6 @@
     "curiosidades": [
       "Verificado TMDB (id=276161)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44086,10 +43707,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44105,10 +43723,6 @@
     "curiosidades": [
       "Verificado TMDB (id=289763)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44154,10 +43768,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44173,26 +43784,24 @@
     "curiosidades": [
       "Verificado TMDB (id=296206)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "the-prosecutor-s-proposal",
     "titulo": "The Prosecutor's Proposal",
-    "titulo_original": "",
+    "titulo_original": "검사실의 제안",
     "titulo_br": "A Proposta do Promotor",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2026,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Em produção",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Jurídico",
@@ -44219,10 +43828,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44231,18 +43837,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/lK6DrnFecG0AsA8O5UqEYOrOArd.jpg",
     "trailer": "",
     "sinopse": "Um promotor obstinado faz à principal suspeita uma proposta pouco ortodoxa para fechar o caso mais barulhento da promotoria. Drama jurídico com tensão romântica.",
     "porque_assistir": "K-drama. Streaming BR: Viki.",
     "curiosidades": [
       "Verificado TMDB (id=322055)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "notes-from-the-last-row",
@@ -44287,10 +43890,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44306,10 +43906,6 @@
     "curiosidades": [
       "Verificado TMDB (id=286360)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44355,10 +43951,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44374,10 +43967,6 @@
     "curiosidades": [
       "Verificado TMDB (id=315007)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44423,10 +44012,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44442,10 +44028,6 @@
     "curiosidades": [
       "Verificado TMDB (id=320406)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44491,10 +44073,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44510,10 +44089,6 @@
     "curiosidades": [
       "Verificado TMDB (id=298610)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44564,10 +44139,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44583,10 +44155,6 @@
     "curiosidades": [
       "Verificado TMDB (id=301418)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44637,10 +44205,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44656,10 +44221,6 @@
     "curiosidades": [
       "Verificado TMDB (id=294095)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44712,10 +44273,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44731,10 +44289,6 @@
     "curiosidades": [
       "Verificado TMDB (id=37722)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44784,10 +44338,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44803,10 +44354,6 @@
     "curiosidades": [
       "Verificado TMDB (id=40028)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44857,10 +44404,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44876,10 +44420,6 @@
     "curiosidades": [
       "Verificado TMDB (id=38167)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -44931,10 +44471,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -44950,10 +44487,6 @@
     "curiosidades": [
       "Verificado TMDB (id=38861)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45003,10 +44536,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45022,10 +44552,6 @@
     "curiosidades": [
       "Verificado TMDB (id=8358)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45076,10 +44602,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45095,10 +44618,6 @@
     "curiosidades": [
       "Verificado TMDB (id=46528)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45149,10 +44668,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45168,26 +44684,24 @@
     "curiosidades": [
       "Verificado TMDB (id=46002)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
     "id": "a-gentleman-s-dignity",
     "titulo": "A Gentleman's Dignity",
-    "titulo_original": "",
+    "titulo_original": "신사의 품격",
     "titulo_br": "",
     "tipo": "",
-    "pais": "",
+    "pais": "Coreia do Sul",
     "ano": 2012,
-    "episodios": 0,
+    "episodios": 12,
     "temporadas": 1,
-    "duracao": "",
-    "status": "",
+    "duracao": "70 min",
+    "status": "Finalizado",
     "final": "Aberto",
-    "plataformas": [],
+    "plataformas": [
+      "Viki"
+    ],
     "dublado": false,
     "categorias": [
       "Romance",
@@ -45197,7 +44711,13 @@
     "tropos": [],
     "temas": [],
     "profissoes": [],
-    "elenco": [],
+    "elenco": [
+      "Jang Dong-gun",
+      "Kim Ha-neul",
+      "Kim Su-ro",
+      "Lee Jong-hyuk",
+      "Kim Min-jong"
+    ],
     "diretor": "",
     "roteirista": "",
     "adaptacao": "",
@@ -45214,10 +44734,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45226,18 +44743,15 @@
     "ost": [],
     "premios": [],
     "banner": "",
-    "poster": "",
+    "poster": "/zdYmI1uYrHsNbw9qMHiWDnGRwXX.jpg",
     "trailer": "",
     "sinopse": "Quatro amigos quarentões, bem-sucedidos e eternos adolescentes, encaram juntos amor, trabalho e envelhecimento em Seul. O caso improvável entre um deles e uma professora recém-chegada bagunça o grupo.",
     "porque_assistir": "Jang Dong-gun, Kim Ha-neul. Streaming BR: Viki. MDL 8.2.",
     "curiosidades": [
       "Verificado TMDB (id=43135)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
-    "recomendacoes": []
+    "recomendacoes": [],
+    "classificacao": 14
   },
   {
     "id": "to-the-beautiful-you",
@@ -45287,10 +44801,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45306,10 +44817,6 @@
     "curiosidades": [
       "Verificado TMDB (id=47007)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45360,10 +44867,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45379,10 +44883,6 @@
     "curiosidades": [
       "Verificado TMDB (id=84651)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45434,10 +44934,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45453,10 +44950,6 @@
     "curiosidades": [
       "Verificado TMDB (id=46596)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45507,10 +45000,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45526,10 +45016,6 @@
     "curiosidades": [
       "Verificado TMDB (id=71712)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45580,10 +45066,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45599,10 +45082,6 @@
     "curiosidades": [
       "Verificado TMDB (id=59046)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45653,10 +45132,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45672,10 +45148,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63787)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45726,10 +45198,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45745,10 +45214,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61157)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45799,10 +45264,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45818,10 +45280,6 @@
     "curiosidades": [
       "Verificado TMDB (id=60956)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45872,10 +45330,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45891,10 +45346,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61487)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -45945,10 +45396,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -45964,10 +45412,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61606)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46018,10 +45462,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46037,10 +45478,6 @@
     "curiosidades": [
       "Verificado TMDB (id=61580)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46091,10 +45528,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46110,10 +45544,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63926)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46164,10 +45594,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46183,10 +45610,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63500)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46237,10 +45660,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46256,10 +45676,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63529)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46310,10 +45726,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46329,10 +45742,6 @@
     "curiosidades": [
       "Verificado TMDB (id=95395)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46383,10 +45792,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46402,10 +45808,6 @@
     "curiosidades": [
       "Verificado TMDB (id=63106)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46456,10 +45858,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46475,10 +45874,6 @@
     "curiosidades": [
       "Verificado TMDB (id=71871)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46530,10 +45925,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46549,10 +45941,6 @@
     "curiosidades": [
       "Verificado TMDB (id=70220)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46603,10 +45991,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46622,10 +46007,6 @@
     "curiosidades": [
       "Verificado TMDB (id=77735)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46678,10 +46059,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46697,10 +46075,6 @@
     "curiosidades": [
       "Verificado TMDB (id=76557)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46751,10 +46125,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46770,10 +46141,6 @@
     "curiosidades": [
       "Verificado TMDB (id=126280)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46825,10 +46192,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46844,10 +46208,6 @@
     "curiosidades": [
       "Verificado TMDB (id=34633)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46898,10 +46258,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46917,10 +46274,6 @@
     "curiosidades": [
       "Verificado TMDB (id=79070)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -46971,10 +46324,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -46990,10 +46340,6 @@
     "curiosidades": [
       "Verificado TMDB (id=86830)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47044,10 +46390,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47063,10 +46406,6 @@
     "curiosidades": [
       "Verificado TMDB (id=88359)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47117,10 +46456,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47136,10 +46472,6 @@
     "curiosidades": [
       "Verificado TMDB (id=87408)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver classificação TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47190,10 +46522,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47209,10 +46538,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=307478)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47263,10 +46588,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47282,10 +46604,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=320513)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47336,10 +46654,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47355,10 +46670,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=299764)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47408,10 +46719,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47427,10 +46735,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=313738)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47480,10 +46784,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47499,10 +46800,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=326975)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47554,10 +46851,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47573,10 +46867,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=301354)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47627,10 +46917,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47646,10 +46933,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=300523)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   },
   {
@@ -47700,10 +46983,7 @@
       "humor": 4,
       "beijos": 2
     },
-    "flags": {
-      "green": 5,
-      "red": 5
-    },
+    "flags": {},
     "triangulo_amoroso": false,
     "perfil": {
       "iniciante": false,
@@ -47719,10 +46999,6 @@
     "curiosidades": [
       "Lançamento 2026 verificado TMDB (id=256726)."
     ],
-    "conteudo": {
-      "nivel": "violencia",
-      "aviso": "Ver TMDB."
-    },
     "recomendacoes": []
   }
 ]
