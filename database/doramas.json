@@ -6772,7 +6772,7 @@
       "SBS",
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Advogados",
       "Sobrenatural",
@@ -8127,7 +8127,7 @@
       "SBS",
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Comédia",
@@ -10222,7 +10222,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Fantasia",
@@ -10407,7 +10407,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Advogados"
@@ -10501,7 +10501,7 @@
       "MBC",
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Históricos",
@@ -12266,7 +12266,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Emocionantes",
@@ -12359,7 +12359,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Históricos",
       "Emocionantes",
@@ -24139,7 +24139,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Investigação",
@@ -24879,7 +24879,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Investigação",
@@ -26188,7 +26188,7 @@
       "Disney+",
       "tvN"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Investigação",
       "Sobrenatural",
@@ -26939,7 +26939,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Investigação",
@@ -35191,7 +35191,7 @@
       "Disney+",
       "tvN"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Comédia",
@@ -35379,7 +35379,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Emocionantes",
@@ -35570,7 +35570,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Emocionantes",
       "Investigação",
@@ -35855,10 +35855,10 @@
     "classificacao": 16,
     "final": "Feliz",
     "plataformas": [
-      "Disney+",
+      "Prime Video",
       "ENA"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Comédia",
       "Emocionantes",
@@ -36424,7 +36424,7 @@
     "plataformas": [
       "Disney+"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Emocionantes",
@@ -36517,9 +36517,9 @@
     "classificacao": 16,
     "final": "Feliz",
     "plataformas": [
-      "Disney+"
+      "Viki"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Ação",
       "Comédia",
@@ -37469,7 +37469,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Thriller",
       "Mistério",
@@ -44160,8 +44160,8 @@
   {
     "id": "a-bona-fide-killer",
     "titulo": "A Bona Fide Killer",
-    "titulo_original": "살인자 ㅇ난감",
-    "titulo_br": "",
+    "titulo_original": "유부녀 킬러",
+    "titulo_br": "A Justiceira",
     "tipo": "K-Drama",
     "pais": "Coreia do Sul",
     "ano": 2026,
@@ -44184,10 +44184,8 @@
     "temas": [],
     "profissoes": [],
     "elenco": [
-      "Kim Nam-gil",
-      "Jin Seo-yeon",
-      "Lee Hong-nae",
-      "Kim Shin-rok"
+      "Gong Hyo-jin",
+      "Jung Jun-won"
     ],
     "diretor": "",
     "roteirista": "",
@@ -46886,7 +46884,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Crime",
       "Mistério",
@@ -46952,7 +46950,7 @@
     "plataformas": [
       "Netflix"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Drama",
       "Época",
