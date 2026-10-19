@@ -751,3 +751,25 @@ a { color: inherit; text-decoration: none; }
   .fbloco-tit { flex-wrap: wrap; }
   .fbloco-tit span { order: 3; flex-basis: 100%; }
 }
+
+/* Gênero e Clima em tabela */
+.ftabela { display: grid; grid-template-columns: repeat(var(--cols), minmax(0, 1fr)); gap: 6px 22px; }
+.fcol { display: flex; flex-direction: column; min-width: 0; }
+.fcol-tit { margin: 0 0 6px; padding-bottom: 6px; border-bottom: 1px solid var(--line);
+  font-size: 11px; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; color: var(--text-faint); }
+.flinha { display: flex; align-items: center; gap: 10px; width: 100%; padding: 7px 8px; border: none; border-radius: 8px;
+  background: none; color: var(--text); font-size: 14px; text-align: left; transition: background .12s; }
+.flinha + .flinha { border-top: 1px solid color-mix(in srgb, var(--line) 55%, transparent); border-radius: 0; }
+.flinha:not(:disabled):hover { background: var(--bg-2); }
+.flinha:disabled { opacity: .32; cursor: default; }
+.fcaixa { flex: none; width: 18px; height: 18px; border-radius: 5px; border: 1.5px solid var(--text-faint);
+  display: grid; place-items: center; font-size: 12px; font-weight: 900; color: #fff; }
+.flinha.on .fcaixa { background: var(--azul-ci); border-color: var(--azul-ci); }
+.flinha.on .flinha-nome { font-weight: 700; }
+.flinha-nome { flex: 1; min-width: 0; }
+.flinha-n { font-size: 12px; font-weight: 700; color: var(--text-faint); font-variant-numeric: tabular-nums; }
+@media (max-width: 600px) {
+  .ftabela { grid-template-columns: 1fr; gap: 14px; }
+}
+.fb-gen .ftabela { grid-template-columns: 1fr 1.3fr .8fr; }
+@media (max-width: 600px) { .fb-gen .ftabela { grid-template-columns: 1fr; } }

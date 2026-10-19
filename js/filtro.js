@@ -115,6 +115,19 @@ export function abrirFiltro(hashTxt) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+/* Gênero e Clima viram tabela: cada coluna junta opções do mesmo tipo. */
+const COLUNAS = {
+  gen: [
+    { tit: "Gênero", itens: ["Romance", "Comédia", "Emocionantes", "Ação", "Investigação", "Fantasia", "Sobrenatural", "Históricos", "Psicologia"] },
+    { tit: "Romance e tropos", itens: ["Slow Burn", "Química Inesquecível", "Casamento por contrato", "Namoro de mentira", "Rivais que se apaixonam", "Green Flag", "Red Flag"] },
+    { tit: "Profissões", itens: ["CEO", "Médicos", "Advogados"] },
+  ],
+  clima: [
+    { tit: "Sentimento", itens: ["lencinhos", "comfort", "leves", "quimica", "borboletas", "saudaveis"] },
+    { tit: "Ritmo e descoberta", itens: ["maratona", "viciante", "primeiro", "joias"] },
+  ],
+};
+
 /* Grupos que ficam sempre à vista; o resto vai para "Mais filtros". */
 const GRUPOS_TOPO = ["plat", "audio", "gen", "clima"];
 let maisAberto = false;
@@ -138,11 +151,34 @@ function chipsDoGrupo(g) {
       ${o.label}${n != null ? ` <b>${n}</b>` : ""}</button>`;
   }).join("");
 }
+/* Linha da tabela: caixinha + nome + contagem alinhada à direita. */
+function linhaTabela(g, o) {
+  const on = selecao[g.k]?.has(o.v);
+  const n = on ? null : contaOpcao(g, o);
+  const vazio = !on && n === 0;
+  const nome = o.label.replace(/^\S+\s/, "");   // tira o emoji: a tabela fica limpa
+  return `<button class="flinha ${on ? "on" : ""}" role="checkbox" aria-checked="${!!on}" data-fgrupo="${g.k}" data-fval="${o.v}" ${vazio ? "disabled" : ""}>
+    <span class="fcaixa">${on ? "✓" : ""}</span><span class="flinha-nome">${nome}</span><span class="flinha-n">${n ?? ""}</span></button>`;
+}
+function tabelaGrupo(g) {
+  const usados = new Set();
+  const cols = COLUNAS[g.k].map(c => {
+    const ops = c.itens.map(v => g.opcoes.find(o => o.v === v)).filter(Boolean);
+    ops.forEach(o => usados.add(o.v));
+    return { tit: c.tit, ops };
+  });
+  const sobra = g.opcoes.filter(o => !usados.has(o.v));   // opção nova cai na 1ª coluna
+  if (sobra.length) cols[0].ops.push(...sobra);
+  return `<div class="ftabela" style="--cols:${cols.length}">${cols.map(c => `
+    <div class="fcol"><p class="fcol-tit">${c.tit}</p>${c.ops.map(o => linhaTabela(g, o)).join("")}</div>`).join("")}</div>`;
+}
+
 function blocoGrupo(g, extra = "") {
   const ativos = selecao[g.k]?.size || 0;
   return `<section class="fbloco fb-${g.k} ${extra}">
     <header class="fbloco-tit"><h3>${g.titulo}</h3>${g.dica ? `<span>${g.dica}</span>` : ""}${ativos ? `<em>${ativos}</em>` : ""}</header>
-    <div class="${g.k === "plat" ? "fplats" : g.k === "audio" ? "fsegs" : "fgrupo-chips"}">${chipsDoGrupo(g)}</div>
+    ${COLUNAS[g.k] ? tabelaGrupo(g)
+      : `<div class="${g.k === "plat" ? "fplats" : g.k === "audio" ? "fsegs" : "fgrupo-chips"}">${chipsDoGrupo(g)}</div>`}
   </section>`;
 }
 
