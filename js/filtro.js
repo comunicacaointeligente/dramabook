@@ -35,6 +35,11 @@ function montarGrupos() {
     { k: "clima", titulo: "✨ Clima", todos: true, dica: "precisa ter todos os marcados",
       opcoes: EXP_FILTRO.map(k => EXPERIENCIAS.find(e => e.key === k)).filter(Boolean).map(e => ({
         v: e.key, label: `${e.icon} ${e.label}`, teste: d => temExperiencia(d, e.key, e.selo) })) },
+    { k: "pais", titulo: "🌏 País", opcoes: [
+        { v: "coreia", label: "🇰🇷 Coreia", teste: d => /coreia/i.test(d.pais || "") },
+        { v: "china", label: "🇨🇳 China", teste: d => /china/i.test(d.pais || "") },
+        { v: "japao", label: "🇯🇵 Japão", teste: d => /jap/i.test(d.pais || "") },
+        { v: "taiwan", label: "🇹🇼 Taiwan", teste: d => /taiwan/i.test(d.pais || "") } ] },
     { k: "final", titulo: "🏁 Final", opcoes: [
         { v: "Feliz", label: "😊 Feliz", teste: d => d.final === "Feliz" },
         { v: "Agridoce", label: "🥲 Agridoce", teste: d => d.final === "Agridoce" },
@@ -210,7 +215,7 @@ function desenharFiltro() {
     </div>
 
     <button class="fmais ${maisAberto ? "aberto" : ""}" data-fmais="1">
-      <span>⚙️ Mais filtros</span><small>final, tamanho, lançamento, nota, conteúdo${ativosResto ? ` · <b>${ativosResto} ativo(s)</b>` : ""}</small><i>${maisAberto ? "▲" : "▼"}</i>
+      <span>⚙️ Mais filtros</span><small>país, final, tamanho, lançamento, nota, conteúdo${ativosResto ? ` · <b>${ativosResto} ativo(s)</b>` : ""}</small><i>${maisAberto ? "▲" : "▼"}</i>
     </button>
     <div class="fgrade-mais" ${maisAberto ? "" : "hidden"}>${resto.map(g => blocoGrupo(g)).join("")}</div>
 
