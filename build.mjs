@@ -19,7 +19,7 @@ const MODULES = [
   "js/config.js", "js/user.js", "js/plataformas.js", "js/store.js", "js/filters.js",
   "js/diagnostico.js",
   "components/card.js", "components/rail.js", "components/hero.js", "components/modal.js",
-  "components/biblioteca.js", "js/share.js", "js/views.js", "app.js",
+  "components/biblioteca.js", "js/share.js", "js/logos.js", "js/filtro.js", "js/views.js", "app.js",
 ];
 const apelidos = [];
 function strip(src, arquivo = "") {

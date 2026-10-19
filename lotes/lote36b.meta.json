@@ -1,0 +1,60 @@
+{
+ "final-table": {
+  "titulo_original": "파이널 테이블",
+  "titulo_br": "Final Table",
+  "pais": "Coreia do Sul",
+  "ano": 2026,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "",
+  "elenco": [
+   "Ahn Hyo-seop",
+   "Hong Hwa-yeon",
+   "Chang Ryul",
+   "Eugene",
+   "Jang Young-nam",
+   "Cha Ji-yeon"
+  ],
+  "diretor": "Kim Do-hoon",
+  "roteirista": "Kim Do-hoon",
+  "plataformas": [
+   "Prime Video",
+   "JTBC"
+  ],
+  "status": "Em produção",
+  "classificacao": "",
+  "poster": "/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg",
+  "banner": "/anwMEnTDkhv5qJ8wXSRieCvFHGs.jpg",
+  "trailer": ""
+ },
+ "merry-berry-love": {
+  "titulo_original": "メリーベリーラブ",
+  "titulo_br": "Amor, Doce Amor",
+  "pais": "Coreia do Sul / Japão",
+  "ano": 2026,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "",
+  "elenco": [
+   "Ji Chang-wook",
+   "Mio Imada",
+   "Nam Yoon-su",
+   "Rinka Kumada",
+   "Kangnam",
+   "Kim Tae-hoon",
+   "Jung Soon-won",
+   "Yasunori Danta"
+  ],
+  "diretor": "Kim Soo-jung, Roh Young-sub",
+  "roteirista": "Lee Jae-yoon",
+  "plataformas": [
+   "Disney+",
+   "Nippon TV"
+  ],
+  "status": "Em exibição",
+  "classificacao": "",
+  "poster": "/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg",
+  "banner": "/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+  "trailer": ""
+ }
+}

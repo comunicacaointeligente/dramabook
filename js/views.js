@@ -28,6 +28,7 @@ export function renderSidebar() {
     `<button class="menu-item" data-facet="conteudo:${k}">${c.cor} ${c.label}</button>`).join("");
   $("#menu").innerHTML = `
     <button class="menu-item destaque" data-facet="all">🏠 Início</button>
+    <button class="menu-item destaque" data-filtro="1">🎛️ Filtro avançado</button>
     <button class="menu-item destaque" data-biblioteca="1">📚 Minha Biblioteca</button>
     <p class="menu-label">Minhas listas</p>${listHtml}
     ${minhasHtml}
@@ -91,6 +92,7 @@ export function renderHome() {
   const empty = !STATE.all.length;
   $("#resultsView").hidden = true;
   $("#bibliotecaView").hidden = true;
+  $("#filtroView").hidden = true;
   $("#homeView").hidden = false;
   $("#emptyState").hidden = !empty;
   $("#hero").hidden = empty;
@@ -178,6 +180,7 @@ export function showResults(title, items) {
   $("#quickfilters").hidden = true;
   $("#emptyState").hidden = true;
   $("#bibliotecaView").hidden = true;
+  $("#filtroView").hidden = true;
   $("#resultsView").hidden = false;
   $("#backHome").hidden = false;
   _todos = items.slice();
@@ -256,6 +259,7 @@ export function showBiblioteca() {
   $("#hero").hidden = true;
   $("#quickfilters").hidden = true;
   $("#emptyState").hidden = true;
+  $("#filtroView").hidden = true;
   $("#bibliotecaView").hidden = false;
   renderBiblioteca();
   window.scrollTo({ top: 0, behavior: "smooth" });

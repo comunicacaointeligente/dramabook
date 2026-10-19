@@ -119,11 +119,14 @@ function ingestBundle(bundle) {
   if (Array.isArray(bundle)) { addMany(bundle); return; }
   Object.keys(bundle).forEach(name => { if (Array.isArray(bundle[name])) addMany(bundle[name]); });
 }
+/* Só dorama entra: reality, filme, documentário e variedades ficam no banco, invisíveis. */
+const TIPOS_FORA = /reality|variedade|variety|filme|movie|document/i;
 function addMany(arr) {
   for (const d of arr) {
     if (!d || !d.id || STATE.byId[d.id]) continue;  // dedupe por id, nunca sobrescreve
     // Foco Brasil: sem streaming BR → fica no banco, mas não entra no site.
     if (SOMENTE_BRASIL && !streamingList(d).some(ehStreaming)) continue;
+    if (TIPOS_FORA.test(d.tipo || "")) continue;
     STATE.byId[d.id] = d;
     STATE.all.push(d);
   }

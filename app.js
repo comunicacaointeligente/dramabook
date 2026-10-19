@@ -15,6 +15,7 @@ import {
   showResults, renderSugestoes, fecharSugestoes, filtrarPorStatus, showExperiencia,
 } from "./js/views.js";
 import { openModal, closeModal } from "./components/modal.js";
+import { abrirFiltro, eventoFiltro, trocaOrdemFiltro } from "./js/filtro.js";
 import { compartilharDorama, compartilharLista, fecharFolha, copiarLink, lerListaDoLink } from "./js/share.js";
 
 /* PWA: arquivos prontos, mas desligada por padrão (ativar quando hospedar). */
@@ -104,6 +105,13 @@ function onClick(e) {
     return;
   }
 
+  /* --- 🎛️ filtro avançado --- */
+  if (e.target.closest("[data-filtro]") || e.target.closest("#filtroBtn")) {
+    closeModal(); abrirFiltro(); setActiveMenu($('.menu-item[data-filtro]')); closeSidebar(); return;
+  }
+  if (e.target.closest("[data-fvoltar]")) { showHome(); return; }
+  if (eventoFiltro(e)) return;
+
   /* --- filtro por status nos resultados --- */
   const st = e.target.closest("[data-status]");
   if (st) { filtrarPorStatus(st.dataset.status); return; }
@@ -183,6 +191,8 @@ function aplicarHash() {
   if (h.startsWith("d=")) {
     const id = decodeURIComponent(h.slice(2));
     if (STATE.byId[id]) openModal(id);
+  } else if (h.startsWith("filtro=")) {
+    abrirFiltro(decodeURIComponent(h.slice(7)));
   } else if (h.startsWith("lista=")) {
     const l = lerListaDoLink(h.slice(6));
     if (!l) return;
@@ -207,6 +217,7 @@ function wireEvents() {
   document.addEventListener("click", onBibliotecaAction);
   document.addEventListener("input", onInput);
   document.addEventListener("change", onFile);
+  document.addEventListener("change", trocaOrdemFiltro);
   document.addEventListener("keydown", e => {
     if (e.key === "Escape") { closeModal(); toggleMood(false); fecharFolha(); }
     if ((e.key === "Enter" || e.key === " ") && e.target.classList?.contains("card")) {
