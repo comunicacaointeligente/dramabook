@@ -1,0 +1,775 @@
+[
+ {
+  "titulo": "That Winter, the Wind Blows",
+  "titulo_br": "Ventos de Inverno",
+  "ano": 2013,
+  "sinopse": "Oh Soo é um apostador órfão, endividado com um agiota perigoso e sem nada a perder. Para salvar a própria vida, ele se apresenta como o irmão desaparecido de Oh Young, uma herdeira cega e solitária que vive isolada na mansão da família. O golpe começa a ruir quando os dois, cada um à sua maneira, passam a enxergar no outro um motivo para continuar vivendo.",
+  "porque_assistir": "Melodrama clássico de Noh Hee-kyung, a roteirista de It's Okay, That's Love e Dear My Friends, com Zo In-sung e Song Hye-kyo no auge. Tem nota 7,9 no MyDramaList com mais de 21 mil votos e uma trama de golpe que aos poucos vira uma história de amor e cura.",
+  "categorias": [
+   "Romance",
+   "Emocionantes"
+  ],
+  "tropos": [
+   "Identidade falsa",
+   "Healing",
+   "Slow Burn"
+  ],
+  "temas": [
+   "Solidão",
+   "Redenção",
+   "Deficiência visual"
+  ],
+  "profissoes": [
+   "Apostador",
+   "Herdeira"
+  ],
+  "avaliacao": {
+   "chatgpt": 7.8,
+   "mdl": 7.9,
+   "imdb": 7.5
+  },
+  "sensacoes": {
+   "romance": 8,
+   "quimica": 8,
+   "emocao": 9,
+   "humor": 2,
+   "beijos": 5
+  },
+  "flags": {
+   "green": 6,
+   "red": 5
+  },
+  "final": "Aberto",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "sensivel",
+   "aviso": "Envolve golpe, dívidas com agiotas, cenas de violência e temas de doença e luto."
+  },
+  "perfil": {
+   "iniciante": false,
+   "dorameiro_veterano": true
+  },
+  "dublado": false,
+  "curiosidades": [
+   "É a versão coreana do drama japonês Ai Nante Irane yo, Natsu (2002), que já tinha virado o filme coreano Love Me Not em 2006.",
+   "No catálogo da Netflix Brasil a série aparece com o título Ventos de Inverno.",
+   "Foi exibida pela SBS entre fevereiro e abril de 2013, em 16 episódios."
+  ],
+  "recomendacoes": [
+   "It's Okay, That's Love",
+   "Dear My Friends",
+   "Live"
+  ],
+  "adaptacao": "Remake do drama japonês Ai Nante Irane yo, Natsu (2002)",
+  "premios": [],
+  "_id_hint": "that-winter-the-wind-blows"
+ },
+ {
+  "titulo": "The Sound of Your Heart",
+  "titulo_br": "The Sound of Your Heart",
+  "ano": 2016,
+  "sinopse": "Jo Seok é um aspirante a cartunista atrapalhado que vive com os pais e o irmão mais velho, uma família tão excêntrica quanto ele. Entre namoro com Ae-bong, a garota que ele conhece desde a escola, e situações absurdas do dia a dia, cada episódio vira uma sequência de trapalhadas.",
+  "porque_assistir": "Sitcom curtinha e muito engraçada com Lee Kwang-soo, do Running Man, e Jung So-min, baseada em um dos webtoons mais longevos da Naver. Tem nota 8,3 no MyDramaList e episódios rápidos, perfeitos para maratonar sem compromisso.",
+  "categorias": [
+   "Comédia"
+  ],
+  "tropos": [
+   "Webtoon",
+   "Família excêntrica",
+   "Sitcom"
+  ],
+  "temas": [
+   "Família",
+   "Namoro"
+  ],
+  "profissoes": [
+   "Cartunista"
+  ],
+  "avaliacao": {
+   "chatgpt": 7.9,
+   "mdl": 8.3,
+   "imdb": 8.1
+  },
+  "sensacoes": {
+   "romance": 4,
+   "quimica": 6,
+   "emocao": 3,
+   "humor": 10,
+   "beijos": 2
+  },
+  "flags": {
+   "green": 8,
+   "red": 1
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Comédia pastelão, com humor escrachado e algumas piadas escatológicas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": true
+  },
+  "dublado": false,
+  "curiosidades": [
+   "É baseada no webtoon Maeumui Sori, de Jo Seok, que também dá nome ao protagonista.",
+   "Os primeiros episódios foram lançados como websérie na Naver TV Cast em novembro de 2016.",
+   "A websérie passou de 100 milhões de visualizações no site chinês Sohu TV."
+  ],
+  "recomendacoes": [
+   "Welcome to Waikiki",
+   "Because This Is My First Life"
+  ],
+  "adaptacao": "Webtoon Maeumui Sori, de Jo Seok",
+  "premios": [],
+  "_id_hint": "the-sound-of-your-heart"
+ },
+ {
+  "titulo": "The Sound of Your Heart: Reboot",
+  "titulo_br": "The Sound of Your Heart: Reiniciar",
+  "ano": 2018,
+  "sinopse": "A família Jo volta com novo elenco e o mesmo caos de sempre: o cartunista Jo Seok, a namorada Ae-bong, o irmão Jo Joon e os pais vivem confusões cada vez mais absurdas. Agora produzida pela Netflix, a série reinicia o universo do webtoon em episódios independentes.",
+  "porque_assistir": "Para quem gostou da primeira versão, é a chance de ver Sung Hoon e Yuri, do Girls' Generation, em papéis de humor escrachado. São duas temporadas curtas, leves e sem necessidade de ter visto a original.",
+  "categorias": [
+   "Comédia"
+  ],
+  "tropos": [
+   "Webtoon",
+   "Família excêntrica",
+   "Sitcom"
+  ],
+  "temas": [
+   "Família",
+   "Casamento"
+  ],
+  "profissoes": [
+   "Cartunista"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.8,
+   "mdl": 7.3,
+   "imdb": 6
+  },
+  "sensacoes": {
+   "romance": 4,
+   "quimica": 5,
+   "emocao": 2,
+   "humor": 9,
+   "beijos": 2
+  },
+  "flags": {
+   "green": 7,
+   "red": 1
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Humor pastelão e absurdo, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": false,
+  "curiosidades": [
+   "É uma produção da Netflix que recomeça a história do webtoon de Jo Seok com elenco totalmente novo.",
+   "Sung Hoon assume o papel de Jo Seok, que na primeira versão era de Lee Kwang-soo.",
+   "Na Netflix Brasil aparece como The Sound of Your Heart: Reiniciar, com duas temporadas."
+  ],
+  "recomendacoes": [
+   "The Sound of Your Heart",
+   "Welcome to Waikiki"
+  ],
+  "adaptacao": "Webtoon Maeumui Sori, de Jo Seok",
+  "premios": [],
+  "_id_hint": "the-sound-of-your-heart-reboot"
+ },
+ {
+  "titulo": "My Runway",
+  "titulo_br": "My Runway",
+  "ano": 2016,
+  "sinopse": "Han Seo-yeon é uma estudante animada que sonha ser modelo, mas ouve de Na Jin-wook, um dos modelos mais famosos do país, que é baixa demais para a passarela. Na mesma noite, um acidente durante uma tempestade faz os dois trocarem de corpo, e eles precisam esconder a confusão de todos enquanto procuram um jeito de desfazer a troca.",
+  "porque_assistir": "Minissérie de seis episódios curtos com Park Ji-yeon, do T-ara, e Kang Dong-ho, o Baekho do NU'EST. É uma comédia romântica de troca de corpos rápida e boba no bom sentido, ótima para uma tarde, e ainda tem dublagem em português.",
+  "categorias": [
+   "Comédia",
+   "Romance",
+   "Fantasia"
+  ],
+  "tropos": [
+   "Troca de corpos",
+   "Opostos que se atraem",
+   "Rivais que se apaixonam"
+  ],
+  "temas": [
+   "Moda",
+   "Sonhos"
+  ],
+  "profissoes": [
+   "Modelo",
+   "Estudante"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.4,
+   "mdl": 7.1,
+   "imdb": 6.2
+  },
+  "sensacoes": {
+   "romance": 5,
+   "quimica": 5,
+   "emocao": 3,
+   "humor": 7,
+   "beijos": 2
+  },
+  "flags": {
+   "green": 6,
+   "red": 3
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Comédia romântica leve, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": true,
+  "curiosidades": [
+   "Tem apenas seis episódios de cerca de 22 minutos, exibidos entre 20 e 31 de dezembro de 2016.",
+   "O elenco junta Park Ji-yeon, do grupo T-ara, e Kang Dong-ho, conhecido como Baekho do NU'EST.",
+   "Ahn Bo-hyun, que depois faria Itaewon Class e My Name, está no elenco de apoio."
+  ],
+  "recomendacoes": [
+   "Mr. Queen",
+   "Oh My Ghost"
+  ],
+  "adaptacao": null,
+  "premios": [],
+  "_id_hint": "my-runway"
+ },
+ {
+  "titulo": "Reunited Worlds",
+  "titulo_br": "No Mundo, Novamente",
+  "ano": 2017,
+  "sinopse": "Sung Hae-sung morre aos 19 anos, no dia do próprio aniversário, e acorda misteriosamente doze anos depois, com a mesma aparência de adolescente. Enquanto a namorada de escola, Jung-won, já tem 31 anos e uma vida adulta, ele tenta entender por que voltou e limpar o próprio nome, acusado de um crime que não cometeu.",
+  "porque_assistir": "Yeo Jin-goo entrega um protagonista doce e cheio de energia neste romance com fantasia e mistério da SBS. A dinâmica do primeiro amor separado pelo tempo e o cuidado com a família que ficou rendem episódios emocionantes e uma nota 7,6 no MyDramaList.",
+  "categorias": [
+   "Romance",
+   "Fantasia",
+   "Emocionantes"
+  ],
+  "tropos": [
+   "Primeiro amor",
+   "Mulher mais velha",
+   "Second Chance"
+  ],
+  "temas": [
+   "Luto",
+   "Justiça",
+   "Família"
+  ],
+  "profissoes": [
+   "Chef",
+   "Estudante"
+  ],
+  "avaliacao": {
+   "chatgpt": 7.4,
+   "mdl": 7.6,
+   "imdb": 7.2
+  },
+  "sensacoes": {
+   "romance": 7,
+   "quimica": 7,
+   "emocao": 8,
+   "humor": 5,
+   "beijos": 4
+  },
+  "flags": {
+   "green": 8,
+   "red": 2
+  },
+  "final": "Agridoce",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "sensivel",
+   "aviso": "Fala de morte na adolescência, bullying e falsa acusação de assassinato."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": false,
+  "curiosidades": [
+   "Foi exibida pela SBS entre julho e setembro de 2017, em 40 episódios de cerca de 35 minutos.",
+   "Jung Chae-yeon, do grupo DIA, interpreta a versão adolescente de Jung-won.",
+   "Na Netflix Brasil a série se chama No Mundo, Novamente."
+  ],
+  "recomendacoes": [
+   "Goblin",
+   "Hello, Me!",
+   "Hi Bye, Mama!"
+  ],
+  "adaptacao": null,
+  "premios": [],
+  "_id_hint": "reunited-worlds"
+ },
+ {
+  "titulo": "My Only Love Song",
+  "titulo_br": "My Only Love Song",
+  "ano": 2017,
+  "sinopse": "Song Soo-jung é uma atriz mimada e arrogante que acredita que dinheiro e fama resolvem tudo. Depois de entrar por acaso em uma van misteriosa, ela vai parar no reino de Goguryeo, no século VI, onde conhece On-dal, um homem pão-duro, mas de coração generoso com os mais fracos.",
+  "porque_assistir": "Uma das primeiras séries coreanas originais da Netflix, com Gong Seung-yeon e Lee Jong-hyun, do CNBLUE, reunidos depois do reality We Got Married. Mistura viagem no tempo, comédia e a lenda de On-dal e da princesa Pyeonggang em episódios de meia hora.",
+  "categorias": [
+   "Comédia",
+   "Romance",
+   "Fantasia",
+   "Históricos"
+  ],
+  "tropos": [
+   "Viagem no tempo",
+   "Rivais que se apaixonam",
+   "Mocinha arrogante"
+  ],
+  "temas": [
+   "Amadurecimento",
+   "Destino"
+  ],
+  "profissoes": [
+   "Atriz"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.8,
+   "mdl": 7.7,
+   "imdb": 6.9
+  },
+  "sensacoes": {
+   "romance": 7,
+   "quimica": 7,
+   "emocao": 5,
+   "humor": 8,
+   "beijos": 4
+  },
+  "flags": {
+   "green": 7,
+   "red": 3
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Comédia romântica de época com algumas lutas cômicas, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": false,
+  "curiosidades": [
+   "É uma produção original da Netflix lançada em junho de 2017.",
+   "A série marca o reencontro de Lee Jong-hyun e Gong Seung-yeon, que formaram casal no reality We Got Married.",
+   "A trama se passa no reino de Goguryeo, durante o reinado do rei Pyeongwon."
+  ],
+  "recomendacoes": [
+   "Mr. Queen",
+   "The Tale of Nokdu",
+   "Moon Lovers: Scarlet Heart Ryeo"
+  ],
+  "adaptacao": null,
+  "premios": [],
+  "_id_hint": "my-only-love-song"
+ },
+ {
+  "titulo": "The Third Charm",
+  "titulo_br": "Terceira Vez é a Certa",
+  "ano": 2018,
+  "sinopse": "On Joon-young, um universitário metódico que planeja tudo, conhece Lee Young-jae, uma jovem impulsiva e sincera que trabalha como assistente de cabeleireiro, em um encontro às cegas. A série acompanha o casal em três fases da vida ao longo de doze anos, entre separações, reencontros e o amadurecimento de cada um.",
+  "porque_assistir": "Romance adulto e realista com Seo Kang-joon e Esom, que foge do conto de fadas e mostra como o tempo muda as pessoas e os relacionamentos. Vale para quem gosta de histórias de casal com altos e baixos, mesmo sabendo que o final divide opiniões.",
+  "categorias": [
+   "Romance",
+   "Emocionantes"
+  ],
+  "tropos": [
+   "Second Chance",
+   "Opostos que se atraem",
+   "Primeiro amor"
+  ],
+  "temas": [
+   "Relacionamento",
+   "Amadurecimento",
+   "Recomeço"
+  ],
+  "profissoes": [
+   "Cabeleireira",
+   "Policial"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.5,
+   "mdl": 6.7,
+   "imdb": 6.2
+  },
+  "sensacoes": {
+   "romance": 7,
+   "quimica": 7,
+   "emocao": 7,
+   "humor": 4,
+   "beijos": 6
+  },
+  "flags": {
+   "green": 6,
+   "red": 4
+  },
+  "final": "Aberto",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Romance adulto com brigas de casal, términos e mágoas acumuladas ao longo dos anos."
+  },
+  "perfil": {
+   "iniciante": false,
+   "dorameiro_veterano": true
+  },
+  "dublado": false,
+  "curiosidades": [
+   "A história é contada em três momentos da vida do casal, ao longo de doze anos.",
+   "Foi exibida pela JTBC entre setembro e novembro de 2018.",
+   "Na Netflix Brasil a série se chama Terceira Vez é a Certa."
+  ],
+  "recomendacoes": [
+   "Something in the Rain",
+   "Our Beloved Summer",
+   "Because This Is My First Life"
+  ],
+  "adaptacao": null,
+  "premios": [],
+  "_id_hint": "the-third-charm"
+ },
+ {
+  "titulo": "My First First Love",
+  "titulo_br": "Primeira Vez Amor",
+  "ano": 2019,
+  "sinopse": "Yun Tae-o é um universitário que vê a casa virar república quando seus amigos de infância e de faculdade, cada um com um problema, resolvem se mudar para lá. Entre a convivência caótica, Tae-o começa a questionar o que sente pela melhor amiga, Han Song-i, enquanto todos aprendem a lidar com o primeiro amor.",
+  "porque_assistir": "Original da Netflix com Ji Soo, Jung Chae-yeon e Jinyoung, do B1A4, que funciona como uma comédia romântica jovem sobre amizade e morar junto. São duas temporadas curtas de oito episódios, com dublagem em português, e mais de 44 mil votos no MyDramaList.",
+  "categorias": [
+   "Romance",
+   "Comédia"
+  ],
+  "tropos": [
+   "Amigos que viram namorados",
+   "Morando juntos",
+   "Primeiro amor"
+  ],
+  "temas": [
+   "Amizade",
+   "Juventude"
+  ],
+  "profissoes": [
+   "Estudante universitário"
+  ],
+  "avaliacao": {
+   "chatgpt": 7,
+   "mdl": 7.6,
+   "imdb": 7.4
+  },
+  "sensacoes": {
+   "romance": 7,
+   "quimica": 7,
+   "emocao": 5,
+   "humor": 6,
+   "beijos": 5
+  },
+  "flags": {
+   "green": 6,
+   "red": 4
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Romance jovem com triângulos amorosos e conflitos familiares, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": true,
+  "curiosidades": [
+   "É um reboot do drama My First Time, exibido pelo canal OnStyle em 2015.",
+   "A primeira temporada estreou na Netflix em 18 de abril de 2019 e a segunda em 26 de julho do mesmo ano.",
+   "Kang Tae-oh, que depois faria Extraordinary Attorney Woo, está no elenco principal."
+  ],
+  "recomendacoes": [
+   "Love Alarm",
+   "Twenty-Five Twenty-One",
+   "Reply 1988"
+  ],
+  "adaptacao": "Reboot do drama My First Time (2015)",
+  "premios": [],
+  "_id_hint": "my-first-first-love"
+ },
+ {
+  "titulo": "The School Nurse Files",
+  "titulo_br": "Enfermeira Exorcista",
+  "ano": 2020,
+  "sinopse": "Ahn Eun-young é a enfermeira de uma escola de ensino médio e tem um dom que preferia não ter: enxerga os desejos e as energias das pessoas na forma de geleias coloridas, algumas delas monstruosas. Armada com uma espada de plástico e uma arma de brinquedo, ela enfrenta essas criaturas com a ajuda de Hong In-pyo, um professor protegido por um campo de energia.",
+  "porque_assistir": "Fantasia diferente de tudo, adaptada do romance premiado de Chung Serang, que também assina o roteiro. Jung Yu-mi e Nam Joo-hyuk formam uma dupla excêntrica em seis episódios cheios de efeitos coloridos, e a série tem dublagem em português.",
+  "categorias": [
+   "Fantasia",
+   "Sobrenatural",
+   "Comédia"
+  ],
+  "tropos": [
+   "Poderes especiais",
+   "Dupla improvável"
+  ],
+  "temas": [
+   "Escola",
+   "Solidão",
+   "Proteção"
+  ],
+  "profissoes": [
+   "Enfermeira",
+   "Professor"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.6,
+   "mdl": 7.1,
+   "imdb": 6.3
+  },
+  "sensacoes": {
+   "romance": 3,
+   "quimica": 5,
+   "emocao": 5,
+   "humor": 6,
+   "beijos": 1
+  },
+  "flags": {
+   "green": 7,
+   "red": 2
+  },
+  "final": "Aberto",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "sensivel",
+   "aviso": "Tem criaturas estranhas, alguns sustos e temas como morte e solidão na adolescência."
+  },
+  "perfil": {
+   "iniciante": false,
+   "dorameiro_veterano": true
+  },
+  "dublado": true,
+  "curiosidades": [
+   "É baseada no romance School Nurse Ahn Eun-young (2015), de Chung Serang, que escreveu o roteiro da série.",
+   "A Netflix anunciou a adaptação em dezembro de 2018 e lançou os seis episódios em 25 de setembro de 2020.",
+   "A diretora Lee Kyoung-mi já tinha dirigido um episódio da antologia Persona, também da Netflix."
+  ],
+  "recomendacoes": [
+   "Persona",
+   "The Uncanny Counter",
+   "Mystic Pop-up Bar"
+  ],
+  "adaptacao": "Romance School Nurse Ahn Eun-young, de Chung Serang",
+  "premios": [],
+  "_id_hint": "the-school-nurse-files"
+ },
+ {
+  "titulo": "A Love So Beautiful (2020)",
+  "titulo_br": "A Love So Beautiful (2020)",
+  "ano": 2020,
+  "sinopse": "Aos 17 anos, a alegre Shin Sol-i é apaixonada pelo vizinho Cha Heon, um garoto calado e aparentemente frio, e não se cansa de se declarar. Quando o nadador Woo Dae-seong chega à escola e se encanta por ela, os cinco amigos do grupo vivem o primeiro amor, o vestibular e a passagem para a vida adulta.",
+  "porque_assistir": "Versão coreana da série chinesa de 2017, com Kim Yo-han e So Joo-yeon, em episódios de cerca de 20 minutos que passam voando. É um romance escolar doce, com final feliz, nota 7,7 no MyDramaList e dublagem em português.",
+  "categorias": [
+   "Romance",
+   "Comédia"
+  ],
+  "tropos": [
+   "Primeiro amor",
+   "Vizinhos",
+   "Mocinha corre atrás",
+   "Slow Burn"
+  ],
+  "temas": [
+   "Juventude",
+   "Amizade",
+   "Escola"
+  ],
+  "profissoes": [
+   "Estudante",
+   "Médico"
+  ],
+  "avaliacao": {
+   "chatgpt": 7.2,
+   "mdl": 7.7,
+   "imdb": 7.2
+  },
+  "sensacoes": {
+   "romance": 8,
+   "quimica": 7,
+   "emocao": 5,
+   "humor": 6,
+   "beijos": 4
+  },
+  "flags": {
+   "green": 8,
+   "red": 2
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Romance escolar leve, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": true,
+  "curiosidades": [
+   "É o remake coreano da série chinesa A Love So Beautiful (2017), baseada no romance To Our Pure Little Beauty, de Zhao Qianqian.",
+   "Foi lançada pela Kakao TV entre dezembro de 2020 e fevereiro de 2021 e somou 37,3 milhões de visualizações.",
+   "Kim Yo-han ficou conhecido no reality Produce X 101 antes de protagonizar a série."
+  ],
+  "recomendacoes": [
+   "Twenty-Five Twenty-One",
+   "True Beauty",
+   "At Eighteen"
+  ],
+  "adaptacao": "Remake da série chinesa A Love So Beautiful, baseada no romance de Zhao Qianqian",
+  "premios": [],
+  "_id_hint": "a-love-so-beautiful-2020"
+ },
+ {
+  "titulo": "Young Lady and Gentleman",
+  "titulo_br": "Young Lady and Gentleman",
+  "ano": 2021,
+  "sinopse": "Cansada da família que perdeu tudo em um golpe, Park Dan-dan sai de casa e acaba contratada como tutora dos três filhos de Lee Young-guk, um empresário viúvo que ainda não superou a morte da esposa. Morando na mesma casa, os dois se aproximam apesar da diferença de 14 anos, enquanto segredos de família vêm à tona.",
+  "porque_assistir": "Drama de fim de semana da KBS2 que virou fenômeno na Coreia, com pico de 38,2% de audiência e Ji Hyun-woo premiado com o grande prêmio do KBS Drama Awards 2021. Tem clima de novela familiar, romance e muitos personagens para acompanhar ao longo de 52 episódios.",
+  "categorias": [
+   "Romance",
+   "Comédia",
+   "Emocionantes"
+  ],
+  "tropos": [
+   "Diferença de idade",
+   "Rico e pobre",
+   "Healing",
+   "Pai viúvo"
+  ],
+  "temas": [
+   "Família",
+   "Luto",
+   "Recomeço"
+  ],
+  "profissoes": [
+   "Tutora",
+   "Empresário"
+  ],
+  "avaliacao": {
+   "chatgpt": 6.9,
+   "mdl": 7.2,
+   "imdb": 6.4
+  },
+  "sensacoes": {
+   "romance": 7,
+   "quimica": 7,
+   "emocao": 7,
+   "humor": 6,
+   "beijos": 5
+  },
+  "flags": {
+   "green": 7,
+   "red": 4
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": true,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Novela familiar com segredos, intrigas e alguns vilões manipuladores, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": false,
+   "dorameiro_veterano": true
+  },
+  "dublado": false,
+  "curiosidades": [
+   "O episódio 48 marcou 38,2% de audiência nacional, segundo a Nielsen Korea.",
+   "Foi estendida para 52 episódios por causa da popularidade.",
+   "A trama costuma ser comparada a A Noviça Rebelde, pela tutora que conquista uma família enlutada."
+  ],
+  "recomendacoes": [
+   "My Golden Life",
+   "Five Enough",
+   "Marriage Contract"
+  ],
+  "adaptacao": null,
+  "premios": [
+   "KBS Drama Awards 2021: Grande Prêmio (Daesang) para Ji Hyun-woo",
+   "KBS Drama Awards 2021: Melhor Casal (Ji Hyun-woo e Lee Se-hee)"
+  ],
+  "_id_hint": "young-lady-and-gentleman"
+ },
+ {
+  "titulo": "So Not Worth It",
+  "titulo_br": "Me Tira Daqui",
+  "ano": 2021,
+  "sinopse": "Em um dormitório universitário de Seul, estudantes de vários países dividem quartos, dívidas, crises e paixões sob o olhar da conselheira Se-wan. Entre choques culturais, festas e trapalhadas, o grupo descobre que sobreviver à vida adulta longe de casa é tão difícil quanto engraçado.",
+  "porque_assistir": "Primeira sitcom coreana da Netflix, com Park Se-wan, Shin Hyun-seung e Minnie, do (G)I-DLE, num elenco multicultural e cheio de química. Episódios de cerca de 35 minutos, humor leve, nota 7,7 no MyDramaList e dublagem em português.",
+  "categorias": [
+   "Comédia"
+  ],
+  "tropos": [
+   "Sitcom",
+   "Vida em república"
+  ],
+  "temas": [
+   "Amizade",
+   "Choque cultural",
+   "Juventude"
+  ],
+  "profissoes": [
+   "Estudante universitário"
+  ],
+  "avaliacao": {
+   "chatgpt": 7.1,
+   "mdl": 7.7,
+   "imdb": 6.9
+  },
+  "sensacoes": {
+   "romance": 4,
+   "quimica": 6,
+   "emocao": 3,
+   "humor": 9,
+   "beijos": 2
+  },
+  "flags": {
+   "green": 7,
+   "red": 2
+  },
+  "final": "Feliz",
+  "triangulo_amoroso": false,
+  "conteudo": {
+   "nivel": "leve",
+   "aviso": "Comédia de situação com piadas sobre festas, bebida e namoros, sem cenas pesadas."
+  },
+  "perfil": {
+   "iniciante": true,
+   "dorameiro_veterano": false
+  },
+  "dublado": true,
+  "curiosidades": [
+   "É a primeira sitcom coreana produzida pela Netflix, lançada em 18 de junho de 2021.",
+   "Minnie, integrante do grupo (G)I-DLE, interpreta uma estudante tailandesa apaixonada por doramas.",
+   "Na Netflix Brasil a série se chama Me Tira Daqui."
+  ],
+  "recomendacoes": [
+   "The Sound of Your Heart",
+   "Welcome to Waikiki",
+   "Age of Youth"
+  ],
+  "adaptacao": null,
+  "premios": [],
+  "_id_hint": "so-not-worth-it"
+ }
+]
