@@ -1,0 +1,5912 @@
+{
+ "unmasked": {
+  "titulo_original": "트리거",
+  "titulo_br": "Desmascarados",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Joo Jong-hyuk",
+   "Kim Hye-soo",
+   "Jung Sung-il",
+   "Lee Hae-young"
+  ],
+  "diretor": "Yoo Seon-dong",
+  "roteirista": null,
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/piSUZXvzOw7GxwrtRuTmimW8YJE.jpg",
+  "banner": "/xI4sbzJPNorYgTkfYs4ycMombVc.jpg",
+  "trailer": "https://www.youtube.com/watch?v=uvcv3p7rlvE"
+ },
+ "red-swan": {
+  "titulo_original": "화인가 스캔들",
+  "titulo_br": "Cisne Vermelho",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "49 min",
+  "elenco": [
+   "Kim Ha-neul",
+   "Rain",
+   "Jung Gyu-woon",
+   "Seo Yi-sook"
+  ],
+  "diretor": "Park Hong-kyun",
+  "roteirista": "Choi Yoon-jung",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/5B2U7t7bMFP0UO32BhOWlV2diqL.jpg",
+  "banner": "/A9BqB9bTGhCAGcm6n84yrEZYMla.jpg",
+  "trailer": "https://www.youtube.com/watch?v=K2XxhormXCA"
+ },
+ "low-life": {
+  "titulo_original": "파인: 촌뜨기들",
+  "titulo_br": "Vida Imoral",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Ryu Seung-ryong",
+   "Yang Se-jong",
+   "Im Soo-jung",
+   "Kim Eui-sung"
+  ],
+  "diretor": "Kang Yoon-sung",
+  "roteirista": "Kang Yoon-sung",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/tbVdNCgVDlKx2lenrz0juDyNkX1.jpg",
+  "banner": "/zDWTCC9uCDHPijLBqyzsplmg1Ch.jpg",
+  "trailer": "https://www.youtube.com/watch?v=0JgURXn5aAE"
+ },
+ "race": {
+  "titulo_original": "레이스",
+  "titulo_br": "Vencer na Vida",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "58 min",
+  "elenco": [
+   "Lee Yeon-hee",
+   "Hong Jong-hyun",
+   "Moon So-ri",
+   "U-KNOW Yunho"
+  ],
+  "diretor": "Lee Dong-yoon",
+  "roteirista": "Kim Roo-ri",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/yQShXAwquNCE2nyHOOSJCf3IoIb.jpg",
+  "banner": "/rbM4Yqr7lKvmujN7eWu2whpK3Tn.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ZoXjCe3QG8A"
+ },
+ "soundtrack-2": {
+  "titulo_original": "사운드트랙 #2",
+  "titulo_br": "A Segunda Canção de Amor",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 6,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Keum Sae-rok",
+   "Steve Sanghyun Noh",
+   "DEMIAN",
+   "Kwon Seung-woo"
+  ],
+  "diretor": "Kim Hee-won, Choi Jung-gyu",
+  "roteirista": "Jung Hye-seung",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "13+",
+  "poster": "/kMDzM6CAHAxvp1CqNTIwPCFKkHX.jpg",
+  "banner": "/sjz9jj71XnNnMtCSBuNjzap6alb.jpg",
+  "trailer": "https://www.youtube.com/watch?v=RsmM-ls0L40"
+ },
+ "women-in-taipei": {
+  "titulo_original": "台北女子圖鑑",
+  "titulo_br": "As Mulheres de Taiwan",
+  "pais": "Taiwan",
+  "ano": 2022,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Gwei Lun-Mei",
+   "Hsia Yu-chiao",
+   "Edison Wang",
+   "Lin Si-yu"
+  ],
+  "diretor": "Lee Yun-chan",
+  "roteirista": "Ginger Wang, Zou Wan-zhen",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/stcAXAs2EKU6IJZ4tfbQyHdTrNk.jpg",
+  "banner": "/oBcmoc19Kij6OqJFeJvszGs3OCw.jpg",
+  "trailer": "https://www.youtube.com/watch?v=lU3XwIYaKZA"
+ },
+ "small-mighty": {
+  "titulo_original": "正義的算法",
+  "titulo_br": "Pequeno Problema",
+  "pais": "Taiwan",
+  "ano": 2022,
+  "episodios": 26,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Chen Bolin",
+   "Puff Kuo",
+   "Hajjah Lin",
+   "Phil Hou"
+  ],
+  "diretor": "Hsu Fu-hsiang",
+  "roteirista": "Wang Hui-chu",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "13+",
+  "poster": "/mytfJf8gKV7AgvHstOwg72NBs3w.jpg",
+  "banner": "/gsgKTbygnrcflReQgqA3wf3o8mq.jpg",
+  "trailer": "https://www.youtube.com/watch?v=1D4xRM492pU"
+ },
+ "taiwan-crime-stories": {
+  "titulo_original": "台灣犯罪故事",
+  "titulo_br": "Taiwan: Histórias de Crime",
+  "pais": "Taiwan",
+  "ano": 2023,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Rhydian Vaughan",
+   "Allison Lin",
+   "Simon Hsueh",
+   "Patrick Shih"
+  ],
+  "diretor": "Hsu Jui-liang",
+  "roteirista": "Hsu Jui-liang, Liang Shu-ting",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/aAruJgIiauzZXhxvRUm8IyoQq9.jpg",
+  "banner": "/cCiSAXn8PaYwEWnmFkhVPD64FJa.jpg",
+  "trailer": "https://www.youtube.com/watch?v=nTuzLt-n-FM"
+ },
+ "delicacies-destiny": {
+  "titulo_original": "珍馐记",
+  "titulo_br": "O Sabor do Destino",
+  "pais": "China",
+  "ano": 2022,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "44 min",
+  "elenco": [
+   "He Ruixian",
+   "Wang Xingyue",
+   "Pan Binlong",
+   "Liu Min"
+  ],
+  "diretor": "Guo Hao",
+  "roteirista": "Yu Zheng, Ren Yanan",
+  "plataformas": [
+   "Disney+",
+   "Bilibili"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/zVa92V94K9RNF2Odci4CRvtPd1X.jpg",
+  "banner": "/wnnewn1vKH9Wb1fVSdjREgK6sfG.jpg",
+  "trailer": null
+ },
+ "sumo-do-sumo-don-t": {
+  "titulo_original": "シコふんじゃった！",
+  "titulo_br": "Sumo Sim, Sumo Não!",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Shono Hayama",
+   "Rikka Ihara",
+   "Himi Sato",
+   "Megumi Sato"
+  ],
+  "diretor": "Shozo Katashima",
+  "roteirista": "Hiroshi Gokan, Satoru Hirohara",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/shtZAZY03AYz4vc85jL5dxDo4Yt.jpg",
+  "banner": "/7fhR6QCvpDCWwakd6BKrJFMKNWX.jpg",
+  "trailer": "https://www.youtube.com/watch?v=z2UCZ7FeiNY"
+ },
+ "my-family": {
+  "titulo_original": "マイファミリー",
+  "titulo_br": "Tudo Pela Minha Família",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Kazunari Ninomiya",
+   "Mikako Tabe",
+   "Miyu Oshima",
+   "Kento Kaku"
+  ],
+  "diretor": "Shunichi Hirano, Yohei Miyazaki",
+  "roteirista": "Tsutomu Kuroiwa",
+  "plataformas": [
+   "Disney+",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/xqj6fnrMlfiMjlq21JZ0muYLF3t.jpg",
+  "banner": "/rVGWwYBuGLnaVbTIpnNE207PXVn.jpg",
+  "trailer": null
+ },
+ "gannibal": {
+  "titulo_original": "ガンニバル",
+  "titulo_br": "Canibal",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 15,
+  "temporadas": 2,
+  "duracao": "55 min",
+  "elenco": [
+   "Yuya Yagira",
+   "Show Kasamatsu",
+   "Riho Yoshioka",
+   "Takato Nagata"
+  ],
+  "diretor": "Shinzo Katayama, Hayato Kawai",
+  "roteirista": "Takamasa Oe",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/AvjCytHUq6AN6rYOFQFATrWbGSR.jpg",
+  "banner": "/oilobjVpXlSaDDj67raoNqdHrfB.jpg",
+  "trailer": "https://www.youtube.com/watch?v=LSXLW-_EWmE"
+ },
+ "because-we-forget-everything": {
+  "titulo_original": "すべて忘れてしまうから",
+  "titulo_br": "Por que Esquecemos de Tudo?",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Hiroshi Abe",
+   "Machiko Ono",
+   "Chara",
+   "Kankuro Kudo"
+  ],
+  "diretor": "Shuichi Okita, Yukiko Sode, Takamasa Oe",
+  "roteirista": "Yukiko Sode, Shuichi Okita, Takamasa Oe",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "13+",
+  "poster": "/7w2Ym52K93fPClDzTAfEi68iozK.jpg",
+  "banner": "/gjfm7ZWKXP1PPTACmjfXCI25bzJ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=6KxV2Wv3NiE"
+ },
+ "land-of-tanabata": {
+  "titulo_original": "七夕の国",
+  "titulo_br": "O País de Tanabata",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "55 min",
+  "elenco": [
+   "Kanata Hosoda",
+   "Ryoko Fujino",
+   "Shuhei Uesugi",
+   "Mai Kiryu"
+  ],
+  "diretor": "Yusuke Taki, Hayato Kawai",
+  "roteirista": "Mari Asato, Takamasa Oe, Yusuke Taki",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/xcruqDh8O7OPmoHZaShZ0j1irJ7.jpg",
+  "banner": "/ifTmNwg9aqq3Xov496cmIdCEWbo.jpg",
+  "trailer": "https://www.youtube.com/watch?v=jR4DJzGCVu4"
+ },
+ "atom-s-last-shot": {
+  "titulo_original": "アトムの童",
+  "titulo_br": "A Última Ficha",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 9,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Kento Yamazaki",
+   "Kouhei Matsushita",
+   "Yukino Kishii",
+   "Joe Odagiri"
+  ],
+  "diretor": "Shingo Okamoto, Daisuke Yamamuro, Yoshiaki Tago",
+  "roteirista": "Marie Kamimori",
+  "plataformas": [
+   "Disney+",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/5js5usiiBQO72Gzj84ZiYoRcHFT.jpg",
+  "banner": "/a7BRkC78viNVGCBfkKClItXQpsC.jpg",
+  "trailer": "https://www.youtube.com/watch?v=VC2zZ0BGH70"
+ },
+ "the-files-of-young-kindaichi": {
+  "titulo_original": "金田一少年の事件簿",
+  "titulo_br": "Kindaichi: O Jovem Detetive",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "55 min",
+  "elenco": [
+   "Shunsuke Michieda",
+   "Moka Kamishiraishi",
+   "Ikki Sawamura",
+   "Iwasaki Taisho"
+  ],
+  "diretor": "Hisashi Kimura",
+  "roteirista": "Tetsuya Oishi, Yuko Kawabe",
+  "plataformas": [
+   "Disney+",
+   "Nippon TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "13+",
+  "poster": "/bFTzFjKNAMddnYiLtb3teDmb7ba.jpg",
+  "banner": "/gU1wM3HpeSty0Ghnv1UVo31zemd.jpg",
+  "trailer": null
+ },
+ "lost-man-found": {
+  "titulo_original": "拾われた男",
+  "titulo_br": "Perdido Pela Fama",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "48 min",
+  "elenco": [
+   "Taiga Nakano",
+   "Tsuyoshi Kusanagi",
+   "Sairi Ito",
+   "Hiroko Yakushimaru"
+  ],
+  "diretor": "Tsuyoshi Inoue",
+  "roteirista": "Shin Adachi",
+  "plataformas": [
+   "Disney+",
+   "NHK BS Premium"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/m30b9E8SJWHspPnMHjoiIKXHWKp.jpg",
+  "banner": "/8vXsRW0A1RGYZfhfsn8zybsL4Ru.jpg",
+  "trailer": "https://www.youtube.com/watch?v=4dNkrSoS5U8"
+ },
+ "house-of-the-owl": {
+  "titulo_original": "フクロウと呼ばれた男",
+  "titulo_br": "Um Homem Chamado Coruja",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "41 min",
+  "elenco": [
+   "Min Tanaka",
+   "Mackenyu",
+   "Hisako Manda",
+   "Masanobu Ando"
+  ],
+  "diretor": "Yoshitaka Mori, Yuya Ishii, Yusaku Matsumoto",
+  "roteirista": "David S. Shin",
+  "plataformas": [
+   "Disney+"
+  ],
+  "status": "Finalizado",
+  "classificacao": "15+",
+  "poster": "/fyPAvJIbRSZXZ2idOWT7wPJmBPY.jpg",
+  "banner": "/xa2GFv5AciZigAFjV7DUfoVOydV.jpg",
+  "trailer": "https://www.youtube.com/watch?v=0x2nRnY2YsE"
+ },
+ "ashes-to-crown": {
+  "titulo_original": "翘楚",
+  "titulo_br": "Das Cinzas ao Trono",
+  "pais": "China",
+  "ano": 2026,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Chen Duling",
+   "Zhou Yiran",
+   "Tang Xiaotian",
+   "Wang Ruichang",
+   "Wu Shile"
+  ],
+  "diretor": "Yang Long",
+  "roteirista": "Li Min, Xia Meng Ying",
+  "plataformas": [
+   "Netflix",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/kyUT56S7i5OapPpF0iZDlYo6A6J.jpg",
+  "banner": "/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
+  "trailer": "https://www.youtube.com/watch?v=P2BMhVUhSh4"
+ },
+ "judge-dee-s-mystery": {
+  "titulo_original": "大唐狄公案",
+  "titulo_br": "O Mistério do Juiz Di",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhou Yiwei",
+   "Wang Likun",
+   "Zhong Chuxi",
+   "Zhang Jiayi",
+   "Zhang Ruoyun"
+  ],
+  "diretor": "Li Yun Liang",
+  "roteirista": "Chen Si Yu",
+  "plataformas": [
+   "Netflix",
+   "CCTV",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/qMcw8rxDhvdtxavUfVG0FHhwPmo.jpg",
+  "banner": "/xzixlomBsPgirRC7LmOBvnL69gY.jpg",
+  "trailer": null
+ },
+ "unveil-jadewind": {
+  "titulo_original": "唐宫奇案之青雾风鸣",
+  "titulo_br": "Os Segredos do Palácio Tang",
+  "pais": "China",
+  "ano": 2026,
+  "episodios": 34,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Bai Lu",
+   "Wang Xingyue",
+   "Annabel Yao",
+   "Zhao Qing",
+   "Zhao Yiqin"
+  ],
+  "diretor": "Yin Tao",
+  "roteirista": "Meng Yang, Zhu Xin",
+  "plataformas": [
+   "Netflix",
+   "CCTV",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/hqXGqLLjRxgbjhJkIAOmLMatGo.jpg",
+  "banner": "/u9AkHDe9oiw62hZ8muokTUWdB27.jpg",
+  "trailer": "https://www.youtube.com/watch?v=r8nGp7atcwU"
+ },
+ "light-to-the-night": {
+  "titulo_original": "黑夜告白",
+  "titulo_br": "Luz para a Noite",
+  "pais": "China",
+  "ano": 2026,
+  "episodios": 28,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Pan Yueming",
+   "Dylan Wang",
+   "Ren Min",
+   "Jiang Peiyao",
+   "Zhao Hu"
+  ],
+  "diretor": "Wang Zhi",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix",
+   "CCTV",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/99WXxvDozsh4YPZFGVJfErTgfUX.jpg",
+  "banner": "/x31KOFBrL65fnVfohGrKJCbPynk.jpg",
+  "trailer": "https://www.youtube.com/watch?v=qObupQ_fU_o"
+ },
+ "our-generation": {
+  "titulo_original": "樱桃琥珀",
+  "titulo_br": "Nossa Geração",
+  "pais": "China",
+  "ano": 2025,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhao Jinmai",
+   "Zhang Linghe",
+   "Dong Jie",
+   "Bao Jianfeng",
+   "Dong Xuan"
+  ],
+  "diretor": "Zhang Kai Zhou",
+  "roteirista": "Zeng Lu",
+  "plataformas": [
+   "Netflix",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/rusZtGamDuSyXkX8zWERdces6u7.jpg",
+  "banner": "/o0Grq4cdBwI5iYgg0JfeUDeAOaV.jpg",
+  "trailer": null
+ },
+ "kill-me-love-me": {
+  "titulo_original": "春花焰",
+  "titulo_br": "Kill Me Love Me",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Liu Xueyi",
+   "Wu Jinyan",
+   "Bi Wenjun",
+   "Zhao Xiaotang",
+   "Baron Chen"
+  ],
+  "diretor": "Vicky Wong, Cheng Lu",
+  "roteirista": "Wen Yan",
+  "plataformas": [
+   "Netflix",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/7Ra74ZCKOMmGeBn6oDDl7WOAvwW.jpg",
+  "banner": "/zcvhvGERff5v1TFtqhr62RbTZf9.jpg",
+  "trailer": "https://www.youtube.com/watch?v=SXnYl2tU6AY"
+ },
+ "ski-into-love": {
+  "titulo_original": "嘘，国王在冬眠",
+  "titulo_br": "Esquiando para o Amor",
+  "pais": "China",
+  "ano": 2025,
+  "episodios": 23,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yu Shuxin",
+   "Lin Yi",
+   "Fei Qiming",
+   "Zeng Keni",
+   "Xia Haoran"
+  ],
+  "diretor": "Gia Lee",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/dInBSlB39HZbJmwk3Rl0mt25Gkq.jpg",
+  "banner": "/iZLtHdy8supE79NsAXERN5Vju1K.jpg",
+  "trailer": "https://www.youtube.com/watch?v=YOoA03TpZU8"
+ },
+ "the-longest-promise": {
+  "titulo_original": "玉骨遥",
+  "titulo_br": "The Longest Promise",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Xiao Zhan",
+   "Ren Min",
+   "Alen Fang",
+   "Wang Churan",
+   "Han Dong"
+  ],
+  "diretor": "Jeffrey Chiang",
+  "roteirista": "Wu Ying Ying",
+  "plataformas": [
+   "Netflix",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/bnzpvIeGtaSiwcGpvAI9fpHCXmi.jpg",
+  "banner": "/1BWy38SNqMTyYJht7Q6r2As7VWW.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_r96odMS9NM"
+ },
+ "everyone-loves-me": {
+  "titulo_original": "别对我动心",
+  "titulo_br": "Todo Mundo Me Ama",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Lin Yi",
+   "Zhou Ye",
+   "Tang Mengjia",
+   "Jiang Yiming",
+   "Zhan Yu"
+  ],
+  "diretor": "Yu Chung Chung, Gia Lee",
+  "roteirista": "Xu Ting, Zhao Cong",
+  "plataformas": [
+   "Netflix",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/e5oAqbWQj5XJXepEYRg54xWFgvR.jpg",
+  "banner": "/kVd2xlSYIPbXBVVxvb8f1tjh1aV.jpg",
+  "trailer": "https://www.youtube.com/watch?v=6qpQe6jlV8U"
+ },
+ "the-princess-weiyoung": {
+  "titulo_original": "锦绣未央",
+  "titulo_br": "The Princess Weiyoung",
+  "pais": "China",
+  "ano": 2016,
+  "episodios": 54,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Tang Yan",
+   "Luo Jin",
+   "Vanness Wu",
+   "Mao Xiaotong",
+   "Lee Hsinai"
+  ],
+  "diretor": "Lee Wai Chu, Huang Bin",
+  "roteirista": "Cheng Ting Yu",
+  "plataformas": [
+   "Netflix",
+   "BTV",
+   "Dragon TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/4lojcsfBAH10W64k6JnerDeLd5A.jpg",
+  "banner": "/pudMU8Vh1jAQ6M7a0kseM01Dh2c.jpg",
+  "trailer": "https://www.youtube.com/watch?v=HXwaSNE8WXs"
+ },
+ "find-yourself": {
+  "titulo_original": "下一站是幸福",
+  "titulo_br": "Find Yourself",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 41,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Victoria Song",
+   "Song Weilong",
+   "David Wang",
+   "Zhang Yujian",
+   "Yu Shuxin"
+  ],
+  "diretor": "Ding Zi Guang, Zhang Zhuo",
+  "roteirista": "Wang Xiong Cheng, Shui Qian Mo",
+  "plataformas": [
+   "Netflix",
+   "Hunan TV",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 10,
+  "poster": "/twvQYgYdJZf9shuQBgM1wWxVy10.jpg",
+  "banner": "/5izATIi4rJMbr6taWsIKqtg3a7L.jpg",
+  "trailer": "https://www.youtube.com/watch?v=u3Hhgh-jFCo"
+ },
+ "born-for-the-spotlight": {
+  "titulo_original": "影后",
+  "titulo_br": "Elas Nasceram para Brilhar",
+  "pais": "Taiwan",
+  "ano": 2024,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Hsieh Ying-hsuan",
+   "Cheryl Yang",
+   "Hsueh Shih-ling",
+   "Annie Chen",
+   "Hsieh Chiung-hsuan"
+  ],
+  "diretor": null,
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/9zqVWaosBqrDp0iHYb46xAt8pc4.jpg",
+  "banner": "/pYppQQIDK9AJDSskRYZNqvSnpVu.jpg",
+  "trailer": "https://www.youtube.com/watch?v=MJcHSXejsIo"
+ },
+ "the-resurrected": {
+  "titulo_original": "回魂計",
+  "titulo_br": "O Plano de Ressurreição",
+  "pais": "Taiwan",
+  "ano": 2025,
+  "episodios": 9,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Shu Qi",
+   "Sinje Lee",
+   "Fu Meng-po",
+   "Alyssa Chia",
+   "Sukollawat Kanaros"
+  ],
+  "diretor": "Leste Chen, Hsu Chao Jen",
+  "roteirista": "Shen Yang",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/xFHbctxOybjiZEGIqKLEl4reg8R.jpg",
+  "banner": "/h8sF926rL0b7zdMSWjo9rYiy3Lk.jpg",
+  "trailer": "https://www.youtube.com/watch?v=82x6TW-q_Zg"
+ },
+ "the-fierce-wife": {
+  "titulo_original": "犀利人妻",
+  "titulo_br": "The Fierce Wife",
+  "pais": "Taiwan",
+  "ano": 2010,
+  "episodios": 23,
+  "temporadas": 1,
+  "duracao": "68 min",
+  "elenco": [
+   "Sonia Sui",
+   "James Wen",
+   "Amanda Chu",
+   "Chris Wang",
+   "Karen Ying-Chen Hu"
+  ],
+  "diretor": "Hsu Fu Chun",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix",
+   "TTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/60qdqVlxBcdXmm6x5LrYGvNWFmq.jpg",
+  "banner": "/i2cr1QKvTQPYZ9KlHCJJ9rUrKtW.jpg",
+  "trailer": null
+ },
+ "million-follower-detective": {
+  "titulo_original": "百萬人推理",
+  "titulo_br": "Mistério de Um Milhão de Seguidores",
+  "pais": "Taiwan",
+  "ano": 2026,
+  "episodios": 8,
+  "temporadas": 1,
+  "duracao": "46 min",
+  "elenco": [
+   "Ekin Cheng",
+   "Shou Lou",
+   "Patty Lee",
+   "Wang Po-chieh",
+   "Lee Lee-zen"
+  ],
+  "diretor": null,
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/4y4GeGlsbV1643PQLAmQoCeIOBK.jpg",
+  "banner": "/sMMEQPPe2xwwnF1JgUVNJ1jCV1V.jpg",
+  "trailer": "https://www.youtube.com/watch?v=tHlX_m9BGUk"
+ },
+ "forget-you-not": {
+  "titulo_original": "忘了我記得",
+  "titulo_br": "Não Me Esquecerei de Você",
+  "pais": "Taiwan",
+  "ano": 2025,
+  "episodios": 8,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Hsieh Ying-hsuan",
+   "Chin Han",
+   "Wallace Huo",
+   "Esther Liu",
+   "Tracy Chou"
+  ],
+  "diretor": null,
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/qW8yBchqZEIPTqs9Y72GntzHuRf.jpg",
+  "banner": "/oTCpcn5KiAiS5epguRvgECNezrx.jpg",
+  "trailer": null
+ },
+ "agent-from-above": {
+  "titulo_original": "乩身",
+  "titulo_br": "O Agente Divino",
+  "pais": "Taiwan",
+  "ano": 2026,
+  "episodios": 8,
+  "temporadas": 1,
+  "duracao": "42 min",
+  "elenco": [
+   "Kai Ko",
+   "Wang Po-chieh",
+   "Hsueh Shih-ling",
+   "Buffy Chen",
+   "Johnny Yang"
+  ],
+  "diretor": "Donnie Lai",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/dTXftBu9iHyBrZBja8kMyb7ZqJJ.jpg",
+  "banner": "/w1DjULItqmTGKnavi5hAtOGMogA.jpg",
+  "trailer": null
+ },
+ "copycat-killer": {
+  "titulo_original": "模仿犯",
+  "titulo_br": "O Assassino Midiático",
+  "pais": "Taiwan",
+  "ano": 2023,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Wu Kang-ren",
+   "Alice Ko",
+   "Ruby Lin",
+   "Tou Chung-hua",
+   "Yao Chun-yao"
+  ],
+  "diretor": null,
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/1vw5mZcPrUwvCvvNDwFAxqUYdlp.jpg",
+  "banner": "/qGILaGrR0Oc9d3lVpwZ6M7yWq5z.jpg",
+  "trailer": "https://www.youtube.com/watch?v=fWATsd9F_Kc"
+ },
+ "the-perfect-match": {
+  "titulo_original": "極品絕配",
+  "titulo_br": "The Perfect Match",
+  "pais": "Taiwan",
+  "ano": 2017,
+  "episodios": 22,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Wu Kang-ren",
+   "Ivy Shao",
+   "Ben Wu",
+   "Xiao Man",
+   "Nylon Chen"
+  ],
+  "diretor": null,
+  "roteirista": "Wang Yu Chen",
+  "plataformas": [
+   "Netflix",
+   "SET TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/diEOP4uskk1MTzO2ORkZBaMkBRZ.jpg",
+  "banner": "/qGrpHb29KfsJSHCioiQchd2F35D.jpg",
+  "trailer": null
+ },
+ "the-devil-punisher": {
+  "titulo_original": "天巡者",
+  "titulo_br": "The Devil Punisher",
+  "pais": "Taiwan",
+  "ano": 2020,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "69 min",
+  "elenco": [
+   "Mike He",
+   "Ivy Shao",
+   "Anson Chen",
+   "Jane Chang",
+   "Roy Chang"
+  ],
+  "diretor": "Chen Rong Hui, Chang Chin Jung",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix",
+   "SET TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/jgfYU0zWySnyapKIv6bTq2QHgH1.jpg",
+  "banner": "/5Xb3lE6Rqix1p7ys62acWomTRUG.jpg",
+  "trailer": null
+ },
+ "light-the-night": {
+  "titulo_original": "華燈初上",
+  "titulo_br": "Light the Night",
+  "pais": "Taiwan",
+  "ano": 2021,
+  "episodios": 24,
+  "temporadas": 3,
+  "duracao": "60 min",
+  "elenco": [
+   "Ruby Lin",
+   "Tony Yang",
+   "Cheryl Yang",
+   "Rhydian Vaughan",
+   "Derek Chang"
+  ],
+  "diretor": "Lian Yi Qi",
+  "roteirista": "Du Zheng Zhe, Jaxton Lin",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/vBAQqvCtDLe6d2GbwDfcYBNJuVR.jpg",
+  "banner": "/t4GMQwUfJHlMjpSKvg73NWgs5LV.jpg",
+  "trailer": "https://www.youtube.com/watch?v=yS3gcCzzUfA"
+ },
+ "i-am-married-but": {
+  "titulo_original": "童話故事下集",
+  "titulo_br": "Casada, mas…",
+  "pais": "Taiwan",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "36 min",
+  "elenco": [
+   "Alice Ko",
+   "Jasper Liu",
+   "Samantha Ko",
+   "Fu Meng-po",
+   "Tseng Jing-hua"
+  ],
+  "diretor": null,
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/tibpmF30yseIBx8lfBw9UIJoyJ9.jpg",
+  "banner": "/6FsFbWo6dCSoQjY1j8jLTfpxZ7g.jpg",
+  "trailer": "https://www.youtube.com/watch?v=sQrdTdxBvDc"
+ },
+ "more-than-blue-the-series": {
+  "titulo_original": "比悲傷更悲傷的故事：影集版",
+  "titulo_br": "More than Blue: A Série",
+  "pais": "Taiwan",
+  "ano": 2021,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Gingle Wang",
+   "Fandy Fan",
+   "Ivy Shao",
+   "Wang Po-chieh",
+   "Figaro Tseng"
+  ],
+  "diretor": "Hsieh Pei Ju",
+  "roteirista": "Hermes Lu",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/jviMwd9MNfGC8DaxzT0mixmrCZH.jpg",
+  "banner": "/j65k5GKtqiF4gaomL6ArScIivrs.jpg",
+  "trailer": "https://www.youtube.com/watch?v=KYIfYbraxGk"
+ },
+ "a-thousand-goodnights": {
+  "titulo_original": "一千個晚安",
+  "titulo_br": "Boa Noite, Outra Vez",
+  "pais": "Taiwan",
+  "ano": 2019,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Cindy Lien",
+   "Nicholas Teo",
+   "Yao Ai-ning",
+   "Li Chung-lin",
+   "Chen Bor-jeng"
+  ],
+  "diretor": "Chen Rong Hui",
+  "roteirista": "Lin Pei Yu, Shao Hui Ting",
+  "plataformas": [
+   "Netflix",
+   "SET TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/jAaMW889sjqAeA0JDVVqvtKnPZC.jpg",
+  "banner": "/xiWI44OgXWcDbTEw7qLNlcOEDhC.jpg",
+  "trailer": null
+ },
+ "a-parasite-s-heart": {
+  "titulo_original": "หัวใจกาฝาก",
+  "titulo_br": "Coração Parasita",
+  "pais": "Tailândia",
+  "ano": 2026,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "52 min",
+  "elenco": [
+   "Varakorn Sawaskorn",
+   "Chertinnara Phongpeeradej",
+   "Sipatrada Phiuthong",
+   "Ndol Knin",
+   "Kowit Wattanakul"
+  ],
+  "diretor": "Lon Kanawat Sungvaributr",
+  "roteirista": "Lainam",
+  "plataformas": [
+   "Netflix",
+   "Channel 7"
+  ],
+  "status": "Em exibição",
+  "classificacao": 16,
+  "poster": "/wHVoF7ykBtHpwNhKQtT7aVVOjzw.jpg",
+  "banner": "/tBxBchbTsi801LWzyutNqCAACis.jpg",
+  "trailer": null
+ },
+ "bad-genius": {
+  "titulo_original": "ฉลาดเกมส์โกง เดอะซีรีส์",
+  "titulo_br": "Bad Genius: A Série",
+  "pais": "Tailândia",
+  "ano": 2020,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "55 min",
+  "elenco": [
+   "Plearnpichaya Komalarajun",
+   "Jinjett Wattanasin",
+   "Paris Intarakomalyasut",
+   "Sawanya Paisarnpayak",
+   "Saksit Tangtong"
+  ],
+  "diretor": null,
+  "roteirista": "Cook Tanida Hantaweewatana, Meen Tossaphon Riantong, Ham Vasudhorn Piyaromna",
+  "plataformas": [
+   "Netflix",
+   "One 31"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/A6XsJaYDjLpxVQMSfVxg8iZn9Tp.jpg",
+  "banner": "/ar3wjM7IEjlgK9amiWbEe7xDzIe.jpg",
+  "trailer": "https://www.youtube.com/watch?v=NXIge7CxRJ4"
+ },
+ "ready-set-love": {
+  "titulo_original": "เกมชนคนโสด",
+  "titulo_br": "Batalha das Solteiras",
+  "pais": "Tailândia",
+  "ano": 2024,
+  "episodios": 6,
+  "temporadas": 1,
+  "duracao": "68 min",
+  "elenco": [
+   "Pongtiwat Tangwancharoen",
+   "Kemisara Paladesh",
+   "Ladapa Thongkham",
+   "Natthaweeranuch Thongmee",
+   "Panadda Wongphudee️️"
+  ],
+  "diretor": "Suea Yanyong Kuruangkura, May Apizsara Praisin",
+  "roteirista": "Rangsima Akarawiwat, Tee Phuwanit Pholdee",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/gxOLu1i4ZJANvPREGb5JAqFaA4d.jpg",
+  "banner": "/6k0Xo6HmRVsbqACKB9hU4TAocxY.jpg",
+  "trailer": "https://www.youtube.com/watch?v=JK7podgwMDQ"
+ },
+ "dalah-death-and-the-flowers": {
+  "titulo_original": "ดาหลา บุปผา ฆาตกรรม",
+  "titulo_br": "Se as Flores Falassem",
+  "pais": "Tailândia",
+  "ano": 2025,
+  "episodios": 6,
+  "temporadas": 1,
+  "duracao": "52 min",
+  "elenco": [
+   "Urassaya Sperbund",
+   "Chayanit Chansangavej",
+   "Naphat Vikairungroj",
+   "Vachirawich Wattanapakdeepaisan",
+   "Ron Banjongsang"
+  ],
+  "diretor": "Dream Thanika Jenjesda, Alisa Pien",
+  "roteirista": "Mui Aticha Tanthanawigrai, Rutaiwan Wongsirasawad",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/hdeSBNSgGWr7TlLUFIFeWg6qbq7.jpg",
+  "banner": "/fHeifcsv6CphZXFOfBYLlMXk3kX.jpg",
+  "trailer": null
+ },
+ "delusion": {
+  "titulo_original": "ภาพลวงตาย",
+  "titulo_br": "Ilusão Mortal",
+  "pais": "Tailândia",
+  "ano": 2026,
+  "episodios": 6,
+  "temporadas": 1,
+  "duracao": "52 min",
+  "elenco": [
+   "Natapohn Phornprapha",
+   "Jespipat Tilapornputt",
+   "Surasak Chayaat",
+   "Tom Sirani Yankittikan",
+   "August Vachiravit Paisarnkulwong"
+  ],
+  "diretor": null,
+  "roteirista": "Pete Kasidej Sundararjun, Yui Kanokphan Ornrattanasakul",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": 16,
+  "poster": "/bj4ZqBBIozaZw61HqQJQWgJ8Hrt.jpg",
+  "banner": "/cae4gjklRHnzQTmVCxpZnOdPw71.jpg",
+  "trailer": "https://www.youtube.com/watch?v=djLRdKDWMk4"
+ },
+ "sing-again": {
+  "titulo_original": "รักอีกครั้ง",
+  "titulo_br": "Sing Again",
+  "pais": "Tailândia",
+  "ano": 2022,
+  "episodios": 18,
+  "temporadas": 1,
+  "duracao": "53 min",
+  "elenco": [
+   "Suppapong Udomkaewkanjana",
+   "Talay Sanguandikul",
+   "Chonnikan Netjui",
+   "Nara Thepnupa",
+   "Khanatsanan Naktakhe"
+  ],
+  "diretor": "K Chainarong Tampong",
+  "roteirista": "Meang Pakapol Srirongmuang, Apinnat Chanbunsai",
+  "plataformas": [
+   "Netflix",
+   "TrueID"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/s0ABq1Jhm0X0UoYPjjPunIrvkAE.jpg",
+  "banner": "/aWJCgaovfLbKSZkyBeA5X3QyQ7W.jpg",
+  "trailer": null
+ },
+ "the-atypical-family": {
+  "titulo_original": "히어로는 아닙니다만",
+  "titulo_br": "Uma Família Inusitada",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jang Ki-yong",
+   "Chun Woo-hee",
+   "Go Doo-shim",
+   "Claudia Kim",
+   "Park So-yi"
+  ],
+  "diretor": "Jo Hyun-tack",
+  "roteirista": "Joo Hwa-mi",
+  "plataformas": [
+   "Netflix",
+   "JTBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": "12",
+  "poster": "/AnoQxxH3RoMRrUj5fm9SFRYlfxP.jpg",
+  "banner": "/hbksC9zJiV1na8rW6BMJ7ywycVX.jpg",
+  "trailer": "https://www.youtube.com/watch?v=CotipI30Bx8"
+ },
+ "glitch": {
+  "titulo_original": "글리치",
+  "titulo_br": "Anomalia",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "53 min",
+  "elenco": [
+   "Jeon Yeo-been",
+   "Nana",
+   "Lee Dong-hwi",
+   "Ryu Kyung-soo"
+  ],
+  "diretor": "Roh Deok",
+  "roteirista": "Gin Han-sai",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "16",
+  "poster": "/kJEYfQSnnFSn8DY9vdNQ9UQ9QSg.jpg",
+  "banner": "/hGm3m4TzEsmBb9SF2mz8Uizx9uH.jpg",
+  "trailer": "https://www.youtube.com/watch?v=inGM8RB6H00"
+ },
+ "the-real-has-come": {
+  "titulo_original": "진짜가 나타났다!",
+  "titulo_br": "Chegou a Hora da Verdade!",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 50,
+  "temporadas": 1,
+  "duracao": "80 min",
+  "elenco": [
+   "Baek Jin-hee",
+   "Ahn Jae-hyun",
+   "Cha Joo-young",
+   "Jung Eui-jae"
+  ],
+  "diretor": "Han Joon-seo",
+  "roteirista": "Jo Jung-joo",
+  "plataformas": [
+   "Netflix",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": "14",
+  "poster": "/phV9ZfUD6tQM4bIZ2kqCIDoEU9J.jpg",
+  "banner": "/c2FrYxvftReeWklixFWPvsbQQ12.jpg",
+  "trailer": null
+ },
+ "our-golden-days": {
+  "titulo_original": "화려한 날들",
+  "titulo_br": "Nossos Dias de Glória",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 50,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jung Il-woo",
+   "Jung In-sun",
+   "Yoon Hyun-min",
+   "Chun Ho-jin",
+   "Lee Tae-ran"
+  ],
+  "diretor": "Kim Hyung-seok",
+  "roteirista": "So Hyun-kyung",
+  "plataformas": [
+   "Netflix",
+   "KBS2",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": "12",
+  "poster": "/lduvaoMMGS71aLNrz9VMo5yXyMI.jpg",
+  "banner": "/wM3uUP2XuOTfQU8rjWEK3QlSufG.jpg",
+  "trailer": null
+ },
+ "bitch-x-rich": {
+  "titulo_original": "청담국제고등학교",
+  "titulo_br": "O Preço do Silêncio",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Lee Eun-saem",
+   "Yeri",
+   "Lee Jong-hyuk",
+   "Yoo Jung-hoo"
+  ],
+  "diretor": "Min Ji-young",
+  "roteirista": "Jung Sung-eun",
+  "plataformas": [
+   "Netflix",
+   "Wavve"
+  ],
+  "status": "Finalizado",
+  "classificacao": "14",
+  "poster": "/r2qOi6cSb0aUH1lzrg8vbr6i0Uw.jpg",
+  "banner": "/t2fl4Po0H38ZYwzPboTTXhQ6v3Y.jpg",
+  "trailer": "https://www.youtube.com/watch?v=RR9ki1MCYoI"
+ },
+ "welcome-to-wedding-hell": {
+  "titulo_original": "결혼백서",
+  "titulo_br": "Um Pesadelo de Casamento",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "38 min",
+  "elenco": [
+   "Lee Jin-wook",
+   "Lee Yeon-hee",
+   "Hwang Seung-eon",
+   "Song Jin-woo"
+  ],
+  "diretor": "Seo Joo-wan, Song Je-young",
+  "roteirista": "Choi I-rang",
+  "plataformas": [
+   "Netflix",
+   "Kakao TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "12",
+  "poster": "/quiwIKPTn30pa0ZtSZvWd0iisvC.jpg",
+  "banner": "/2BseNpfCvwYNLQzwHqoNRbLaFkT.jpg",
+  "trailer": null
+ },
+ "private-lives": {
+  "titulo_original": "사생활",
+  "titulo_br": "Private Life",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "75 min",
+  "elenco": [
+   "Seohyun",
+   "Go Kyung-pyo",
+   "Kim Hyo-jin",
+   "Kim Young-min",
+   "Tae Won-seok"
+  ],
+  "diretor": "Nam Gun",
+  "roteirista": "Yoo Sung-yeol",
+  "plataformas": [
+   "Netflix",
+   "JTBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/xLFKRcp81TnBRs1bc3FHOhylcjB.jpg",
+  "banner": "/d9U3Nv7oRofV2iGTkIwMd8341Nx.jpg",
+  "trailer": "https://www.youtube.com/watch?v=gEB-DWdY4a8"
+ },
+ "possessed": {
+  "titulo_original": "빙의",
+  "titulo_br": "Possessed",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Song Sae-byeok",
+   "Go Joon-hee",
+   "Yeon Jung-hoon",
+   "Jo Han-sun",
+   "Lee Won-jong"
+  ],
+  "diretor": "Choi Do-hoon",
+  "roteirista": "Park Hee-gang",
+  "plataformas": [
+   "Netflix",
+   "OCN"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/zEoX8FfgkQKHMybmxlJ8Vv5huWC.jpg",
+  "banner": "/sj4pA5ysLl5g8E8G8YupqLKQiSN.jpg",
+  "trailer": "https://www.youtube.com/watch?v=rIE5Dsz4Jgc"
+ },
+ "the-lies-within": {
+  "titulo_original": "모두의 거짓말",
+  "titulo_br": "Tramas do Passado",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Lee Yoo-young",
+   "Lee Min-ki",
+   "Ohn Joo-wan",
+   "Lee Joon-hyuk",
+   "Kim Si-eun"
+  ],
+  "diretor": "Lee Yoon-jung",
+  "roteirista": "Jeon Young-shin, Won Yoo-jung",
+  "plataformas": [
+   "Netflix",
+   "OCN"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/qinSC5tPqck8BIveuXzG7y7LpDd.jpg",
+  "banner": "/Av3I7vLf6X4gxs2t5sXPc7RARxa.jpg",
+  "trailer": "https://www.youtube.com/watch?v=35bqHIrtXJg"
+ },
+ "legal-high": {
+  "titulo_original": "리갈하이",
+  "titulo_br": "Legal High",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Jin Goo",
+   "Seo Eun-soo",
+   "Yoon Park",
+   "Chae Jung-an",
+   "Jung Sang-hoon"
+  ],
+  "diretor": "Kim Jung-hyun",
+  "roteirista": "Park Sung-jin",
+  "plataformas": [
+   "Netflix",
+   "JTBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/sK4wNZZH8NB6bQhoTXlstE9QDg4.jpg",
+  "banner": "/rrz2h7iOS6VcOTj16zQxPFITLof.jpg",
+  "trailer": null
+ },
+ "the-penthouse": {
+  "titulo_original": "펜트하우스",
+  "titulo_br": "A Cobertura",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 48,
+  "temporadas": 3,
+  "duracao": "85 min",
+  "elenco": [
+   "Lee Ji-ah",
+   "Kim So-yeon",
+   "Eugene",
+   "Uhm Ki-joon",
+   "Bong Tae-gyu",
+   "Shin Eun-kyung"
+  ],
+  "diretor": "Joo Dong-min",
+  "roteirista": "Kim Soon-ok",
+  "plataformas": [
+   "Netflix",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/wybv1VgIOMhcHdU3ooikn2LuR1o.jpg",
+  "banner": "/lUseDQFZoge6GR1F6dGtaARiF7M.jpg",
+  "trailer": "https://www.youtube.com/watch?v=krmcYbDCeAw"
+ },
+ "the-last-empress": {
+  "titulo_original": "황후의 품격",
+  "titulo_br": "A Última Imperatriz",
+  "pais": "Coreia do Sul",
+  "ano": 2018,
+  "episodios": 52,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Jang Na-ra",
+   "Choi Jin-hyuk",
+   "Shin Sung-rok",
+   "Lee Elijah",
+   "Shin Eun-kyung"
+  ],
+  "diretor": "Joo Dong-min",
+  "roteirista": "Kim Soon-ok",
+  "plataformas": [
+   "Netflix",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/kWJw89ce4gxGREKxaFSiQmETWQN.jpg",
+  "banner": "/6C5m9nzCTB0ijS9PjYus0eTYpct.jpg",
+  "trailer": null
+ },
+ "abyss": {
+  "titulo_original": "어비스",
+  "titulo_br": "O Abismo Mágico",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Park Bo-young",
+   "Ahn Hyo-seop",
+   "Lee Sung-jae",
+   "Kwon Soo-hyun",
+   "Lee Si-eon"
+  ],
+  "diretor": "Yoo Je-won",
+  "roteirista": "Moon Soo-yeon",
+  "plataformas": [
+   "Netflix",
+   "tvN"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/ttcqbLutnHABQwDiW1k7dxnsJLV.jpg",
+  "banner": "/6W1dWcoqpl2NrgqkAXWa0aTTBBK.jpg",
+  "trailer": "https://www.youtube.com/watch?v=BaYkSTgCERw"
+ },
+ "vip": {
+  "titulo_original": "브이아이피",
+  "titulo_br": "VIP",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Jang Na-ra",
+   "Lee Sang-yoon",
+   "Lee Chung-ah",
+   "Kwak Sun-young",
+   "Pyo Ye-jin"
+  ],
+  "diretor": "Lee Jung-rim",
+  "roteirista": "Cha Hae-won",
+  "plataformas": [
+   "Netflix",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/bBIiRnCVOifc1eaW7sCbJHSWJ68.jpg",
+  "banner": "/ioPWG36C77oOL3bfIxAJFdcAFzO.jpg",
+  "trailer": "https://www.youtube.com/watch?v=8J4V6CpV03k"
+ },
+ "white-nights": {
+  "titulo_original": "불야성",
+  "titulo_br": "White Nights",
+  "pais": "Coreia do Sul",
+  "ano": 2016,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "63 min",
+  "elenco": [
+   "Lee Yo-won",
+   "Jin Goo",
+   "Uee",
+   "Jung Hae-in",
+   "Jeon Kuk-hwan"
+  ],
+  "diretor": null,
+  "roteirista": "Han Ji-hoon",
+  "plataformas": [
+   "Netflix",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/zvC6cvRuvGI8oWHkVaE3JwE9prR.jpg",
+  "banner": "/8ToOGGzhzksqEBOjGShILsFZag0.jpg",
+  "trailer": null
+ },
+ "alice-in-borderland": {
+  "titulo_original": "今際の国のアリス",
+  "titulo_br": "Alice in Borderland",
+  "pais": "Japão",
+  "ano": 2020,
+  "episodios": 22,
+  "temporadas": 3,
+  "duracao": "50 min",
+  "elenco": [
+   "Kento Yamazaki",
+   "Tao Tsuchiya",
+   "Nijiro Murakami",
+   "Aya Asahina",
+   "Nobuaki Kaneko"
+  ],
+  "diretor": "Shinsuke Sato",
+  "roteirista": "Yasuko Kuramitsu, Shinsuke Sato",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "16",
+  "poster": "/Ac8ruycRXzgcsndTZFK6ouGA0FA.jpg",
+  "banner": "/QZaPkNUvhdcKONuO2fXuqtcQRo.jpg",
+  "trailer": "https://www.youtube.com/watch?v=EEJ7nUvXUYA"
+ },
+ "jin": {
+  "titulo_original": "JIN-仁-",
+  "titulo_br": "Jin",
+  "pais": "Japão",
+  "ano": 2009,
+  "episodios": 22,
+  "temporadas": 2,
+  "duracao": "54 min",
+  "elenco": [
+   "Takao Osawa",
+   "Haruka Ayase",
+   "Miki Nakatani",
+   "Keisuke Koide",
+   "Kenta Kiritani"
+  ],
+  "diretor": "Daisuke Yamamuro",
+  "roteirista": "Yoshiko Morishita",
+  "plataformas": [
+   "Netflix",
+   "TBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/1s7o7KC7UU6G0mtKLApZnFRhFAE.jpg",
+  "banner": "/owJnprOJ9ka56HnAG7czejPhnE6.jpg",
+  "trailer": null
+ },
+ "midnight-diner-tokyo-stories": {
+  "titulo_original": "深夜食堂 -Tokyo Stories-",
+  "titulo_br": "Midnight Diner",
+  "pais": "Japão",
+  "ano": 2016,
+  "episodios": 20,
+  "temporadas": 2,
+  "duracao": "24 min",
+  "elenco": [
+   "Kaoru Kobayashi",
+   "Mansaku Fuwa",
+   "Asako Kobayashi",
+   "Joe Odagiri",
+   "Shohei Uno"
+  ],
+  "diretor": "Joji Matsuoka",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/ww6hnnEnV6qM0LWkopDE7rMKAYr.jpg",
+  "banner": "/o62D8whn8AyVCs84ulFzF2VW7XY.jpg",
+  "trailer": "https://www.youtube.com/watch?v=OCGDVHjPX0c"
+ },
+ "tokyo-swindlers": {
+  "titulo_original": "地面師たち",
+  "titulo_br": "Os Golpistas de Tóquio",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 7,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Go Ayano",
+   "Etsushi Toyokawa",
+   "Eiko Koike",
+   "Kazuki Kitamura",
+   "Pierre Taki"
+  ],
+  "diretor": "Hitoshi One",
+  "roteirista": "Hitoshi One",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/892R0peQpBJP6VnAiQWtAGxRUr.jpg",
+  "banner": "/jj8ELGZK0UG8AhwczCI4oIsoL12.jpg",
+  "trailer": "https://www.youtube.com/watch?v=RcxMxGP0X3s"
+ },
+ "the-journalist": {
+  "titulo_original": "新聞記者",
+  "titulo_br": "A Jornalista",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 6,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Ryoko Yonekura",
+   "Go Ayano",
+   "Ryusei Yokohama",
+   "Shinobu Terajima",
+   "Hidetaka Yoshioka"
+  ],
+  "diretor": "Michihito Fujii",
+  "roteirista": "Michihito Fujii, Yoshitatsu Yamada, Kazuhisa Kodera",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/fo9CuO19jPjikgU7dzMEFYqNGPj.jpg",
+  "banner": "/rqe08XkUdAHxirI8HjyW5qocz0L.jpg",
+  "trailer": "https://www.youtube.com/watch?v=vjWIfXgxCmw"
+ },
+ "dr-storks": {
+  "titulo_original": "コウノドリ",
+  "titulo_br": "Dr. Cegonha",
+  "pais": "Japão",
+  "ano": 2015,
+  "episodios": 21,
+  "temporadas": 2,
+  "duracao": "46 min",
+  "elenco": [
+   "Go Ayano",
+   "Mayu Matsuoka",
+   "Yoh Yoshida",
+   "Kentaro Sakaguchi",
+   "Gen Hoshino",
+   "Nao Omori"
+  ],
+  "diretor": "Nobuhiro Doi",
+  "roteirista": "Mutsumi Yamamoto",
+  "plataformas": [
+   "Netflix",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A16",
+  "poster": "/awr9zev2fQakkVLZCmCdj41lZhG.jpg",
+  "banner": "/nbY72TKvHk79tQ1w1qlnTX0ttIt.jpg",
+  "trailer": null
+ },
+ "mr-hiiragi-s-homeroom": {
+  "titulo_original": "3年A組 ―今から皆さんは、人質です―",
+  "titulo_br": "Os Reféns do Professor Hiiragi",
+  "pais": "Japão",
+  "ano": 2019,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Masaki Suda",
+   "Mei Nagano",
+   "Moka Kamishiraishi",
+   "Ryota Katayose",
+   "Rina Kawaei"
+  ],
+  "diretor": "Naoko Komuro",
+  "roteirista": "Shogo Muto",
+  "plataformas": [
+   "Netflix",
+   "Nippon TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/nzEJMNAWj1HO8yM62tlZD5pmeiV.jpg",
+  "banner": "/iwEI1YXElgLWFOyIx6blkoQ84VO.jpg",
+  "trailer": null
+ },
+ "nodame-cantabile": {
+  "titulo_original": "のだめカンタービレ",
+  "titulo_br": "Nodame Cantabile",
+  "pais": "Japão",
+  "ano": 2006,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "46 min",
+  "elenco": [
+   "Juri Ueno",
+   "Hiroshi Tamaki",
+   "Eita Nagayama",
+   "Asami Mizukawa",
+   "Keisuke Koide"
+  ],
+  "diretor": "Hideki Takeuchi",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/rrJWoOlU3URsQzHmVklJcMyMB6b.jpg",
+  "banner": "/f9VmpKNsQ4UG4vYdu28E4jcwJ7x.jpg",
+  "trailer": null
+ },
+ "long-vacation": {
+  "titulo_original": "ロングバケーション",
+  "titulo_br": "Long Vacation",
+  "pais": "Japão",
+  "ano": 1996,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Takuya Kimura",
+   "Tomoko Yamaguchi",
+   "Yutaka Takenouchi",
+   "Izumi Inamori",
+   "Takako Matsu"
+  ],
+  "diretor": "Masayuki Suzuki",
+  "roteirista": "Eriko Kitagawa",
+  "plataformas": [
+   "Netflix",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A10",
+  "poster": "/ndedCYBqSOt2LNnrH7MsvHcCeYz.jpg",
+  "banner": "/hrJL8gQEWjWecIjamaGug6cUpDZ.jpg",
+  "trailer": null
+ },
+ "the-full-time-wife-escapist": {
+  "titulo_original": "逃げるは恥だが役に立つ",
+  "titulo_br": "Esposa em Tempo Integral",
+  "pais": "Japão",
+  "ano": 2016,
+  "episodios": 12,
+  "temporadas": 2,
+  "duracao": "54 min",
+  "elenco": [
+   "Yui Aragaki",
+   "Gen Hoshino",
+   "Ryohei Otani",
+   "Yuriko Ishida",
+   "Arata Furuta"
+  ],
+  "diretor": "Fuminori Kaneko",
+  "roteirista": "Akiko Nogi",
+  "plataformas": [
+   "Netflix",
+   "TBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/28lfvAfvYoDoFDXkPS49RWhDTJo.jpg",
+  "banner": "/378VBfFyXIxhKFJqcUHuG0A6DTh.jpg",
+  "trailer": null
+ },
+ "iryu-team-medical-dragon": {
+  "titulo_original": "医龍 Team Medical Dragon",
+  "titulo_br": "Iryu Team Medical Dragon",
+  "pais": "Japão",
+  "ano": 2006,
+  "episodios": 22,
+  "temporadas": 2,
+  "duracao": "45 min",
+  "elenco": [
+   "Kenji Sakaguchi",
+   "Izumi Inamori",
+   "Teppei Koike",
+   "Sadao Abe",
+   "Kuranosuke Sasaki"
+  ],
+  "diretor": "Naruhide Mizuta",
+  "roteirista": "Koji Hayashi",
+  "plataformas": [
+   "Netflix",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/aO20nHmTSXMwuQqFWVFlpPt3YiK.jpg",
+  "banner": "/dZhRRU4qP3dia3p381QJ79sFKtt.jpg",
+  "trailer": null
+ },
+ "the-makanai-cooking-for-the-maiko-house": {
+  "titulo_original": "舞妓さんちのまかないさん",
+  "titulo_br": "Makanai: Cozinhando para A Casa Maiko",
+  "pais": "Japão",
+  "ano": 2023,
+  "episodios": 9,
+  "temporadas": 1,
+  "duracao": "43 min",
+  "elenco": [
+   "Nana Mori",
+   "Natsuki Deguchi",
+   "Aju Makita",
+   "Keiko Matsuzaka",
+   "Ai Hashimoto"
+  ],
+  "diretor": "Hirokazu Kore-eda",
+  "roteirista": "Hirokazu Kore-eda",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/ynV4fQ9GOsGsOtFfxaRkjpiAFLt.jpg",
+  "banner": "/cIv50iy1hTTRvjBOo6Xzs6kplQ4.jpg",
+  "trailer": "https://www.youtube.com/watch?v=uTQ1oCVR74o"
+ },
+ "vivant": {
+  "titulo_original": "VIVANT",
+  "titulo_br": "Vivant",
+  "pais": "Japão",
+  "ano": 2023,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Masato Sakai",
+   "Hiroshi Abe",
+   "Fumi Nikaido",
+   "Tori Matsuzaka",
+   "Kazunari Ninomiya",
+   "Koji Yakusho"
+  ],
+  "diretor": "Katsuo Fukuzawa",
+  "roteirista": "Hiroyuki Yatsu, Nana Yamamoto, Hayato Miyamoto, Akio Miyoshi",
+  "plataformas": [
+   "Netflix",
+   "TBS"
+  ],
+  "status": "Em exibição",
+  "classificacao": "A16",
+  "poster": "/aut8zs5YypvT5chQUuFhActLkHF.jpg",
+  "banner": "/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
+  "trailer": null
+ },
+ "light-of-my-lion": {
+  "titulo_original": "ライオンの隠れ家",
+  "titulo_br": "A Toca do Leão",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Yuya Yagira",
+   "Ryota Bando",
+   "Tasuku Sato",
+   "Asuka Saito",
+   "Yuki Sakurai"
+  ],
+  "diretor": "Toshio Tsuboi",
+  "roteirista": "Koji Tokuo",
+  "plataformas": [
+   "Netflix",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/hyB8p0kImkNhszQo4r4pS7Qrg6w.jpg",
+  "banner": "/A6k0tlv6rdavSOpvrjtQxZCYZMb.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_KExBC-9HNs"
+ },
+ "la-grande-maison-tokyo": {
+  "titulo_original": "グランメゾン東京",
+  "titulo_br": "Grand Maison Tóquio",
+  "pais": "Japão",
+  "ano": 2019,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Takuya Kimura",
+   "Kyoka Suzuki",
+   "Yuta Tamamori",
+   "Ikki Sawamura",
+   "Mitsuhiro Oikawa"
+  ],
+  "diretor": "Daisuke Yamamuro",
+  "roteirista": "Tsutomu Kuroiwa",
+  "plataformas": [
+   "Netflix",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/ksY7AvuiNo62FS2n9pn8AO7gL5m.jpg",
+  "banner": "/r8f2xmBQlmRpo9tvRwy73CoF972.jpg",
+  "trailer": null
+ },
+ "romantics-anonymous": {
+  "titulo_original": "匿名の恋人たち",
+  "titulo_br": "Românticos Anônimos",
+  "pais": "Japão",
+  "ano": 2025,
+  "episodios": 8,
+  "temporadas": 1,
+  "duracao": "47 min",
+  "elenco": [
+   "Shun Oguri",
+   "Han Hyo-joo",
+   "Jin Akanishi",
+   "Yuri Nakamura",
+   "Ryo Narita"
+  ],
+  "diretor": "Sho Tsukikawa",
+  "roteirista": "Yoshikazu Okada, Kim Ji-hyun",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/tl95sLfjzDwXJs8zZuq6Wnb1WC0.jpg",
+  "banner": "/2h4rN6HWyvZLyGsfNNzJyQFsfG5.jpg",
+  "trailer": "https://www.youtube.com/watch?v=0FAm86H2IY4"
+ },
+ "quartet": {
+  "titulo_original": "カルテット",
+  "titulo_br": "Quartet",
+  "pais": "Japão",
+  "ano": 2017,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Takako Matsu",
+   "Hikari Mitsushima",
+   "Issey Takahashi",
+   "Ryuhei Matsuda",
+   "Riho Yoshioka"
+  ],
+  "diretor": "Nobuhiro Doi",
+  "roteirista": "Yuji Sakamoto",
+  "plataformas": [
+   "Netflix",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A12",
+  "poster": "/gCuCYARnYLlXRbxaLpFzETLT3Zm.jpg",
+  "banner": "/xeRGQy6xv77VAsrf1ggXr78MePW.jpg",
+  "trailer": "https://www.youtube.com/watch?v=XUKJAFn_u_c"
+ },
+ "asura": {
+  "titulo_original": "阿修羅のごとく",
+  "titulo_br": "Asura",
+  "pais": "Japão",
+  "ano": 2025,
+  "episodios": 7,
+  "temporadas": 1,
+  "duracao": "55 min",
+  "elenco": [
+   "Rie Miyazawa",
+   "Machiko Ono",
+   "Yu Aoi",
+   "Suzu Hirose",
+   "Masahiro Motoki"
+  ],
+  "diretor": "Hirokazu Kore-eda",
+  "roteirista": "Hirokazu Kore-eda",
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/6d4IrjS3t3O7dFynAmrLKXrSNwe.jpg",
+  "banner": "/1aUZEebBamWzkrZ2fqqbPjMo1Mt.jpg",
+  "trailer": "https://www.youtube.com/watch?v=-FgZ7-f-iZ4"
+ },
+ "erased": {
+  "titulo_original": "僕だけがいない街",
+  "titulo_br": "Erased",
+  "pais": "Japão",
+  "ano": 2017,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Yuki Furukawa",
+   "Reo Uchikawa",
+   "Tomoka Kurotani",
+   "Mio Yuki",
+   "Shigeyuki Totsugi"
+  ],
+  "diretor": "Ten Shimoyama",
+  "roteirista": null,
+  "plataformas": [
+   "Netflix"
+  ],
+  "status": "Finalizado",
+  "classificacao": "A14",
+  "poster": "/5PKJjw3dxZlBjJekuEvjl1hUUPV.jpg",
+  "banner": "/9HHZApcDBtrzgXi5ibeyvzsR3Qm.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Hv_sCn8sqY0"
+ },
+ "you-are-my-destiny": {
+  "titulo_original": "你是我的命中注定",
+  "titulo_br": "Você é o meu destino",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 36,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Xing Zhaolin",
+   "Liang Jie",
+   "Fu Jing",
+   "Li Jiulin"
+  ],
+  "diretor": "Ding Ying Zhou",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/7zGURnnB1ZzVRGdtpPfJwCRdiUc.jpg",
+  "banner": "/kh5VMnH0dzlKxWnsYAP1PM0JdT3.jpg",
+  "trailer": null
+ },
+ "the-rebel-princess": {
+  "titulo_original": "上阳赋",
+  "titulo_br": "A princesa rebelde",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 68,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhang Ziyi",
+   "Zhou Yiwei",
+   "Tony Yang",
+   "Yu Hewei"
+  ],
+  "diretor": "Cheng Yuan Hai, Hou Yong, Xu Zhi Ming",
+  "roteirista": "Li Jing Ling",
+  "plataformas": [
+   "Viki",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/w0ntYMLssxTV4gyzinfOtcgKFf0.jpg",
+  "banner": "/6kk4sWEk3qSO9euXlHsfqWdUILV.jpg",
+  "trailer": null
+ },
+ "love-and-destiny": {
+  "titulo_original": "宸汐缘",
+  "titulo_br": "Amor e destino",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 60,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Chang Chen",
+   "Ni Ni",
+   "Li Dongxue",
+   "Zhang Zhixi"
+  ],
+  "diretor": "Lam Yuk Fan, Leung Sing Kuen, Guo Hu, Ren Hai Tao",
+  "roteirista": "Xiao Xiang Dong Er, Chen Li Wen, Jiang Yue Hua",
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/NFgRINVRj6JWniWPyxs4wk2QRe.jpg",
+  "banner": "/ixokP5Tl4WCECKGBtlM3tCF53AW.jpg",
+  "trailer": null
+ },
+ "melody-of-golden-age": {
+  "titulo_original": "长乐曲",
+  "titulo_br": "A melodia da era dourada",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ding Yuxi",
+   "Deng Enxi",
+   "Mao Zijun",
+   "Xiao Yan"
+  ],
+  "diretor": "Wang Wei",
+  "roteirista": "Wang Han",
+  "plataformas": [
+   "Viki",
+   "Mango TV",
+   "Hunan TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/864xVZaoWOWmfVSInVuPXgAwIV5.jpg",
+  "banner": "/5MKItvWyYYEjbbZdj9sYtchyI8l.jpg",
+  "trailer": null
+ },
+ "skate-into-love": {
+  "titulo_original": "冰糖炖雪梨",
+  "titulo_br": "Patine até o amor",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhang Xincheng",
+   "Janice Wu",
+   "Zhou Zhan",
+   "Vincent Wei"
+  ],
+  "diretor": "Chu Yui Bun, Gu Zhi Wei",
+  "roteirista": "Ma Jia",
+  "plataformas": [
+   "Viki",
+   "Youku",
+   "LINE TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/qTaeJgc8I4QEZFfeUjgRp3LaHiI.jpg",
+  "banner": "/nkjdHxvwluy0iSa5tIiEzIYbNog.jpg",
+  "trailer": null
+ },
+ "legend-of-fuyao": {
+  "titulo_original": "扶摇",
+  "titulo_br": "A lenda de Fuyao",
+  "pais": "China",
+  "ano": 2018,
+  "episodios": 66,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Mi",
+   "Ethan Juan",
+   "Gao Weiguang",
+   "Liu Yijun"
+  ],
+  "diretor": "Vincent Yang, Xie Ze, Li Cai",
+  "roteirista": "Xie Yan Yan",
+  "plataformas": [
+   "Viki",
+   "Tencent Video",
+   "ZJTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/3gv7muCZUxQEJJLVmj1dHhm2ROr.jpg",
+  "banner": "/c3k37GNXHHzajHvwSBMRlyiNtO0.jpg",
+  "trailer": null
+ },
+ "the-brightest-star-in-the-sky": {
+  "titulo_original": "夜空中最闪亮的星",
+  "titulo_br": "A estrela mais brilhante no céu",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 44,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Z.Tao",
+   "Janice Wu",
+   "Niu Junfeng",
+   "Cao Xiyue"
+  ],
+  "diretor": "Liu Yi Zhi",
+  "roteirista": "Wang Yan Da, Zuo Mo Jia, Liu Ran",
+  "plataformas": [
+   "Viki",
+   "Tencent Video",
+   "Youku",
+   "iQiyi",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/zSZEXqxkc0orTO5Hqx6Cai2MFo9.jpg",
+  "banner": "/t9MntSe50HGMWJ56yWjBD34wu9C.jpg",
+  "trailer": null
+ },
+ "attention-love": {
+  "titulo_original": "稍息立正我愛你",
+  "titulo_br": "Atenção, amor!",
+  "pais": "Taiwan",
+  "ano": 2017,
+  "episodios": 15,
+  "temporadas": 1,
+  "duracao": "1 h 12 min",
+  "elenco": [
+   "Joanne Tseng",
+   "Wang Zi",
+   "Riley Wang",
+   "Greg Hsu"
+  ],
+  "diretor": "Huang Tien Jen",
+  "roteirista": "Lin Hsin Hui, Chien Chi Feng",
+  "plataformas": [
+   "Viki",
+   "CTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/tTvbKVoQplHDGL0gcN4mgKwyoAa.jpg",
+  "banner": "/l2ECVudtoWhIiV0ixgfW2yKm5qz.jpg",
+  "trailer": null
+ },
+ "murphy-s-law-of-love": {
+  "titulo_original": "莫非，這就是愛情",
+  "titulo_br": "A lei de Murphy do amor",
+  "pais": "Taiwan",
+  "ano": 2015,
+  "episodios": 19,
+  "temporadas": 1,
+  "duracao": "1 h 30 min",
+  "elenco": [
+   "Danson Tang",
+   "Ivelyn Lee",
+   "Jolin Chien",
+   "Jenna Wang"
+  ],
+  "diretor": "Eri Hao, Gia Lee, Nelson Yeh",
+  "roteirista": "Chen Jie Ying",
+  "plataformas": [
+   "Viki",
+   "SET TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/bdtubDlOhnlvIANy0c3xeZXwOVH.jpg",
+  "banner": "/uO9w4wfSEaXhaPxOqLDlfboqQmc.jpg",
+  "trailer": null
+ },
+ "ever-night": {
+  "titulo_original": "将夜",
+  "titulo_br": "Noite eterna",
+  "pais": "China",
+  "ano": 2018,
+  "episodios": 60,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Arthur Chen",
+   "Ireine Song",
+   "Adam Cheng",
+   "Sun Zujun"
+  ],
+  "diretor": null,
+  "roteirista": "Xu Run",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/eaKFEriGgNT44exdxookXt5dk45.jpg",
+  "banner": "/BEFRywZsOvGloyhPNczhnNlRqw.jpg",
+  "trailer": null
+ },
+ "goodbye-my-princess": {
+  "titulo_original": "东宫",
+  "titulo_br": "Adeus, minha princesa",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 52,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Peng Xiaoran",
+   "Chen Xingxu",
+   "Wei Qianxiang",
+   "Xia Wa"
+  ],
+  "diretor": "Li Mu Ge",
+  "roteirista": "Hu Rong, Qian Jue, Ke Yi Tong",
+  "plataformas": [
+   "Viki",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/vk1MYxqBvRMuUhVhORhSSEQ4Zj7.jpg",
+  "banner": "/kWudGluGaCoA7yRB01DPVBPkuza.jpg",
+  "trailer": null
+ },
+ "unrequited-love": {
+  "titulo_original": "橘生淮南·暗恋",
+  "titulo_br": "Amor não correspondido",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Zhu Yanmanzi",
+   "Zhao Shunran",
+   "Zhang Yichi",
+   "Shen Yu"
+  ],
+  "diretor": "Ding Pei",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/8GZ7jvWjfxpfCDMG0xXaJIyqQjq.jpg",
+  "banner": "/5B0Pb8kuKtfnBN92MTm2maiAUnE.jpg",
+  "trailer": null
+ },
+ "legend-of-yun-xi": {
+  "titulo_original": "芸汐传",
+  "titulo_br": "A lenda de Yun Xi",
+  "pais": "China",
+  "ano": 2018,
+  "episodios": 48,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ju Jingyi",
+   "Zhang Zhehan",
+   "Merxat",
+   "Hu Bing"
+  ],
+  "diretor": "David Lau, Lin Jian Long",
+  "roteirista": "Jin Yuan Yuan, Ju Fang Fang, Zhang Yan Bin",
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/jnPPq2zDUfvcDEQF67ywMkDKUDx.jpg",
+  "banner": "/qYYwXnNoCjLN604ttxM2nJDjMku.jpg",
+  "trailer": null
+ },
+ "our-secret": {
+  "titulo_original": "暗格里的秘密",
+  "titulo_br": "Nosso segredo",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Chen Zheyuan",
+   "Rainbow Xu",
+   "Wang Zexuan",
+   "Fan Zhixin"
+  ],
+  "diretor": "Zhang Xiao An",
+  "roteirista": "Joker Sun, Gao Jia Qi, Tong Shuang Shuang",
+  "plataformas": [
+   "Viki",
+   "iQiyi",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/3JF71OaoUMDmd84HTdLpUFGL67h.jpg",
+  "banner": "/vE8OPTULzuyvgrM0yoFbn2VYisq.jpg",
+  "trailer": null
+ },
+ "my-girlfriend-is-an-alien": {
+  "titulo_original": "外星女生柴小七",
+  "titulo_br": "Minha namorada é uma alienígena",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 28,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Wan Peng",
+   "Thassapak Hsu",
+   "Wang Youjun",
+   "Yang Yue"
+  ],
+  "diretor": "Gao Cong Kai, Liu Han Yang",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/5e2owvs9TWVsuIacTFxJGPp6KVW.jpg",
+  "banner": "/zW7Z7xniks8aQ2BViwF2o2ZOHec.jpg",
+  "trailer": null
+ },
+ "hello-mr-gu": {
+  "titulo_original": "原来你是这样的顾先生",
+  "titulo_br": "Olá, Sr. Gu",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Chen Jingke",
+   "Yan Zhichao",
+   "Guo Yunqi",
+   "Zhu Danni"
+  ],
+  "diretor": "Tian Shao Bo",
+  "roteirista": "Hu Hui",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/qkHOP6AZ8Gg3HVagQ7K5LIAxE9E.jpg",
+  "banner": "/lJZPn6nSD0uUEgR23Mv3w5D6rtP.jpg",
+  "trailer": null
+ },
+ "count-your-lucky-stars": {
+  "titulo_original": "我好喜欢你",
+  "titulo_br": "Conte suas estrelas da sorte",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 34,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Shen Yue",
+   "Jerry Yan",
+   "Miles Wei",
+   "Jackie Li"
+  ],
+  "diretor": "Lin Zi Ping",
+  "roteirista": "Gao Wei",
+  "plataformas": [
+   "Viki",
+   "Youku",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/yHEHmjZaMlzhPc0AGjroSWveN9f.jpg",
+  "banner": "/jQMgJVVoTHJYIvZAEKk8u5Bei95.jpg",
+  "trailer": null
+ },
+ "le-coup-de-foudre": {
+  "titulo_original": "我只喜欢你",
+  "titulo_br": "O amor à primeira vista",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 35,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Janice Wu",
+   "Zhang Yujian",
+   "Zhao Zhiwei",
+   "Ma Li"
+  ],
+  "diretor": "Wang Zhi",
+  "roteirista": "Shao Zi, Ming Yuan",
+  "plataformas": [
+   "Viki",
+   "Tencent Video",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/jen6kiVpTSiJjqvsIrGc7MPtln7.jpg",
+  "banner": "/9VyBVRBw73K1y3ZkMAkssxreG86.jpg",
+  "trailer": null
+ },
+ "my-huckleberry-friends": {
+  "titulo_original": "你好，旧时光",
+  "titulo_br": "Meus amigos de Huckleberry",
+  "pais": "China",
+  "ano": 2017,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Landy Li",
+   "Zhang Xincheng",
+   "Tang Mengjia",
+   "Zhao Haohong"
+  ],
+  "diretor": "Mo Sha",
+  "roteirista": "Chen Xiao Xiao, Wang Zhi Yong, Lu Yang, Zhuo Yue Pao Mo, Zhao Xun, Deng Ke",
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/7eJWb7y6y1OChZ6GNlN7dqayyI3.jpg",
+  "banner": "/2JU0fotqlAoTMy4lcNQkcCQHOdR.jpg",
+  "trailer": null
+ },
+ "cupid-s-kitchen": {
+  "titulo_original": "舌尖上的心跳",
+  "titulo_br": "A cozinha de Cupido",
+  "pais": "China",
+  "ano": 2022,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ethan Juan",
+   "Song Zuer",
+   "Liu Dongqin",
+   "Wang Ruizi"
+  ],
+  "diretor": "Li Jun",
+  "roteirista": "Meng Yao",
+  "plataformas": [
+   "Viki",
+   "Tencent Video",
+   "Youku",
+   "iQiyi",
+   "ZJTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/a60gVZ8rULc116ZlftwHiCWxBHy.jpg",
+  "banner": "/khCG9c66mVZkrJNZAqdnCVAiwKK.jpg",
+  "trailer": null
+ },
+ "the-sword-and-the-brocade": {
+  "titulo_original": "锦心似玉",
+  "titulo_br": "Coração brilhante como jade",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 45,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Wallace Chung",
+   "Tan Songyun",
+   "He Hongshan",
+   "Tang Xiaotian"
+  ],
+  "diretor": null,
+  "roteirista": "Cheng Ting Yu",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/huR0Av6sSwV5Y9tn1owDIovxEoz.jpg",
+  "banner": "/xNmOCer86XuuDDkFTm4sEoUHHqc.jpg",
+  "trailer": null
+ },
+ "dating-in-the-kitchen": {
+  "titulo_original": "我，喜欢你",
+  "titulo_br": "Namoro na cozinha",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhao Lusi",
+   "Lin Yushen",
+   "Zhang Xiaoqian",
+   "Yu Xinhe"
+  ],
+  "diretor": "Chen Chang",
+  "roteirista": "Zhao Xiao Lei, Wu Zhong Quan",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/lz2mpMUs46BGS6ryAmK13SeMtER.jpg",
+  "banner": "/57cy2Nwe7K7lTseQhqOLykiSDI1.jpg",
+  "trailer": null
+ },
+ "cute-programmer": {
+  "titulo_original": "程序员那么可爱",
+  "titulo_br": "Programadora bonitinha",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Xing Zhaolin",
+   "Zhu Xudan",
+   "Yi Daqian",
+   "Guan Xin"
+  ],
+  "diretor": "Wu Qiang",
+  "roteirista": "Peng Yi Ying, Han Yu Ting",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/g7Crp1NOdTMgD5Bx6Q2Y9mi4aiE.jpg",
+  "banner": "/9ZFkaznt6yKi5SvMBib6ChNRK6I.jpg",
+  "trailer": null
+ },
+ "mr-fighting": {
+  "titulo_original": "加油，你是最棒的",
+  "titulo_br": "Sr. combatente",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 45,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Deng Lun",
+   "Ma Sichun",
+   "Han Tongsheng",
+   "Ni Hongjie"
+  ],
+  "diretor": "Liu Xin",
+  "roteirista": "Lu Sen Sen",
+  "plataformas": [
+   "Viki",
+   "Hunan TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/2GiUf6nyY2l1K2fosZB6OvG0ITk.jpg",
+  "banner": "/cZNB6ggn1C0PvtmVZwbRM9EqtFF.jpg",
+  "trailer": null
+ },
+ "the-starry-love": {
+  "titulo_original": "星落凝成糖",
+  "titulo_br": "O amor estrelado",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Chen Xingxu",
+   "Landy Li",
+   "Luke Chen",
+   "He Xuanlin"
+  ],
+  "diretor": "Chu Yui Bun, Gu Zhi Wei",
+  "roteirista": "Ma Jia",
+  "plataformas": [
+   "Viki",
+   "Youku",
+   "ZJTV",
+   "JSTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/nL9EqEKanVBiRAdxsCYLgyNGBfy.jpg",
+  "banner": "/epXXeg1AAfCRw6b76Lx1YQj8VzK.jpg",
+  "trailer": null
+ },
+ "go-go-squid": {
+  "titulo_original": "亲爱的，热爱的",
+  "titulo_br": "Vai, cara de lula!",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 41,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Zi",
+   "Li Xian",
+   "Hu Yi Tian",
+   "Lee Hong Chi",
+   "Li Ze Feng"
+  ],
+  "diretor": "Gia Lee",
+  "roteirista": "Mo Bao Fei Bao",
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6dymOCbSvn1Y539hOwRTVcPV7mx.jpg",
+  "banner": "/uRoJOzn3K7cEwyjsQdkQ9Is9Ikb.jpg",
+  "trailer": "https://www.youtube.com/watch?v=jZZgDL5ID4Y"
+ },
+ "only-for-love": {
+  "titulo_original": "以爱为营",
+  "titulo_br": "Somente por amor",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 36,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Bai Lu",
+   "Dylan Wang",
+   "Miles Wei",
+   "Shen Yu Jie",
+   "Liu Dong Qin"
+  ],
+  "diretor": "Guo Hu",
+  "roteirista": "Yang Qian Zi",
+  "plataformas": [
+   "Viki",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/aSDZcX0FIJJRMNiL7n9J39LyK46.jpg",
+  "banner": "/tchhr4PIgdILmgUqbfm2fbi9b26.jpg",
+  "trailer": "https://www.youtube.com/watch?v=m2N1HXyuto0"
+ },
+ "fireworks-of-my-heart": {
+  "titulo_original": "我的人间烟火",
+  "titulo_br": "Fogos de artifício do meu coração",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Yang",
+   "Wang Chu Ran",
+   "Wang Yan Lin",
+   "Wei Da Xun",
+   "Meng A Sai"
+  ],
+  "diretor": "Li Mu Ge",
+  "roteirista": "Xu Su",
+  "plataformas": [
+   "Viki",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/cLGD16hh6F57kbaLSMoNrzSKyv3.jpg",
+  "banner": "/oQBv5KUDuceheaYL8nMmF7Dg3K8.jpg",
+  "trailer": "https://www.youtube.com/watch?v=8wfvDOe1gz0"
+ },
+ "three-lives-three-worlds-the-pillow-book": {
+  "titulo_original": "三生三世枕上书",
+  "titulo_br": "Três vidas, três mundos: o livro de cabeceira",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 56,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Dilraba Dilmurat",
+   "Gao Wei Guang",
+   "Li Dong Heng",
+   "Lawrence Wang",
+   "Yuan Yu Xuan"
+  ],
+  "diretor": "Chu Yui Bun, Yang Hsuan",
+  "roteirista": "Hu Ya Ting, Huang Shan Shan, Liang Zhen Hua",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/kS1Q6FFKTs7rxcAYjskJEnfK7SC.jpg",
+  "banner": "/b9YV60vkEZds2LQG5JJWdetHfCJ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=GKqupWNUXSk"
+ },
+ "eternal-love": {
+  "titulo_original": "三生三世十里桃花",
+  "titulo_br": "Amor eterno",
+  "pais": "China",
+  "ano": 2017,
+  "episodios": 58,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Mi",
+   "Mark Chao",
+   "Gao Wei Guang",
+   "Dilraba Dilmurat",
+   "Ken Chang"
+  ],
+  "diretor": "Lam Yuk Fan, Yu Cui Hua, Guo Hu",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Dragon TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ffXd3hwRubnBUBuaI3qbxYP091c.jpg",
+  "banner": "/wLbQlNHDBYTbrsrffeYPG9KlCLy.jpg",
+  "trailer": "https://www.youtube.com/watch?v=AtD4k1UeiqY"
+ },
+ "ashes-of-love": {
+  "titulo_original": "香蜜沉沉烬如霜",
+  "titulo_br": "Cinzas do amor",
+  "pais": "China",
+  "ano": 2018,
+  "episodios": 60,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Zi",
+   "Deng Lun",
+   "Luo Yun Xi",
+   "Wang Yi Fei",
+   "Chen Yu Qi"
+  ],
+  "diretor": "Chu Yui Bun, Cheng Feng",
+  "roteirista": "Zhang Yuan Ang, Bai Yi Cong, Ma Jia",
+  "plataformas": [
+   "Viki",
+   "Jiangsu TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/FdUxxXN0NqS03gxzKgxiWCobue.jpg",
+  "banner": "/sAWkRhtxpzhkcaijUThj6V6rb6u.jpg",
+  "trailer": "https://www.youtube.com/watch?v=-oSUun-c6vU"
+ },
+ "love-o2o": {
+  "titulo_original": "微微一笑很倾城",
+  "titulo_br": "Amor O2O",
+  "pais": "China",
+  "ano": 2016,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Yang",
+   "Zheng Shuang",
+   "Mao Xiao Tong",
+   "Bai Yu",
+   "Zheng Ye Cheng"
+  ],
+  "diretor": "Lam Yuk Fan, Guo Hu",
+  "roteirista": "Gu Man, Scarlett OuYang, Shen Fei Xian",
+  "plataformas": [
+   "Viki",
+   "Dragon TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/c4BAUtY9xqpNoRFD3DsEMQtDi3h.jpg",
+  "banner": "/nGiSkbf77sHfLVsp0UkPSoH89hy.jpg",
+  "trailer": null
+ },
+ "put-your-head-on-my-shoulder": {
+  "titulo_original": "致我们暖暖的小时光",
+  "titulo_br": "Ombro amigo",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "42 min",
+  "elenco": [
+   "Xing Fei",
+   "Lin Yi",
+   "Tang Xiao Tian",
+   "Zheng Ying Chen",
+   "Zhou Jun Wei"
+  ],
+  "diretor": "Zhu Dong Ning",
+  "roteirista": "Dai Qi, Eva, Wu Xue Ying",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/7dKCRiocNgv3gMTVA6J05iKZjHK.jpg",
+  "banner": "/cXa2nNeXDQXcBdkH82y2AMcpOOK.jpg",
+  "trailer": "https://www.youtube.com/watch?v=kxkOzCbIQB8"
+ },
+ "a-love-so-beautiful": {
+  "titulo_original": "致我们单纯的小美好",
+  "titulo_br": "Um amor lindo demais",
+  "pais": "China",
+  "ano": 2017,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Hu Yi Tian",
+   "Shen Yue",
+   "Gao Zhi Ting",
+   "Wang Zi Wei",
+   "Sun Ning"
+  ],
+  "diretor": "Yang Long",
+  "roteirista": "Wu Tong, Wang Yan Bei, Wu Xue Ying, Hu Xiao Yu, Zhou Chu Cen, Duan Yu Le, Yu Ku",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/qVtXjxUziCfBdFVOoTbZM5MhndP.jpg",
+  "banner": "/8HjYmMowFzMAjXeRI6BbjeGIfx5.jpg",
+  "trailer": "https://www.youtube.com/watch?v=V_1aauD9GUI"
+ },
+ "the-romance-of-tiger-and-rose": {
+  "titulo_original": "传闻中的陈芊芊",
+  "titulo_br": "O romance do tigre e da rosa",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhao Lu Si",
+   "Ding Yu Xi",
+   "Zhou Zi Xin",
+   "Sheng Ying Hao",
+   "Zhao Xin"
+  ],
+  "diretor": "Cha Chuen Yee",
+  "roteirista": "Nan Zhen",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/bbWZfStcSn9zIH9JQ1Y4qFXiV3C.jpg",
+  "banner": "/boHOfsUm3N8SrUOXG8RtXXLkeUx.jpg",
+  "trailer": "https://www.youtube.com/watch?v=l5kTims-cmU"
+ },
+ "love-and-redemption": {
+  "titulo_original": "琉璃",
+  "titulo_br": "Amor e redenção",
+  "pais": "China",
+  "ano": 2020,
+  "episodios": 59,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Cheng Yi",
+   "Yuan Bing Yan",
+   "Liu Xue Yi",
+   "Zhang Yu Xi",
+   "Bai Shu"
+  ],
+  "diretor": "Yin Tao, Mai Guan Zhi",
+  "roteirista": "Liu Fang",
+  "plataformas": [
+   "Viki",
+   "Mango TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/4WiHTvg8667wTSGjcI0kPm0LzRA.jpg",
+  "banner": "/6PmEwHIyTPmDqmzUq49wYTSaUob.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_gN841MrPi8"
+ },
+ "princess-agents": {
+  "titulo_original": "特工皇妃楚乔传",
+  "titulo_br": "Agentes da princesa",
+  "pais": "China",
+  "ano": 2017,
+  "episodios": 58,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhao Li Ying",
+   "Lin Geng Xin",
+   "Shawn Dou",
+   "Li Qin",
+   "Deng Lun"
+  ],
+  "diretor": "Ng Gam Yuen, Chen Wen Yong",
+  "roteirista": "Chen Lan, Yang Tao",
+  "plataformas": [
+   "Viki",
+   "Hunan TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ryD5pRIG4YCcRhd0imRu3A2XZ18.jpg",
+  "banner": "/no8e871eeA9RJDFxvuQqSnwrPMZ.jpg",
+  "trailer": null
+ },
+ "joy-of-life": {
+  "titulo_original": "庆余年",
+  "titulo_br": "Alegria da vida",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 46,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Zhang Ruo Yun",
+   "Li Qin",
+   "Chen Dao Ming",
+   "Wu Gang",
+   "Li Xiao Ran"
+  ],
+  "diretor": "Sun Hao",
+  "roteirista": "Wang Juan",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/7NXlOAFSUPBujmWbnUmqnwNZQhO.jpg",
+  "banner": "/4eNmWhBfDfAj8qbKHPgW394rAK8.jpg",
+  "trailer": null
+ },
+ "under-the-power": {
+  "titulo_original": "锦衣之下",
+  "titulo_br": "Sob o poder",
+  "pais": "China",
+  "ano": 2019,
+  "episodios": 55,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ren Jia Lun",
+   "Tan Song Yun",
+   "Han Dong",
+   "Ethan Yao",
+   "Ye Qing"
+  ],
+  "diretor": "Yin Tao, Liu Guo Tong",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/s6gEzhGBG4MiWRbEOqHJzh6XG6X.jpg",
+  "banner": "/55cGtjl9aKC6NrXfhKaL5rR8Wm3.jpg",
+  "trailer": null
+ },
+ "the-long-ballad": {
+  "titulo_original": "长歌行",
+  "titulo_br": "A longa balada",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 49,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Dilraba Dilmurat",
+   "Leo Wu",
+   "Liu Yu Ning",
+   "Zhao Lu Si",
+   "Alen Fang"
+  ],
+  "diretor": "Chu Yui Bun, Gu Zhi Wei",
+  "roteirista": "Chang Jiang, Pei Yu Fei, Ji Sang Rou",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/sktJsZZW8sAobXMMvg7gZVXeEBB.jpg",
+  "banner": "/NyL6tC8Cii8D3ZYVIvDCOMXwLD.jpg",
+  "trailer": "https://www.youtube.com/watch?v=7ErUef6CNX4"
+ },
+ "blossom": {
+  "titulo_original": "九重紫",
+  "titulo_br": "As nove camadas de púrpura",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 34,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Meng Zi Yi",
+   "Li Yun Rui",
+   "Snow Kong",
+   "Xia Zhi Guang",
+   "Alina Zhang"
+  ],
+  "diretor": "Zeng Qing Jie, Guo Feng",
+  "roteirista": "Jia Bin Bin",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/38WomXthArq5cKRfkHkxYRo6DLe.jpg",
+  "banner": "/gtmkb7g4jMMhmnufsxkXtGEkcYk.jpg",
+  "trailer": "https://www.youtube.com/watch?v=G6YT1SlbVig"
+ },
+ "my-little-happiness": {
+  "titulo_original": "我的小确幸",
+  "titulo_br": "Um pouquinho de felicidade",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 28,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Xing Fei",
+   "Tang Xiao Tian",
+   "Huang Yi Lin",
+   "Li Chuan",
+   "Fu Wei Lun"
+  ],
+  "diretor": "Yang Long",
+  "roteirista": "Liu Fei, Liu Chen Guang",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/rVYSsIcltMoUiADQOissOjX3Xus.jpg",
+  "banner": "/9MnQTTj9sAHcZBbYVEyP0gNm9og.jpg",
+  "trailer": null
+ },
+ "the-oath-of-love": {
+  "titulo_original": "余生，请多指教",
+  "titulo_br": "O juramento de amor",
+  "pais": "China",
+  "ano": 2022,
+  "episodios": 29,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Yang Zi",
+   "Xiao Zhan",
+   "Xia Zhi Qing",
+   "Hao Wen Ting",
+   "Daisy Li"
+  ],
+  "diretor": "Lu Ying",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/eqa0Pr18OS9zvPqRrcSknszaKTr.jpg",
+  "banner": "/kMXhioNDWQ2fvcC2QHVtEVIrVzC.jpg",
+  "trailer": null
+ },
+ "the-legend-of-shenli": {
+  "titulo_original": "与凤行",
+  "titulo_br": "A lenda de ShenLi",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 39,
+  "temporadas": 1,
+  "duracao": "42 min",
+  "elenco": [
+   "Zhao Li Ying",
+   "Lin Geng Xin",
+   "Xin Yun Lai",
+   "He Yu",
+   "Zeng Li"
+  ],
+  "diretor": "Deng Ke",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Hunan TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/33P9LPNomp3qJsoXwOPvpBSrPCF.jpg",
+  "banner": "/4J8znHxVaZY3vKb05IWqWfzczXR.jpg",
+  "trailer": "https://www.youtube.com/watch?v=rxWtDZrNcG0"
+ },
+ "back-from-the-brink": {
+  "titulo_original": "护心",
+  "titulo_br": "O retorno do abismo",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Hou Ming Hao",
+   "Zhou Ye",
+   "Yang Rong",
+   "Riley Wang",
+   "Chen Xin Yu"
+  ],
+  "diretor": "Sam Ho, Zeng Xiao Yu, Cheng Lu",
+  "roteirista": "Wang Ruo Ke, Wen Yan",
+  "plataformas": [
+   "Viki",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/lJc5Wis92CCcYorjGz8HCvDBPHh.jpg",
+  "banner": "/63ETmXVN4qhoyiKBaUYrs8mgyKd.jpg",
+  "trailer": "https://www.youtube.com/watch?v=gqjNNUOQg20"
+ },
+ "exclusive-fairytale": {
+  "titulo_original": "独家童话",
+  "titulo_br": "Um conto de fadas diferente",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Jun",
+   "Zhang Miao Yi",
+   "Xiong Ao Bo",
+   "Lv Zhao",
+   "Hao Zhu Yu"
+  ],
+  "diretor": "Cang Tou Shi",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "iQiyi"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/whfoz2TJaJKTGGjtCPkynNynPKW.jpg",
+  "banner": "/ztNIh5lBUjVLjQLa0GrKUgytGiX.jpg",
+  "trailer": "https://www.youtube.com/watch?v=LYA02K1vI1M"
+ },
+ "wonderland-of-love": {
+  "titulo_original": "乐游原",
+  "titulo_br": "País das maravilhas do amor",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Xu Kai",
+   "Jing Tian",
+   "Zheng He Hui Zi",
+   "Gao He Yuan",
+   "Zhao Jia Min"
+  ],
+  "diretor": "Steve Cheng",
+  "roteirista": "Fei Wo Si Cun",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ril8we8kIBZNyRcMRRiQyP2vtMf.jpg",
+  "banner": "/lyEAcMdwIAL69Etnb4jthZDFb7t.jpg",
+  "trailer": "https://www.youtube.com/watch?v=NuXlVc9lP_8"
+ },
+ "guardians-of-the-dafeng": {
+  "titulo_original": "大奉打更人",
+  "titulo_br": "Guardiões de Dafeng",
+  "pais": "China",
+  "ano": 2024,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Dylan Wang",
+   "Tian Xi Wei",
+   "Liu Yi Jun",
+   "Yan Zi Dong",
+   "Wang Run Ze"
+  ],
+  "diretor": "Deng Ke",
+  "roteirista": "Yang Yu Chen, Gong Li",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/zhIvZOCzwjJdn1Xu2KWikC7Luiq.jpg",
+  "banner": "/sDW0YXcy6n6R8AzOJRUEYzIfwQs.jpg",
+  "trailer": "https://www.youtube.com/watch?v=EguV2n7MAwA"
+ },
+ "you-are-my-hero": {
+  "titulo_original": "你是我的城池营垒",
+  "titulo_br": "Você é meu herói",
+  "pais": "China",
+  "ano": 2021,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ma Si Chun",
+   "Bai Jing Ting",
+   "Chen Hao",
+   "Jiang Pei Yao",
+   "Wang Yang"
+  ],
+  "diretor": "Zhang Tong",
+  "roteirista": "Qin Wen",
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/2PD3rQ218D4C0cgCNoQvJLAYDRf.jpg",
+  "banner": "/bVP7mU2bL766SYaCOx669P9YZZ3.jpg",
+  "trailer": "https://www.youtube.com/watch?v=bq5se6gjDII"
+ },
+ "when-destiny-brings-the-demon": {
+  "titulo_original": "献鱼",
+  "titulo_br": "Quando o destino desperta",
+  "pais": "China",
+  "ano": 2025,
+  "episodios": 33,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Arthur Chen",
+   "Wang Ying Lu",
+   "Wang Yi Ting",
+   "Gao He Yuan",
+   "Wu Yu Heng"
+  ],
+  "diretor": "Wen De Guang",
+  "roteirista": "Jin Lu",
+  "plataformas": [
+   "Viki",
+   "Youku"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/x1S3ksba1ZLEr5rCKHa85XDVm3H.jpg",
+  "banner": "/7VxcQrVD2POXg29q5wIFOGD7AY7.jpg",
+  "trailer": "https://www.youtube.com/watch?v=hNsEPj0I0c4"
+ },
+ "love-me-love-my-voice": {
+  "titulo_original": "很想很想你",
+  "titulo_br": "Ame a mim, ame a minha voz",
+  "pais": "China",
+  "ano": 2023,
+  "episodios": 33,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Tan Jian Ci",
+   "Zhou Ye",
+   "Hou Wen Yuan",
+   "Yang Xi Zi",
+   "Vincent Cao"
+  ],
+  "diretor": "Sha Wei Qi",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "Tencent Video"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/xhL22LrmlKQXUvBH7dTEAghcDbI.jpg",
+  "banner": "/1bKX5u5J038G9WUUiFyHOiFvR9R.jpg",
+  "trailer": "https://www.youtube.com/watch?v=-CaU0Zoxcak"
+ },
+ "lost-romance": {
+  "titulo_original": "浪漫輸給你",
+  "titulo_br": "Romance impossível",
+  "pais": "Taiwan",
+  "ano": 2020,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Marcus Chang",
+   "Vivian Sung",
+   "Simon Lian",
+   "Snowbaby",
+   "Kelly Liao"
+  ],
+  "diretor": "Eri Hao",
+  "roteirista": "Chen Jie Ying",
+  "plataformas": [
+   "Viki",
+   "TTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/2PAlO3HlkXEJuUK3fJR7PAMx5Jt.jpg",
+  "banner": "/7mFwq0fvXp26QW9e5pyRBICfWTx.jpg",
+  "trailer": null
+ },
+ "autumn-s-concerto": {
+  "titulo_original": "下一站，幸福",
+  "titulo_br": "O concerto de outono",
+  "pais": "Taiwan",
+  "ano": 2009,
+  "episodios": 34,
+  "temporadas": 1,
+  "duracao": "46 min",
+  "elenco": [
+   "Vanness Wu",
+   "Ady An",
+   "Wen Hsvan Yeh",
+   "Wu Kang Ren",
+   "Tiffany Hsu"
+  ],
+  "diretor": null,
+  "roteirista": "Frankie Chen",
+  "plataformas": [
+   "Viki",
+   "TTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/1IhIoeKJZIRlJRTSAcgrFxFaf3U.jpg",
+  "banner": "/rqE2UxkS6LlD4h32xUrlkxZqIr.jpg",
+  "trailer": null
+ },
+ "someone-like-you": {
+  "titulo_original": "聽見幸福",
+  "titulo_br": "Alguém como você",
+  "pais": "Taiwan",
+  "ano": 2015,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "75 min",
+  "elenco": [
+   "Kingone Wang",
+   "Lorene Jen",
+   "Lee Shiau Shiang",
+   "William",
+   "Nita Xia"
+  ],
+  "diretor": "Chen Rong Hui",
+  "roteirista": "Chen Jie Ying",
+  "plataformas": [
+   "Viki",
+   "TTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/it5OAfgEk1eEt438NBWrgVxCNoj.jpg",
+  "banner": "/gg25375jnJPCmwL5hu0H6C0q5NW.jpg",
+  "trailer": null
+ },
+ "the-way-you-shine": {
+  "titulo_original": "因為你如此耀眼",
+  "titulo_br": "O jeito que você brilha",
+  "pais": "Taiwan",
+  "ano": 2023,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Puff Kuo",
+   "Fandy Fan",
+   "Hans Chung",
+   "Mini Tsai",
+   "Bu Xue Liang"
+  ],
+  "diretor": "Hong Bo Hao",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "EBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/8c1GT2UWvfieX2Ks1RrH2A3kwtt.jpg",
+  "banner": "/esNKeoHaUcFc1QUzdJOxI2JfD2d.jpg",
+  "trailer": "https://www.youtube.com/watch?v=yR6k1dGyv6c"
+ },
+ "time-between-dog-and-wolf": {
+  "titulo_original": "개와 늑대의 시간",
+  "titulo_br": "Tempo entre cão e lobo",
+  "pais": "Coreia do Sul",
+  "ano": 2007,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Joon Gi",
+   "Nam Sang Mi",
+   "Jung Kyung Ho",
+   "Choi Jae Sung"
+  ],
+  "diretor": "Kim Jin Min",
+  "roteirista": "Han Ji Hoon, Ryu Yong Jae",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/jNVEILjc7gTZwrQgHA5pHiqv6na.jpg",
+  "banner": "/l1OycF8lhyblE2UL3nBLdSip0LI.jpg",
+  "trailer": null
+ },
+ "gourmet": {
+  "titulo_original": "식객",
+  "titulo_br": "Gourmet",
+  "pais": "Coreia do Sul",
+  "ano": 2008,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "75 min",
+  "elenco": [
+   "Kim Rae Won",
+   "Kwon Oh Jung",
+   "Nam Sang Mi",
+   "Kim So Yeon"
+  ],
+  "diretor": "Han Cheol Soo, Choi Jong Soo",
+  "roteirista": "Choi Wan Kyu",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/sVEcgFM8EIgs46n1Q2AjKDazdLg.jpg",
+  "banner": "/qjTJq4gUlZOi3IhJFjEa6oDHT95.jpg",
+  "trailer": null
+ },
+ "tamra-the-island": {
+  "titulo_original": "탐나는 도다",
+  "titulo_br": "A ilha Tamra",
+  "pais": "Coreia do Sul",
+  "ano": 2009,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "55 min",
+  "elenco": [
+   "Seo Woo",
+   "Im Joo Hwan",
+   "Hwang Chan Bin",
+   "Lee Sun Ho"
+  ],
+  "diretor": "Hong Jong Chan, Yoon Sang Ho",
+  "roteirista": "Lee Tae Yoon, Choi I Rang, Shin Jae Won",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ngqtK2Vw55SDWwBP9CBLa7Oekc1.jpg",
+  "banner": "/422dGF3KYWrBzK8lZ8H6NJDyVLy.jpg",
+  "trailer": null
+ },
+ "giant": {
+  "titulo_original": "자이언트",
+  "titulo_br": "Gigante",
+  "pais": "Coreia do Sul",
+  "ano": 2010,
+  "episodios": 60,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Beom Soo",
+   "Park Sang Min",
+   "Hwang Jung Eum",
+   "Joo Sang Wook",
+   "Park Jin Hee"
+  ],
+  "diretor": "Lee Chang Min, Yoo In Shik",
+  "roteirista": "Jang Young Chul, Jung Kyung Soon",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/5ZNwvE1zAphNaxJebEMxf0LpqFR.jpg",
+  "banner": "/cOqw2lK1RSsDHZcDscdUL0ioUFB.jpg",
+  "trailer": null
+ },
+ "cinderella-s-sister": {
+  "titulo_original": "신데렐라 언니",
+  "titulo_br": "A irmã da Cinderela",
+  "pais": "Coreia do Sul",
+  "ano": 2010,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Moon Geun Young",
+   "Chun Jung Myung",
+   "Seo Woo",
+   "Ok Taec Yeon"
+  ],
+  "diretor": "Kim Won Suk, Kim Young Jo",
+  "roteirista": "Kim Gyoo Wan",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6L0OQQfQitkgORn2QqcDue9nykn.jpg",
+  "banner": "/uvwuC3mpwsEakEeB2p87sjUG5U2.jpg",
+  "trailer": "https://www.youtube.com/watch?v=BMACyBp6laI"
+ },
+ "obstetrics-and-gynecology-doctors": {
+  "titulo_original": "산부인과",
+  "titulo_br": "Obstetrics and Gynecology Doctors",
+  "pais": "Coreia do Sul",
+  "ano": 2010,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "68 min",
+  "elenco": [
+   "Jang Seo Hee",
+   "Go Joo Won",
+   "Seo Ji Suk",
+   "Song Joong Ki"
+  ],
+  "diretor": "Choi Young Hoon, Lee Hyun Jik",
+  "roteirista": "Choi Hee Ra",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/gwO32VuvqY59qUrVF0PHI2Sc3h8.jpg",
+  "banner": "/8Fu3YzSIAG2J3bJTmJWh3nUwVc6.jpg",
+  "trailer": null
+ },
+ "heartstrings": {
+  "titulo_original": "넌 내게 반했어",
+  "titulo_br": "Música do coração",
+  "pais": "Coreia do Sul",
+  "ano": 2011,
+  "episodios": 15,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Park Shin Hye",
+   "Jung Yong Hwa",
+   "Song Chang Eui",
+   "So Yi Hyun",
+   "Kang Min Hyuk"
+  ],
+  "diretor": "Pyo Min Soo, Lee Min Chul",
+  "roteirista": "Lee Myung Sook",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/rXYUM93FtvfpS0gnQDgj4xivJYI.jpg",
+  "banner": "/1AxL5ep3XlXgNnVGxT3TRzz1lL0.jpg",
+  "trailer": "https://www.youtube.com/watch?v=mxbfLuFSIos"
+ },
+ "heaven-s-garden": {
+  "titulo_original": "천상의 화원-곰배령",
+  "titulo_br": "Jardim celestial",
+  "pais": "Coreia do Sul",
+  "ano": 2011,
+  "episodios": 30,
+  "temporadas": 1,
+  "duracao": "64 min",
+  "elenco": [
+   "Choi Bool Am",
+   "Yoo Ho Jung",
+   "Kim Ho Jin",
+   "Kim Sae Ron"
+  ],
+  "diretor": null,
+  "roteirista": "Park Jung Hwa",
+  "plataformas": [
+   "Viki",
+   "Channel A"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/hLkvPpwf620oy7EKculECu0neGO.jpg",
+  "banner": "/t4AO73ULvmVHgkdADO96955xbCh.jpg",
+  "trailer": null
+ },
+ "mischievous-kiss-love-in-tokyo": {
+  "titulo_original": "イタズラなKiss〜Love in TOKYO",
+  "titulo_br": "Beijo atrevido: amor em Tóquio",
+  "pais": "Japão",
+  "ano": 2013,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "49 min",
+  "elenco": [
+   "Honoka Yahagi",
+   "Yuki Furukawa",
+   "Yuki Yamada",
+   "Yoji Tanaka"
+  ],
+  "diretor": "Nagata Koto, Kawano Koji, Abe Masakazu",
+  "roteirista": "Miura Yuiko",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/98qmS8F7rhEkPNtXxkHODin1GZF.jpg",
+  "banner": "/GcQzT417I57IlzFuRJ7dhxswcQ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=F5gp3ZwV82Q"
+ },
+ "you-re-my-pet": {
+  "titulo_original": "きみはペット",
+  "titulo_br": "Você é meu pet",
+  "pais": "Japão",
+  "ano": 2017,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "44 min",
+  "elenco": [
+   "Noriko Iriyama",
+   "Jun Shison",
+   "Terunosuke Takezai",
+   "Yurina Yanagi"
+  ],
+  "diretor": "Kumasaka Izuru, Minorikawa Osamu, Inobe Yohei",
+  "roteirista": "Arai Yuka, Imanara Takayuki",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/fJhSZhekXh1nLhxFXFdQogTL6F7.jpg",
+  "banner": "/dZ6bzEtZ0NfKPUYvNN3XjXm410l.jpg",
+  "trailer": null
+ },
+ "from-five-to-nine": {
+  "titulo_original": "5時から9時まで",
+  "titulo_br": "De cinco para nove",
+  "pais": "Japão",
+  "ano": 2015,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Satomi Ishihara",
+   "Tomohisa Yamashita",
+   "Kei Tanaka",
+   "Yuki Furukawa"
+  ],
+  "diretor": "Hirano Shin, Aizawa Hideyuki, Tanimura Masaki",
+  "roteirista": "Nemoto Nonji, Watanabe Chiho, Koyama Shota",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/dpELkvThLWpiUWTpkZrljI5R2AC.jpg",
+  "banner": "/dsEZWPPUyEmTIAENV89yl8HCHmq.jpg",
+  "trailer": null
+ },
+ "silent": {
+  "titulo_original": "silent",
+  "titulo_br": "Silencioso",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Haruna Kawaguchi",
+   "Ren Meguro",
+   "Ryoko Shinohara",
+   "Oji Suzuka",
+   "Kaho"
+  ],
+  "diretor": "Kazama Hiroki, Takano Mai",
+  "roteirista": "Ubukata Miku",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/2X4x6ab8Xv3qkun5vAhrDpOFnjV.jpg",
+  "banner": "/usErsWavTbZD48pqyM4CWoc2ND5.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Ejc-TsLcSBg"
+ },
+ "hana-kimi": {
+  "titulo_original": "花ざかりの君たちへ ～イケメン♂パラダイス～",
+  "titulo_br": "HANA-KIMI",
+  "pais": "Japão",
+  "ano": 2007,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "50 min",
+  "elenco": [
+   "Maki Horikita",
+   "Shun Oguri",
+   "Toma Ikuta",
+   "Hiro Mizushima"
+  ],
+  "diretor": "Matsuda Hidetomo, Tsuzuki Junichi, Sato Genta",
+  "roteirista": "Muto Shogo",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/1M9JKBSIBQWgVuig6mj9x1AvYLP.jpg",
+  "banner": "/w1PHC4nNeLuloUSXby2Z188IxHJ.jpg",
+  "trailer": null
+ },
+ "99-9-criminal-lawyer": {
+  "titulo_original": "99.9-刑事専門弁護士-",
+  "titulo_br": "99,9% advogado criminal",
+  "pais": "Japão",
+  "ano": 2016,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "52 min",
+  "elenco": [
+   "Jun Matsumoto",
+   "Teruyuki Kagawa",
+   "Nana Eikura",
+   "Jin Katagiri"
+  ],
+  "diretor": "Kaneko Fuminori, Kimura Hisashi, Okamoto Shingo",
+  "roteirista": "Uda Manabu",
+  "plataformas": [
+   "Viki",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/98NbJ8rRaxx2A2GY681DLQ3XZbj.jpg",
+  "banner": "/7QANhFHfFC277JfSRp0mshJSL5D.jpg",
+  "trailer": null
+ },
+ "eye-love-you": {
+  "titulo_original": "アイラブユー",
+  "titulo_br": "Um olhar para se apaixonar",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "57 min",
+  "elenco": [
+   "Fumi Nikaido",
+   "Chae Jong Hyeop",
+   "Taishi Nakagawa",
+   "Mizuki Yamashita"
+  ],
+  "diretor": "Fukuda Ryosuke, Okamoto Shingo, Kato Akiko",
+  "roteirista": "Miura Kisa, Yamashita Subaru, Miura Saki",
+  "plataformas": [
+   "Viki",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/1PR848wIktHORTpGgvnQZiCMxBF.jpg",
+  "banner": "/85E5f6GXrVLypzaQOpocSNyGveI.jpg",
+  "trailer": "https://www.youtube.com/watch?v=716RBA9Sg7g"
+ },
+ "trillion-game": {
+  "titulo_original": "トリリオンゲーム",
+  "titulo_br": "Trillion Game",
+  "pais": "Japão",
+  "ano": 2023,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Ren Meguro",
+   "Hayato Sano",
+   "Mio Imada",
+   "Riko Fukumoto"
+  ],
+  "diretor": "Murao Yoshiaki",
+  "roteirista": "Habara Daisuke",
+  "plataformas": [
+   "Viki",
+   "TBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ePT4mwS5cbnNAgkpAJeB0WMKbHR.jpg",
+  "banner": "/tCsToFpDPpHgPz6JSX3clIJ1CCs.jpg",
+  "trailer": "https://www.youtube.com/watch?v=kh4OqrbrLhY"
+ },
+ "roppongi-class": {
+  "titulo_original": "六本木クラス",
+  "titulo_br": "Classe de roppongi",
+  "pais": "Japão",
+  "ano": 2022,
+  "episodios": 13,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Ryoma Takeuchi",
+   "Yuko Araki",
+   "Yurina Hirate",
+   "Teruyuki Kagawa"
+  ],
+  "diretor": "Tamura Naoki",
+  "roteirista": "Tokuo Koji",
+  "plataformas": [
+   "Viki",
+   "TV Asahi"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6mtuF4lmRhU2z158WHXJ3csu6mo.jpg",
+  "banner": "/4ZomE42RWl4fAmTTxlzYDQUkUsn.jpg",
+  "trailer": null
+ },
+ "366-days": {
+  "titulo_original": "366日",
+  "titulo_br": "366 Dias",
+  "pais": "Japão",
+  "ano": 2024,
+  "episodios": 11,
+  "temporadas": 1,
+  "duracao": "54 min",
+  "elenco": [
+   "Alice Hirose",
+   "Gordon Maeda",
+   "Ryota Bando",
+   "Neru Nagahama"
+  ],
+  "diretor": "Hirakawa Yuichiro",
+  "roteirista": "Shimizu Yukako",
+  "plataformas": [
+   "Viki",
+   "Fuji TV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/xw0KlRS4xUORRGXT6NVfoxxec8c.jpg",
+  "banner": "/3WRgK1fh49a6KsQhffEU8uyWlVz.jpg",
+  "trailer": null
+ },
+ "f4-thailand-boys-over-flowers": {
+  "titulo_original": "หัวใจรักสี่ดวงดาว",
+  "titulo_br": "F4 Tailândia: meninos antes de flores",
+  "pais": "Tailândia",
+  "ano": 2021,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "62 min",
+  "elenco": [
+   "Tu Tontawan Tantivejakul",
+   "Bright Vachirawit Chivaaree",
+   "Win Metawin Opas-iamkajorn",
+   "Dew Jirawat Sutivanichsak",
+   "Nani Hirunkit Changkham"
+  ],
+  "diretor": null,
+  "roteirista": "Manow Waneepan Ounphoklang, Mook Jarinee Thanomyat, PingPong Suwanun Pohgudsai",
+  "plataformas": [
+   "Viki",
+   "GMM 25"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/mRpG6gLdLMGHRUriG4uCLs6WzLQ.jpg",
+  "banner": "/3sUd661CAPLfiOs5gCm7nOQnHMe.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ojZ6eDRCriM"
+ },
+ "my-name-is-busaba": {
+  "titulo_original": "ฉันชื่อบุษบา",
+  "titulo_br": "Meu nome é Busaba",
+  "pais": "Tailândia",
+  "ano": 2020,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "47 min",
+  "elenco": [
+   "Namthip Jongrachatawiboon",
+   "Thanapat Kawila",
+   "Uttsada Panichkul",
+   "Natapat Wipataradachtragoon"
+  ],
+  "diretor": "Pook Pantham Thongsang, Karun Komanuwong",
+  "roteirista": "Sutisa Wongyu",
+  "plataformas": [
+   "Viki",
+   "One 31"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/vlQDOr5bPscESRdEVUz0j5Amjdn.jpg",
+  "banner": "/kcwFvZWk33SG7fDWfDARzfPvAy2.jpg",
+  "trailer": null
+ },
+ "the-prince-who-turns-into-a-frog-th": {
+  "titulo_original": "รักวุ่นวายเจ้าชายกบ",
+  "titulo_br": "O príncipe que se transforma em sapo (TH)",
+  "pais": "Tailândia",
+  "ano": 2021,
+  "episodios": 26,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Wannarot Sonthichai",
+   "Yuke Songpaisan",
+   "Tarakhett Petchsuksai",
+   "Kamonchanok Pankruea"
+  ],
+  "diretor": "Pla Peeraphon Thiancharoen",
+  "roteirista": "Mai Suphawan Thongklib, Muanfhun Chaonua, Nitinun Supappong",
+  "plataformas": [
+   "Viki",
+   "One 31"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/oLFr64O7cNzuOWnhMwBvfFhxRHV.jpg",
+  "banner": "/AfvAvIDwGZBKt820Wz5NrYF32W6.jpg",
+  "trailer": null
+ },
+ "beauty-newbie": {
+  "titulo_original": "หัวใจไม่มีปลอม",
+  "titulo_br": "Beleza de principiante",
+  "pais": "Tailândia",
+  "ano": 2024,
+  "episodios": 14,
+  "temporadas": 1,
+  "duracao": "44 min",
+  "elenco": [
+   "Pimchanok Luevisadpaibul",
+   "Metawin Opas-iamkajorn",
+   "Sapol Assawamunkong",
+   "Methika Jiranorraphat"
+  ],
+  "diretor": null,
+  "roteirista": "Pum Thitimon Mongkolsawat, Pui Nitchamon Mongkolsawat, Usicha Udomsak",
+  "plataformas": [
+   "Viki",
+   "GMM 25"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6UW2uJfPo5ZSC04LIU8YWQDbXaZ.jpg",
+  "banner": "/zp4fRGjZPWaJbAyVxIlUutaIB6U.jpg",
+  "trailer": null
+ },
+ "my-dear-donovan": {
+  "titulo_original": "โดโนวาน...ที่รัก",
+  "titulo_br": "Meu querido… Donovan",
+  "pais": "Tailândia",
+  "ano": 2022,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "48 min",
+  "elenco": [
+   "Tipnaree Weerawatnodom",
+   "Luke Ishikawa Plowden",
+   "Suphakorn Sriphothong",
+   "Aerin Yuktadatta"
+  ],
+  "diretor": null,
+  "roteirista": "Pong Pattarawalai Wongsinwises, Noolek Sureechay Kaewses, M Rittikrai Kanjanawiphu",
+  "plataformas": [
+   "Viki",
+   "GMM 25"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/wwOrZckdqJ9aMMVHHfxcwht7ksz.jpg",
+  "banner": "/lCRjD6TuUKAOxmNXzQAKE13Zhh3.jpg",
+  "trailer": "https://www.youtube.com/watch?v=TXLQULLfK9c"
+ },
+ "dear-my-secretary": {
+  "titulo_original": "บอสม้่นหน้ากับเลขาตัวตึง",
+  "titulo_br": "Minha querida secretária",
+  "pais": "Tailândia",
+  "ano": 2025,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "64 min",
+  "elenco": [
+   "Jespipat Tilapornputt",
+   "Nalinthip Sakulongumpai",
+   "Nitit Warayanon",
+   "Sukhapat Lohwacharin"
+  ],
+  "diretor": "Tui Prueksa Amaruji",
+  "roteirista": "Tinna Simapaisal",
+  "plataformas": [
+   "Viki",
+   "TrueID"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/yaHjGFhvnZFwDOMk3PTC27UDYc5.jpg",
+  "banner": "/sBAlc9KsD0G1yAhi8atz990vndd.jpg",
+  "trailer": "https://www.youtube.com/watch?v=PI6HDE7FN90"
+ },
+ "voice-in-the-rain": {
+  "titulo_original": "เสียงรักในสายฝน",
+  "titulo_br": "Voz na chuva",
+  "pais": "Tailândia",
+  "ano": 2020,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Mashannoad Suvanamas",
+   "Naphat Vikairungroj",
+   "Kantathavorn",
+   "Nachjaree Horvejkul"
+  ],
+  "diretor": null,
+  "roteirista": "BitterSweet",
+  "plataformas": [
+   "Viki",
+   "GMM One"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/y3u92lZErk96w40b3uC9ap9PHrC.jpg",
+  "banner": "/vOJSUOFNlx4TAmdnemZhcIehH9l.jpg",
+  "trailer": null
+ },
+ "law-less": {
+  "titulo_original": "ทนาย-เดือด",
+  "titulo_br": "Um advogado fora da lei",
+  "pais": "Tailândia",
+  "ano": 2024,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "56 min",
+  "elenco": [
+   "Thanat Lowkhunsombat",
+   "Tipnaree Weerawatnodom",
+   "Panadda Wongphudee",
+   "Naphatsaran Mittiraroch"
+  ],
+  "diretor": "Toom Preedaporn Buatoom",
+  "roteirista": null,
+  "plataformas": [
+   "Viki",
+   "TrueID"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6A5JnBYAZ7axnrMBHMNV8XrAzTR.jpg",
+  "banner": "/90dtcxfffMLkdYMqne9Tsms2dYE.jpg",
+  "trailer": null
+ },
+ "you-are-my-heartbeat": {
+  "titulo_original": "จังหวะหัวใจนายสะอาด",
+  "titulo_br": "Você é a batida do meu coração",
+  "pais": "Tailândia",
+  "ano": 2022,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Davika Hoorne",
+   "Puttichai Kasetsin",
+   "Jackrin Kungwankiatichai",
+   "Carissa Springett"
+  ],
+  "diretor": "Nay Saratswadee Wongsomphet",
+  "roteirista": "Ying Wanwipa Samngamjam",
+  "plataformas": [
+   "Viki",
+   "PPTV"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/wRXRcIbIlbFmlQnU68Kl7tDDVof.jpg",
+  "banner": "/gFVNjNnUHBl9GMBXfcjEf7xI0zD.jpg",
+  "trailer": "https://www.youtube.com/watch?v=TV4GZ73Xrak"
+ },
+ "switch-on": {
+  "titulo_original": "เกมรักสลับมิติ",
+  "titulo_br": "Ligado",
+  "pais": "Tailândia",
+  "ano": 2021,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "45 min",
+  "elenco": [
+   "Sushar Manaying",
+   "Sutthirak Subvijitra",
+   "Teerachata Rachatahiranyakan",
+   "Chinawut Indracusin"
+  ],
+  "diretor": "Yuan Tin Tun Danop",
+  "roteirista": "Dew Thanapol Chaowanich, Poy Orachat Brahmasreni, Chim Sedthawut Inboon, Anyapetch Nop-uthaipan, Aiyarin Nop-uthaipan, Piyapat Nanthanoraseth, Kay Trinnarich Nonghin",
+  "plataformas": [
+   "Viki",
+   "Channel 3"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/htUgKiLqNxwyu3utRLVqWwQryZT.jpg",
+  "banner": "/qhT3qZzpxzny54mKsIaekosYdkL.jpg",
+  "trailer": null
+ },
+ "the-princess-s-man": {
+  "titulo_original": "공주의 남자",
+  "titulo_br": "O Homem da Princesa",
+  "pais": "Coreia do Sul",
+  "ano": 2011,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Park Si Hoo",
+   "Moon Chae Won",
+   "Kim Yeong Cheol",
+   "Song Jong Ho"
+  ],
+  "diretor": "Park Hyeon Seok, Kim Jung Min",
+  "roteirista": "Jo Jung Joo",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/pZllYmfO30HU5CvN3RmNAVqgd0r.jpg",
+  "banner": "/ywq8s8kgQotP5L90Z7JaeWrQXqI.jpg",
+  "trailer": "https://www.youtube.com/watch?v=VR1FOnc6gIo"
+ },
+ "flower-crew-joseon-marriage-agency": {
+  "titulo_original": "조선혼담공작소: 꽃파당",
+  "titulo_br": "Os casamenteiros de Joseon",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Kim Min Jae",
+   "Gong Seung Yeon",
+   "Seo Ji Hoon",
+   "Park Ji Hoon"
+  ],
+  "diretor": "Kim Ga Ram",
+  "roteirista": "Kim Yi Rang",
+  "plataformas": [
+   "Viki",
+   "JTBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/hHKfH3F3noU6lf4Mn7WccCNLNWp.jpg",
+  "banner": "/scVNy1dCllpEvF1CzkRFeB7Q4gI.jpg",
+  "trailer": null
+ },
+ "the-king-loves": {
+  "titulo_original": "왕은 사랑한다",
+  "titulo_br": "O rei apaixonado",
+  "pais": "Coreia do Sul",
+  "ano": 2017,
+  "episodios": 40,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Im Si Wan",
+   "Yoona",
+   "Hong Jong Hyun",
+   "Kim Byung Chun"
+  ],
+  "diretor": "Kim Sang Hyub, Kim Sang Woo",
+  "roteirista": "Song Ji Na",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/3n9gWlyEYucL3vuoryFRE0mPdOR.jpg",
+  "banner": "/69GqP3NA5jBaGbiTOyqOhAdfThX.jpg",
+  "trailer": null
+ },
+ "queen-love-and-war": {
+  "titulo_original": "간택 - 여인들의 전쟁",
+  "titulo_br": "Rainha: amor e guerra",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jin Se Yeon",
+   "Kim Min Gue",
+   "Do Sang Woo",
+   "Lee Yul Eum"
+  ],
+  "diretor": "Kim Jung Min",
+  "roteirista": "Choi Soo Mi",
+  "plataformas": [
+   "Viki",
+   "TV Chosun"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/7eVpYaLdFperkEV7LHlapQlN3Wu.jpg",
+  "banner": "/4kUZ8OkcafQri7vn3ADLlDel9S0.jpg",
+  "trailer": "https://www.youtube.com/watch?v=cCoikDgjc1k"
+ },
+ "the-royal-gambler": {
+  "titulo_original": "대박",
+  "titulo_br": "The Royal Gambler",
+  "pais": "Coreia do Sul",
+  "ano": 2016,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "75 min",
+  "elenco": [
+   "Jang Keun Suk",
+   "Yeo Jin Goo",
+   "Jun Kwang Ryul",
+   "Choi Min Soo"
+  ],
+  "diretor": "Nam Gun, Park Seon Ho",
+  "roteirista": "Kwon Soon Gyu",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/ifXG7WQpYfh0eJ07zxR66NAMxUc.jpg",
+  "banner": "/qSjWbDvcLkTrHijaYa6Bub98aD3.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ae6wg4AFkEo"
+ },
+ "il-ji-mae": {
+  "titulo_original": "일지매",
+  "titulo_br": "Il Ji Mae",
+  "pais": "Coreia do Sul",
+  "ano": 2008,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Lee Joon Gi",
+   "Han Hyo Joo",
+   "Lee Young Ah",
+   "Park Si Hoo"
+  ],
+  "diretor": "Lee Yong Seok",
+  "roteirista": "Choi Ran",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/iJ0LuRyz3uLhdQB9HT2Vmoao0Os.jpg",
+  "banner": "/4iOn2DS2pWdmitpB0zMBZYODyMS.jpg",
+  "trailer": "https://www.youtube.com/watch?v=S9XKULbkKyQ"
+ },
+ "the-secret-romantic-guesthouse": {
+  "titulo_original": "꽃선비 열애사",
+  "titulo_br": "A pousada romântica secreta",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 18,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Shin Ye Eun",
+   "Ryeo Un",
+   "Kang Hoon",
+   "Jung Gun Joo"
+  ],
+  "diretor": "Kim Jung Min",
+  "roteirista": "Kwon Eum Mi",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/1EpL5jb68S2pzqM0Qo1geHC0y6K.jpg",
+  "banner": "/jtS5PO7dnzBDbHxuZHMVyBknlH5.jpg",
+  "trailer": "https://www.youtube.com/watch?v=i0eWGZvsPwc"
+ },
+ "warrior-baek-dong-soo": {
+  "titulo_original": "무사 백동수",
+  "titulo_br": "Guerreiro Baek Dong Soo",
+  "pais": "Coreia do Sul",
+  "ano": 2011,
+  "episodios": 29,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Ji Chang Wook",
+   "Yoo Seung Ho",
+   "Yoon So Yi",
+   "Shin Hyun Been"
+  ],
+  "diretor": "Kim Hong Seon, Lee Hyun Jik",
+  "roteirista": "Kwon Soon Gyu",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/aRsoKkHfAv7YqiYd2N1L26PMyRv.jpg",
+  "banner": "/gK917z943wHL22zLRv48hdckIY0.jpg",
+  "trailer": null
+ },
+ "jang-ok-jung-living-in-love": {
+  "titulo_original": "장옥정",
+  "titulo_br": "Jang Ok Jeong, Vive de Amor",
+  "pais": "Coreia do Sul",
+  "ano": 2013,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Yoo Ah In",
+   "Kim Tae Hee",
+   "Hong Soo Hyun",
+   "Lee Sang Yeob"
+  ],
+  "diretor": "Boo Sung Chul",
+  "roteirista": "Choi Jung Mi",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/t6l4j4CSkiFPVXUoKSDT8ODRoZ2.jpg",
+  "banner": "/s88cNH0LriVZI3idz4XV1ONJz8N.jpg",
+  "trailer": null
+ },
+ "gunman-in-joseon": {
+  "titulo_original": "조선 총잡이",
+  "titulo_br": "O Atirador em Joseon",
+  "pais": "Coreia do Sul",
+  "ano": 2014,
+  "episodios": 22,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Joon Gi",
+   "Nam Sang Mi",
+   "Han Joo Wan",
+   "Jeon Hye Bin"
+  ],
+  "diretor": "Lee Jae Sang, Kim Jung Min",
+  "roteirista": "Han Hui Jeong, Lee Jung Woo",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/aDCOU0CzLLlqCPW08HHW3SjyFOG.jpg",
+  "banner": "/asIU3aG16JrMOKNRRdb7rJe5oO9.jpg",
+  "trailer": "https://www.youtube.com/watch?v=zzmLm_PMKvs"
+ },
+ "secret-royal-inspector-joy": {
+  "titulo_original": "어사와 조이",
+  "titulo_br": "O inspetor real secreto e Joy",
+  "pais": "Coreia do Sul",
+  "ano": 2021,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Taecyeon",
+   "Kim Hye Yoon",
+   "Lee Jae Kyoon",
+   "Bae Jong Ok"
+  ],
+  "diretor": "Yoo Jong Sun",
+  "roteirista": "Lee Tae Yoon",
+  "plataformas": [
+   "Viki",
+   "tvN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/n5YjKLHnpyxXeMPi6tN9USRMswC.jpg",
+  "banner": "/gpp1s3DJIyypBvtPptkG6Rwp9yA.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Ks626iEmAEs"
+ },
+ "saimdang-light-s-diary": {
+  "titulo_original": "사임당 빛의 일기",
+  "titulo_br": "Saimdang, o diário da luz",
+  "pais": "Coreia do Sul",
+  "ano": 2017,
+  "episodios": 28,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Lee Young Ae",
+   "Song Seung Heon",
+   "Oh Yoon A",
+   "Yoon Da Hoon"
+  ],
+  "diretor": "Yoon Sang Ho",
+  "roteirista": "Park Eun Ryeong",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/A6fstHMGWAr600TO0phKMJLkbiu.jpg",
+  "banner": "/rImlQGpGXu4iNfXao88eGr8sBkq.jpg",
+  "trailer": null
+ },
+ "secret-door": {
+  "titulo_original": "비밀의 문",
+  "titulo_br": "Porta Secreta",
+  "pais": "Coreia do Sul",
+  "ano": 2014,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Han Seok Kyu",
+   "Lee Je Hoon",
+   "Yoon So Hui",
+   "Kim You Jung"
+  ],
+  "diretor": "Shin Kyung Soo, Kim Hyung Shik",
+  "roteirista": "Yoon Sun Joo",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/4XAt4Kv21qhdd6niXdLRr2kLxpl.jpg",
+  "banner": "/75TpHbSORP8v29FLv9wxtUEOUlN.jpg",
+  "trailer": null
+ },
+ "the-nokdu-flower": {
+  "titulo_original": "녹두꽃",
+  "titulo_br": "A flor de Nokdu",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 48,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Jo Jung Suk",
+   "Yoon Shi Yoon",
+   "Han Ye Ri",
+   "Choi Mu Sung"
+  ],
+  "diretor": "Shin Kyung Soo, Kim Seung Ho",
+  "roteirista": "Jung Hyeon Min",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/kKCvoDIp36NvZPu5TGfW9ALzBEf.jpg",
+  "banner": "/1YU4caJKDH2zOaKlpvdXHpaOwO0.jpg",
+  "trailer": null
+ },
+ "ju-mong-prince-of-legend": {
+  "titulo_original": "주몽",
+  "titulo_br": "Ju Mong, o príncipe da lenda",
+  "pais": "Coreia do Sul",
+  "ano": 2006,
+  "episodios": 81,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Song Il Gook",
+   "Han Hye Jin",
+   "Kim Seung Soo",
+   "Jun Kwang Ryul"
+  ],
+  "diretor": "Lee Joo Hwan, Kim Keun Hong",
+  "roteirista": "Choi Wan Kyu, Jung Hyung Soo",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/oJj4tsSLu65tjcCx5yqHECfehD5.jpg",
+  "banner": "/lTMZILzENFZm9b0Qs6ry4Rg6Z7T.jpg",
+  "trailer": null
+ },
+ "moon-in-the-day": {
+  "titulo_original": "낮에 뜨는 달",
+  "titulo_br": "Lua no dia",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 14,
+  "temporadas": 1,
+  "duracao": "61 min",
+  "elenco": [
+   "Pyo Ye Jin",
+   "Kim Young Dae",
+   "Ohn Joo Wan",
+   "Jung Woong In"
+  ],
+  "diretor": "Pyo Min Soo, Park Chan Yool",
+  "roteirista": "Jung Sung Eun, Kim Hye Won",
+  "plataformas": [
+   "Viki",
+   "ENA"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/mb6h5XVHbhhplAjtJu1RFFFXjrb.jpg",
+  "banner": "/n88QwMJuyfvLmuY3h2glXUy7Z9H.jpg",
+  "trailer": null
+ },
+ "love-song-for-illusion": {
+  "titulo_original": "환상연가",
+  "titulo_br": "Canção de amor para uma ilusão",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Park Ji Hoon",
+   "Hong Ye Ji",
+   "Hwang Hee",
+   "Ji Woo"
+  ],
+  "diretor": "Lee Jeong Seop",
+  "roteirista": "Yoon Kyung Ah",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/t9ZEGP9qiajZ6Qs5JoNTrDAlvvq.jpg",
+  "banner": "/SnI8rxqP9jNenCxNusrMde31ro.jpg",
+  "trailer": "https://www.youtube.com/watch?v=3vkGu5R1IKo"
+ },
+ "alice": {
+  "titulo_original": "앨리스",
+  "titulo_br": "Alice",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Kim Hee Sun",
+   "Joo Won",
+   "Kwak Shi Yang",
+   "Lee Da In"
+  ],
+  "diretor": "Baek Soo Chan",
+  "roteirista": "Kim Kyu Won",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/o9RCm67BVGmqYyr1S3vfR2z22Yk.jpg",
+  "banner": "/o8JpebVQkkSeF4qvKEhdvndQntP.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_XYRkm21Wzc"
+ },
+ "train": {
+  "titulo_original": "트레인",
+  "titulo_br": "Trem",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Yoon Shi Yoon",
+   "Gyeong Su Jin",
+   "Shin So Yool",
+   "Lee Hang Na"
+  ],
+  "diretor": "Lee Seung Hoon",
+  "roteirista": "Park Ga Yun",
+  "plataformas": [
+   "Viki",
+   "OCN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/9TScERozyKFUKbc63aB4bF6jqkD.jpg",
+  "banner": "/yaN3e9OZGU0qyuqj3DwaeT7kE01.jpg",
+  "trailer": "https://www.youtube.com/watch?v=AWzuze2mh34"
+ },
+ "ghost": {
+  "titulo_original": "유령",
+  "titulo_br": "Fantasma",
+  "pais": "Coreia do Sul",
+  "ano": 2012,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "So Ji Sub",
+   "Lee Yeon Hee",
+   "Kwak Do Won",
+   "Uhm Ki Joon"
+  ],
+  "diretor": "Kim Hyung Shik, Park Shin Woo",
+  "roteirista": "Kim Eun Hee",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/tJZPUbxuUPpbaZpNsGlGqbwz5id.jpg",
+  "banner": "/Awrizig4UHUrz14Fs4kC4ti7Xt9.jpg",
+  "trailer": null
+ },
+ "kill-it": {
+  "titulo_original": "킬잇",
+  "titulo_br": "Kill It",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Nana",
+   "Jang Ki Yong",
+   "Roh Jeong Eui",
+   "Lee Jae Won"
+  ],
+  "diretor": "Ahn Ji Sook, Nam Sung Woo",
+  "roteirista": "Choi Myung Jin, Son Hyun Soo",
+  "plataformas": [
+   "Viki",
+   "OCN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/uOO1zY5ipS0MY7RiXQNqQ7PlH1A.jpg",
+  "banner": "/vgpUW4kYIgcyPbomOmXgM37yyCB.jpg",
+  "trailer": null
+ },
+ "you-re-all-surrounded": {
+  "titulo_original": "너희들은 포위됐다",
+  "titulo_br": "Vocês estão cercados",
+  "pais": "Coreia do Sul",
+  "ano": 2014,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "59 min",
+  "elenco": [
+   "Lee Seung Gi",
+   "Go Ara",
+   "Cha Seung Won",
+   "Oh Yoon A"
+  ],
+  "diretor": "Lee Myung Woo, Yoo In Shik",
+  "roteirista": "Lee Jeong Seon",
+  "plataformas": [
+   "Viki",
+   "SBS"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/qlb4RfxgPIea5Cw22L9RzH1NWww.jpg",
+  "banner": "/4UM0iynLFJ5ZvXR6LpTQyhhSidI.jpg",
+  "trailer": null
+ },
+ "the-game-towards-zero": {
+  "titulo_original": "더 게임:0시를 향하여",
+  "titulo_br": "O Jogo: Rumo à Zero Hora",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "30 min",
+  "elenco": [
+   "Taecyeon",
+   "Lee Yeon Hee",
+   "Im Joo Hwan",
+   "Park Ji Il"
+  ],
+  "diretor": "Jang Joon Ho",
+  "roteirista": "Lee Ji Hyo",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/aqIjQKWWC58wtAk1iGd6nSx3aiX.jpg",
+  "banner": "/huoH1cJwnhVnYloSXEADaOfXWiB.jpg",
+  "trailer": null
+ },
+ "bride-of-the-century": {
+  "titulo_original": "백년의 신부",
+  "titulo_br": "A noiva do século",
+  "pais": "Coreia do Sul",
+  "ano": 2014,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "67 min",
+  "elenco": [
+   "Yang Jin Sung",
+   "Lee Hong Gi",
+   "Sung Hyuk",
+   "Lee Hee Won"
+  ],
+  "diretor": "Yoon Sang Ho",
+  "roteirista": "Baek Young Sook",
+  "plataformas": [
+   "Viki",
+   "TV Chosun"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/gIWPCwaTeKa7JPuFtpxrl1H2SCQ.jpg",
+  "banner": "/8hfoLcWcGqnf5o1vnwhJcKlqag.jpg",
+  "trailer": null
+ },
+ "365-repeat-the-year": {
+  "titulo_original": "365: 운명을 거스르는 1년",
+  "titulo_br": "365: Repita o Ano",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Lee Jun Hyuk",
+   "Nam Ji Hyun",
+   "Kim Jee Soo",
+   "Lee Sung Wook"
+  ],
+  "diretor": "Kim Kyung Hee",
+  "roteirista": "Lee Seo Yoon, Lee Soo Kyung",
+  "plataformas": [
+   "Viki",
+   "MBC"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/w1LyWBjxVv0hns4w8NekwWA7Mll.jpg",
+  "banner": "/valKkzJxBlP0WGx3qyRfQqJ3L9x.jpg",
+  "trailer": "https://www.youtube.com/watch?v=wPEnrqzczDE"
+ },
+ "chimera": {
+  "titulo_original": "키마이라",
+  "titulo_br": "Chimera",
+  "pais": "Coreia do Sul",
+  "ano": 2021,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Park Hae Soo",
+   "Claudia Kim",
+   "Lee Hee Jun",
+   "Cha Joo Young"
+  ],
+  "diretor": "Kim Do Hoon",
+  "roteirista": "Lee Jin Mae",
+  "plataformas": [
+   "Viki",
+   "OCN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/v16Q8DFQeEZ2vxkylS731WHQNLh.jpg",
+  "banner": "/4I4YDkZQPA7WWyyRN82KXXyFs1z.jpg",
+  "trailer": null
+ },
+ "confession": {
+  "titulo_original": "자백",
+  "titulo_br": "Confissão",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Lee Jun Ho",
+   "Shin Hyun Been",
+   "Yoo Chea Myung",
+   "Nam Gi Ae"
+  ],
+  "diretor": "Kim Chul Gyu, Yoon Hyun Gi",
+  "roteirista": "Im Hee Chul",
+  "plataformas": [
+   "Viki",
+   "tvN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/tWXTd4fa7FDxvE2O44L8tpwiYue.jpg",
+  "banner": "/djjvcfrXK2uVgP9MwwrT1euFNyY.jpg",
+  "trailer": null
+ },
+ "walking-on-thin-ice": {
+  "titulo_original": "은수 좋은 날",
+  "titulo_br": "Andando na corda bamba",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Young Ae",
+   "Kim Young Kwang",
+   "Park Yong Woo",
+   "Bae Soo Bin"
+  ],
+  "diretor": "Song Hyun Wook, Park Hyeon Seok",
+  "roteirista": "Jeon Yeong Sin",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/n1ayYBVKw63GxU9npXQtNjHY81C.jpg",
+  "banner": "/f1cFxXqDw1NDDleOtaQks4cELk2.jpg",
+  "trailer": null
+ },
+ "brain-works": {
+  "titulo_original": "두뇌공조",
+  "titulo_br": "Brain Works",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jung Yong Hwa",
+   "Cha Tae Hyun",
+   "Kwak Sun Young",
+   "Ye Ji Won"
+  ],
+  "diretor": "Lee Jin Seo",
+  "roteirista": "Park Kyung Soon",
+  "plataformas": [
+   "Viki",
+   "KBS2"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/brmuaeR3wNnZdVqAMbpV94pbOgE.jpg",
+  "banner": "/a00tSBPJRfZaMP38wG1X8cwMUdQ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=HNcJ-9rYOJg"
+ },
+ "parole-examiner-lee": {
+  "titulo_original": "가석방 심사관 이한신",
+  "titulo_br": "Oficial da condicional Lee",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Go Soo",
+   "Kwon Yu Ri",
+   "Baek Ji Won",
+   "Lee Hak Joo"
+  ],
+  "diretor": "Yoon Sang Ho",
+  "roteirista": "Park Chi Hyeong",
+  "plataformas": [
+   "Viki",
+   "tvN"
+  ],
+  "status": "Finalizado",
+  "classificacao": null,
+  "poster": "/kLKtduBBqtSElTh8qEMJyKiJFl3.jpg",
+  "banner": "/XjuVouQW7CwsGeE9QLCsCDV9eQ.jpg",
+  "trailer": null
+ },
+ "a-hundred-memories": {
+  "titulo_original": "백번의 추억",
+  "titulo_br": "100 memórias",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "78 min",
+  "elenco": [
+   "Kim Da-mi",
+   "Shin Ye-eun",
+   "Heo Nam-jun",
+   "Kim Jung-hyun",
+   "Lee Won-jung"
+  ],
+  "diretor": "Kim Sang-ho",
+  "roteirista": "Yang Hee-seung",
+  "plataformas": [
+   "JTBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/iGHE2Wk0dhRRGnZghMorr07FTHt.jpg",
+  "banner": "/k46AmUVAj6BCIBu074uLuvi1w70.jpg",
+  "trailer": "https://www.youtube.com/watch?v=reIGz8aRQGw"
+ },
+ "my-youth": {
+  "titulo_original": "마이 유스",
+  "titulo_br": "Minha juventude",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Song Joong-ki",
+   "Chun Woo-hee",
+   "Lee Joo-myung",
+   "Seo Ji-hoon",
+   "Jin Kyung"
+  ],
+  "diretor": "Lee Sang-yeob",
+  "roteirista": "Park Si-hyeon",
+  "plataformas": [
+   "JTBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/dSabZvHzuZnDrBMCR1YuVH2wEiS.jpg",
+  "banner": "/a32io4EZZx9LfOYbOsPo9hgvD5x.jpg",
+  "trailer": "https://www.youtube.com/watch?v=1Gg_8W_DNVs"
+ },
+ "love-take-two": {
+  "titulo_original": "첫, 사랑을 위하여",
+  "titulo_br": "Amor, tomada dois",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "64 min",
+  "elenco": [
+   "Yeom Jung-ah",
+   "Park Hae-joon",
+   "Choi Yun-ji",
+   "Kim Min-kyu",
+   "Kim Sun-young"
+  ],
+  "diretor": "Yoo Je-won",
+  "roteirista": null,
+  "plataformas": [
+   "tvN",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/cJXCpkqn1UwkUcY5RNXWptsQYYc.jpg",
+  "banner": "/8pNaJs0aS8IgpqBFCeEmvkCSnOR.jpg",
+  "trailer": "https://www.youtube.com/watch?v=ARkojmjiD2I"
+ },
+ "my-troublesome-star": {
+  "titulo_original": "금쪽같은 내 스타",
+  "titulo_br": "Minha estrela encrenqueira",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "62 min",
+  "elenco": [
+   "Uhm Jung-hwa",
+   "Song Seung-heon",
+   "Lee El",
+   "Oh Dae-hwan",
+   "Jang Da-a"
+  ],
+  "diretor": "Choi Young-hoon",
+  "roteirista": "Park Ji-ha",
+  "plataformas": [
+   "ENA",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/sbhOvMQXXGnaaPP1cpUVfZm0CcR.jpg",
+  "banner": "/4oMO5uKdGg73NukbeVIPaySZTk0.jpg",
+  "trailer": "https://www.youtube.com/watch?v=k8KK2H5csY0"
+ },
+ "love-me": {
+  "titulo_original": "러브 미",
+  "titulo_br": "Me ame",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Seo Hyun-jin",
+   "Yoo Jae-myung",
+   "Lee Si-woo",
+   "Yoon Se-ah",
+   "Chang Ryul"
+  ],
+  "diretor": "Jo Yeong-min",
+  "roteirista": "Park Eun-young, Park Hee-kwon",
+  "plataformas": [
+   "JTBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/pxBwhSet1WZ7wRd0AuVhrFXBzWF.jpg",
+  "banner": "/6VYRfXF9XjdQyJlYjsJ4LQOcssZ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=d-jAMitQL0Y"
+ },
+ "pump-up-the-healthy-love": {
+  "titulo_original": "24시 헬스클럽",
+  "titulo_br": "Fitness na academia e no amor",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "62 min",
+  "elenco": [
+   "Lee Jun-young",
+   "Jung Eun-ji",
+   "Lee Mi-do",
+   "Lee Seung-ryong",
+   "Park Sung-yun"
+  ],
+  "diretor": "Park Joon-soo, Choi Yeon-soo",
+  "roteirista": "Kim Ji-soo",
+  "plataformas": [
+   "KBS2",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/rzGKRiBSPVd5RsEhMB0GGWYd654.jpg",
+  "banner": "/b5M1ZUxYT3v5cRVKMpw6tKIYo89.jpg",
+  "trailer": "https://www.youtube.com/watch?v=gxPO6jDhfs0"
+ },
+ "my-lovely-journey": {
+  "titulo_original": "여행을 대신해 드립니다",
+  "titulo_br": "Minha querida jornada",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 10,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Gong Seung-yeon",
+   "Yoo Joon-sang",
+   "Kim Jae-yeong",
+   "Hong Soo-hyun",
+   "Oh Hyun-joong"
+  ],
+  "diretor": "Kang Sol",
+  "roteirista": null,
+  "plataformas": [
+   "Channel A",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 12,
+  "poster": "/7samhINyb8f9dKVA4Bfue6kOZ77.jpg",
+  "banner": "/1J1ZVIX0vqXGGzgM99MHOQ6yYyQ.jpg",
+  "trailer": "https://www.youtube.com/watch?v=94tsAC3u-IY"
+ },
+ "the-midnight-romance-in-hagwon": {
+  "titulo_original": "졸업",
+  "titulo_br": "O romance da meia-noite em Hagwon",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jung Ryeo-won",
+   "Wi Ha-jun",
+   "So Ju-yeon",
+   "Kim Jong-tae",
+   "Kim Jung-young"
+  ],
+  "diretor": "Ahn Pan-seok",
+  "roteirista": "Park Kyung-hwa",
+  "plataformas": [
+   "tvN",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/l8PabmOdPDFXAU0pOF44W0NmGBX.jpg",
+  "banner": "/qbkfizeVMmxtZJYyXR1tXY1KhQ6.jpg",
+  "trailer": "https://www.youtube.com/watch?v=8Bx-BboKxaI"
+ },
+ "last-summer": {
+  "titulo_original": "마지막 썸머",
+  "titulo_br": "Naquele verão",
+  "pais": "Coreia do Sul",
+  "ano": 2025,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Jae-wook",
+   "Choi Sung-eun",
+   "Kim Gun-woo",
+   "Jung Bo-min",
+   "Ahn Dong-goo"
+  ],
+  "diretor": "Min Yeon-hong",
+  "roteirista": "Jeon Yoo-ri",
+  "plataformas": [
+   "KBS2",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/nL0tinB01aOBlYmTJaybxIzc2qm.jpg",
+  "banner": "/wG6bbIKNGRZ9yU8PTHmcfVkQ843.jpg",
+  "trailer": "https://www.youtube.com/watch?v=OzwNqtvfdE4"
+ },
+ "branding-in-seongsu": {
+  "titulo_original": "브랜딩 인 성수동",
+  "titulo_br": "Branding em Seongsu",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 24,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Kim Ji-eun",
+   "Lomon",
+   "Yang Hye-ji",
+   "Kim Ho-young",
+   "Jung Yi-rang"
+  ],
+  "diretor": "Jung Hun-soo",
+  "roteirista": "Choi Sun-mi, Jeon Seon-young",
+  "plataformas": [
+   "U+ Mobile TV",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/w41prbBwg3AMFj63b2NHwvYgj1U.jpg",
+  "banner": "/s1SOyxMrCSXPbFvDrOzZUzLrmfi.jpg",
+  "trailer": "https://www.youtube.com/watch?v=K_E4ZzmYV5Y"
+ },
+ "dear-hyeri": {
+  "titulo_original": "나의 해리에게",
+  "titulo_br": "Querida Hyeri",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Shin Hae-sun",
+   "Lee Jin-wook",
+   "Kang Hoon",
+   "Jo Hye-joo",
+   "Kang Sang-jun"
+  ],
+  "diretor": "Jung Ji-hyun, Heo Seok-won",
+  "roteirista": "Han Ga-ram",
+  "plataformas": [
+   "ENA",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/x4RhXu2mu3PxiqxdWLaUQU81Qz1.jpg",
+  "banner": "/3WQGoSPlS66FwzQL3buciT1WxFL.jpg",
+  "trailer": "https://www.youtube.com/watch?v=1xeBZ0tH57o"
+ },
+ "dare-to-love-me": {
+  "titulo_original": "함부로 대해줘",
+  "titulo_br": "Te Desafio a Me Amar",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "61 min",
+  "elenco": [
+   "Kim Myung-soo",
+   "Lee Yoo-young",
+   "Bae Jong-ok",
+   "Sunwoo Jae-duk",
+   "Park Eun-seok"
+  ],
+  "diretor": "Jang Yang-ho",
+  "roteirista": null,
+  "plataformas": [
+   "KBS2",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/xWsGNPd3xF06BrvxiDSWV3uyqxa.jpg",
+  "banner": "/yWTiFlRfYUSZwS8CSPhtAiQj4ah.jpg",
+  "trailer": "https://www.youtube.com/watch?v=TiHyGJrHXvc"
+ },
+ "dna-lover": {
+  "titulo_original": "DNA 러버",
+  "titulo_br": "Escrito no DNA",
+  "pais": "Coreia do Sul",
+  "ano": 2024,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Choi Si-won",
+   "Jung In-sun",
+   "Lee Tae-hwan",
+   "Jung Eugene",
+   "Joo Hee-jae"
+  ],
+  "diretor": "Sung Chi-wook",
+  "roteirista": "Jung Soo-mi",
+  "plataformas": [
+   "TV Chosun",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/xUjWfHz7U5uEG7UPsV0nxBxFY2p.jpg",
+  "banner": "/4hWFO2NbYn1jUPahXCnzqpcB9a0.jpg",
+  "trailer": "https://www.youtube.com/watch?v=7DFxEPm-JM0"
+ },
+ "from-now-on-showtime": {
+  "titulo_original": "지금부터, 쇼타임!",
+  "titulo_br": "A partir de agora, hora show",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "73 min",
+  "elenco": [
+   "Park Hae-jin",
+   "Jin Ki-joo",
+   "Jung Joon-ho",
+   "Ko Kyu-pil",
+   "Jung Suk-yong"
+  ],
+  "diretor": "Lee Hyung-min, Jung Sang-hee",
+  "roteirista": "Ha Yoon-ah",
+  "plataformas": [
+   "MBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/iumCbeqvL6UY6n0dIxt8NtHoTos.jpg",
+  "banner": "/xRD5eWlTDzimZez24U1uShrJDsD.jpg",
+  "trailer": "https://www.youtube.com/watch?v=JHs_7sWA-TE"
+ },
+ "find-me-in-your-memory": {
+  "titulo_original": "그 남자의 기억법",
+  "titulo_br": "As memórias do homem",
+  "pais": "Coreia do Sul",
+  "ano": 2020,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Kim Dong-wook",
+   "Moon Ga-young",
+   "Kim Seul-ki",
+   "Yoon Jong-hoon",
+   "Jang Young-nam"
+  ],
+  "diretor": "Oh Hyun-jong, Lee Soo-hyun",
+  "roteirista": "Kim Yoon-joo",
+  "plataformas": [
+   "MBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/u7bCi8AoLID1ykXogzL5a4mAL0o.jpg",
+  "banner": "/3N6effQUWb64LeWUflfiB59BXNW.jpg",
+  "trailer": "https://www.youtube.com/watch?v=lcObqazNnI4"
+ },
+ "the-secret-life-of-my-secretary": {
+  "titulo_original": "초면에 사랑합니다",
+  "titulo_br": "A vida secreta da minha secretária",
+  "pais": "Coreia do Sul",
+  "ano": 2019,
+  "episodios": 32,
+  "temporadas": 1,
+  "duracao": "35 min",
+  "elenco": [
+   "Kim Young-kwang",
+   "Jin Ki-joo",
+   "Kim Jae-kyung",
+   "Koo Ja-sung",
+   "Jung Ae-ri"
+  ],
+  "diretor": "Lee Gwang-young",
+  "roteirista": "Kim A-yeong",
+  "plataformas": [
+   "SBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/7owGMGmnlx2EMEm3yFPQ03C0zjr.jpg",
+  "banner": "/xL102ZnaQNHqHapGo4Wk7RFOTsa.jpg",
+  "trailer": "https://www.youtube.com/watch?v=YN9Tf05O-Po"
+ },
+ "devilish-joy": {
+  "titulo_original": "마성의 기쁨",
+  "titulo_br": "Sorte travessa",
+  "pais": "Coreia do Sul",
+  "ano": 2018,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "65 min",
+  "elenco": [
+   "Choi Jin-hyuk",
+   "Song Ha-yoon",
+   "Lee Ho-won",
+   "Lee Ju-yeon",
+   "Lee Su-ji"
+  ],
+  "diretor": "Kim Ga-ram",
+  "roteirista": "Choi Ji-yeon",
+  "plataformas": [
+   "MBN",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/v77XkTIW2UfyClmQX6H2zHgOhxs.jpg",
+  "banner": "/r06DZuVtttqDdHrOIJMaehPafxR.jpg",
+  "trailer": "https://www.youtube.com/watch?v=sOlQoJ5XcFY"
+ },
+ "so-i-married-the-anti-fan": {
+  "titulo_original": "그래서 나는 안티팬과 결혼했다",
+  "titulo_br": "Então eu me casei com a minha antifã",
+  "pais": "Coreia do Sul",
+  "ano": 2021,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "62 min",
+  "elenco": [
+   "Choi Tae-joon",
+   "Choi Soo-young",
+   "Hwang Chan-sung",
+   "Han Ji-an",
+   "Kim Min-gue"
+  ],
+  "diretor": "Kang Cheol-woo",
+  "roteirista": "Kim Eun-jung, Nam Ji-yeon",
+  "plataformas": [
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ySGIdaRkck2TRN6gBDqe7cDX0Jl.jpg",
+  "banner": "/dJJ8yPGJ9HtMReHbAz0ri9p6Kxf.jpg",
+  "trailer": null
+ },
+ "let-me-be-your-knight": {
+  "titulo_original": "너의 밤이 되어줄게",
+  "titulo_br": "Deixe-me ser seu cavaleiro",
+  "pais": "Coreia do Sul",
+  "ano": 2021,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jung In-sun",
+   "Lee Jun-young",
+   "Jang Dong-ju",
+   "Kim Jong-hyeon",
+   "Yoon Ji-sung"
+  ],
+  "diretor": "Ahn Ji-sook",
+  "roteirista": "Shin Seo-ha, Hae Yeon, Seo Jung-eun, Yoo So-won",
+  "plataformas": [
+   "SBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/4E5fq9i4DTrmVcE4HKokayjsPEZ.jpg",
+  "banner": "/lVX7HGBcUqxVS0odAlXk7x3ZDx8.jpg",
+  "trailer": "https://www.youtube.com/watch?v=byxOdeG0kdM"
+ },
+ "dear-m": {
+  "titulo_original": "디어엠",
+  "titulo_br": "Querido M",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 12,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Park Hye-soo",
+   "Jaehyun",
+   "Roh Jeong-eui",
+   "Bae Hyun-sung",
+   "Lee Jin-hyuk"
+  ],
+  "diretor": "Park Jin-u, Seo Joo-wan",
+  "roteirista": "Lee Seul",
+  "plataformas": [
+   "KBS Joy",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ikfRBUtlq5Zf38Qseyk4VxkLNsg.jpg",
+  "banner": "/hlhgZ9Ro906X8rlt4tfFEzMJozK.jpg",
+  "trailer": "https://www.youtube.com/watch?v=w2ugBBoQ6lU"
+ },
+ "today-s-webtoon": {
+  "titulo_original": "오늘의 웹툰",
+  "titulo_br": "O webtoon de hoje",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Kim Se-jeong",
+   "Choi Daniel",
+   "Nam Yoon-su",
+   "Park Ho-san",
+   "Yang Hyun-min"
+  ],
+  "diretor": "Jo Soo-won, Kim Young-hwan",
+  "roteirista": "Jo Hyun-joo, Cho Ye-rang, Lee Jae-eun",
+  "plataformas": [
+   "SBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/dxCb9TLWQN6LGaPV87BUiHRKSKI.jpg",
+  "banner": "/kh8UPDaCnTB2j8pyU9pgEAOxb9c.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_i-2PTuVdx8"
+ },
+ "oasis": {
+  "titulo_original": "오아시스",
+  "titulo_br": "Oásis",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Jang Dong-yoon",
+   "Seol In-a",
+   "Choo Young-woo",
+   "Do Sang-woo",
+   "Hyun Seung-hee"
+  ],
+  "diretor": "Han Hee, Yoon Sung-shik",
+  "roteirista": "Jung Hyung-soo",
+  "plataformas": [
+   "KBS2",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/A2FUXk01cF09H1uszZdqoHFJv6d.jpg",
+  "banner": "/qnX8d3UGey9O2h29PaW3XGsk8fK.jpg",
+  "trailer": "https://www.youtube.com/watch?v=de9VAsH-jyI"
+ },
+ "love-is-for-suckers": {
+  "titulo_original": "얼어죽을 연애따위",
+  "titulo_br": "O amor é para os trouxas",
+  "pais": "Coreia do Sul",
+  "ano": 2022,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Lee Da-hee",
+   "Choi Si-won",
+   "Jo Soo-hyang",
+   "Park Yeon-woo",
+   "Lee Ju-yeon"
+  ],
+  "diretor": "Choi Kyu-shik",
+  "roteirista": "Kim Sol-ji",
+  "plataformas": [
+   "ENA",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/kamEUVcfniGX1hRmMniizQzhkrG.jpg",
+  "banner": "/ubmphXxMBqyLrYx8mMsi6ACX197.jpg",
+  "trailer": "https://www.youtube.com/watch?v=EHKm9QMw1H8"
+ },
+ "a-good-day-to-be-a-dog": {
+  "titulo_original": "오늘도 사랑스럽개",
+  "titulo_br": "Um bom dia para ser um cachorro",
+  "pais": "Coreia do Sul",
+  "ano": 2023,
+  "episodios": 14,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Park Gyu-young",
+   "Cha Eun-woo",
+   "Lee Hyun-woo",
+   "Yoon Hyun-soo",
+   "Kim Yi-kyeong"
+  ],
+  "diretor": "Kim Dae-woong",
+  "roteirista": "Baek In-ah",
+  "plataformas": [
+   "MBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/yzrgREOGseOgCtPbfoE3uW9Xuvq.jpg",
+  "banner": "/zfGAkCE73Hj45hrAVfYWhkbv4f7.jpg",
+  "trailer": "https://www.youtube.com/watch?v=a-yTO3TWJ88"
+ },
+ "shopaholic-louis": {
+  "titulo_original": "쇼핑왕 루이",
+  "titulo_br": "O rei das compras, Louis",
+  "pais": "Coreia do Sul",
+  "ano": 2016,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Seo In-guk",
+   "Nam Ji-hyun",
+   "Yoon Sang-hyun",
+   "Im Se-mi",
+   "Um Hyo-sup"
+  ],
+  "diretor": "Lee Sang-yeob",
+  "roteirista": "Oh Ji-young",
+  "plataformas": [
+   "MBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/d97j9INf0AmjM7ieCi1H9hnJDnl.jpg",
+  "banner": "/d3jnEps2be5FCZB5jKkGtHWoxjn.jpg",
+  "trailer": "https://www.youtube.com/watch?v=oQn6LKkq7dU"
+ },
+ "my-girlfriend-is-a-gumiho": {
+  "titulo_original": "내 여자친구는 구미호",
+  "titulo_br": "Minha Namorada É uma Gumiho",
+  "pais": "Coreia do Sul",
+  "ano": 2010,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "70 min",
+  "elenco": [
+   "Lee Seung-gi",
+   "Shin Min-a",
+   "Noh Min-woo",
+   "Hyo Min",
+   "Park Su-jin"
+  ],
+  "diretor": "Boo Sung-chul",
+  "roteirista": "Hong Jeong-eun, Hong Mi-ran",
+  "plataformas": [
+   "SBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/6GutxlEAvmc9GNKO6cwZ01JiRqt.jpg",
+  "banner": "/wv6j1cVDTAJlApvu00AumgKGDRh.jpg",
+  "trailer": "https://www.youtube.com/watch?v=FVHeN9p4ZpE"
+ },
+ "cunning-single-lady": {
+  "titulo_original": "앙큼한 돌싱녀",
+  "titulo_br": "Solteira Astuta",
+  "pais": "Coreia do Sul",
+  "ano": 2014,
+  "episodios": 16,
+  "temporadas": 1,
+  "duracao": "62 min",
+  "elenco": [
+   "Lee Min-jung",
+   "Joo Sang-wook",
+   "Seo Kang-joon",
+   "Kim Gyu-ri",
+   "Hwang Bo-ra"
+  ],
+  "diretor": "Jeong Dae-yun, Go Dong-sun",
+  "roteirista": "Lee Ha-na, Choi Su-yeong",
+  "plataformas": [
+   "MBC",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/ntJmIhhRkd4JFAmYLPcTEpd64jx.jpg",
+  "banner": "/qB7BqLR74deIFYERTU6QUv1iFns.jpg",
+  "trailer": null
+ },
+ "dear-fair-lady-kong-shim": {
+  "titulo_original": "미녀 공심이",
+  "titulo_br": "Dear Fair Lady Kong Shim",
+  "pais": "Coreia do Sul",
+  "ano": 2016,
+  "episodios": 20,
+  "temporadas": 1,
+  "duracao": "60 min",
+  "elenco": [
+   "Namkoong Min",
+   "Minah",
+   "Ohn Joo-wan",
+   "Seo Hyo-rim",
+   "Oh Hyun-kyung"
+  ],
+  "diretor": "Baek Soo-chan, Nam Tae-jin",
+  "roteirista": "Lee Hee-myung",
+  "plataformas": [
+   "SBS",
+   "Viki"
+  ],
+  "status": "Finalizado",
+  "classificacao": 14,
+  "poster": "/peO3vXCws2bD7xz2rWxgJ1CHYC1.jpg",
+  "banner": "/7t1wk3Hh7r2OV42RzeTJXqQHNUf.jpg",
+  "trailer": "https://www.youtube.com/watch?v=gGXl8_7dZpE"
+ }
+}
