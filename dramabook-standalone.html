@@ -897,6 +897,15 @@ const PAGE_SIZE = 60;
    automaticamente quando a disponibilidade for atualizada. */
 const SOMENTE_BRASIL = true;
 
+/* Países fora do acervo (decisão da Clau 21/10/2026: sem dramas tailandeses).
+   Os registros ficam no banco, invisíveis; a importação também barra esses países. */
+const PAISES_FORA = ["Tailândia"];
+
+/* Linha editorial (Clau 21/10/2026): nada LGBT e nada de teor sexual forte.
+   Ids listados aqui ficam no banco, invisíveis no site. Mantido pela auditoria de conteúdo. */
+const OCULTOS_LINHA_EDITORIAL = new Set([
+]);
+
 /* Bandeira por país. */
 const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",
@@ -1347,6 +1356,8 @@ function addMany(arr) {
     // Foco Brasil: sem streaming BR → fica no banco, mas não entra no site.
     if (SOMENTE_BRASIL && !streamingList(d).some(ehStreaming)) continue;
     if (TIPOS_FORA.test(d.tipo || "")) continue;
+    if (PAISES_FORA.some(p => String(d.pais || "").includes(p))) continue;
+    if (OCULTOS_LINHA_EDITORIAL.has(d.id)) continue;
     STATE.byId[d.id] = d;
     STATE.all.push(d);
   }

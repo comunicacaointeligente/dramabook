@@ -18,6 +18,15 @@ export const PAGE_SIZE = 60;
    automaticamente quando a disponibilidade for atualizada. */
 export const SOMENTE_BRASIL = true;
 
+/* Países fora do acervo (decisão da Clau 21/10/2026: sem dramas tailandeses).
+   Os registros ficam no banco, invisíveis; a importação também barra esses países. */
+export const PAISES_FORA = ["Tailândia"];
+
+/* Linha editorial (Clau 21/10/2026): nada LGBT e nada de teor sexual forte.
+   Ids listados aqui ficam no banco, invisíveis no site. Mantido pela auditoria de conteúdo. */
+export const OCULTOS_LINHA_EDITORIAL = new Set([
+]);
+
 /* Bandeira por país. */
 export const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",

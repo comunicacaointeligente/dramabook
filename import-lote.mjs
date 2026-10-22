@@ -75,6 +75,7 @@ for (const c of curation) {
     ...(c.editor_tags ? { editor_tags: c.editor_tags } : {}),
     recomendacoes: (c.recomendacoes ?? []).map(slugify), // títulos → ids permanentes
   };
+  if (/tail[aâ]ndia/i.test(rec.pais || "")) { console.log(`  🚫 "${rec.titulo}" BARRADO: dramas tailandeses estão fora do acervo.`); continue; }
   const alerta = foraDaLinha(rec);
   if (alerta.length) {
     console.log(`  🚫 "${rec.titulo}" BARRADO pela linha editorial (${alerta.join(", ")}) — não importado.`);
