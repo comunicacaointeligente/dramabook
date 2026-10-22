@@ -12,6 +12,9 @@
 </head>
 <body>
 
+  <!-- ===================== ENTRADA (cadastro/login) ===================== -->
+  <div class="entrada" id="entrada"></div>
+
   <!-- ===================== TOPO ===================== -->
   <header class="topbar" id="topbar">
     <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menu">☰</button>
@@ -32,7 +35,9 @@
       <button class="chip-btn ghost" id="filtroBtn" title="Filtro avançado">🎛️ <span class="hide-sm">Filtrar</span></button>
       <button class="chip-btn" id="randomBtn" title="Me indique um dorama">🎲 <span class="hide-sm">Me indique</span></button>
       <button class="icon-btn" id="themeToggle" title="Alternar tema" aria-label="Alternar tema">🌙</button>
+      <button class="icon-btn conta-btn" id="contaBtn" title="Minha conta" aria-label="Minha conta" hidden>👤</button>
     </div>
+    <div class="conta-menu" id="contaMenu" hidden></div>
 
     <!-- Popover: recomendação por humor -->
     <div class="mood" id="mood" hidden></div>

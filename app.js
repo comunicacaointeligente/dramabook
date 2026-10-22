@@ -16,6 +16,7 @@ import {
 } from "./js/views.js";
 import { openModal, closeModal } from "./components/modal.js";
 import { abrirFiltro, eventoFiltro, trocaOrdemFiltro } from "./js/filtro.js";
+import { entradaMontar, entradaVerificar, entradaPreencherMosaico, entradaSair } from "./components/entrada.js";
 import { compartilharDorama, compartilharLista, fecharFolha, copiarLink, lerListaDoLink } from "./js/share.js";
 
 /* PWA: arquivos prontos, mas desligada por padrão (ativar quando hospedar). */
@@ -247,17 +248,41 @@ function showLoadError() {
     Rode um servidor na pasta: <code>python3 -m http.server 8080</code> e abra <code>http://localhost:8080</code>.</p>`;
 }
 
+/* Conta: botão 👤 no topo com nome, e-mail, plano e Sair. */
+const contaEscHtml = (t) => String(t ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+function contaMostrar(u) {
+  const btn = $("#contaBtn"), menu = $("#contaMenu");
+  if (!btn) return;
+  btn.hidden = !u;
+  if (!u) { menu.hidden = true; return; }
+  btn.textContent = (u.nome || u.email || "?").trim().charAt(0).toUpperCase();
+  menu.innerHTML = `<p class="conta-nome">${contaEscHtml(u.nome || "")}</p><p class="conta-email">${contaEscHtml(u.email || "")}</p>
+    <p class="conta-plano">Plano ${u.plano === "premium" ? "Premium" : "Gratuito"}</p>
+    <button class="chip-btn ghost" id="contaSairBtn">Sair</button>`;
+}
+function contaLigar() {
+  $("#contaBtn")?.addEventListener("click", (e) => { e.stopPropagation(); $("#contaMenu").hidden = !$("#contaMenu").hidden; });
+  document.addEventListener("click", async (e) => {
+    if (e.target.id === "contaSairBtn") { $("#contaMenu").hidden = true; contaMostrar(null); await entradaSair(); return; }
+    if (!e.target.closest("#contaMenu")) { const m = $("#contaMenu"); if (m) m.hidden = true; }
+  });
+}
+
 async function init() {
   const theme = localStorage.getItem(LS.theme) || "dark";
   document.documentElement.setAttribute("data-theme", theme);
   $("#themeToggle").textContent = theme === "dark" ? "🌙" : "☀️";
+
+  entradaMontar((u) => { contaMostrar(u); toast(`Bem-vinda, ${(u.nome || "").split(" ")[0] || "dorameira"}! 💜`); });
+  contaLigar();
+  entradaVerificar().then(contaMostrar);
 
   renderSidebar(); renderQuickfilters(); renderMood();
   wireEvents(); updateBadges();
 
   const ok = await loadCatalog();
   ok ? renderHome() : showLoadError();
-  if (ok) { renderPlataformasFooter(); aplicarHash(); }
+  if (ok) { renderPlataformasFooter(); aplicarHash(); entradaPreencherMosaico(STATE.all); }
 
   if (PWA_ENABLED && "serviceWorker" in navigator && location.protocol.startsWith("http")) {
     navigator.serviceWorker.register("service-worker.js").catch(() => {});

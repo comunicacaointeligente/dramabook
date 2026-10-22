@@ -68,6 +68,15 @@ export const OCULTOS_LINHA_EDITORIAL = new Set([
   "wedding-impossible",
 ]);
 
+/* Conta (cadastro/login). Sem as chaves do Supabase roda em MODO TESTE:
+   a conta fica só no navegador de quem cadastrou. Preencher as duas chaves
+   (Project URL e anon public key) liga o modo Supabase, sem mudar o resto. */
+export const AUTH = {
+  ativo: true,
+  supabaseUrl: "",
+  supabaseAnonKey: "",
+};
+
 /* Bandeira por país. */
 export const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",

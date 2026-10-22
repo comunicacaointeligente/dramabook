@@ -777,8 +777,79 @@ a { color: inherit; text-decoration: none; }
 .fb-gen .ftabela { grid-template-columns: 1fr 1.3fr .8fr; }
 @media (max-width: 600px) { .fb-gen .ftabela { grid-template-columns: 1fr; } }
 
+/* =========================================================
+   ENTRADA — cadastro / login (components/entrada.js)
+   ========================================================= */
+.entrada { position: fixed; inset: 0; z-index: 1000; overflow-y: auto; background: #07080c; color: #f3f5fa; }
+.entrada[hidden] { display: none; }
+body.sem-conta { overflow: hidden; }
+.entrada-mosaico { position: fixed; inset: -10%; transform: rotate(-8deg); opacity: .8; pointer-events: none; }
+.entrada-trilho { display: grid; grid-template-columns: repeat(10, 1fr); gap: 14px; width: 120%;
+  animation: entrada-desliza 90s linear infinite; }
+.entrada-trilho img { width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 12px; background: #161a24; }
+@keyframes entrada-desliza { from { transform: translateY(0); } to { transform: translateY(-50%); } }
+@media (prefers-reduced-motion: reduce) { .entrada-trilho { animation: none; } }
+.entrada-veu { position: fixed; inset: 0; pointer-events: none;
+  background: linear-gradient(90deg, rgba(7,8,12,.92) 0%, rgba(7,8,12,.62) 45%, rgba(7,8,12,.45) 70%, rgba(7,8,12,.7) 100%), linear-gradient(180deg, rgba(7,8,12,.35), rgba(7,8,12,.75)); }
+.entrada-conteudo { position: relative; min-height: 100%; max-width: 1180px; margin: 0 auto; padding: 48px 24px;
+  display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; }
+.entrada-logo { display: inline-flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 800; letter-spacing: -.02em; }
+.entrada-logo b { color: var(--laranja-ci); }
+.entrada-lado h1 { font-size: clamp(32px, 4.4vw, 54px); line-height: 1.05; letter-spacing: -.03em; margin: 28px 0 16px; font-weight: 800; }
+.entrada-lado p { color: #c6ccd8; font-size: 18px; line-height: 1.55; max-width: 520px; margin: 0; }
+.entrada-beneficios { list-style: none; padding: 0; margin: 26px 0 0; display: grid; gap: 10px; font-size: 16px; color: #e5e9f1; }
+.entrada-cartao { background: rgba(16,19,27,.86); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255,255,255,.08); border-radius: 22px; padding: 26px; box-shadow: 0 30px 80px -30px rgba(0,0,0,.9); }
+.entrada-abas { display: grid; grid-template-columns: 1fr 1fr; background: #0b0d12; border-radius: 999px; padding: 4px; margin-bottom: 20px; }
+.entrada-abas button { border: 0; background: none; color: #9aa3b5; font: inherit; font-weight: 700; padding: 10px; border-radius: 999px; cursor: pointer; }
+.entrada-abas button.ativo { background: var(--laranja-ci); color: #fff; }
+.entrada-form { display: grid; gap: 12px; }
+.entrada-form label { display: grid; gap: 6px; font-size: 13px; font-weight: 600; color: #c6ccd8; }
+.entrada-form .opc { font-weight: 400; color: #6b7385; }
+.entrada-form input:not([type=radio]):not([type=checkbox]) { width: 100%; box-sizing: border-box; background: #0b0d12; color: #f3f5fa;
+  border: 1px solid #262c3a; border-radius: 12px; padding: 12px 14px; font: inherit; font-size: 15px; }
+.entrada-form input:focus { outline: 2px solid var(--laranja-ci); outline-offset: 1px; border-color: transparent; }
+.entrada-duas { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.entrada-planos { border: 0; padding: 0; margin: 4px 0 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.entrada-planos legend { font-size: 13px; font-weight: 600; color: #c6ccd8; margin-bottom: 6px; }
+.entrada-planos .plano { position: relative; display: grid; gap: 2px; padding: 12px 14px; border-radius: 14px; border: 1px solid #262c3a; background: #0b0d12; cursor: pointer; }
+.entrada-planos .plano input { position: absolute; opacity: 0; }
+.entrada-planos .plano.escolhido { border-color: var(--laranja-ci); box-shadow: inset 0 0 0 1px var(--laranja-ci); }
+.entrada-planos .plano.breve { opacity: .55; cursor: not-allowed; }
+.plano-nome { font-weight: 800; color: #f3f5fa; font-size: 15px; }
+.plano-preco { font-weight: 700; color: var(--laranja-ci); font-size: 14px; }
+.plano-desc { font-weight: 400; color: #9aa3b5; font-size: 12px; line-height: 1.35; }
+.entrada-aceite { grid-template-columns: auto 1fr !important; align-items: start; font-weight: 400 !important; }
+.entrada-aceite a { color: var(--laranja-ci-2); }
+.entrada-erro { min-height: 1em; margin: 0; color: #ff8a8a; font-size: 13px; }
+.entrada-botao { border: 0; border-radius: 999px; padding: 14px; font: inherit; font-weight: 800; font-size: 16px; color: #fff;
+  background: var(--laranja-ci); cursor: pointer; }
+.entrada-botao:disabled { opacity: .6; cursor: wait; }
+.entrada-link { border: 0; background: none; color: #9aa3b5; font: inherit; font-size: 13px; cursor: pointer; text-decoration: underline; justify-self: center; }
+.entrada-privacidade h3 { margin: 0 0 8px; } .entrada-privacidade p { color: #c6ccd8; line-height: 1.55; font-size: 14px; }
+.entrada-aviso { margin: 16px 0 0; font-size: 12px; color: #9aa3b5; text-align: center; }
+@media (max-width: 860px) {
+  .entrada-conteudo { grid-template-columns: 1fr; gap: 24px; padding: 28px 16px 40px; }
+  .entrada-lado h1 { font-size: 30px; margin: 18px 0 10px; }
+  .entrada-lado p { font-size: 15px; }
+  .entrada-beneficios { display: none; }
+  .entrada-trilho { grid-template-columns: repeat(5, 1fr); }
+}
+@media (max-width: 420px) { .entrada-duas, .entrada-planos { grid-template-columns: 1fr; } .entrada-cartao { padding: 18px; } }
+
+/* Conta no topo */
+.conta-btn { font-weight: 800; background: var(--laranja-ci) !important; color: #fff !important; }
+.conta-menu { position: absolute; right: 16px; top: calc(var(--topbar-h) - 6px); z-index: 60; min-width: 220px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: 14px; padding: 14px; box-shadow: var(--shadow); }
+.conta-menu[hidden] { display: none; }
+.conta-menu p { margin: 0 0 4px; } .conta-nome { font-weight: 800; } .conta-email, .conta-plano { color: var(--text-dim); font-size: 13px; }
+.conta-menu .chip-btn { margin-top: 10px; width: 100%; }
+
 </style>
-<!-- ===================== TOPO ===================== -->
+<!-- ===================== ENTRADA (cadastro/login) ===================== -->
+  <div class="entrada" id="entrada"></div>
+
+  <!-- ===================== TOPO ===================== -->
   <header class="topbar" id="topbar">
     <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menu">☰</button>
 
@@ -798,7 +869,9 @@ a { color: inherit; text-decoration: none; }
       <button class="chip-btn ghost" id="filtroBtn" title="Filtro avançado">🎛️ <span class="hide-sm">Filtrar</span></button>
       <button class="chip-btn" id="randomBtn" title="Me indique um dorama">🎲 <span class="hide-sm">Me indique</span></button>
       <button class="icon-btn" id="themeToggle" title="Alternar tema" aria-label="Alternar tema">🌙</button>
+      <button class="icon-btn conta-btn" id="contaBtn" title="Minha conta" aria-label="Minha conta" hidden>👤</button>
     </div>
+    <div class="conta-menu" id="contaMenu" hidden></div>
 
     <!-- Popover: recomendação por humor -->
     <div class="mood" id="mood" hidden></div>
@@ -947,6 +1020,15 @@ const OCULTOS_LINHA_EDITORIAL = new Set([
   "wedding-impossible",
 ]);
 
+/* Conta (cadastro/login). Sem as chaves do Supabase roda em MODO TESTE:
+   a conta fica só no navegador de quem cadastrou. Preencher as duas chaves
+   (Project URL e anon public key) liga o modo Supabase, sem mudar o resto. */
+const AUTH = {
+  ativo: true,
+  supabaseUrl: "",
+  supabaseAnonKey: "",
+};
+
 /* Bandeira por país. */
 const FLAGS = {
   "Coreia do Sul": "🇰🇷", "Coreia": "🇰🇷", "China": "🇨🇳", "Japão": "🇯🇵",
@@ -1050,6 +1132,117 @@ const LS = {
   quero: "db_quero",
   theme: "db_theme",
 };
+
+
+/* ---- js/conta.js ---- */
+/* =========================================================
+   conta.js — cadastro e login do dorama book.
+   Dois modos, mesma interface:
+   • SUPABASE (produção): ativa quando AUTH.supabaseUrl e AUTH.supabaseAnonKey
+     estão preenchidos em config.js. Senha fica no Supabase Auth (bcrypt);
+     dados do perfil vão em user_metadata (depois: tabela profiles com RLS).
+   • TESTE (agora): conta salva SÓ neste navegador. A senha nunca é guardada:
+     guardamos um hash PBKDF2-SHA256 (210 mil iterações) com sal aleatório.
+   ========================================================= */
+
+const CONTA_LS_CONTAS = "dramabook_contas_teste_v1";
+const CONTA_LS_SESSAO = "dramabook_sessao_v1";
+let contaSupa = null;
+
+const contaModo = () => (AUTH.supabaseUrl && AUTH.supabaseAnonKey ? "supabase" : "teste");
+
+async function contaCliente() {
+  if (contaSupa) return contaSupa;
+  const mod = await import("https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/+esm");
+  contaSupa = mod.createClient(AUTH.supabaseUrl, AUTH.supabaseAnonKey);
+  return contaSupa;
+}
+
+const contaB64 = (buf) => btoa(String.fromCharCode(...new Uint8Array(buf)));
+async function contaHash(senha, salB64) {
+  const sal = salB64 ? Uint8Array.from(atob(salB64), (c) => c.charCodeAt(0)) : crypto.getRandomValues(new Uint8Array(16));
+  const chave = await crypto.subtle.importKey("raw", new TextEncoder().encode(senha), "PBKDF2", false, ["deriveBits"]);
+  const bits = await crypto.subtle.deriveBits({ name: "PBKDF2", hash: "SHA-256", salt: sal, iterations: 210000 }, chave, 256);
+  return { sal: contaB64(sal), hash: contaB64(bits) };
+}
+const contaLer = (k, pad) => { try { return JSON.parse(localStorage.getItem(k)) ?? pad; } catch { return pad; } };
+const contaGravar = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* cota ou bloqueado */ } };
+const contaEmail = (e) => String(e || "").trim().toLowerCase();
+
+/* Validação comum aos dois modos. Devolve mensagem de erro ou "". */
+function contaValidar(d, cadastro) {
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(contaEmail(d.email))) return "Confira o e-mail.";
+  if (!d.senha || d.senha.length < 8) return "A senha precisa ter pelo menos 8 caracteres.";
+  if (!cadastro) return "";
+  if (!/[A-Za-z]/.test(d.senha) || !/\d/.test(d.senha)) return "Use letras e números na senha.";
+  if (d.senha !== d.senha2) return "As duas senhas não estão iguais.";
+  if (!String(d.nome || "").trim()) return "Escreva seu nome.";
+  if (String(d.telefone || "").replace(/\D/g, "").length < 10) return "Confira o telefone com DDD.";
+  if (!String(d.cidade || "").trim()) return "Escreva sua cidade.";
+  if (!d.aceite) return "Para criar a conta, aceite a política de privacidade.";
+  return "";
+}
+
+async function contaCadastrar(d) {
+  const perfil = { nome: d.nome.trim(), telefone: d.telefone.trim(), cidade: d.cidade.trim(),
+    endereco: String(d.endereco || "").trim(), plano: "gratuito", aceite_privacidade: new Date().toISOString() };
+  if (contaModo() === "supabase") {
+    const sb = await contaCliente();
+    const { data, error } = await sb.auth.signUp({ email: contaEmail(d.email), password: d.senha, options: { data: perfil } });
+    if (error) return { erro: error.message };
+    return { usuario: { email: data.user?.email, ...perfil }, confirmarEmail: !data.session };
+  }
+  const contas = contaLer(CONTA_LS_CONTAS, {});
+  const email = contaEmail(d.email);
+  if (contas[email]) return { erro: "Já existe uma conta com esse e-mail neste navegador. Use Entrar." };
+  const { sal, hash } = await contaHash(d.senha);
+  contas[email] = { email, sal, hash, criadaEm: new Date().toISOString(), ...perfil };
+  contaGravar(CONTA_LS_CONTAS, contas);
+  contaGravar(CONTA_LS_SESSAO, { email, desde: Date.now() });
+  return { usuario: contaPublica(contas[email]) };
+}
+
+async function contaEntrar(emailBruto, senha) {
+  const email = contaEmail(emailBruto);
+  if (contaModo() === "supabase") {
+    const sb = await contaCliente();
+    const { data, error } = await sb.auth.signInWithPassword({ email, password: senha });
+    if (error) return { erro: "E-mail ou senha incorretos." };
+    return { usuario: { email: data.user.email, ...(data.user.user_metadata || {}) } };
+  }
+  const c = contaLer(CONTA_LS_CONTAS, {})[email];
+  if (!c) return { erro: "E-mail ou senha incorretos." };
+  const { hash } = await contaHash(senha, c.sal);
+  if (hash !== c.hash) return { erro: "E-mail ou senha incorretos." };
+  contaGravar(CONTA_LS_SESSAO, { email, desde: Date.now() });
+  return { usuario: contaPublica(c) };
+}
+
+async function contaAtual() {
+  if (contaModo() === "supabase") {
+    const sb = await contaCliente();
+    const { data } = await sb.auth.getSession();
+    const u = data.session?.user;
+    return u ? { email: u.email, ...(u.user_metadata || {}) } : null;
+  }
+  const s = contaLer(CONTA_LS_SESSAO, null);
+  const c = s && contaLer(CONTA_LS_CONTAS, {})[s.email];
+  return c ? contaPublica(c) : null;
+}
+
+async function contaSair() {
+  if (contaModo() === "supabase") { const sb = await contaCliente(); await sb.auth.signOut(); }
+  try { localStorage.removeItem(CONTA_LS_SESSAO); } catch { /* ok */ }
+}
+
+async function contaRecuperar(emailBruto) {
+  if (contaModo() !== "supabase") return { erro: "No modo de teste não há envio de e-mail. Crie a conta de novo com outro e-mail, se precisar." };
+  const sb = await contaCliente();
+  const { error } = await sb.auth.resetPasswordForEmail(contaEmail(emailBruto), { redirectTo: location.href.split("#")[0] });
+  return error ? { erro: error.message } : { ok: true };
+}
+
+function contaPublica(c) { const { sal, hash, ...resto } = c; return resto; }
 
 
 /* ---- js/user.js ---- */
@@ -2234,6 +2427,157 @@ function renderBiblioteca() {
 }
 
 
+/* ---- components/entrada.js ---- */
+/* =========================================================
+   entrada.js — tela de entrada: cadastro, login e plano.
+   Cobre o app até a pessoa entrar. Fundo = mosaico de pôsteres do acervo.
+   ========================================================= */
+
+const entradaEsc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+let entradaAoEntrar = () => {};
+
+function entradaMontar(onEntrar) {
+  entradaAoEntrar = onEntrar;
+  const el = document.getElementById("entrada");
+  const teste = contaModo() === "teste";
+  el.innerHTML = `
+    <div class="entrada-mosaico" aria-hidden="true"><div class="entrada-trilho"></div></div>
+    <div class="entrada-veu" aria-hidden="true"></div>
+    <main class="entrada-conteudo">
+      <section class="entrada-lado">
+        <div class="entrada-logo"><span class="logo-mark">▶</span><span>dorama <b>book</b></span></div>
+        <h1>Nunca mais esqueça um dorama que você já viu.</h1>
+        <p>Mais de 800 doramas em português, com onde assistir no Brasil, dublagem, notas e listas pessoais: o que você já assistiu, o que está vendo e o que quer ver.</p>
+        <ul class="entrada-beneficios">
+          <li>✅ Marque o que já assistiu</li><li>🔖 Monte sua lista de desejos</li><li>⭐ Dê sua nota e escreva o que achou</li>
+        </ul>
+      </section>
+      <section class="entrada-cartao" role="dialog" aria-label="Entrar no dorama book">
+        <div class="entrada-abas" role="tablist">
+          <button role="tab" class="ativo" data-aba="cadastro">Criar conta</button>
+          <button role="tab" data-aba="login">Entrar</button>
+        </div>
+        <form class="entrada-form" data-form="cadastro" novalidate>
+          <label>Nome<input name="nome" autocomplete="name" required></label>
+          <label>E-mail<input name="email" type="email" autocomplete="email" required></label>
+          <div class="entrada-duas">
+            <label>Senha<input name="senha" type="password" autocomplete="new-password" minlength="8" required></label>
+            <label>Repita a senha<input name="senha2" type="password" autocomplete="new-password" minlength="8" required></label>
+          </div>
+          <div class="entrada-duas">
+            <label>Telefone<input name="telefone" type="tel" autocomplete="tel" placeholder="(31) 99999-9999" required></label>
+            <label>Cidade<input name="cidade" autocomplete="address-level2" required></label>
+          </div>
+          <label>Endereço (opcional)<input name="endereco" autocomplete="street-address" placeholder="Rua, número, bairro"></label>
+          <fieldset class="entrada-planos">
+            <legend>Plano</legend>
+            <label class="plano escolhido"><input type="radio" name="plano" value="gratuito" checked>
+              <span class="plano-nome">Gratuito</span><span class="plano-preco">R$ 0</span>
+              <span class="plano-desc">Acervo completo, listas e notas pessoais.</span></label>
+            <label class="plano breve" aria-disabled="true"><input type="radio" name="plano" value="premium" disabled>
+              <span class="plano-nome">Premium</span><span class="plano-preco">em breve</span>
+              <span class="plano-desc">Recursos extras para quem é dorameira de verdade.</span></label>
+          </fieldset>
+          <label class="entrada-aceite"><input type="checkbox" name="aceite">
+            <span>Li e aceito a <a href="#" data-acao="privacidade">política de privacidade</a>.</span></label>
+          <p class="entrada-erro" role="alert"></p>
+          <button class="entrada-botao" type="submit">Criar minha conta</button>
+        </form>
+        <form class="entrada-form" data-form="login" hidden novalidate>
+          <label>E-mail<input name="email" type="email" autocomplete="email" required></label>
+          <label>Senha<input name="senha" type="password" autocomplete="current-password" required></label>
+          <p class="entrada-erro" role="alert"></p>
+          <button class="entrada-botao" type="submit">Entrar</button>
+          <button class="entrada-link" type="button" data-acao="esqueci">Esqueci a senha</button>
+        </form>
+        <div class="entrada-privacidade" hidden>
+          <h3>Seus dados</h3>
+          <p>Usamos nome, e-mail, telefone, cidade e endereço só para a sua conta no dorama book. Não vendemos nem compartilhamos com ninguém. A senha nunca é guardada em texto: guardamos apenas uma versão criptografada. Você pode pedir para apagar sua conta quando quiser.</p>
+          <button class="entrada-link" type="button" data-acao="fechar-privacidade">Voltar</button>
+        </div>
+        ${teste ? `<p class="entrada-aviso">🧪 Versão de teste: a conta fica salva só neste navegador.</p>` : ""}
+      </section>
+    </main>`;
+  el.addEventListener("click", entradaClique);
+  el.addEventListener("submit", entradaEnviar);
+}
+
+function entradaPreencherMosaico(lista) {
+  const trilho = document.querySelector("#entrada .entrada-trilho");
+  if (!trilho) return;
+  const com = lista.filter((d) => d.poster).sort((a, b) => (b.avaliacao?.chatgpt || 0) - (a.avaliacao?.chatgpt || 0)).slice(0, 60);
+  const embaralhado = com.sort(() => Math.random() - 0.5);
+  const imgs = embaralhado.map((d) => `<img src="${IMG_BASE}/w342${entradaEsc(d.poster)}" alt="" loading="lazy">`).join("");
+  trilho.innerHTML = imgs + imgs;   // duplicado: o deslize fica contínuo
+}
+
+async function entradaVerificar() {
+  const el = document.getElementById("entrada");
+  // Arquivo offline (duplo-clique) não tem criptografia do navegador: abre direto.
+  if (location.protocol === "file:" || !window.crypto?.subtle) { el.hidden = true; return null; }
+  const u = await contaAtual().catch(() => null);
+  el.hidden = !!u;
+  document.body.classList.toggle("sem-conta", !u);
+  return u;
+}
+
+async function entradaSair() {
+  await contaSair();
+  document.getElementById("entrada").hidden = false;
+  document.body.classList.add("sem-conta");
+  window.scrollTo(0, 0);
+}
+
+function entradaAba(nome) {
+  const el = document.getElementById("entrada");
+  el.querySelectorAll("[data-aba]").forEach((b) => b.classList.toggle("ativo", b.dataset.aba === nome));
+  el.querySelectorAll("[data-form]").forEach((f) => { f.hidden = f.dataset.form !== nome; });
+  el.querySelector(".entrada-privacidade").hidden = true;
+}
+
+async function entradaClique(e) {
+  const aba = e.target.closest("[data-aba]");
+  if (aba) return entradaAba(aba.dataset.aba);
+  const acao = e.target.closest("[data-acao]")?.dataset.acao;
+  if (!acao) return;
+  e.preventDefault();
+  const el = document.getElementById("entrada");
+  if (acao === "privacidade") { el.querySelectorAll("[data-form]").forEach((f) => (f.hidden = true)); el.querySelector(".entrada-privacidade").hidden = false; }
+  if (acao === "fechar-privacidade") entradaAba("cadastro");
+  if (acao === "esqueci") {
+    const form = el.querySelector('[data-form="login"]');
+    const r = await contaRecuperar(form.email.value);
+    form.querySelector(".entrada-erro").textContent = r.erro || "Enviamos um link para o seu e-mail.";
+  }
+}
+
+async function entradaEnviar(e) {
+  e.preventDefault();
+  const form = e.target;
+  const erro = form.querySelector(".entrada-erro");
+  const botao = form.querySelector(".entrada-botao");
+  const d = Object.fromEntries(new FormData(form));
+  d.aceite = !!form.aceite?.checked;
+  const cadastro = form.dataset.form === "cadastro";
+  const msg = contaValidar(d, cadastro);
+  if (msg) { erro.textContent = msg; return; }
+  erro.textContent = ""; botao.disabled = true; botao.textContent = "Aguarde…";
+  try {
+    const r = cadastro ? await contaCadastrar(d) : await contaEntrar(d.email, d.senha);
+    if (r.erro) { erro.textContent = r.erro; return; }
+    if (r.confirmarEmail) { erro.textContent = "Conta criada! Confirme pelo link que enviamos ao seu e-mail e depois entre."; entradaAba("login"); return; }
+    form.reset();
+    document.getElementById("entrada").hidden = true;
+    document.body.classList.remove("sem-conta");
+    entradaAoEntrar(r.usuario);
+  } catch (err) {
+    erro.textContent = "Não foi possível concluir agora. Tente de novo.";
+  } finally {
+    botao.disabled = false; botao.textContent = cadastro ? "Criar minha conta" : "Entrar";
+  }
+}
+
+
 /* ---- js/share.js ---- */
 /* =========================================================
    share.js — compartilhamento de dorama e de listas
@@ -3127,17 +3471,41 @@ function showLoadError() {
     Rode um servidor na pasta: <code>python3 -m http.server 8080</code> e abra <code>http://localhost:8080</code>.</p>`;
 }
 
+/* Conta: botão 👤 no topo com nome, e-mail, plano e Sair. */
+const contaEscHtml = (t) => String(t ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+function contaMostrar(u) {
+  const btn = $("#contaBtn"), menu = $("#contaMenu");
+  if (!btn) return;
+  btn.hidden = !u;
+  if (!u) { menu.hidden = true; return; }
+  btn.textContent = (u.nome || u.email || "?").trim().charAt(0).toUpperCase();
+  menu.innerHTML = `<p class="conta-nome">${contaEscHtml(u.nome || "")}</p><p class="conta-email">${contaEscHtml(u.email || "")}</p>
+    <p class="conta-plano">Plano ${u.plano === "premium" ? "Premium" : "Gratuito"}</p>
+    <button class="chip-btn ghost" id="contaSairBtn">Sair</button>`;
+}
+function contaLigar() {
+  $("#contaBtn")?.addEventListener("click", (e) => { e.stopPropagation(); $("#contaMenu").hidden = !$("#contaMenu").hidden; });
+  document.addEventListener("click", async (e) => {
+    if (e.target.id === "contaSairBtn") { $("#contaMenu").hidden = true; contaMostrar(null); await entradaSair(); return; }
+    if (!e.target.closest("#contaMenu")) { const m = $("#contaMenu"); if (m) m.hidden = true; }
+  });
+}
+
 async function init() {
   const theme = localStorage.getItem(LS.theme) || "dark";
   document.documentElement.setAttribute("data-theme", theme);
   $("#themeToggle").textContent = theme === "dark" ? "🌙" : "☀️";
+
+  entradaMontar((u) => { contaMostrar(u); toast(`Bem-vinda, ${(u.nome || "").split(" ")[0] || "dorameira"}! 💜`); });
+  contaLigar();
+  entradaVerificar().then(contaMostrar);
 
   renderSidebar(); renderQuickfilters(); renderMood();
   wireEvents(); updateBadges();
 
   const ok = await loadCatalog();
   ok ? renderHome() : showLoadError();
-  if (ok) { renderPlataformasFooter(); aplicarHash(); }
+  if (ok) { renderPlataformasFooter(); aplicarHash(); entradaPreencherMosaico(STATE.all); }
 
   if (PWA_ENABLED && "serviceWorker" in navigator && location.protocol.startsWith("http")) {
     navigator.serviceWorker.register("service-worker.js").catch(() => {});

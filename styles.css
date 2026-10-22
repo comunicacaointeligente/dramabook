@@ -773,3 +773,71 @@ a { color: inherit; text-decoration: none; }
 }
 .fb-gen .ftabela { grid-template-columns: 1fr 1.3fr .8fr; }
 @media (max-width: 600px) { .fb-gen .ftabela { grid-template-columns: 1fr; } }
+
+/* =========================================================
+   ENTRADA — cadastro / login (components/entrada.js)
+   ========================================================= */
+.entrada { position: fixed; inset: 0; z-index: 1000; overflow-y: auto; background: #07080c; color: #f3f5fa; }
+.entrada[hidden] { display: none; }
+body.sem-conta { overflow: hidden; }
+.entrada-mosaico { position: fixed; inset: -10%; transform: rotate(-8deg); opacity: .8; pointer-events: none; }
+.entrada-trilho { display: grid; grid-template-columns: repeat(10, 1fr); gap: 14px; width: 120%;
+  animation: entrada-desliza 90s linear infinite; }
+.entrada-trilho img { width: 100%; aspect-ratio: 2/3; object-fit: cover; border-radius: 12px; background: #161a24; }
+@keyframes entrada-desliza { from { transform: translateY(0); } to { transform: translateY(-50%); } }
+@media (prefers-reduced-motion: reduce) { .entrada-trilho { animation: none; } }
+.entrada-veu { position: fixed; inset: 0; pointer-events: none;
+  background: linear-gradient(90deg, rgba(7,8,12,.92) 0%, rgba(7,8,12,.62) 45%, rgba(7,8,12,.45) 70%, rgba(7,8,12,.7) 100%), linear-gradient(180deg, rgba(7,8,12,.35), rgba(7,8,12,.75)); }
+.entrada-conteudo { position: relative; min-height: 100%; max-width: 1180px; margin: 0 auto; padding: 48px 24px;
+  display: grid; grid-template-columns: 1.1fr 1fr; gap: 56px; align-items: center; }
+.entrada-logo { display: inline-flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 800; letter-spacing: -.02em; }
+.entrada-logo b { color: var(--laranja-ci); }
+.entrada-lado h1 { font-size: clamp(32px, 4.4vw, 54px); line-height: 1.05; letter-spacing: -.03em; margin: 28px 0 16px; font-weight: 800; }
+.entrada-lado p { color: #c6ccd8; font-size: 18px; line-height: 1.55; max-width: 520px; margin: 0; }
+.entrada-beneficios { list-style: none; padding: 0; margin: 26px 0 0; display: grid; gap: 10px; font-size: 16px; color: #e5e9f1; }
+.entrada-cartao { background: rgba(16,19,27,.86); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255,255,255,.08); border-radius: 22px; padding: 26px; box-shadow: 0 30px 80px -30px rgba(0,0,0,.9); }
+.entrada-abas { display: grid; grid-template-columns: 1fr 1fr; background: #0b0d12; border-radius: 999px; padding: 4px; margin-bottom: 20px; }
+.entrada-abas button { border: 0; background: none; color: #9aa3b5; font: inherit; font-weight: 700; padding: 10px; border-radius: 999px; cursor: pointer; }
+.entrada-abas button.ativo { background: var(--laranja-ci); color: #fff; }
+.entrada-form { display: grid; gap: 12px; }
+.entrada-form label { display: grid; gap: 6px; font-size: 13px; font-weight: 600; color: #c6ccd8; }
+.entrada-form .opc { font-weight: 400; color: #6b7385; }
+.entrada-form input:not([type=radio]):not([type=checkbox]) { width: 100%; box-sizing: border-box; background: #0b0d12; color: #f3f5fa;
+  border: 1px solid #262c3a; border-radius: 12px; padding: 12px 14px; font: inherit; font-size: 15px; }
+.entrada-form input:focus { outline: 2px solid var(--laranja-ci); outline-offset: 1px; border-color: transparent; }
+.entrada-duas { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.entrada-planos { border: 0; padding: 0; margin: 4px 0 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.entrada-planos legend { font-size: 13px; font-weight: 600; color: #c6ccd8; margin-bottom: 6px; }
+.entrada-planos .plano { position: relative; display: grid; gap: 2px; padding: 12px 14px; border-radius: 14px; border: 1px solid #262c3a; background: #0b0d12; cursor: pointer; }
+.entrada-planos .plano input { position: absolute; opacity: 0; }
+.entrada-planos .plano.escolhido { border-color: var(--laranja-ci); box-shadow: inset 0 0 0 1px var(--laranja-ci); }
+.entrada-planos .plano.breve { opacity: .55; cursor: not-allowed; }
+.plano-nome { font-weight: 800; color: #f3f5fa; font-size: 15px; }
+.plano-preco { font-weight: 700; color: var(--laranja-ci); font-size: 14px; }
+.plano-desc { font-weight: 400; color: #9aa3b5; font-size: 12px; line-height: 1.35; }
+.entrada-aceite { grid-template-columns: auto 1fr !important; align-items: start; font-weight: 400 !important; }
+.entrada-aceite a { color: var(--laranja-ci-2); }
+.entrada-erro { min-height: 1em; margin: 0; color: #ff8a8a; font-size: 13px; }
+.entrada-botao { border: 0; border-radius: 999px; padding: 14px; font: inherit; font-weight: 800; font-size: 16px; color: #fff;
+  background: var(--laranja-ci); cursor: pointer; }
+.entrada-botao:disabled { opacity: .6; cursor: wait; }
+.entrada-link { border: 0; background: none; color: #9aa3b5; font: inherit; font-size: 13px; cursor: pointer; text-decoration: underline; justify-self: center; }
+.entrada-privacidade h3 { margin: 0 0 8px; } .entrada-privacidade p { color: #c6ccd8; line-height: 1.55; font-size: 14px; }
+.entrada-aviso { margin: 16px 0 0; font-size: 12px; color: #9aa3b5; text-align: center; }
+@media (max-width: 860px) {
+  .entrada-conteudo { grid-template-columns: 1fr; gap: 24px; padding: 28px 16px 40px; }
+  .entrada-lado h1 { font-size: 30px; margin: 18px 0 10px; }
+  .entrada-lado p { font-size: 15px; }
+  .entrada-beneficios { display: none; }
+  .entrada-trilho { grid-template-columns: repeat(5, 1fr); }
+}
+@media (max-width: 420px) { .entrada-duas, .entrada-planos { grid-template-columns: 1fr; } .entrada-cartao { padding: 18px; } }
+
+/* Conta no topo */
+.conta-btn { font-weight: 800; background: var(--laranja-ci) !important; color: #fff !important; }
+.conta-menu { position: absolute; right: 16px; top: calc(var(--topbar-h) - 6px); z-index: 60; min-width: 220px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: 14px; padding: 14px; box-shadow: var(--shadow); }
+.conta-menu[hidden] { display: none; }
+.conta-menu p { margin: 0 0 4px; } .conta-nome { font-weight: 800; } .conta-email, .conta-plano { color: var(--text-dim); font-size: 13px; }
+.conta-menu .chip-btn { margin-top: 10px; width: 100%; }
