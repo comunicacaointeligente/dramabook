@@ -1,0 +1,1507 @@
+[
+ {
+  "id": "hometown-cha-cha-cha",
+  "titulo": "Hometown Cha-Cha-Cha",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Lesbian Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem lésbica coadjuvante em núcleo secundário da vila (tag sem destaque no MDL)."
+ },
+ {
+  "id": "run-on",
+  "titulo": "Run On",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Pretends to Be Gay",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Tem personagem gay coadjuvante e um personagem que finge ser gay."
+ },
+ {
+  "id": "melo-is-my-nature",
+  "titulo": "Melo Is My Nature",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Relationship",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Casal gay entre os coadjuvantes (tags Gay Relationship e Gay Supporting Character)."
+ },
+ {
+  "id": "business-proposal",
+  "titulo": "Business Proposal",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tag de nudez parcial (cena sem camisa), sem conteúdo sexual marcado."
+ },
+ {
+  "id": "her-private-life",
+  "titulo": "Her Private Life",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "lovely-runner",
+  "titulo": "Lovely Runner",
+  "tags_mdl": [
+   "Nudity",
+   "Brief Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tags de nudez breve/parcial, sem conteúdo sexual marcado."
+ },
+ {
+  "id": "extraordinary-attorney-woo",
+  "titulo": "Extraordinary Attorney Woo",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Lesbian Relationship",
+   "Lesbian Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Um caso de episódio envolve casal lésbico (personagem convidada)."
+ },
+ {
+  "id": "strong-woman-do-bong-soon",
+  "titulo": "Strong Woman Do Bong-soon",
+  "tags_mdl": [
+   "Pretends to Be Gay"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Tag Pretends to Be Gay: personagem finge ser gay de forma pontual, cômica."
+ },
+ {
+  "id": "mr-queen",
+  "titulo": "Mr. Queen",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Bisexual Female Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Premissa: alma de um homem no corpo da rainha, que se apaixona pelo rei (MDL: Bisexual Female Lead)."
+ },
+ {
+  "id": "move-to-heaven",
+  "titulo": "Move to Heaven",
+  "tags_mdl": [
+   "LGBTQ+ death",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Um episódio trata de casal gay e morte LGBTQ+ (personagem convidado)."
+ },
+ {
+  "id": "prison-playbook",
+  "titulo": "Prison Playbook",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Relationship",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Detento gay com relacionamento entre os coadjuvantes da prisão."
+ },
+ {
+  "id": "twinkling-watermelon",
+  "titulo": "Twinkling Watermelon",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial e um mal-entendido de ser LGBT, sem personagem LGBT nem conteúdo sexual."
+ },
+ {
+  "id": "fight-for-my-way",
+  "titulo": "Fight for My Way",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "itaewon-class",
+  "titulo": "Itaewon Class",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Transgender Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Ma Hyeon-yi, funcionária do bar e parte do núcleo principal, é mulher transgênero."
+ },
+ {
+  "id": "forecasting-love-and-weather",
+  "titulo": "Forecasting Love and Weather",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "coffee-prince",
+  "titulo": "Coffee Prince",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Bisexual Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Protagonista se apaixona por quem pensa ser um rapaz (MDL: Bisexual Male Lead); é o eixo do romance."
+ },
+ {
+  "id": "love-in-contract",
+  "titulo": "Love in Contract",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Coadjuvante gay com destaque (Gay Supporting Character e LGBTQ+ entre as tags mais votadas)."
+ },
+ {
+  "id": "the-glory",
+  "titulo": "The Glory",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Brief Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Sexual Content entre as tags principais, com nudez breve e parcial."
+ },
+ {
+  "id": "taxi-driver",
+  "titulo": "Taxi Driver",
+  "tags_mdl": [
+   "Prostitution",
+   "Sexual Content",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos episódicos envolvem prostituição e indústria do sexo."
+ },
+ {
+  "id": "the-devil-judge",
+  "titulo": "The Devil Judge",
+  "tags_mdl": [
+   "Homoerotic Subtext"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só subtexto homoerótico entre personagens masculinos."
+ },
+ {
+  "id": "live",
+  "titulo": "Live",
+  "tags_mdl": [
+   "Prostitution",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos policiais episódicos envolvem prostituição."
+ },
+ {
+  "id": "reply-1997",
+  "titulo": "Reply 1997",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Joon-hee, um dos amigos principais, é gay e apaixonado pelo amigo (MDL: Gay Male Lead)."
+ },
+ {
+  "id": "thirty-nine",
+  "titulo": "Thirty-Nine",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "the-k2",
+  "titulo": "The K2",
+  "tags_mdl": [
+   "Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez prolongada marcada no MDL, sem tag de conteúdo sexual."
+ },
+ {
+  "id": "all-of-us-are-dead",
+  "titulo": "All of Us Are Dead",
+  "tags_mdl": [
+   "Nudity",
+   "Brief Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez breve/parcial marcada, sem tag de conteúdo sexual."
+ },
+ {
+  "id": "connect",
+  "titulo": "Connect",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Partial Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Sexual Content e Prolonged Nudity entre as tags principais."
+ },
+ {
+  "id": "vigilante",
+  "titulo": "Vigilante",
+  "tags_mdl": [
+   "Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez prolongada marcada, sem tag de conteúdo sexual."
+ },
+ {
+  "id": "squid-game",
+  "titulo": "Squid Game",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tags de conteúdo sexual e nudez fora das principais (cena pontual)."
+ },
+ {
+  "id": "d-p",
+  "titulo": "D.P.",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial marcada (ambiente de quartel), sem conteúdo sexual."
+ },
+ {
+  "id": "juvenile-justice",
+  "titulo": "Juvenile Justice",
+  "tags_mdl": [
+   "Prostitution",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos do tribunal juvenil envolvem prostituição de menores (tema social, episódico)."
+ },
+ {
+  "id": "a-killer-paradox",
+  "titulo": "A Killer Paradox",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Sexual Content e Nudity entre as tags principais."
+ },
+ {
+  "id": "strong-girl-nam-soon",
+  "titulo": "Strong Girl Nam-soon",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "the-story-of-park-s-marriage-contract",
+  "titulo": "The Story of Park's Marriage Contract",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "while-you-were-sleeping",
+  "titulo": "While You Were Sleeping",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "extracurricular",
+  "titulo": "Extracurricular",
+  "tags_mdl": [
+   "Nudity",
+   "Prostitution",
+   "Sex Trafficking",
+   "Brief Nudity",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Premissa: estudante comanda esquema de prostituição (Prostitution e Sex Trafficking entre as tags principais)."
+ },
+ {
+  "id": "the-king-s-affection",
+  "titulo": "The King's Affection",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Bisexual Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Protagonista masculino se apaixona pelo príncipe herdeiro, que é uma mulher disfarçada (MDL: Bisexual Male Lead)."
+ },
+ {
+  "id": "secret-garden",
+  "titulo": "Secret Garden",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "yumi-s-cells",
+  "titulo": "Yumi's Cells",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem gay convidado (aparição pontual)."
+ },
+ {
+  "id": "fated-to-love-you",
+  "titulo": "Fated to Love You",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Premissa parte de uma noite casual que resulta em gravidez, sem tag de conteúdo sexual."
+ },
+ {
+  "id": "love-alarm",
+  "titulo": "Love Alarm",
+  "tags_mdl": [
+   "Homophobia"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Tag Homophobia: tema tocado de forma pontual."
+ },
+ {
+  "id": "hyena",
+  "titulo": "Hyena",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem gay convidado em caso de episódio."
+ },
+ {
+  "id": "search-www",
+  "titulo": "Search: WWW",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "positively-yours",
+  "titulo": "Positively Yours",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Premissa parte de uma noite casual que resulta em gravidez, sem tag de conteúdo sexual."
+ },
+ {
+  "id": "climax",
+  "titulo": "Climax",
+  "tags_mdl": [
+   "LGBTQ+ Character Outing"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Tag LGBTQ+ Character Outing: um personagem tem a orientação exposta na trama."
+ },
+ {
+  "id": "revenge-of-others",
+  "titulo": "Revenge of Others",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "my-demon",
+  "titulo": "My Demon",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "mask-girl",
+  "titulo": "Mask Girl",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Brief Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Nudity entre as tags principais, com Sexual Content marcado."
+ },
+ {
+  "id": "the-trunk",
+  "titulo": "The Trunk",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Casamentos por contrato com Sexual Content e Nudity entre as tags principais."
+ },
+ {
+  "id": "the-trunk",
+  "titulo": "The Trunk",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Bisexual Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem bissexual convidado."
+ },
+ {
+  "id": "under-the-queen-s-umbrella",
+  "titulo": "Under the Queen's Umbrella",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Transgender Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Um dos príncipes tem arco de identidade de gênero (MDL: Transgender Supporting Character)."
+ },
+ {
+  "id": "cafe-minamdang",
+  "titulo": "Cafe Minamdang",
+  "tags_mdl": [
+   "Prostitution",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos episódicos envolvem prostituição."
+ },
+ {
+  "id": "sungkyunkwan-scandal",
+  "titulo": "Sungkyunkwan Scandal",
+  "tags_mdl": [
+   "Homophobia",
+   "Homoerotic Subtext"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Subtexto homoerótico e homofobia em torno da protagonista disfarçada de rapaz."
+ },
+ {
+  "id": "ok-let-s-get-divorced",
+  "titulo": "OK, Let's Get Divorced",
+  "tags_mdl": [
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "personal-taste",
+  "titulo": "Personal Taste",
+  "tags_mdl": [
+   "Pretends to Be Gay",
+   "Mistaken as LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Premissa: protagonista hétero finge ser gay para morar com a mocinha (não há personagem LGBT de fato)."
+ },
+ {
+  "id": "the-8-show",
+  "titulo": "The 8 Show",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Full Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez total e conteúdo sexual marcados, fora das tags principais."
+ },
+ {
+  "id": "money-heist-korea-joint-economic-area",
+  "titulo": "Money Heist: Korea - Joint Economic Area",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Sexual Content e Nudity entre as tags principais."
+ },
+ {
+  "id": "bitter-sweet-hell",
+  "titulo": "Bitter Sweet Hell",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "ltns",
+  "titulo": "LTNS",
+  "tags_mdl": [
+   "(nenhuma tag sexual; classificação 18+ e sinopse)"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Sinopse do MDL: casal sem vida sexual que chantageia amantes; classificação 18+ (sem tag sexual votada no MDL)."
+ },
+ {
+  "id": "han-river-police",
+  "titulo": "Han River Police",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "the-tale-of-lady-ok",
+  "titulo": "The Tale of Lady Ok",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "wedding-impossible",
+  "titulo": "Wedding Impossible",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Lee Do-han, protagonista do casamento falso, é gay (Gay Male Lead e LGBTQ+ entre as tags principais)."
+ },
+ {
+  "id": "now-we-are-breaking-up",
+  "titulo": "Now, We Are Breaking Up",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "hierarchy",
+  "titulo": "Hierarchy",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "my-name",
+  "titulo": "My Name",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Brief Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Conteúdo sexual e nudez breve (cena pontual), fora das tags principais."
+ },
+ {
+  "id": "the-fabulous",
+  "titulo": "The Fabulous",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Um dos quatro protagonistas é gay (MDL: Gay Male Lead)."
+ },
+ {
+  "id": "trigger",
+  "titulo": "Trigger",
+  "tags_mdl": [
+   "Brief Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tag de nudez breve."
+ },
+ {
+  "id": "hi-bye-mama",
+  "titulo": "Hi Bye, Mama!",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "she-would-never-know",
+  "titulo": "She Would Never Know",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "the-world-of-the-married",
+  "titulo": "The World of the Married",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Drama de adultério com Sexual Content entre as tags principais."
+ },
+ {
+  "id": "cheese-in-the-trap",
+  "titulo": "Cheese in the Trap",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "the-rebel",
+  "titulo": "The Rebel",
+  "tags_mdl": [
+   "Gisaeng Female Lead"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Protagonista feminina passa a viver como gisaeng (cortesã) na trama histórica."
+ },
+ {
+  "id": "should-we-kiss-first",
+  "titulo": "Should We Kiss First",
+  "tags_mdl": [
+   "Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tag Nudity, sem conteúdo sexual marcado."
+ },
+ {
+  "id": "light-shop",
+  "titulo": "Light Shop",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Lesbian Relationship"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Tag Lesbian Relationship: duas personagens do elenco principal formam casal."
+ },
+ {
+  "id": "my-dearest-nemesis",
+  "titulo": "My Dearest Nemesis",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "gangnam-b-side",
+  "titulo": "Gangnam B-Side",
+  "tags_mdl": [
+   "Prostitution",
+   "Hostess Female Lead"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Trama gira em torno de hostess de bar em Gangnam e prostituição (Hostess Female Lead)."
+ },
+ {
+  "id": "not-others",
+  "titulo": "Not Others",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante e convidado gays sem destaque nas tags principais."
+ },
+ {
+  "id": "aema",
+  "titulo": "Aema",
+  "tags_mdl": [
+   "Erotic",
+   "Sexual Content",
+   "Nudity",
+   "Full Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Bastidores da filmagem de um filme erótico dos anos 80: Erotic, Full Nudity e Sexual Content entre as tags principais."
+ },
+ {
+  "id": "genie-make-a-wish",
+  "titulo": "Genie, Make a Wish",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Lesbian Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante lésbica sem destaque nas tags principais."
+ },
+ {
+  "id": "the-queen-who-crowns",
+  "titulo": "The Queen Who Crowns",
+  "tags_mdl": [
+   "Sexual Content",
+   "Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Sexual Content e Nudity entre as tags principais."
+ },
+ {
+  "id": "the-scandal",
+  "titulo": "The Scandal",
+  "tags_mdl": [
+   "Extreme Sexual Content",
+   "Nudity",
+   "Full Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Remake de jogo de sedução na era Joseon com Extreme Sexual Content e nudez total."
+ },
+ {
+  "id": "a-love-other-than-yours",
+  "titulo": "A Love Other Than Yours",
+  "tags_mdl": [
+   "Open Relationship"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Open Relationship (relação aberta) num drama de infidelidade."
+ },
+ {
+  "id": "make-me-tingle",
+  "titulo": "Make Me Tingle",
+  "tags_mdl": [
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Premissa: protagonista trabalha numa empresa de brinquedos sexuais (tag Sex Industry)."
+ },
+ {
+  "id": "jealousy-incarnate",
+  "titulo": "Jealousy Incarnate",
+  "tags_mdl": [
+   "Nudity",
+   "Polyamory"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Arco de triângulo/poliamor e tag Nudity, sem conteúdo sexual marcado."
+ },
+ {
+  "id": "my-secret-romance",
+  "titulo": "My Secret Romance",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Romance começa com noite casual (One-night Stand entre as tags principais)."
+ },
+ {
+  "id": "my-unfamiliar-family",
+  "titulo": "My Unfamiliar Family",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "memorist",
+  "titulo": "Memorist",
+  "tags_mdl": [
+   "Prostitution",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos episódicos envolvem prostituição."
+ },
+ {
+  "id": "the-art-of-sarah",
+  "titulo": "The Art of Sarah",
+  "tags_mdl": [
+   "Prostitute Supporting Character"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Coadjuvante relevante é prostituta (Prostitute Supporting Character)."
+ },
+ {
+  "id": "always-meet-again",
+  "titulo": "Always Meet Again",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Romance",
+   "Gay Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "BL: romance gay entre os protagonistas (Gay Romance, Gay Male Lead)."
+ },
+ {
+  "id": "my-royal-nemesis",
+  "titulo": "My Royal Nemesis",
+  "tags_mdl": [
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tag de nudez parcial."
+ },
+ {
+  "id": "azure-spring",
+  "titulo": "Azure Spring",
+  "tags_mdl": [
+   "Sexual Innuendo"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Só tag Sexual Innuendo (insinuação)."
+ },
+ {
+  "id": "love-class-3",
+  "titulo": "Love Class 3",
+  "tags_mdl": [
+   "Gay Relationship",
+   "LGBTQ+",
+   "Gay Romance",
+   "Gay Male Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "BL: romance gay entre aspirantes a idol (LGBTQ+ entre as tags principais)."
+ },
+ {
+  "id": "love-class-3",
+  "titulo": "Love Class 3",
+  "tags_mdl": [
+   "Sexual Content",
+   "Nudity",
+   "Partial Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Prolonged Nudity entre as tags principais e Sexual Content marcado."
+ },
+ {
+  "id": "the-prosecutor-s-proposal",
+  "titulo": "The Prosecutor's Proposal",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Romance"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Romance gay entre os dois protagonistas (Gay Romance entre as tags principais)."
+ },
+ {
+  "id": "the-prosecutor-s-proposal",
+  "titulo": "The Prosecutor's Proposal",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Partial Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Conteúdo sexual e nudez prolongada marcados; classificação 18+."
+ },
+ {
+  "id": "the-affair-was-just-the-beginning",
+  "titulo": "The Affair Was Just the Beginning",
+  "tags_mdl": [
+   "Lesbian Romance",
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Tag Lesbian Romance: a protagonista se aproxima romanticamente de outra mulher."
+ },
+ {
+  "id": "mother",
+  "titulo": "Mother",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "you-and-everything-else",
+  "titulo": "You and Everything Else",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Transgender Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante transgênero sem destaque nas tags principais."
+ },
+ {
+  "id": "a-time-called-you",
+  "titulo": "A Time Called You",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem gay convidado."
+ },
+ {
+  "id": "mine",
+  "titulo": "Mine",
+  "tags_mdl": [
+   "Lesbian Relationship",
+   "LGBTQ+",
+   "Lesbian Female Lead"
+  ],
+  "motivo": "lgbt",
+  "forca": "central",
+  "nota": "Jung Seo-hyun, uma das duas protagonistas, é lésbica e tem arco amoroso com outra mulher."
+ },
+ {
+  "id": "inspector-koo",
+  "titulo": "Inspector Koo",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Coadjuvante gay entre as tags principais."
+ },
+ {
+  "id": "designated-survivor-60-days",
+  "titulo": "Designated Survivor: 60 Days",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Lesbian Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem lésbica convidada."
+ },
+ {
+  "id": "record-of-youth",
+  "titulo": "Record of Youth",
+  "tags_mdl": [
+   "LGBTQ+",
+   "LGBTQ+ death",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem gay convidado com morte LGBTQ+."
+ },
+ {
+  "id": "at-eighteen",
+  "titulo": "At Eighteen",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "my-lovely-liar",
+  "titulo": "My Lovely Liar",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "two-weeks",
+  "titulo": "Two Weeks",
+  "tags_mdl": [
+   "Prostitution",
+   "Prostitute Male Lead"
+  ],
+  "motivo": "sexual",
+  "forca": "subtrama",
+  "nota": "Protagonista se prostitui com mulheres mais velhas no início da história (Prostitute Male Lead)."
+ },
+ {
+  "id": "the-matchmakers",
+  "titulo": "The Matchmakers",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "grand-prince",
+  "titulo": "Grand Prince",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial entre as tags principais, sem conteúdo sexual marcado."
+ },
+ {
+  "id": "through-the-darkness",
+  "titulo": "Through the Darkness",
+  "tags_mdl": [
+   "Nudity",
+   "Full Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez total ligada a cenas de crime (vítimas), sem conteúdo sexual marcado."
+ },
+ {
+  "id": "miu404",
+  "titulo": "MIU404",
+  "tags_mdl": [
+   "Prostitution"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Caso episódico envolve prostituição."
+ },
+ {
+  "id": "first-love",
+  "titulo": "First Love",
+  "tags_mdl": [
+   "Nudity",
+   "Sexual Content",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Conteúdo sexual e nudez prolongada marcados, fora das tags principais."
+ },
+ {
+  "id": "lighter-and-princess",
+  "titulo": "Lighter and Princess",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial/prolongada marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "unmasked",
+  "titulo": "Unmasked",
+  "tags_mdl": [
+   "Sexual Content",
+   "Nudity",
+   "Partial Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Conteúdo sexual e nudez marcados, fora das tags principais."
+ },
+ {
+  "id": "race",
+  "titulo": "Race",
+  "tags_mdl": [
+   "Bisexual Supporting Character",
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante bissexual sem destaque nas tags principais."
+ },
+ {
+  "id": "unveil-jadewind",
+  "titulo": "Unveil: Jadewind",
+  "tags_mdl": [
+   "Prostitution",
+   "Sex Trafficking"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Investigação envolve prostituição e tráfico sexual."
+ },
+ {
+  "id": "find-yourself",
+  "titulo": "Find Yourself",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "the-resurrected",
+  "titulo": "The Resurrected",
+  "tags_mdl": [
+   "Prostitution"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Prostitution na trama de vingança."
+ },
+ {
+  "id": "copycat-killer",
+  "titulo": "Copycat Killer",
+  "tags_mdl": [
+   "Prostitution",
+   "Nudity",
+   "Partial Nudity",
+   "Sex Industry"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Casos envolvem prostituição, com nudez parcial."
+ },
+ {
+  "id": "light-the-night",
+  "titulo": "Light the Night",
+  "tags_mdl": [
+   "Hostess Female Lead",
+   "Host/Hostess Supporting Character",
+   "Host/Hostess Club Setting"
+  ],
+  "motivo": "sexual",
+  "forca": "central",
+  "nota": "Hostesses de um clube noturno no distrito da luz vermelha de Taipé nos anos 80."
+ },
+ {
+  "id": "the-last-empress",
+  "titulo": "The Last Empress",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "alice-in-borderland",
+  "titulo": "Alice in Borderland",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Transgender Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Kuina, aliada importante do protagonista, é mulher transgênero."
+ },
+ {
+  "id": "alice-in-borderland",
+  "titulo": "Alice in Borderland",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "midnight-diner-tokyo-stories",
+  "titulo": "Midnight Diner: Tokyo Stories",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Guest Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Personagem gay (dono de bar) aparece como convidado recorrente."
+ },
+ {
+  "id": "tokyo-swindlers",
+  "titulo": "Tokyo Swindlers",
+  "tags_mdl": [
+   "Sexual Content"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag Sexual Content sem destaque nas tags principais."
+ },
+ {
+  "id": "the-full-time-wife-escapist",
+  "titulo": "The Full-Time Wife Escapist",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Coadjuvante gay com arco próprio (LGBTQ+ entre as tags principais)."
+ },
+ {
+  "id": "you-are-my-destiny",
+  "titulo": "You Are My Destiny",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Premissa parte de uma noite casual que resulta em gravidez."
+ },
+ {
+  "id": "love-and-destiny",
+  "titulo": "Love and Destiny",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ },
+ {
+  "id": "legend-of-yun-xi",
+  "titulo": "Legend of Yun Xi",
+  "tags_mdl": [
+   "Nudity",
+   "Brief Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez breve marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "le-coup-de-foudre",
+  "titulo": "Le Coup de Foudre",
+  "tags_mdl": [
+   "One-night Stand"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag One-night Stand (noite casual implícita)."
+ },
+ {
+  "id": "love-o2o",
+  "titulo": "Love O2O",
+  "tags_mdl": [
+   "Homoerotic Subtext"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só subtexto homoerótico."
+ },
+ {
+  "id": "under-the-power",
+  "titulo": "Under the Power",
+  "tags_mdl": [
+   "fetishism"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tag fetishism sem destaque nas tags principais."
+ },
+ {
+  "id": "lost-romance",
+  "titulo": "Lost Romance",
+  "tags_mdl": [
+   "Nudity",
+   "Partial Nudity",
+   "Prolonged Nudity"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Nudez parcial/prolongada marcada, sem conteúdo sexual."
+ },
+ {
+  "id": "hana-kimi",
+  "titulo": "Hana-Kimi",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Em escola só de rapazes, há médico gay e colega que se acha gay por amar a protagonista disfarçada."
+ },
+ {
+  "id": "roppongi-class",
+  "titulo": "Roppongi Class",
+  "tags_mdl": [
+   "Transgender Supporting Character",
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Funcionária do bar, do núcleo principal, é mulher transgênero (versão japonesa de Itaewon Class)."
+ },
+ {
+  "id": "ju-mong-prince-of-legend",
+  "titulo": "Ju Mong, Prince of Legend",
+  "tags_mdl": [
+   "LGBTQ+",
+   "Gay Supporting Character"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Coadjuvante gay sem destaque nas tags principais."
+ },
+ {
+  "id": "dna-lover",
+  "titulo": "DNA Lover",
+  "tags_mdl": [
+   "Polyamory",
+   "Open Relationship"
+  ],
+  "motivo": "sexual",
+  "forca": "leve",
+  "nota": "Tags Polyamory e Open Relationship, sem conteúdo sexual marcado."
+ },
+ {
+  "id": "the-school-nurse-files",
+  "titulo": "The School Nurse Files",
+  "tags_mdl": [
+   "Lesbian Relationship",
+   "LGBTQ+",
+   "Lesbian Romance"
+  ],
+  "motivo": "lgbt",
+  "forca": "subtrama",
+  "nota": "Casal lésbico entre personagens da escola (Lesbian Relationship e Lesbian Romance)."
+ },
+ {
+  "id": "so-not-worth-it",
+  "titulo": "So Not Worth It",
+  "tags_mdl": [
+   "LGBTQ+"
+  ],
+  "motivo": "lgbt",
+  "forca": "leve",
+  "nota": "Só a tag genérica LGBTQ+, sem personagem LGBT específico marcado no MDL."
+ }
+]
