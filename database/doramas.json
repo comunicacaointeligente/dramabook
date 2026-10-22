@@ -38809,7 +38809,7 @@
     "episodios": 12,
     "temporadas": 1,
     "duracao": "70 min",
-    "status": "Em produção",
+    "status": "Em exibição",
     "final": "Aberto",
     "plataformas": [
       "Prime Video"
@@ -39502,12 +39502,13 @@
     "episodios": 12,
     "temporadas": 1,
     "duracao": "70 min",
-    "status": "Em produção",
+    "status": "Em exibição",
     "final": "Aberto",
     "plataformas": [
-      "Viki"
+      "Prime Video",
+      "tvN"
     ],
-    "dublado": true,
+    "dublado": false,
     "categorias": [
       "Romance",
       "Suspense",
@@ -39518,11 +39519,13 @@
     "profissoes": [],
     "elenco": [
       "Yim Si-wan",
-      "Seol In-ah"
+      "Seol In-ah",
+      "Kim Jung-hyun",
+      "Yeon Woo"
     ],
     "diretor": "",
     "roteirista": "",
-    "adaptacao": "",
+    "adaptacao": "Romance web Why Don't You Know It's a Girl?",
     "universo": "",
     "avaliacao": {
       "chatgpt": null,
@@ -39544,10 +39547,10 @@
     },
     "ost": [],
     "premios": [],
-    "banner": "",
-    "poster": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
+    "banner": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
+    "poster": "/fhYPYQyVopTbPIf4A7FN5Q3lxPR.jpg",
     "trailer": "",
-    "sinopse": "Suspense romântico. Um herdeiro chaebol vira suspeito de assassinato e uma ex-oficial das Forças Especiais se infiltra como secretária dele para investigar — descobrindo que a verdade é mais perigosa que o crime.",
+    "sinopse": "Kang Jae-hee, ex-oficial das Forças Especiais que virou detetive, recebe uma missão inusitada: disfarçada de homem, ela entra na equipe de segurança de Yoon Yi-jun, herdeiro de um conglomerado suspeito de assassinato. Quanto mais perto dele, mais difícil fica separar a investigação do que ela começa a sentir.",
     "porque_assistir": "Lançamento 2026 — Yim Si-wan, Seol In-ah. Streaming BR: Viki. Nota MDL 8.0.",
     "curiosidades": [
       "Lançamento 2026, verificado TMDB."

@@ -290,29 +290,6 @@
     "banner": "",
     "trailer": null
   },
-  "love-in-disguise-2026": {
-    "titulo_original": "나의 유죄인간",
-    "titulo_br": "Amor Disfarçado",
-    "pais": "Coreia do Sul",
-    "ano": 2026,
-    "episodios": 12,
-    "temporadas": 1,
-    "duracao": "70 min",
-    "elenco": [
-      "Yim Si-wan",
-      "Seol In-ah"
-    ],
-    "diretor": null,
-    "roteirista": null,
-    "plataformas": [
-      "Viki"
-    ],
-    "status": "Em produção",
-    "classificacao": 16,
-    "poster": "/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg",
-    "banner": "",
-    "trailer": null
-  },
   "final-table-2026": {
     "titulo_original": "파이널 테이블",
     "titulo_br": "Mesa Final",
@@ -405,6 +382,32 @@
     "classificacao": 16,
     "poster": "/1yobke0bpfNOazuF9wW7QbM2GER.jpg",
     "banner": "",
+    "trailer": null
+  },
+  "love-in-disguise": {
+    "titulo_original": "나의 유죄인간",
+    "titulo_br": "Amor Disfarçado",
+    "pais": "Coreia do Sul",
+    "ano": 2026,
+    "episodios": 12,
+    "temporadas": 1,
+    "duracao": "70 min",
+    "elenco": [
+      "Yim Si-wan",
+      "Seol In-ah",
+      "Kim Jung-hyun",
+      "Yeon Woo"
+    ],
+    "diretor": null,
+    "roteirista": null,
+    "plataformas": [
+      "Prime Video",
+      "tvN"
+    ],
+    "status": "Em exibição",
+    "classificacao": 16,
+    "poster": "/fhYPYQyVopTbPIf4A7FN5Q3lxPR.jpg",
+    "banner": "/32g5MD6eHPAZ5NAgkNAURb4eupm.jpg",
     "trailer": null
   }
 }
